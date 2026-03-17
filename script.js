@@ -3,7 +3,8 @@ let activeCategory = 'All';
 let searchTerm = '';
 
 async function loadData() {
-  const res = await fetch('data/cuas-feed.json');
+  const cacheBust = `ts=${Date.now()}`;
+  const res = await fetch(`data/cuas-feed.json?${cacheBust}`, { cache: 'no-store' });
   const data = await res.json();
 
   allPosts = (data.posts || [])

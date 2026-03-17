@@ -1,0 +1,43 @@
+name: Refresh LinkedIn Feed
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 * * * *'
+
+permissions:
+  contents: write
+
+jobs:
+  refresh-feed:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Refresh CUAS feed
+        env:
+          APIFY_TOKEN: ${{ secrets.APIFY_TOKEN }}
+        run: python scripts/linkedin_scraper.py
+
+      - name: Commit updated feed
+        run: |
+          if git diff --quiet -- data/cuas-feed.json; then
+            echo "No feed changes to commit."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/cuas-feed.json
+          git commit -m "chore: refresh LinkedIn CUAS feed"
+          git push
