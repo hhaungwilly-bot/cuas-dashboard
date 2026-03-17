@@ -1,42 +1,22 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>CUAS Intel Dashboard</title>
+  <title>CUAS Dashboard</title>
   <link rel="stylesheet" href="styles.css">
 </head>
+
 <body>
-  <header class="hero">
-    <h1>🛡️ Counter-Drone Intelligence Dashboard</h1>
-    <p>
-      Curated CUAS updates from real-time Twitter/X monitoring. Designed for GitHub Pages.
-    </p>
-    <div id="last-updated" class="meta"></div>
-  </header>
+  <h1>🛡️ Counter-Drone (CUAS) Dashboard</h1>
 
-  <section class="stats" id="stats"></section>
+  <div class="filters">
+    <button onclick="filterPosts('all')">All</button>
+    <button onclick="filterPosts('RF')">RF</button>
+    <button onclick="filterPosts('AI')">AI</button>
+    <button onclick="filterPosts('Radar')">Radar</button>
+  </div>
 
-  <section class="controls">
-    <div class="filter-group" id="category-filters"></div>
-    <input id="search" type="search" placeholder="Search company or post text..." aria-label="Search posts">
-  </section>
-
-  <main id="feed" class="feed"></main>
-
-  <template id="post-template">
-    <article class="card">
-      <div class="card-top">
-        <h2></h2>
-        <span class="category"></span>
-      </div>
-      <p class="text"></p>
-      <div class="card-bottom">
-        <small class="date"></small>
-        <a target="_blank" rel="noopener noreferrer">View source post</a>
-      </div>
-    </article>
-  </template>
+  <div id="feed"></div>
 
   <script src="script.js"></script>
 </body>
