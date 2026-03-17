@@ -1,41 +1,5 @@
 {
-  "updatedAt": "2026-03-17T08:00:00Z",
-  "source": "LinkedIn company pages via Apify actor",
-  "posts": [
-    {
-      "company": "DroneShield",
-      "text": "DroneShield highlighted a new AI-assisted threat classifier tuned for low-altitude swarm behavior detection.",
-      "date": "2026-03-16",
-      "category": "AI",
-      "link": "https://www.linkedin.com/company/droneshield/"
-    },
-    {
-      "company": "Dedrone",
-      "text": "Dedrone shared an airport deployment update featuring integrated RF detection and command-and-control workflows.",
-      "date": "2026-03-15",
-      "category": "RF",
-      "link": "https://www.linkedin.com/company/dedrone/"
-    },
-    {
-      "company": "Sentrycs",
-      "text": "Sentrycs announced rapid-response CUAS operations for a major public event with live drone protocol analysis.",
-      "date": "2026-03-14",
-      "category": "RF",
-      "link": "https://www.linkedin.com/company/sentrycs/"
-    },
-    {
-      "company": "Fortem Technologies",
-      "text": "Fortem published a radar-led mitigation briefing focused on dense urban drone traffic corridors.",
-      "date": "2026-03-13",
-      "category": "Radar",
-      "link": "https://www.linkedin.com/company/fortem-technologies/"
-    },
-    {
-      "company": "Skylock",
-      "text": "Skylock introduced a modular sensor fusion architecture combining radar and electro-optical signals for CUAS sites.",
-      "date": "2026-03-12",
-      "category": "Radar",
-      "link": "https://www.linkedin.com/company/skylock/"
-    }
-  ]
+  "updatedAt": "",
+  "source": "Awaiting first live Twitter/X refresh",
+  "posts": []
 }

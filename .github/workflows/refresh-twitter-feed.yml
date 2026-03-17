@@ -1,9 +1,9 @@
-name: Refresh LinkedIn Feed
+name: Refresh Twitter/X Feed
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 * * * *'
+    - cron: '*/30 * * * *'
 
 permissions:
   contents: write
@@ -24,10 +24,10 @@ jobs:
       - name: Install dependencies
         run: pip install requests
 
-      - name: Refresh CUAS feed
+      - name: Refresh CUAS feed from Twitter/X
         env:
-          APIFY_TOKEN: ${{ secrets.APIFY_TOKEN }}
-        run: python scripts/linkedin_scraper.py
+          TWITTER_BEARER_TOKEN: ${{ secrets.TWITTER_BEARER_TOKEN }}
+        run: python scripts/twitter_scraper.py
 
       - name: Commit updated feed
         run: |
@@ -39,5 +39,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data/cuas-feed.json
-          git commit -m "chore: refresh LinkedIn CUAS feed"
+          git commit -m "chore: refresh Twitter/X CUAS feed"
           git push
