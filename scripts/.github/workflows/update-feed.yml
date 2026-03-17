@@ -23,6 +23,8 @@ jobs:
           pip install requests
 
       - name: Run scraper
+      env:
+          APIFY_TOKEN: ${{ secrets.APIFY_TOKEN }}
         run: |
           python scripts/linkedin_scraper.py
 
