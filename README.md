@@ -10,7 +10,6 @@ A lightweight Counter-Drone (CUAS) intelligence dashboard that displays recent p
   - post feed sorted by recency
   - summary statistic cards
 - A Python script to refresh feed data from LinkedIn pages using an Apify actor.
-- A GitHub Actions workflow that can refresh `data/cuas-feed.json` every hour and commit changes automatically.
 
 ## Run locally
 
@@ -20,7 +19,7 @@ python -m http.server 8080
 
 Then open `http://localhost:8080`.
 
-## Refresh LinkedIn data manually
+## Refresh LinkedIn data
 
 1. Create an Apify token and export it.
 2. Run:
@@ -29,14 +28,7 @@ Then open `http://localhost:8080`.
 APIFY_TOKEN=your_token_here python scripts/linkedin_scraper.py
 ```
 
-This overwrites `data/cuas-feed.json` with the latest scraper result.
-
-## Enable automatic real-time refresh on GitHub
-
-1. In your GitHub repository, go to **Settings → Secrets and variables → Actions**.
-2. Add repository secret `APIFY_TOKEN` with your Apify token value.
-3. The workflow `.github/workflows/refresh-linkedin-feed.yml` runs hourly and can also be triggered manually from the **Actions** tab.
-4. Each successful run updates and commits `data/cuas-feed.json` when posts change.
+This writes to `data/cuas-feed.json`, which is what GitHub Pages serves.
 
 ## Deploy to GitHub Pages
 

@@ -1,14 +1,12 @@
 let allPosts = [];
 let activeCategory = 'All';
 let searchTerm = '';
-let feedMeta = null;
 
 async function loadData() {
   const cacheBust = `ts=${Date.now()}`;
   const res = await fetch(`data/cuas-feed.json?${cacheBust}`, { cache: 'no-store' });
   const data = await res.json();
 
-  feedMeta = data;
   allPosts = (data.posts || [])
     .slice()
     .sort((a, b) => new Date(b.date) - new Date(a.date));
@@ -23,14 +21,9 @@ async function loadData() {
 function renderMeta() {
   const meta = document.getElementById('last-updated');
   const latest = allPosts[0]?.date;
-  const refreshed = feedMeta?.updatedAt;
-
-  if (!latest) {
-    meta.textContent = 'No data available. Run scripts/linkedin_scraper.py to refresh feed.';
-    return;
-  }
-
-  meta.textContent = `Latest source post date: ${latest} • feed refreshed: ${refreshed || 'unknown'}`;
+  meta.textContent = latest
+    ? `Latest source post date: ${latest}`
+    : 'No data available. Run scripts/linkedin_scraper.py to refresh feed.';
 }
 
 function renderStats() {
