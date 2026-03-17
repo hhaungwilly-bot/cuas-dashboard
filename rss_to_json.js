@@ -79,7 +79,7 @@ async function buildRssJson() {
     } catch {
       console.log('No RSS items fetched and no existing cache found. Writing placeholder news item.');
       posts.push({
-        title: 'RSS feed temporarily unavailable',
+        title: 'RSS feed is temporarily unavailable',
         description: 'The dashboard could not fetch remote RSS feeds during this build. Try running the build again later.',
         link: '#',
         pubDate: new Date().toISOString(),
