@@ -1,4 +1,4 @@
-```javascript
+
 let allPosts = [];
 
 async function loadData() {
@@ -37,4 +37,4 @@ function filterPosts(category) {
 }
 
 loadData();
-```
+
