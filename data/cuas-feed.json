@@ -1,41 +1,41 @@
 {
   "updatedAt": "2026-03-17T08:00:00Z",
-  "source": "LinkedIn company pages via Apify actor",
+  "source": "Twitter/X recent search",
   "posts": [
     {
       "company": "DroneShield",
-      "text": "DroneShield highlighted a new AI-assisted threat classifier tuned for low-altitude swarm behavior detection.",
+      "text": "New AI-assisted CUAS workflow now flags low-altitude swarm behaviors in real-time.",
       "date": "2026-03-16",
       "category": "AI",
-      "link": "https://www.linkedin.com/company/droneshield/"
+      "link": "https://x.com/DroneShieldLtd/status/1234567890000000001"
     },
     {
       "company": "Dedrone",
-      "text": "Dedrone shared an airport deployment update featuring integrated RF detection and command-and-control workflows.",
+      "text": "Airport deployment update: integrated RF detection with autonomous tracking and operator alerts.",
       "date": "2026-03-15",
       "category": "RF",
-      "link": "https://www.linkedin.com/company/dedrone/"
+      "link": "https://x.com/Dedrone/status/1234567890000000002"
     },
     {
       "company": "Sentrycs",
-      "text": "Sentrycs announced rapid-response CUAS operations for a major public event with live drone protocol analysis.",
+      "text": "Rapid-response CUAS operation showcased with live protocol analysis and neutralization workflows.",
       "date": "2026-03-14",
-      "category": "RF",
-      "link": "https://www.linkedin.com/company/sentrycs/"
+      "category": "Mitigation",
+      "link": "https://x.com/Sentrycs/status/1234567890000000003"
     },
     {
       "company": "Fortem Technologies",
-      "text": "Fortem published a radar-led mitigation briefing focused on dense urban drone traffic corridors.",
+      "text": "Radar-led update focused on dense urban airspace tracking and layered counter-drone coverage.",
       "date": "2026-03-13",
       "category": "Radar",
-      "link": "https://www.linkedin.com/company/fortem-technologies/"
+      "link": "https://x.com/FortemTech/status/1234567890000000004"
     },
     {
-      "company": "Skylock",
-      "text": "Skylock introduced a modular sensor fusion architecture combining radar and electro-optical signals for CUAS sites.",
+      "company": "Robin Radar",
+      "text": "Sensor fusion release combines radar and EO streams for persistent CUAS monitoring in critical zones.",
       "date": "2026-03-12",
       "category": "Radar",
-      "link": "https://www.linkedin.com/company/skylock/"
+      "link": "https://x.com/RobinRadar/status/1234567890000000005"
     }
   ]
 }

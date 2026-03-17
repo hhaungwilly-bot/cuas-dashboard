@@ -23,7 +23,7 @@ function renderMeta() {
   const latest = allPosts[0]?.date;
   meta.textContent = latest
     ? `Latest source post date: ${latest}`
-    : 'No data available. Run scripts/linkedin_scraper.py to refresh feed.';
+    : 'No data available. Run scripts/twitter_scraper.py to refresh feed.';
 }
 
 function renderStats() {
