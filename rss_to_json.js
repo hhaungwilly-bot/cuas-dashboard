@@ -3,7 +3,7 @@ const fs = require('fs');
 
 const parser = new Parser();
 const feeds = [
-    'https://news.google.com/rss/search?q=counter+uas+OR+counter+drone',
+   // 'https://news.google.com/rss/search?q=counter+uas+OR+counter+drone',
     'https://dronedj.com/feed/'
 ];
 
