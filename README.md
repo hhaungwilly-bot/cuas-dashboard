@@ -45,3 +45,12 @@ A GitHub Actions workflow runs every 30 minutes and updates `data/cuas-feed.json
 1. Add a repository secret named `APIFY_TOKEN`.
 2. Ensure Actions are enabled for the repository.
 3. Optionally run the workflow manually from the Actions tab (`workflow_dispatch`).
+
+
+### Troubleshooting workflow failures
+
+If the scheduled/manual workflow fails to start or fails immediately:
+- Confirm repository secret `APIFY_TOKEN` is configured in **Settings → Secrets and variables → Actions**.
+- Ensure GitHub Actions are enabled for the repository.
+- Verify the token has access to run the Apify actor `apify/linkedin-company-posts-scraper`.
+

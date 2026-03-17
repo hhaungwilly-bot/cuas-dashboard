@@ -21,8 +21,17 @@ jobs:
         with:
           python-version: '3.11'
 
+      - name: Validate required secrets
+        env:
+          APIFY_TOKEN: ${{ secrets.APIFY_TOKEN }}
+        run: |
+          if [ -z "$APIFY_TOKEN" ]; then
+            echo "::error::Missing APIFY_TOKEN secret. Add it in Settings > Secrets and variables > Actions."
+            exit 1
+          fi
+
       - name: Install dependencies
-        run: pip install requests
+        run: python -m pip install --upgrade pip requests
 
       - name: Refresh CUAS feed from LinkedIn
         env:

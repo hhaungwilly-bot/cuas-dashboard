@@ -63,9 +63,20 @@ def fetch_posts() -> list[dict]:
         json=payload,
         timeout=60,
     )
-    response.raise_for_status()
+
+    if response.status_code >= 400:
+        message = response.text.strip()[:500]
+        raise RuntimeError(
+            f"Apify request failed with HTTP {response.status_code}. Response: {message}"
+        )
 
     raw_items = response.json()
+    if not isinstance(raw_items, list):
+        raise RuntimeError(
+            "Unexpected Apify response shape. Expected a list of posts from "
+            "run-sync-get-dataset-items."
+        )
+
     posts = [normalize_item(item) for item in raw_items if item.get("text")]
     posts.sort(key=lambda post: post["date"], reverse=True)
     return posts
