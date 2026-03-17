@@ -1,0 +1,9 @@
+[
+  {
+    "title": "RSS feed temporarily unavailable",
+    "description": "The dashboard could not fetch remote RSS feeds during this build. Try running the build again later.",
+    "link": "#",
+    "pubDate": "2026-03-17T11:30:00.000Z",
+    "source": "Build status"
+  }
+]
