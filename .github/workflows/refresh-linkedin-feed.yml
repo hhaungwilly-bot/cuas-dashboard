@@ -3,7 +3,7 @@ name: Refresh LinkedIn Feed
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 * * * *'
+    - cron: '*/30 * * * *'
 
 permissions:
   contents: write
@@ -24,7 +24,7 @@ jobs:
       - name: Install dependencies
         run: pip install requests
 
-      - name: Refresh CUAS feed
+      - name: Refresh CUAS feed from LinkedIn
         env:
           APIFY_TOKEN: ${{ secrets.APIFY_TOKEN }}
         run: python scripts/linkedin_scraper.py

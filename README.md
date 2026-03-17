@@ -28,7 +28,7 @@ Then open `http://localhost:8080`.
 APIFY_TOKEN=your_token_here python scripts/linkedin_scraper.py
 ```
 
-This writes to `data/cuas-feed.json`, which is what GitHub Pages serves.
+This writes to `data/cuas-feed.json` with LinkedIn post URLs, which is what GitHub Pages serves.
 
 ## Deploy to GitHub Pages
 
@@ -37,3 +37,11 @@ This writes to `data/cuas-feed.json`, which is what GitHub Pages serves.
 3. Set source to deploy from your default branch root.
 4. Your dashboard will be available at:
    `https://<your-username>.github.io/<repo-name>/`
+
+## Automated refresh (every 30 minutes)
+
+A GitHub Actions workflow runs every 30 minutes and updates `data/cuas-feed.json` automatically from LinkedIn company pages via Apify.
+
+1. Add a repository secret named `APIFY_TOKEN`.
+2. Ensure Actions are enabled for the repository.
+3. Optionally run the workflow manually from the Actions tab (`workflow_dispatch`).
