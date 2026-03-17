@@ -68,21 +68,13 @@ def fetch_tweets() -> list[dict]:
         username = author.get("username", "unknown")
         created_at = tweet.get("created_at", datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"))
 
-        tweet_id = tweet.get("id")
-        if username == "unknown" or not tweet_id:
-            # Keep dashboard links strictly on real tweet permalinks.
-            continue
-
-        link = f"https://x.com/{username}/status/{tweet_id}"
-
         posts.append(
             {
                 "company": author.get("name", f"@{username}"),
                 "text": text[:280],
                 "date": created_at[:10],
                 "category": detect_category(text),
-                "link": link,
-                "id": tweet_id,
+                "link": f"https://x.com/{username}/status/{tweet.get('id')}",
             }
         )
 

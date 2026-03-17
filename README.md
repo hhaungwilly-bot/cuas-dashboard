@@ -40,7 +40,7 @@ This writes to `data/cuas-feed.json` with real tweet permalinks (`https://x.com/
 
 ## Automated refresh (every 30 minutes)
 
-A GitHub Actions workflow runs every 30 minutes and updates `data/cuas-feed.json` automatically from live Twitter/X API search results.
+A GitHub Actions workflow runs every 30 minutes and updates `data/cuas-feed.json` automatically.
 
 1. Add a repository secret named `TWITTER_BEARER_TOKEN`.
 2. Ensure Actions are enabled for the repository.
