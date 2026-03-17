@@ -28,7 +28,7 @@ Then open `http://localhost:8080`.
 TWITTER_BEARER_TOKEN=your_token_here python scripts/twitter_scraper.py
 ```
 
-This writes to `data/cuas-feed.json`, which is what GitHub Pages serves.
+This writes to `data/cuas-feed.json` with real tweet permalinks (`https://x.com/<user>/status/<id>`), which is what GitHub Pages serves.
 
 ## Deploy to GitHub Pages
 
