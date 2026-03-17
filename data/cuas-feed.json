@@ -1,41 +1,25 @@
 {
-  "updatedAt": "2026-03-17T08:00:00Z",
-  "source": "Twitter/X recent search",
   "posts": [
     {
       "company": "DroneShield",
-      "text": "New AI-assisted CUAS workflow now flags low-altitude swarm behaviors in real-time.",
-      "date": "2026-03-16",
+      "text": "New AI-powered detection update improving CUAS response time",
+      "date": "2026-03-10",
       "category": "AI",
-      "link": "https://x.com/DroneShieldLtd/status/1234567890000000001"
-    },
-    {
-      "company": "Dedrone",
-      "text": "Airport deployment update: integrated RF detection with autonomous tracking and operator alerts.",
-      "date": "2026-03-15",
-      "category": "RF",
-      "link": "https://x.com/Dedrone/status/1234567890000000002"
+      "link": "https://linkedin.com/"
     },
     {
       "company": "Sentrycs",
-      "text": "Rapid-response CUAS operation showcased with live protocol analysis and neutralization workflows.",
-      "date": "2026-03-14",
-      "category": "Mitigation",
-      "link": "https://x.com/Sentrycs/status/1234567890000000003"
-    },
-    {
-      "company": "Fortem Technologies",
-      "text": "Radar-led update focused on dense urban airspace tracking and layered counter-drone coverage.",
-      "date": "2026-03-13",
-      "category": "Radar",
-      "link": "https://x.com/FortemTech/status/1234567890000000004"
-    },
-    {
-      "company": "Robin Radar",
-      "text": "Sensor fusion release combines radar and EO streams for persistent CUAS monitoring in critical zones.",
+      "text": "Deployment at major global security event",
       "date": "2026-03-12",
+      "category": "RF",
+      "link": "https://linkedin.com/"
+    },
+    {
+      "company": "SKYLOCK",
+      "text": "New modular radar-integrated CUAS system released",
+      "date": "2026-03-14",
       "category": "Radar",
-      "link": "https://x.com/RobinRadar/status/1234567890000000005"
+      "link": "https://linkedin.com/"
     }
   ]
 }
