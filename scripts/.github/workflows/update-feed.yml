@@ -1,4 +1,3 @@
-```yaml
 name: Update CUAS Feed
 
 on:
@@ -34,4 +33,3 @@ jobs:
           git add data/cuas-feed.json
           git commit -m "Auto update CUAS feed" || echo "No changes"
           git push
-```
