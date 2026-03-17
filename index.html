@@ -1,27 +1,15 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-<meta charset="UTF-8">
-<title>C-UAS News Dashboard</title>
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<style>
-body { font-family: Arial, sans-serif; background: #f4f4f9; margin:0; padding:0;}
-header { background:#0077b5; color:white; padding:1rem; text-align:center;}
-main { padding:1rem; max-width:800px; margin:auto;}
-.post { background:white; padding:1rem; margin-bottom:1rem; border-radius:8px; box-shadow:0 0 5px rgba(0,0,0,0.1);}
-.post h4 { margin:0; }
-.post p { margin:0.5rem 0 0 0;}
-.post a { display:block; margin-top:0.5rem; color:#0077b5; text-decoration:none;}
-.post small { display:block; margin-top:0.5rem; color:#555;}
-</style>
+    <title>C-UAS News Dashboard</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
-<header>
-<h1>Counter-UAS News</h1>
-</header>
-<main id="rss-container">
-<p>Loading latest news...</p>
-</main>
-<script src="rss.js"></script>
+    <h1>🚁 Counter-UAS Intelligence Dashboard</h1>
+    <p id="last-updated"></p>
+
+    <div id="news-container"></div>
+
+    <script src="script.js"></script>
 </body>
 </html>
