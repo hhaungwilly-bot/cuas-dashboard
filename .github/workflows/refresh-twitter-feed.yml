@@ -1,43 +1,37 @@
-name: Refresh Twitter/X Feed
+name: Update CUAS Feed
 
 on:
-  workflow_dispatch:
   schedule:
-    - cron: '*/30 * * * *'
-
-permissions:
-  contents: write
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
 
 jobs:
-  refresh-feed:
+  update:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+      - name: Checkout repo
+        uses: actions/checkout@v3
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
+      - name: Setup Python
+        uses: actions/setup-python@v4
         with:
           python-version: '3.11'
 
       - name: Install dependencies
-        run: pip install requests
-
-      - name: Refresh CUAS feed from Twitter/X
-        env:
-          TWITTER_BEARER_TOKEN: ${{ secrets.TWITTER_BEARER_TOKEN }}
-        run: python scripts/twitter_scraper.py
-
-      - name: Commit updated feed
         run: |
-          if git diff --quiet -- data/cuas-feed.json; then
-            echo "No feed changes to commit."
-            exit 0
-          fi
+          pip install requests
 
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+      - name: Run scraper
+        env:
+          APIFY_TOKEN: ${{ secrets.APIFY_TOKEN }}
+        run: |
+          python scripts/scraper.py
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
           git add data/cuas-feed.json
-          git commit -m "chore: refresh Twitter/X CUAS feed"
+          git commit -m "Auto update CUAS feed" || echo "No changes"
           git push
