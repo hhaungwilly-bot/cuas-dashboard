@@ -1,4 +1,3 @@
-```python
 import json
 from datetime import datetime
 
@@ -24,4 +23,3 @@ for c in companies:
 
 with open("data/cuas-feed.json", "w") as f:
     json.dump({"posts": posts}, f, indent=2)
-```
