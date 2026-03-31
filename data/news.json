@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-31T12:05:19.640653",
+  "last_updated": "2026-03-31T15:54:48.919301",
   "articles": [
     {
       "title": "Webinar 23/04: Integrating Layered Counter-Drone Defense for the Homeland - Homeland Security Today",
@@ -38,22 +38,10 @@
       "source": "National Today"
     },
     {
-      "title": "XTEND and ParaZero Partner to Deliver Autonomous Drone Interception System - Dronelife",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQejhCWXN4Z0RYRlAxSzJ5dERfb3JEQk91eUZVaDVyeGJuNlE5RlF1WXc0TjlFczhRVXdrMEZyTnNCeGtWcFZzVnRHTk5XT1l2dlctYndBTlhweVM2dGc0VGlEYU5aTGY1eHRPUU1PNGR2d2paRkxvQXotRERVSzgzbGxJZ1E1b3JaZVdfb1B3?oc=5",
-      "published": "Mon, 30 Mar 2026 17:07:50 GMT",
-      "source": "Dronelife"
-    },
-    {
       "title": "Joint Interagency Task Force Awards Critical Counter-UAS Contract - U.S. Department of War (.gov)",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOOVNUV2tsOWdDVU9oSGVEZWIyYVBOVEZCcXpydFJ1REhEMW9SdVVTVWVqeml3SUIwaElsYkhnZzJUUTVIaU9nbG8weWdDUE5yYl8wcGFZWjBYbDc0NDc0d2loMmhmN2Q3N3gwakxQUHhfM0tjWnZVZ2ptWlNYUXJkd1NseE5JRkZFMTF5R3doSmhNdzd2MmhhQXRWRlM3Y3JNMWcwR0xtM21QMzJFTWhlczJpbzRwdTRmYVFmZFpCdDB4NDlJNUVF?oc=5",
       "published": "Tue, 24 Mar 2026 21:59:27 GMT",
       "source": "U.S. Department of War (.gov)"
-    },
-    {
-      "title": "US Marines Boost Counter-Drone Capability with MADIS Air Defense System in Live-Fire Training - Army Recognition",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPXzV0Wk1uQ1gzd3lJVWpONlcwOUhFU3FnaGVfSHNDaXE5dENUU2pPR0NiMU0xTjhSV01xOUZFUVVwS2d0cmJScTNQM0ZaN0Y2QzlxZW5PY3pYbWpSeVFhLWhjY19sVnNDbzFzdHdrR0s5ZjhPSXJWNHA5T0g2bTM1aU1vcVROV0tOSHlXOExMZE5HakszaXNkYnoxeTlsV01WSEtISFF4UEZfTWMzMmN4SUpBeGc5dTNiQlkxVVRBZlhlYmNDNUk1bmlNVkFURFZOdFU1NGxRd3c?oc=5",
-      "published": "Tue, 31 Mar 2026 00:28:57 GMT",
-      "source": "Army Recognition"
     },
     {
       "title": "AV unveils LOCUST X3, latest entrant into laser counter-drone race - Breaking Defense",
@@ -62,10 +50,28 @@
       "source": "Breaking Defense"
     },
     {
-      "title": "U.S. military reveals more details about drone incursions at strategic base - DefenseScoop",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdVJlS2Jqc2t0N0RNRkU1eWV6VmFHN3A1Z3NHcUstMmJPM3h1VHVwS2ZCdU1tS2VnZktCb2hoY1I2MEpEYmdnNjZQcGlXdFRoQkhIT0g2VGVJT2lNNnpLVXFKZzQ3OVBlUXhVMkJqNHlralMxTEhkOC1iXzB1RlFEeFNaX2dTMEROT25IeTBZSTg3QQ?oc=5",
-      "published": "Wed, 25 Mar 2026 06:35:33 GMT",
-      "source": "DefenseScoop"
+      "title": "XTEND and ParaZero Partner to Deliver Autonomous Drone Interception System - Dronelife",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQejhCWXN4Z0RYRlAxSzJ5dERfb3JEQk91eUZVaDVyeGJuNlE5RlF1WXc0TjlFczhRVXdrMEZyTnNCeGtWcFZzVnRHTk5XT1l2dlctYndBTlhweVM2dGc0VGlEYU5aTGY1eHRPUU1PNGR2d2paRkxvQXotRERVSzgzbGxJZ1E1b3JaZVdfb1B3?oc=5",
+      "published": "Mon, 30 Mar 2026 17:07:50 GMT",
+      "source": "Dronelife"
+    },
+    {
+      "title": "US Marines Boost Counter-Drone Capability with MADIS Air Defense System in Live-Fire Training - Army Recognition",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPXzV0Wk1uQ1gzd3lJVWpONlcwOUhFU3FnaGVfSHNDaXE5dENUU2pPR0NiMU0xTjhSV01xOUZFUVVwS2d0cmJScTNQM0ZaN0Y2QzlxZW5PY3pYbWpSeVFhLWhjY19sVnNDbzFzdHdrR0s5ZjhPSXJWNHA5T0g2bTM1aU1vcVROV0tOSHlXOExMZE5HakszaXNkYnoxeTlsV01WSEtISFF4UEZfTWMzMmN4SUpBeGc5dTNiQlkxVVRBZlhlYmNDNUk1bmlNVkFURFZOdFU1NGxRd3c?oc=5",
+      "published": "Tue, 31 Mar 2026 00:28:57 GMT",
+      "source": "Army Recognition"
+    },
+    {
+      "title": "Ukraine Deploys Shvidun Drone to Counter Russian UAVs - Odessa Journal",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdXRPVHE4bXVIbFNNZkQ0NmktbFAzb3Fra2FtbEtkREpOQllFQ2poa05ubm95M2t2V3Z2N0NXdnAwZlpjdnlJMXJ5UlVyRVZwc3I1dXlYVHVhbi1VQVR2aGt1dzB1TWVKdFl6WFdkQjVXSnE2dmFFQkhGS3h3MDdXblktRQ?oc=5",
+      "published": "Tue, 31 Mar 2026 08:20:55 GMT",
+      "source": "Odessa Journal"
+    },
+    {
+      "title": "Pentagon counter-drone task force issues guidance on testing, federal surveillance laws - defensescoop.com",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMUIxUjJaX2pDV0czcDMxVXQwVWIyQ0xfZktfbDJ2UUcwZ29wX1dnWkZhMTNKRVdOMnpIcElRSG9vMmNUWmVfNDlRdGtob2hJZjhFOTRNNzROWHpPaDBweWQ2WG5GR05FdTRsRGlyc0RwN0Vybm9LVGt6QTJvV284Z3ZYYnVTYTh3SUxnNWZGTkFRTU9UaUk1SGRYd0F3dw?oc=5",
+      "published": "Tue, 10 Mar 2026 07:00:00 GMT",
+      "source": "defensescoop.com"
     },
     {
       "title": "Australian drone target maker Boresight cites growing demand for counter-UAS training - space & defense",
@@ -92,10 +98,10 @@
       "source": "U.S. Department of War (.gov)"
     },
     {
-      "title": "Pentagon counter-drone task force issues guidance on testing, federal surveillance laws - DefenseScoop",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMUIxUjJaX2pDV0czcDMxVXQwVWIyQ0xfZktfbDJ2UUcwZ29wX1dnWkZhMTNKRVdOMnpIcElRSG9vMmNUWmVfNDlRdGtob2hJZjhFOTRNNzROWHpPaDBweWQ2WG5GR05FdTRsRGlyc0RwN0Vybm9LVGt6QTJvV284Z3ZYYnVTYTh3SUxnNWZGTkFRTU9UaUk1SGRYd0F3dw?oc=5",
-      "published": "Tue, 10 Mar 2026 07:00:00 GMT",
-      "source": "DefenseScoop"
+      "title": "U.S. military reveals more details about drone incursions at strategic base - defensescoop.com",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdVJlS2Jqc2t0N0RNRkU1eWV6VmFHN3A1Z3NHcUstMmJPM3h1VHVwS2ZCdU1tS2VnZktCb2hoY1I2MEpEYmdnNjZQcGlXdFRoQkhIT0g2VGVJT2lNNnpLVXFKZzQ3OVBlUXhVMkJqNHlralMxTEhkOC1iXzB1RlFEeFNaX2dTMEROT25IeTBZSTg3QQ?oc=5",
+      "published": "Wed, 25 Mar 2026 06:35:33 GMT",
+      "source": "defensescoop.com"
     },
     {
       "title": "U.S. Scales VAMPIRE Counter-UAS Production to Boost Low-Cost Air Defense Against Drone Swarms - Army Recognition",
@@ -104,22 +110,16 @@
       "source": "Army Recognition"
     },
     {
-      "title": "General Dynamics-led team unveils self-driving truck with microwave counter-drone tech - Breaking Defense",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNLU1zUWFXZU5kZHJ3RmgteUZ3bHh1aGRmU0R3RmdlUmxRQV9NVU9YSTJieG1hUXFCTWZzcXEyR0d2bUJxbGgzd2V1VHpyNFdFMWRCUE9UTXQxOWhBSkxYZUlfc3ZxZGFTY0lHbjFCbTlXVmp0M2k2bHpYbVBRTWZiZWt6ZkRHTm1xaFVkbDJUMmg2UHlOb0NCUkpzX3NRbnNBWnhvSVN3UWhyS3JoRTIwUXBrZXNEVHdFdGx2MHFKSnM?oc=5",
-      "published": "Tue, 24 Mar 2026 13:01:21 GMT",
-      "source": "Breaking Defense"
-    },
-    {
       "title": "Counter-Drone Systems Are Moving From Experiments to Real Infrastructure - Dronelife",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeWpmUjhodjlCVE5tSWg5NUpPY0hzbzEyS0VuRkk4bFVBY1hMYlJRX2pNVThJYmRibkxaank3NnRuXzRaZDdxTHo5NzVYUVIwTlQ3MlhOeWFhbFpaWHcweGI2NC1GbEt2cml1RUhBRE9HczljNGd2YjFRX2JrUU5sdHJaYm11bDAzY0tiRXM3aWJKZFJOcnA2dzkycGxkdw?oc=5",
       "published": "Mon, 16 Mar 2026 14:26:15 GMT",
       "source": "Dronelife"
     },
     {
-      "title": "Inside a \u2018first of its kind\u2019 counter-drone laser test in the American desert - DefenseScoop",
+      "title": "Inside a \u2018first of its kind\u2019 counter-drone laser test in the American desert - defensescoop.com",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPV2JuSkdVYjZObVBJbE9Hc1Fadk5BYk5zaks5NlBsMmItT1l1R0FNZUFyYzhXbDRURTZZUnlSSVVqZ0d3TzJiSjV6OEszZHNuU0w2Q3NzZk9PVDRuSlduUEx5RkZ4VDZRSXlCMUUwclpDT01aTjN6SERGdUJRMlU5WGxrcmJ4ZWJwRmh0Ui04d3BRQVY1Tnc?oc=5",
       "published": "Mon, 16 Mar 2026 07:00:00 GMT",
-      "source": "DefenseScoop"
+      "source": "defensescoop.com"
     }
   ]
 }
