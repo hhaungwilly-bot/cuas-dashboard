@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-05T05:57:22.530206",
+  "last_updated": "2026-04-05T08:04:52.886863",
   "articles": [
     {
       "title": "Honeywell and Odys Aviation Introduce Airborne Layer for Counter-UAS Defense - Dronelife",
@@ -20,16 +20,10 @@
       "source": "Homeland Security Today"
     },
     {
-      "title": "Counter-drone system ordered by Sweden from Saab - militaryembedded.com",
+      "title": "Counter-drone system ordered by Sweden from Saab - Military Embedded Systems",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeWhyR3ZBeFF3S2xXYnZHVWtDT3RrUW5HSzlPUXhIZ185X3FUWlU0VXhLRWFuWnJWcVVfcDZiV0Uxb3Q0Y1Q3VWxRXy1zSVJyMlRZQ0tQMnRGbGplV202UjFoYk9KM3NUcWFaSVkwZWNvbDJ1VG05N1NLSDNiN3A3ZUw2RnVOckRmYk1PX3BaQjc2dDFCcEU2VVJxbjFFT0E?oc=5",
       "published": "Fri, 03 Apr 2026 16:23:58 GMT",
-      "source": "militaryembedded.com"
-    },
-    {
-      "title": "Alpine Eagle scales counter-drone production as European demand accelerates - UAS Magazine",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOV2ktd1prWjIzb0JWa01jU1Y1ajV6N1JzM1oyRHRTai1pNGloMGtfWDgydFd4SlNfYk11eDZCckh2Z0U0MWR3THdUZWxFUVk2Q09HaTcwRXVINFMzRnJlXzFiX25wWDUwdk5xNVhBWnRXNDlTU2VoVldIeTZYSnpaaU1RUzE1LWFZQWlkT1EycDZqUHZJd1FPTmRlV3RBQ01SMUhzSDh3QVlhTkhj?oc=5",
-      "published": "Mon, 30 Mar 2026 19:08:12 GMT",
-      "source": "UAS Magazine"
+      "source": "Military Embedded Systems"
     },
     {
       "title": "Joint Interagency Task Force Spearheads Contract, Unifies Drone Defenses - U.S. Department of War (.gov)",
@@ -38,16 +32,16 @@
       "source": "U.S. Department of War (.gov)"
     },
     {
-      "title": "Monthly Drone Report \u2013 March 2026 - SOF News",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8yd3NwSE1QbXBINHBUcTVHSjdWUVBfd0pncDdRUkVsRHUtV09uUnlFRWpUS0RIRjdIN2Vxajc2QmZPMGhCRHJFWThkNA?oc=5",
-      "published": "Mon, 30 Mar 2026 22:07:55 GMT",
-      "source": "SOF News"
-    },
-    {
       "title": "With War in the Middle East, Counter-Drone Responds - Defense Security Monitor",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcGtkQ0pLbmI3SjBnRGNfMHg0Vzk0dlBsa29UVjF5Ti1zVGU5aVlXbzNIdl9TOG5aWmE4M1NYZkw5ZkpsRVltQVNVWmtuRTFtX1V4aEgzVG05Tm5kSEszOFpRWXBUVy1kOWpWUVpBTG5STVR4TXJqcXc4bE9wRmFaUk9LWG8yT2IyR1o0WUgyM0h5RzFnNS1RYXZTV0VKQlFEaXc?oc=5",
       "published": "Fri, 27 Mar 2026 14:01:51 GMT",
       "source": "Defense Security Monitor"
+    },
+    {
+      "title": "Monthly Drone Report \u2013 March 2026 - SOF News",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8yd3NwSE1QbXBINHBUcTVHSjdWUVBfd0pncDdRUkVsRHUtV09uUnlFRWpUS0RIRjdIN2Vxajc2QmZPMGhCRHJFWThkNA?oc=5",
+      "published": "Mon, 30 Mar 2026 22:07:55 GMT",
+      "source": "SOF News"
     },
     {
       "title": "Can One Drone Safely Stop Another? Vector and Wrap Think So - Dronelife",
@@ -68,10 +62,10 @@
       "source": "DefenseScoop"
     },
     {
-      "title": "Air Force, Army Team Up for Counter-Drone Testing at Joint Base Andrews in Collaboration with JIATF-401 - DVIDS",
+      "title": "Air Force, Army Team Up for Counter-Drone Testing at Joint Base Andrews in Collaboration with JIATF-401 - dvidshub.net",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdWNnUUV6clNZeVNaMEVJZm5TYVdWNGZQLUtENTIwZ2dkM3BhN0xnZWhlZ0RROGFTMjdrNDJrYjkxVkZMWjJfZTJhbW8wak1zeWZrQXNfeXNha1VwUVpaSXFfNnR6TU8zbjJmSEVMZmlPazNCSWMwRWRJNkFBQWRvU0VOSlpLcFp1UTF1bkxwTTJ3QWZjdVNISF80WEh0VEFGN2VIWk5KRm9KajBiQnJoQmxGR1VDRnZ5VS1YZE00Y0NuTkotYmtxbg?oc=5",
       "published": "Fri, 20 Mar 2026 07:00:00 GMT",
-      "source": "DVIDS"
+      "source": "dvidshub.net"
     },
     {
       "title": "\u2018Battle Lab\u2019 to Produce SOPs for Air Base Counter-Drone Defense - Air & Space Forces Magazine",
@@ -90,6 +84,12 @@
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQY2s5V2RSN0JxcnJUamxyX1VJTzJGRjhYOVNDUVo3bjBMbTZicWpENVBXQ05fSHpDazNHT3RTcnJqUXFPeTFoS1YwaW1EUmhieDVIZThJdjA2SVh2Z3JNaldnclhiNkV5a3lIQ0RWRVR2NlFzQWN5eVdxMWViTDM3dm5ERmpyZ2VueWN3M0p4NkJHRUY1T3BZZDRESW5MaVNUeTNMaDRRNXpiUnc?oc=5",
       "published": "Fri, 20 Mar 2026 07:00:00 GMT",
       "source": "Breaking Defense"
+    },
+    {
+      "title": "The Army wants to use bullets, mortars, and artillery to take out small drones - Defense One",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRXFpbjZsUi1IOHpjX2dSeXV1RDhLS0hSLUIzdWZISUxfcjJjR2ZHUm9NT0JkR0hzSUNsUWdDT2xNdVNVNDFCNkY1cHRRNVRaVFdlSFBZdmJVdGdwaHVqclVnZlU1d3c1cW9nelhSVndkMWdpWDV6MFFBODE3Z212YmxQYllNOXpzc2VrR003TlEtb0ZjdksyT2QtSXpYSGRoN1pvS01YT3RhM3oxYVVLeEFTY2FuUjN5ZnlqSjBOb0tpdXhjaEE?oc=5",
+      "published": "Thu, 26 Mar 2026 07:41:31 GMT",
+      "source": "Defense One"
     },
     {
       "title": "Joint Interagency Task Force Awards Critical Counter-UAS Contract - U.S. Department of War (.gov)",
