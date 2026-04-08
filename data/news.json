@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-08T22:09:21.353025",
+  "last_updated": "2026-04-08T23:57:40.801714",
   "articles": [
     {
       "title": "Joint Task Force Commits Over $600 Million to Procure New Counter-UAS Capability - U.S. Department of War (.gov)",
@@ -32,16 +32,10 @@
       "source": "Defense Security Monitor"
     },
     {
-      "title": "Counter-drone system ordered by Sweden from Saab - Military Embedded Systems",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeWhyR3ZBeFF3S2xXYnZHVWtDT3RrUW5HSzlPUXhIZ185X3FUWlU0VXhLRWFuWnJWcVVfcDZiV0Uxb3Q0Y1Q3VWxRXy1zSVJyMlRZQ0tQMnRGbGplV202UjFoYk9KM3NUcWFaSVkwZWNvbDJ1VG05N1NLSDNiN3A3ZUw2RnVOckRmYk1PX3BaQjc2dDFCcEU2VVJxbjFFT0E?oc=5",
-      "published": "Fri, 03 Apr 2026 16:23:20 GMT",
-      "source": "Military Embedded Systems"
-    },
-    {
-      "title": "FCC Seeks Comment on Ways to Further Unleash American Drone Dominance - akingump.com",
+      "title": "FCC Seeks Comment on Ways to Further Unleash American Drone Dominance - Akin",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNamlXRTN0Y1JhNVFaTVRPVG5YWjh6WHJSeTNlTVpzbGtOWmVTLUVkRnFrXzJuZnRLdEFiWEk4NzhCNXFzRU1DdUtpeDh2eV9uaE5ZTlhzbDhyUDVaME5mN21MYkhkeDBDQ3ZPdUxxN2FFN3ZTUzViUGhhZmk4WXRHY25JNWhOQmhTOURScVY0N0s1V0JQd1ZuaV9pN1hPU3RwSVZ0dEtmOEk3dHljVkFGMjF2WQ?oc=5",
       "published": "Fri, 03 Apr 2026 20:57:38 GMT",
-      "source": "akingump.com"
+      "source": "Akin"
     },
     {
       "title": "Honeywell and Odys Aviation Launch Airborne Counter-UAS Defense System with SAMURAI on Laila VTOL - uasweekly.com",
@@ -80,6 +74,12 @@
       "source": "The AI Journal"
     },
     {
+      "title": "Webinar 23/04: Integrating Layered Counter-Drone Defense for the Homeland - Homeland Security Today",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQY3dMZFFYVmhlTGxlX0dEa2YwQm8xdXZXbWl1ZkFqaU9RN19mRi1GOGpwOHFDNXAyUGN1SlBOVmoyMlZ0Vy1CT1ozMTFFbEsxbGxQdEtjMmc3M0luUGpZTnBNdmpKcnlyenlkdEZJd2Q4Y3RLenRReXJQYW9CV1g5S2V1LVViN1lHSmRrMS1SOWNmaU1mdnZCeFVwei04V2Z2SWxGYUtpYU8?oc=5",
+      "published": "Tue, 31 Mar 2026 07:21:46 GMT",
+      "source": "Homeland Security Today"
+    },
+    {
       "title": "Air Force, Army Team Up for Counter-Drone Testing at Joint Base Andrews in Collaboration with JIATF-401 - DVIDS",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBwXzNoTjBOYWFYaHQ3TXJ4ZkFBOWw2VW5qeHFsQjZiNGlEZzRTcG41OFZwTy1RRHN6eUktMWZCcUdjZU9MMkpLaEloYU5udFdxc3lnUlo3eURyQQ?oc=5",
       "published": "Fri, 20 Mar 2026 19:16:00 GMT",
@@ -110,16 +110,16 @@
       "source": "Breaking Defense"
     },
     {
+      "title": "Joint Interagency Task Force Spearheads Contract, Unifies Drone Defenses - U.S. Department of War (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOVHU3MUdYRTkxVTVBNzZRSmZVS0psb21HNTNES0tHNllGU2RQVXRPTThqeDlOUUxVNjlpRWhITVF6Z1p6NEJ0T0JxT1lFTjdGLTFiN0lKZS1mRFd2WGpmbzRidk1XbkVsQUhJXzU1TE9MQWc1Z1dsdTRPN3E4cjg3Q0VWS19Vc0puaTNWNmJTZ2ZxSURBX2JMWDV2eVdSOFVvMm5HZ3dNWXZ4WjRoRzhBa0VSSnpLci1lLU9BMFJHYlA5NHh2cXY1ZURFS2dyMUE?oc=5",
+      "published": "Fri, 13 Mar 2026 07:00:00 GMT",
+      "source": "U.S. Department of War (.gov)"
+    },
+    {
       "title": "Counter-Drone Systems Are Moving From Experiments to Real Infrastructure - Dronelife",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeWpmUjhodjlCVE5tSWg5NUpPY0hzbzEyS0VuRkk4bFVBY1hMYlJRX2pNVThJYmRibkxaank3NnRuXzRaZDdxTHo5NzVYUVIwTlQ3MlhOeWFhbFpaWHcweGI2NC1GbEt2cml1RUhBRE9HczljNGd2YjFRX2JrUU5sdHJaYm11bDAzY0tiRXM3aWJKZFJOcnA2dzkycGxkdw?oc=5",
       "published": "Mon, 16 Mar 2026 07:00:00 GMT",
       "source": "Dronelife"
-    },
-    {
-      "title": "General Dynamics-led team unveils self-driving truck with microwave counter-drone tech - Breaking Defense",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNLU1zUWFXZU5kZHJ3RmgteUZ3bHh1aGRmU0R3RmdlUmxRQV9NVU9YSTJieG1hUXFCTWZzcXEyR0d2bUJxbGgzd2V1VHpyNFdFMWRCUE9UTXQxOWhBSkxYZUlfc3ZxZGFTY0lHbjFCbTlXVmp0M2k2bHpYbVBRTWZiZWt6ZkRHTm1xaFVkbDJUMmg2UHlOb0NCUkpzX3NRbnNBWnhvSVN3UWhyS3JoRTIwUXBrZXNEVHdFdGx2MHFKSnM?oc=5",
-      "published": "Tue, 24 Mar 2026 07:00:00 GMT",
-      "source": "Breaking Defense"
     }
   ]
 }
