@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-12T11:09:12.786281",
+  "last_updated": "2026-04-12T14:04:31.752228",
   "articles": [
     {
       "title": "Joint Task Force Commits Over $600 Million to Procure New Counter-UAS Capability - U.S. Department of War (.gov)",
@@ -68,10 +68,22 @@
       "source": "jba.af.mil"
     },
     {
+      "title": "Alpine Eagle scales counter-drone production as European demand accelerates - UAS Magazine",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOV2ktd1prWjIzb0JWa01jU1Y1ajV6N1JzM1oyRHRTai1pNGloMGtfWDgydFd4SlNfYk11eDZCckh2Z0U0MWR3THdUZWxFUVk2Q09HaTcwRXVINFMzRnJlXzFiX25wWDUwdk5xNVhBWnRXNDlTU2VoVldIeTZYSnpaaU1RUzE1LWFZQWlkT1EycDZqUHZJd1FPTmRlV3RBQ01SMUhzSDh3QVlhTkhj?oc=5",
+      "published": "Mon, 30 Mar 2026 19:08:12 GMT",
+      "source": "UAS Magazine"
+    },
+    {
       "title": "U.S. Commits Over $600 Million to Counter-Drone Capabilities in Rapid Defense Push - The Ritz Herald",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMmtEeXY2ME93NXh0UXZfOC1pcEx0andVWnJFMTBHUVNsYzU0djUyZC1zb3lVU2hJQ2I2bWlEMTVJekY3VmJOLWduLXhVZHIwLTFxSUZHWFAtMGw0MTdueHE5aXctekt4dUdHV25rRmh1NkxPRDE1TmlBQmJ6YjZXSHVINmg3YzRqbE9DUHRwV3lQNW40SHp6ZjBIbmRJek90dTFtbmYyUQ?oc=5",
       "published": "Tue, 07 Apr 2026 16:34:15 GMT",
       "source": "The Ritz Herald"
+    },
+    {
+      "title": "Webinar 23/04: Integrating Layered Counter-Drone Defense for the Homeland - Homeland Security Today",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQY3dMZFFYVmhlTGxlX0dEa2YwQm8xdXZXbWl1ZkFqaU9RN19mRi1GOGpwOHFDNXAyUGN1SlBOVmoyMlZ0Vy1CT1ozMTFFbEsxbGxQdEtjMmc3M0luUGpZTnBNdmpKcnlyenlkdEZJd2Q4Y3RLenRReXJQYW9CV1g5S2V1LVViN1lHSmRrMS1SOWNmaU1mdnZCeFVwei04V2Z2SWxGYUtpYU8?oc=5",
+      "published": "Tue, 31 Mar 2026 07:21:46 GMT",
+      "source": "Homeland Security Today"
     },
     {
       "title": "Honeywell and Odys Aviation Introduce Airborne Layer for Counter-UAS Defense - Dronelife",
@@ -80,16 +92,22 @@
       "source": "Dronelife"
     },
     {
+      "title": "Honeywell Aerospace & Odys Partner to Launch Airborne Counter-Drone Defense System - Unmanned Systems Technology",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRm5DZHp2SGtaSWFIV184cTV1T0VnOFNiVmxwOUNfM29VMVlLOHV3b1VnZjJVUERoLTFGUEpnZGwyN09uXzFla1RCcFhRb3VNclJpTlBCNHhvYkxlUFZKak4zX1BTZm1yanpKLVhKZkcwM0FseDdUS3dBN2l2SXgybEx2OWtpLTZxNFhDWUtFWXMxdkRUeElpR1pvUVhqaGlqdXJ2SE1nUjFyTzhTc2ZuUHJrNDZ1OEVsbUpnZ2JJOFZEcmJuTGtQSVdfbw?oc=5",
+      "published": "Tue, 07 Apr 2026 05:50:19 GMT",
+      "source": "Unmanned Systems Technology"
+    },
+    {
       "title": "Joint Interagency Task Force Awards Critical Counter-UAS Contract - U.S. Department of War (.gov)",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOOVNUV2tsOWdDVU9oSGVEZWIyYVBOVEZCcXpydFJ1REhEMW9SdVVTVWVqeml3SUIwaElsYkhnZzJUUTVIaU9nbG8weWdDUE5yYl8wcGFZWjBYbDc0NDc0d2loMmhmN2Q3N3gwakxQUHhfM0tjWnZVZ2ptWlNYUXJkd1NseE5JRkZFMTF5R3doSmhNdzd2MmhhQXRWRlM3Y3JNMWcwR0xtM21QMzJFTWhlczJpbzRwdTRmYVFmZFpCdDB4NDlJNUVF?oc=5",
       "published": "Tue, 24 Mar 2026 07:00:00 GMT",
       "source": "U.S. Department of War (.gov)"
     },
     {
-      "title": "Military marketplace for counter-drone tech makes its debut - DefenseScoop",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVXVKNGZfUXRBN2FKYWEwZHNabms0NXF4MFZjYnpfRllQLWxBcks3V044enp2Q0xDc1duNjNSWTFTM0Npd3hYcFJJZElkYUZxT3ctaHp3QmYyczRscVc2WW5VV1pQMkxiYWJOSXJ6U3htWkxXYlZtQi1FaUNRRUdJLXBzdFNBYThNb2Q0Q3NzQkRFS0FpSU9xTU5YcFpxVUNCZW95Nw?oc=5",
-      "published": "Wed, 25 Feb 2026 08:00:00 GMT",
-      "source": "DefenseScoop"
+      "title": "Air Force counter-drone lab requests ideas to track and kill small UAS - Breaking Defense",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQY2s5V2RSN0JxcnJUamxyX1VJTzJGRjhYOVNDUVo3bjBMbTZicWpENVBXQ05fSHpDazNHT3RTcnJqUXFPeTFoS1YwaW1EUmhieDVIZThJdjA2SVh2Z3JNaldnclhiNkV5a3lIQ0RWRVR2NlFzQWN5eVdxMWViTDM3dm5ERmpyZ2VueWN3M0p4NkJHRUY1T3BZZDRESW5MaVNUeTNMaDRRNXpiUnc?oc=5",
+      "published": "Fri, 20 Mar 2026 07:00:00 GMT",
+      "source": "Breaking Defense"
     },
     {
       "title": "Can One Drone Safely Stop Another? Vector and Wrap Think So - Dronelife",
@@ -98,28 +116,10 @@
       "source": "Dronelife"
     },
     {
-      "title": "Inside a \u2018first of its kind\u2019 counter-drone laser test in the American desert - DefenseScoop",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPV2JuSkdVYjZObVBJbE9Hc1Fadk5BYk5zaks5NlBsMmItT1l1R0FNZUFyYzhXbDRURTZZUnlSSVVqZ0d3TzJiSjV6OEszZHNuU0w2Q3NzZk9PVDRuSlduUEx5RkZ4VDZRSXlCMUUwclpDT01aTjN6SERGdUJRMlU5WGxrcmJ4ZWJwRmh0Ui04d3BRQVY1Tnc?oc=5",
-      "published": "Mon, 16 Mar 2026 07:00:00 GMT",
-      "source": "DefenseScoop"
-    },
-    {
-      "title": "JIATF 401 Expands Counter-Drone Training, Bolsters Homeland Defense - U.S. Department of War (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNN3Q0czJ6R3BLT254aXI5Wm1MZi1NMUthRU1McTFuLTZXY2ZyQ2VlVTlWVFpjLUdObWZoNHZwRXBMdjRycE5UNU5hSXNpdkFRQXdyUy1wV2VQc1ZNRFAzTHBQRm9oanplc0JVSnllVFhzcFlFcGt2R19pVUhkT1FPeUpMLVNxakpwUHZfbW95bHpIbWc2aW9lWU96VVNXTWd1NXVXQi14YjNxRUczRlV1M2hDQUFadHV1NFRTQ2FLWjN1Q2lIRk51Sg?oc=5",
-      "published": "Tue, 17 Feb 2026 08:00:00 GMT",
-      "source": "U.S. Department of War (.gov)"
-    },
-    {
       "title": "Counter-Drone Systems Are Moving From Experiments to Real Infrastructure - Dronelife",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeWpmUjhodjlCVE5tSWg5NUpPY0hzbzEyS0VuRkk4bFVBY1hMYlJRX2pNVThJYmRibkxaank3NnRuXzRaZDdxTHo5NzVYUVIwTlQ3MlhOeWFhbFpaWHcweGI2NC1GbEt2cml1RUhBRE9HczljNGd2YjFRX2JrUU5sdHJaYm11bDAzY0tiRXM3aWJKZFJOcnA2dzkycGxkdw?oc=5",
       "published": "Mon, 16 Mar 2026 07:00:00 GMT",
       "source": "Dronelife"
-    },
-    {
-      "title": "Pentagon broadens counter-drone authorities in bid to shore up vulnerable U.S. bases - DefenseScoop",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRlUxNUNCMVBDV2RkdnhyRGJhb3d4WU1JWTFDOWdVNWEzd0ZnZWZuNFl3U0RYbUpIaU80aVVEYzdtVER5Rl9SM3NiSkRCN19pSUhpcXoxRy1RNHpNNWs3TzJmODNPV01ORGdUdDZyY1lXTVoxNjFKU2hIbWxidUlEZG5aYUkxQmtYc2Y0blVHTVdabnNLcGhsbkVucw?oc=5",
-      "published": "Mon, 26 Jan 2026 08:00:00 GMT",
-      "source": "DefenseScoop"
     }
   ]
 }
