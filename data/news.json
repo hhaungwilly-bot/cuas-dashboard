@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-18T23:46:57.819138",
+  "last_updated": "2026-04-19T01:12:35.294229",
   "articles": [
     {
       "title": "Army leans on counter-drone marketplace to help address \u2018high security concerns\u2019 for upcoming stateside events - DefenseScoop",
@@ -38,12 +38,6 @@
       "source": "uasweekly.com"
     },
     {
-      "title": "EagleNXT deepens buying spree in Israel with $10m. investment in ThirdEye Systems - The Jerusalem Post",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1GN0Y3dm9lVTRNRmcxU1A2WGRQN2NyMHNVWjZycDJsUkllM1F6U0xPQWloaFJ4Nm80a3ZiNWMwTjZzUU5ETW1JS0UzTnp4R1ZNc1BBUGc1ckZYb1FaWFdSYkcyZw?oc=5",
-      "published": "Tue, 14 Apr 2026 14:35:47 GMT",
-      "source": "The Jerusalem Post"
-    },
-    {
       "title": "U.S. Integrates Bumblebee V1 Counter-UAS System into Layered Defense of Key Sites in Washington D.C. - Army Recognition",
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNc2ZLZFVmTGNsR0JPMnZZYlprb3FlVF9jRExzWFRueTNKcVY4NF84OTUyX3kxREtvckJsNWtoZUFNQ3k1em5HWk56eWNaSFBhcGVVeXEzWlpzRmJFbHNTcC03YVBaQm50eTRNZV96Zlg2QTd0b0lYa3NPMTZPVWVPTi1TS2U5MWRpeHdvRzBKQ1FPcW9wWFQxT2RDN2JLT2QtanNRS0FwVzlGRFBlNmEzWFAzTjZMTGo5TFlETzZaZHNqVG85cmV3dWJ6T1ZESXNWc2pxT2hUYUhLblVFd19F?oc=5",
       "published": "Wed, 15 Apr 2026 14:02:44 GMT",
@@ -54,6 +48,12 @@
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0yeTFpMGVvNFFSazVEZ0Z4VENpZTZoUHVzbUJwcTQwOGdmS3FvYUl5MXZSd3VaNW9SY0VYTi1IRkxMLVZVT195V3RJdUNXX0g5cHpRZmU4WTc?oc=5",
       "published": "Thu, 16 Apr 2026 10:01:00 GMT",
       "source": "Israel Defense"
+    },
+    {
+      "title": "EagleNXT deepens buying spree in Israel with $10m. investment in ThirdEye Systems - The Jerusalem Post",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1GN0Y3dm9lVTRNRmcxU1A2WGRQN2NyMHNVWjZycDJsUkllM1F6U0xPQWloaFJ4Nm80a3ZiNWMwTjZzUU5ETW1JS0UzTnp4R1ZNc1BBUGc1ckZYb1FaWFdSYkcyZw?oc=5",
+      "published": "Tue, 14 Apr 2026 14:35:47 GMT",
+      "source": "The Jerusalem Post"
     },
     {
       "title": "JIATF-401 Expands NCR Counter-UAS Layered Defense with Bumblebee Training - Inside Unmanned Systems",
@@ -116,10 +116,10 @@
       "source": "Homeland Security Today"
     },
     {
-      "title": "Integrating Layered Counter\u2011Drone Defense for the Homeland - Unmanned Systems Technology",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTzUyM3VFdXAtVGFORDFQX1lhUHNUanNEYjQ4Wnl0LXptVWZYbWFJTm1hUFhUdzJ5dkFHNlRkZXN0MXpYeDVXQkdfNGlzcXhhVjZOaTg4bmp1b0pPcDJ4c3Z1aEEwT2FmZlVyVExncWVYYjNrRng0UDNtUFo1NEx2OXdkOFppUURFbHlwZFJQRlc4eTNsQ3gxcmRZSFVNTjhnYktIQktuSGdNVFFUem84?oc=5",
-      "published": "Wed, 08 Apr 2026 13:40:14 GMT",
-      "source": "Unmanned Systems Technology"
+      "title": "ZenaTech Plans Ukraine Facility for Counter-UAS Testing and Validation - Inside Unmanned Systems",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaExGNWZyZlVzUzQweEFud3luOVNHQ0RJTC1uaHNiMDY4aDJneElLNW5WSzhSQ252d1JfeEJ2R0laN3ZQTS1hektNSjRoYmx6cVRkZkhUWVVEcHg1UVJnbTZXa18wUEFKek02RS0yOFdJbUpteXI4ZkhEREExb1hIdGszbTlBdVRxV20zZXNTdk56Um1SMTlubW5pYVd2UDlVUlhtQXlhbHQ?oc=5",
+      "published": "Fri, 10 Apr 2026 15:41:20 GMT",
+      "source": "Inside Unmanned Systems"
     }
   ]
 }
