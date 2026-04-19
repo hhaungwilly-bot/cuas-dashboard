@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-19T14:27:33.796117",
+  "last_updated": "2026-04-19T15:08:52.439285",
   "articles": [
     {
       "title": "Army leans on counter-drone marketplace to help address \u2018high security concerns\u2019 for upcoming stateside events - DefenseScoop",
@@ -14,12 +14,6 @@
       "source": "U.S. Department of War (.gov)"
     },
     {
-      "title": "Counter-UAS industry briefing (2): sixth generation drone/C-UAS warfare elements take to the battlefield - Unmanned airspace",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQaE9FMWNybmprLWE0TEkwa3JMQjRMbnF1WHB4MWZmaEtqMnNCQ3RNZGtNVHNqb2JiZzRNajFvQVBGWDlWM2FzeFJ5QkROenRLRGZubk9ZcTFxQ1h4WXJhVjZLZ2haRWlFcWpJbldPN1ZPQ1V2b1NRWHBWOVBScXJPRzVXMWl5NWQ0LUh2V05DNzhoYTBoTXJuUXBzakF3Z2lHSWw1cWNpM3pDdnRkcnlMUmpfM1FzdzZqb0xHUVlWYlFCS2JwT2JUSzFiZU1SeVB2RzZGRUJSU3dLUi1KR0prNldNcUZGUF81SHdIc3F4NjdLVXNnd3Z3azJpbkxlQQ?oc=5",
-      "published": "Mon, 13 Apr 2026 08:49:59 GMT",
-      "source": "Unmanned airspace"
-    },
-    {
       "title": "Honeywell and Odys Aviation Introduce Airborne Layer for Counter-UAS Defense - Dronelife",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZnVyT1o1YnA4WV8wUmlIaFBnMXl2ZDliTDF1elJJMU9UaDBpck15TkdWS1l4ZmtaSmtNWHhvWDBTQVhyRnB4XzBDR19PYlNvbHFDcGRnUDlMNEhXaHdTVU0zZktlNWpabmszSjRkYlhOb0tjc3hObWtFQjRkVFk2enNB?oc=5",
       "published": "Fri, 03 Apr 2026 14:30:02 GMT",
@@ -30,6 +24,12 @@
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNc2ZLZFVmTGNsR0JPMnZZYlprb3FlVF9jRExzWFRueTNKcVY4NF84OTUyX3kxREtvckJsNWtoZUFNQ3k1em5HWk56eWNaSFBhcGVVeXEzWlpzRmJFbHNTcC03YVBaQm50eTRNZV96Zlg2QTd0b0lYa3NPMTZPVWVPTi1TS2U5MWRpeHdvRzBKQ1FPcW9wWFQxT2RDN2JLT2QtanNRS0FwVzlGRFBlNmEzWFAzTjZMTGo5TFlETzZaZHNqVG85cmV3dWJ6T1ZESXNWc2pxT2hUYUhLblVFd19F?oc=5",
       "published": "Wed, 15 Apr 2026 14:02:44 GMT",
       "source": "Army Recognition"
+    },
+    {
+      "title": "With War in the Middle East, Counter-Drone Responds - Defense Security Monitor",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcGtkQ0pLbmI3SjBnRGNfMHg0Vzk0dlBsa29UVjF5Ti1zVGU5aVlXbzNIdl9TOG5aWmE4M1NYZkw5ZkpsRVltQVNVWmtuRTFtX1V4aEgzVG05Tm5kSEszOFpRWXBUVy1kOWpWUVpBTG5STVR4TXJqcXc4bE9wRmFaUk9LWG8yT2IyR1o0WUgyM0h5RzFnNS1RYXZTV0VKQlFEaXc?oc=5",
+      "published": "Fri, 27 Mar 2026 07:00:00 GMT",
+      "source": "Defense Security Monitor"
     },
     {
       "title": "EagleNXT deepens buying spree in Israel with $10m. investment in ThirdEye Systems - The Jerusalem Post",
@@ -44,10 +44,10 @@
       "source": "Inside Unmanned Systems"
     },
     {
-      "title": "With War in the Middle East, Counter-Drone Responds - Defense Security Monitor",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcGtkQ0pLbmI3SjBnRGNfMHg0Vzk0dlBsa29UVjF5Ti1zVGU5aVlXbzNIdl9TOG5aWmE4M1NYZkw5ZkpsRVltQVNVWmtuRTFtX1V4aEgzVG05Tm5kSEszOFpRWXBUVy1kOWpWUVpBTG5STVR4TXJqcXc4bE9wRmFaUk9LWG8yT2IyR1o0WUgyM0h5RzFnNS1RYXZTV0VKQlFEaXc?oc=5",
-      "published": "Fri, 27 Mar 2026 14:01:51 GMT",
-      "source": "Defense Security Monitor"
+      "title": "Integrating Layered Counter Drone Defense for the Homeland webinar \u2013 April 23 | 10:00 EDT / 16:00 CEST - Unmanned airspace",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQeGxHYkRkUXE3M1NOZjBUalZaWUJhYnQ0VS1OZF9UZ0FQNjRkQ1hVNEtqUlhFOWl3MzJFYkdKeUJLM0t4Y1NFQ24zd0Vpek0wc3dBdEh1UGE0Zm0waU9CV2htdTVEVTNiNjNzY3hiN3Y5Qko5RGJRS3BVLTVJNnJpeXVBMDh0SFF4ODRTc1BFMWNjZm9IR3pFN1VHdS1PbmNVV20yWUdIUDR3T0tfbXR1bk4zVDg2MmNUdG5BV05KSmR3YTN0Qi1ZM3VMNVF4dzFFVGNSYzNGM2pNZi1oMVZQU2dLSmNQeThSU0xkdXJ2U2I1Tng2?oc=5",
+      "published": "Tue, 07 Apr 2026 08:30:25 GMT",
+      "source": "Unmanned airspace"
     },
     {
       "title": "USS Carl M. Levin Coyote Launcher April 16: Navy\u2019s Drone Defense Upgrade - Meyka",
@@ -86,16 +86,16 @@
       "source": "U.S. Department of War (.gov)"
     },
     {
-      "title": "Integrating Layered Counter Drone Defense for the Homeland webinar \u2013 April 23 | 10:00 EDT / 16:00 CEST - Unmanned airspace",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQeGxHYkRkUXE3M1NOZjBUalZaWUJhYnQ0VS1OZF9UZ0FQNjRkQ1hVNEtqUlhFOWl3MzJFYkdKeUJLM0t4Y1NFQ24zd0Vpek0wc3dBdEh1UGE0Zm0waU9CV2htdTVEVTNiNjNzY3hiN3Y5Qko5RGJRS3BVLTVJNnJpeXVBMDh0SFF4ODRTc1BFMWNjZm9IR3pFN1VHdS1PbmNVV20yWUdIUDR3T0tfbXR1bk4zVDg2MmNUdG5BV05KSmR3YTN0Qi1ZM3VMNVF4dzFFVGNSYzNGM2pNZi1oMVZQU2dLSmNQeThSU0xkdXJ2U2I1Tng2?oc=5",
-      "published": "Tue, 07 Apr 2026 08:30:25 GMT",
-      "source": "Unmanned airspace"
-    },
-    {
       "title": "Can One Drone Safely Stop Another? Vector and Wrap Think So - Dronelife",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWE1YRGFMa2ZXZHhDNXJGUW4tQzNQM3FnNHBaLTJXdjk4UXh5S3JxZkd1VWxLNkpxaVRPYzVVM1JtazVxRWNRNWVXRjM1WTAweHdPeER4QThTczRCc1dUNWxubDNwUjlsUU8zUEdWX1UwNXNIWlJUR1VqVTdpVEJnTzRvbmlKVG0tbU5z?oc=5",
       "published": "Fri, 03 Apr 2026 07:00:00 GMT",
       "source": "Dronelife"
+    },
+    {
+      "title": "ZenaTech Plans Ukraine Facility for Counter-UAS Testing and Validation - Inside Unmanned Systems",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaExGNWZyZlVzUzQweEFud3luOVNHQ0RJTC1uaHNiMDY4aDJneElLNW5WSzhSQ252d1JfeEJ2R0laN3ZQTS1hektNSjRoYmx6cVRkZkhUWVVEcHg1UVJnbTZXa18wUEFKek02RS0yOFdJbUpteXI4ZkhEREExb1hIdGszbTlBdVRxV20zZXNTdk56Um1SMTlubW5pYVd2UDlVUlhtQXlhbHQ?oc=5",
+      "published": "Fri, 10 Apr 2026 15:41:20 GMT",
+      "source": "Inside Unmanned Systems"
     },
     {
       "title": "Pentagon, FAA sign safety agreement over counter-drone laser - DefenseScoop",
@@ -104,16 +104,16 @@
       "source": "DefenseScoop"
     },
     {
-      "title": "Digital Force Technologies and Powerus Build Full-Stack Counter-UAS Kill-Chain - Dronelife",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbml4NWFfVkZVVUllRHNPYkJBNEZVMUk4b2M2QVk3a3g1N0VuT1h6X0lXck9xcFpCWlpkX1V6OVFCVExBWHJ2LW1WWURRWXFUUHdiMUl0VTdQRmxqMFliOGJRQ3ljaFNkUEYzdDJFZzFuUk5JR3U2QUxjV09ER1RiTTFGcGE1TjZOWWdOVUlrZTVGb2NNTjYtc0ZmUC1nb2hjZlhkaXdWT0VXRzBsdUx5d1dn?oc=5",
-      "published": "Fri, 10 Apr 2026 15:52:13 GMT",
-      "source": "Dronelife"
-    },
-    {
       "title": "Military marketplace for counter-drone tech makes its debut - DefenseScoop",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVXVKNGZfUXRBN2FKYWEwZHNabms0NXF4MFZjYnpfRllQLWxBcks3V044enp2Q0xDc1duNjNSWTFTM0Npd3hYcFJJZElkYUZxT3ctaHp3QmYyczRscVc2WW5VV1pQMkxiYWJOSXJ6U3htWkxXYlZtQi1FaUNRRUdJLXBzdFNBYThNb2Q0Q3NzQkRFS0FpSU9xTU5YcFpxVUNCZW95Nw?oc=5",
       "published": "Wed, 25 Feb 2026 08:00:00 GMT",
       "source": "DefenseScoop"
+    },
+    {
+      "title": "Alpine Eagle scales counter-drone production as European demand accelerates - UAS Magazine",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOV2ktd1prWjIzb0JWa01jU1Y1ajV6N1JzM1oyRHRTai1pNGloMGtfWDgydFd4SlNfYk11eDZCckh2Z0U0MWR3THdUZWxFUVk2Q09HaTcwRXVINFMzRnJlXzFiX25wWDUwdk5xNVhBWnRXNDlTU2VoVldIeTZYSnpaaU1RUzE1LWFZQWlkT1EycDZqUHZJd1FPTmRlV3RBQ01SMUhzSDh3QVlhTkhj?oc=5",
+      "published": "Mon, 30 Mar 2026 07:00:00 GMT",
+      "source": "UAS Magazine"
     },
     {
       "title": "U.S. Navy Deploys Unconfirmed New Short-Range Launcher on Arleigh Burke Destroyer for Drone Defense - Army Recognition",
