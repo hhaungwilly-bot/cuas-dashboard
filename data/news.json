@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-26T17:01:15.966541",
+  "last_updated": "2026-04-26T17:53:19.551688",
   "articles": [
     {
       "title": "Coast Guard adopts \u2018whole new mission\u2019 for drone defense at high-security events - DefenseScoop",
@@ -24,12 +24,6 @@
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNdEM4b3g5bzBDV0JTVjhjVHhxNGJXd2NzdXZ3dUYxVE5YYy1UTUZvU3NLZlBWcFFNVHpYZkRjUXh4RnVGeWNieTh5clJWdUUyNHdhdlBBRVNvN2Nram9fWWZNeFF1UndzaEVrMUJYUWh6UVBGQ0FqZXZCak40ZXZORGF0YW54SFBfWnlzZU04RjlSVldidVpZSE5EVGpSazVoZXo4el80RG1DVmFHdVJaRHVmUVFVLWlIcjZwc3lyUE1mQ3FuM01kYm9mTGVzRnPSAdQBQVVfeXFMT1pCZ2NJSy0zSXI5dVRja2NXNDJQZlNaWW9JUzkzWDZIdWNGa3I0UUt5X1FqSGV2bjc1WDF5a1BMekptNkRXS29kZ3B4NmVsbWxEVnJWQ2JTSDYwMEJwTERLamZHUjFQVFdGT0lxdEs1dkQzT3Y3eWNncHhEcXh4dFZzN1cyclRsQ3hqVHA2cHJaWTFFT01haEU1R180dXFvYjlrcTVhMlZtSGJocDkzVXNLYU9WY2xDQ3p3ZVgtZWtocUJmbUo0WmRERGV6Tlo3MDNzTGI?oc=5",
       "published": "Mon, 13 Apr 2026 07:00:00 GMT",
       "source": "army.mil"
-    },
-    {
-      "title": "Lockheed Martin Invests $25M in Fortem for Advanced Counter-UAS Tech - uasweekly.com",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZHRkdll2YWZOeG80elZaQU9tTkZyUkJYZTlwYzRIMkJ4U1dmb2N2VzAzdHZMLTZzcWNRUU1ZZHRFVGNURXVYaElIRklZZTYwUWhIYXB3MFNuaWlNcURUQ1lMMk1JeF92c0YxdnJ4TW5pNktna2xXVWV6M2s4SzhIc2JqY0c4THhXS1dBNnRqREpBcVhaM3JaZENzNHd3YVA3ODg4?oc=5",
-      "published": "Wed, 22 Apr 2026 11:28:54 GMT",
-      "source": "uasweekly.com"
     },
     {
       "title": "Honeywell and Odys Aviation Introduce Airborne Layer for Counter-UAS Defense - Dronelife",
@@ -116,10 +110,16 @@
       "source": "DefenseScoop"
     },
     {
-      "title": "Webinar 23/04: Integrating Layered Counter-Drone Defense for the Homeland - Homeland Security Today",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQY3dMZFFYVmhlTGxlX0dEa2YwQm8xdXZXbWl1ZkFqaU9RN19mRi1GOGpwOHFDNXAyUGN1SlBOVmoyMlZ0Vy1CT1ozMTFFbEsxbGxQdEtjMmc3M0luUGpZTnBNdmpKcnlyenlkdEZJd2Q4Y3RLenRReXJQYW9CV1g5S2V1LVViN1lHSmRrMS1SOWNmaU1mdnZCeFVwei04V2Z2SWxGYUtpYU8?oc=5",
-      "published": "Tue, 31 Mar 2026 07:44:33 GMT",
-      "source": "Homeland Security Today"
+      "title": "Air Force counter-drone lab requests ideas to track and kill small UAS - Breaking Defense",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQY2s5V2RSN0JxcnJUamxyX1VJTzJGRjhYOVNDUVo3bjBMbTZicWpENVBXQ05fSHpDazNHT3RTcnJqUXFPeTFoS1YwaW1EUmhieDVIZThJdjA2SVh2Z3JNaldnclhiNkV5a3lIQ0RWRVR2NlFzQWN5eVdxMWViTDM3dm5ERmpyZ2VueWN3M0p4NkJHRUY1T3BZZDRESW5MaVNUeTNMaDRRNXpiUnc?oc=5",
+      "published": "Fri, 20 Mar 2026 07:00:00 GMT",
+      "source": "Breaking Defense"
+    },
+    {
+      "title": "Joint Interagency Task Force Spearheads Contract, Unifies Drone Defenses - U.S. Department of War (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOVHU3MUdYRTkxVTVBNzZRSmZVS0psb21HNTNES0tHNllGU2RQVXRPTThqeDlOUUxVNjlpRWhITVF6Z1p6NEJ0T0JxT1lFTjdGLTFiN0lKZS1mRFd2WGpmbzRidk1XbkVsQUhJXzU1TE9MQWc1Z1dsdTRPN3E4cjg3Q0VWS19Vc0puaTNWNmJTZ2ZxSURBX2JMWDV2eVdSOFVvMm5HZ3dNWXZ4WjRoRzhBa0VSSnpLci1lLU9BMFJHYlA5NHh2cXY1ZURFS2dyMUE?oc=5",
+      "published": "Fri, 13 Mar 2026 07:00:00 GMT",
+      "source": "U.S. Department of War (.gov)"
     }
   ]
 }
