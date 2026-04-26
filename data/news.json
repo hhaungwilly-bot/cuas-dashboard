@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-26T06:05:17.635851",
+  "last_updated": "2026-04-26T07:53:16.631581",
   "articles": [
     {
       "title": "Coast Guard adopts \u2018whole new mission\u2019 for drone defense at high-security events - DefenseScoop",
@@ -32,16 +32,16 @@
       "source": "DefenseScoop"
     },
     {
-      "title": "How drones navigate without GPS: PMGC unit secures patent option - Stock Titan",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQTJYU2N6dExVV2JOeDBIdXV2ODg4NFlpSTd4WVBPa2JzMUM0RFo3b2c3cTF0REZuZV9JWkdlYmdWMVhQSzMwYktFdS05OHdhR01TdHdUb2piQUpHNExMSEI4RDNzazhmYWVEWUJsN1c1c2xwbmJtTmFQY1VVa1Jsbk5zM3RMb0ZNM25zblBteU1LTk9aalFyRF8xWEtFUjYxNVc3WEhJN2hyOG9qMm45c3g2WW0yWEw2bG55Vw?oc=5",
-      "published": "Thu, 23 Apr 2026 11:30:00 GMT",
-      "source": "Stock Titan"
-    },
-    {
       "title": "Honeywell and Odys Aviation Introduce Airborne Layer for Counter-UAS Defense - Dronelife",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZnVyT1o1YnA4WV8wUmlIaFBnMXl2ZDliTDF1elJJMU9UaDBpck15TkdWS1l4ZmtaSmtNWHhvWDBTQVhyRnB4XzBDR19PYlNvbHFDcGRnUDlMNEhXaHdTVU0zZktlNWpabmszSjRkYlhOb0tjc3hObWtFQjRkVFk2enNB?oc=5",
       "published": "Fri, 03 Apr 2026 14:30:02 GMT",
       "source": "Dronelife"
+    },
+    {
+      "title": "How drones navigate without GPS: PMGC unit secures patent option - Stock Titan",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQTJYU2N6dExVV2JOeDBIdXV2ODg4NFlpSTd4WVBPa2JzMUM0RFo3b2c3cTF0REZuZV9JWkdlYmdWMVhQSzMwYktFdS05OHdhR01TdHdUb2piQUpHNExMSEI4RDNzazhmYWVEWUJsN1c1c2xwbmJtTmFQY1VVa1Jsbk5zM3RMb0ZNM25zblBteU1LTk9aalFyRF8xWEtFUjYxNVc3WEhJN2hyOG9qMm45c3g2WW0yWEw2bG55Vw?oc=5",
+      "published": "Thu, 23 Apr 2026 11:30:00 GMT",
+      "source": "Stock Titan"
     },
     {
       "title": "U.S. Army requests nearly $1 billion to defeat small drones - The Defence Blog",
@@ -68,16 +68,22 @@
       "source": "The War Zone"
     },
     {
-      "title": "JIATF-401 Expands NCR Counter-UAS Layered Defense with Bumblebee Training - Inside Unmanned Systems",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOb0twWDctWVhDTmM3MjRtV3JIODY4UmJFaHFvVUZXSTZzekx6WnlvR3pkUEJZbTJkREhCV1F3QnFiSWpIWHRLNnRZcm51X2xleUFFMC0zU191dS1nX3c1LXFqck81MWJ1enhjaDAyWWV3X2dtMTlDb25WeFc5aWI5ZGRUcDlFeWNGUm5EcnU2REdpdHdZM2RybjlZTUxnQ2lla0tNNkp5NDNDZ0xN?oc=5",
-      "published": "Mon, 13 Apr 2026 21:03:33 GMT",
-      "source": "Inside Unmanned Systems"
-    },
-    {
       "title": "Joint Task Force Commits Over $600 Million to Procure New Counter-UAS Capability - U.S. Department of War (.gov)",
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNNTVJQlR2ZFhDQW53NEExUDhES2t0X280STBOcjI3TGdVSVhua2ZWLWRRYzYzOXRvQVdTR2E0WFNjVzBLcWxvWm5mWEFZeC1CdVZuZUFjcThTLUhaVG42OWp2WUNZMEdnN3FmUGt2bENybzl3dThhLTBpcE8wbWlHU2JkUzZxZVJYaDFQaFIydnJRNmFBQVpZSHlJeVNVQ1NhSDR0QmxfR3JaMTRGMUJ2b2hJbHFzbU5mYjRUU2dwbzhpaXJicDI4U252ck5VM05oU0RzRlJkYkw1dw?oc=5",
       "published": "Mon, 06 Apr 2026 07:00:00 GMT",
       "source": "U.S. Department of War (.gov)"
+    },
+    {
+      "title": "U.S. Army tests Sling Blade counter-drone system - The Defence Blog",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1NQTJXZ3ZaSGdDcnlPdTVtWHQ4enlXX2dLMjM0b0gwaTJGbVNFSTl2ZVY1TTRLb0Rna0tVa1BsNkF6dklRRlhkdmdiMHNpSEw3ZXNzRHNqVGxxeU9ySHZvTWdOc0xtNEJ6N3lHS0M4Mm8tUGJabTVFTUJYRWVQUdIBgwFBVV95cUxQU1Utb2paakJQYTNtSXRsTGhZNXRqcElHSEctb0pia25feHpnek1HamZPSUZ3R1RzcXY2QXBVSE9PQnpxYVNKY1dfM0ozMkNobmxIOEh3YmtTTXYzbXhBUDJSTE1YMlNHYXBHZGRnaXI5WWI2VEEwX1puMUtYcFdkLXYzcw?oc=5",
+      "published": "Mon, 20 Apr 2026 13:42:41 GMT",
+      "source": "The Defence Blog"
+    },
+    {
+      "title": "U.S. military to continue dispatching counter-drone capabilities to the Middle East - DefenseScoop",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOY1ZGcm0xWmFSY19Scjl2ckhiZ1ZMOW52X2lXR3lSOWFIaFNWanZ3OVoxZE4zMG0xM1AtZnBwQTBqTWFZZjhJV2NETVR4dEk4cW1zNGFUREVuY09EMWdHb3FUVWg4VF9HTURJTi1zSFZidzM0ZGl4T0hTcm1PS1RBRlZGbDRnUU0?oc=5",
+      "published": "Fri, 10 Apr 2026 07:00:00 GMT",
+      "source": "DefenseScoop"
     },
     {
       "title": "Can One Drone Safely Stop Another? Vector and Wrap Think So - Dronelife",
@@ -98,10 +104,10 @@
       "source": "DefenseScoop"
     },
     {
-      "title": "JIATF 401 Expands Counter-Drone Training, Bolsters Homeland Defense - U.S. Department of War (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNN3Q0czJ6R3BLT254aXI5Wm1MZi1NMUthRU1McTFuLTZXY2ZyQ2VlVTlWVFpjLUdObWZoNHZwRXBMdjRycE5UNU5hSXNpdkFRQXdyUy1wV2VQc1ZNRFAzTHBQRm9oanplc0JVSnllVFhzcFlFcGt2R19pVUhkT1FPeUpMLVNxakpwUHZfbW95bHpIbWc2aW9lWU96VVNXTWd1NXVXQi14YjNxRUczRlV1M2hDQUFadHV1NFRTQ2FLWjN1Q2lIRk51Sg?oc=5",
-      "published": "Tue, 17 Feb 2026 08:00:00 GMT",
-      "source": "U.S. Department of War (.gov)"
+      "title": "Pentagon counter-drone task force issues guidance on testing, federal surveillance laws - DefenseScoop",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMUIxUjJaX2pDV0czcDMxVXQwVWIyQ0xfZktfbDJ2UUcwZ29wX1dnWkZhMTNKRVdOMnpIcElRSG9vMmNUWmVfNDlRdGtob2hJZjhFOTRNNzROWHpPaDBweWQ2WG5GR05FdTRsRGlyc0RwN0Vybm9LVGt6QTJvV284Z3ZYYnVTYTh3SUxnNWZGTkFRTU9UaUk1SGRYd0F3dw?oc=5",
+      "published": "Tue, 10 Mar 2026 07:00:00 GMT",
+      "source": "DefenseScoop"
     },
     {
       "title": "Pentagon broadens counter-drone authorities in bid to shore up vulnerable U.S. bases - DefenseScoop",
@@ -110,16 +116,10 @@
       "source": "DefenseScoop"
     },
     {
-      "title": "Air Force counter-drone lab requests ideas to track and kill small UAS - Breaking Defense",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQY2s5V2RSN0JxcnJUamxyX1VJTzJGRjhYOVNDUVo3bjBMbTZicWpENVBXQ05fSHpDazNHT3RTcnJqUXFPeTFoS1YwaW1EUmhieDVIZThJdjA2SVh2Z3JNaldnclhiNkV5a3lIQ0RWRVR2NlFzQWN5eVdxMWViTDM3dm5ERmpyZ2VueWN3M0p4NkJHRUY1T3BZZDRESW5MaVNUeTNMaDRRNXpiUnc?oc=5",
-      "published": "Fri, 20 Mar 2026 07:00:00 GMT",
-      "source": "Breaking Defense"
-    },
-    {
-      "title": "With War in the Middle East, Counter-Drone Responds - Defense Security Monitor",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcGtkQ0pLbmI3SjBnRGNfMHg0Vzk0dlBsa29UVjF5Ti1zVGU5aVlXbzNIdl9TOG5aWmE4M1NYZkw5ZkpsRVltQVNVWmtuRTFtX1V4aEgzVG05Tm5kSEszOFpRWXBUVy1kOWpWUVpBTG5STVR4TXJqcXc4bE9wRmFaUk9LWG8yT2IyR1o0WUgyM0h5RzFnNS1RYXZTV0VKQlFEaXc?oc=5",
-      "published": "Fri, 27 Mar 2026 07:00:00 GMT",
-      "source": "Defense Security Monitor"
+      "title": "JIATF 401 Expands Counter-Drone Training, Bolsters Homeland Defense - U.S. Department of War (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNN3Q0czJ6R3BLT254aXI5Wm1MZi1NMUthRU1McTFuLTZXY2ZyQ2VlVTlWVFpjLUdObWZoNHZwRXBMdjRycE5UNU5hSXNpdkFRQXdyUy1wV2VQc1ZNRFAzTHBQRm9oanplc0JVSnllVFhzcFlFcGt2R19pVUhkT1FPeUpMLVNxakpwUHZfbW95bHpIbWc2aW9lWU96VVNXTWd1NXVXQi14YjNxRUczRlV1M2hDQUFadHV1NFRTQ2FLWjN1Q2lIRk51Sg?oc=5",
+      "published": "Tue, 17 Feb 2026 08:00:00 GMT",
+      "source": "U.S. Department of War (.gov)"
     }
   ]
 }
