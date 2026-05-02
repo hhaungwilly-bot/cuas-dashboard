@@ -1,11 +1,17 @@
 {
-  "last_updated": "2026-05-02T06:27:28.231399",
+  "last_updated": "2026-05-02T08:10:14.442731",
   "articles": [
     {
       "title": "News - Joint Task Force test advances drone defenses - DVIDS",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPLXhFeUdDSXFYME1QNk9kdUNtelFWb0tNRFdnd3J1bERHWmpFNmExQjlWam9VNVUwSDBGRUJFTkd2MGt0ZERFajhUcHdQUFdFVlR6ZnM4VTg1Z1F6dW9nNVFFQjdWOUx0R2I4bkZGX0RoMTdLRF94MU91TVYwaXJRR21mQXZHUEdROHc?oc=5",
       "published": "Fri, 01 May 2026 19:26:00 GMT",
       "source": "DVIDS"
+    },
+    {
+      "title": "Joint Interagency Task Force 401 conducts counter-UAS testing at U.S. base to advance layered air defense capabilities - Defence Industry Europe",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQU0Z3Y2cxZVF0MGFCRGJzM3djLVlZd25PY25ybFdZMklFSXV0U0RPZGc5WkNVTkRaZndFWXJEV0xEYUdEUnpKUmNBQVR2MmxFUTJRbS1hTzQwQVFxYmw5dDMzYWd0bzc1aFZqdlVud0tNSUJ1T1hEZms1X0dteXVRVkwxS29MdUhLTEc4SUFlSjlMeFQ1bTVFbzlyRWV1QWczdkQtMjRoQUpBMG8tMm4tRXI1ekg3MUJkMDc4ZnJETmtORU50amhmai0tb3dYYmNGZFBLNE5tV0F1TWsxS0pr?oc=5",
+      "published": "Sat, 02 May 2026 07:18:57 GMT",
+      "source": "Defence Industry Europe"
     },
     {
       "title": "Marine division to get first-of-its-kind counter-drone training as officials signal \u2018significant concern\u2019 over defeating UAS - DefenseScoop",
@@ -92,12 +98,6 @@
       "source": "army.mil"
     },
     {
-      "title": "Joint Task Force Commits Over $600 Million to Procure New Counter-UAS Capability - U.S. Department of War (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNNTVJQlR2ZFhDQW53NEExUDhES2t0X280STBOcjI3TGdVSVhua2ZWLWRRYzYzOXRvQVdTR2E0WFNjVzBLcWxvWm5mWEFZeC1CdVZuZUFjcThTLUhaVG42OWp2WUNZMEdnN3FmUGt2bENybzl3dThhLTBpcE8wbWlHU2JkUzZxZVJYaDFQaFIydnJRNmFBQVpZSHlJeVNVQ1NhSDR0QmxfR3JaMTRGMUJ2b2hJbHFzbU5mYjRUU2dwbzhpaXJicDI4U252ck5VM05oU0RzRlJkYkw1dw?oc=5",
-      "published": "Mon, 06 Apr 2026 07:00:00 GMT",
-      "source": "U.S. Department of War (.gov)"
-    },
-    {
       "title": "Coast Guard adopts \u2018whole new mission\u2019 for drone defense at high-security events - DefenseScoop",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQmlnSUM0ekxueHBnNVJtWXl5UzRVM0x3MDFCeTJXX1lvTlNtbmF4bkNYeHlJN2VFU1BhZlRfQ0drUjZvTlBhOXlhX1lTdEtjUUVBcWhiZ3llY29QNjVzTWxxMXhHMWF0NWl5ZmJLUUc2NFBWdWFjQTBwT29ScHhVUDBwbWR5ME5nNzNLWkJfWWFCaVRpd2RYWjlCNU5BZw?oc=5",
       "published": "Tue, 21 Apr 2026 07:00:00 GMT",
@@ -116,10 +116,10 @@
       "source": "DefenseScoop"
     },
     {
-      "title": "EagleNXT Expands Counter-Drone Capabilities with Strategic Investment and U.S. Joint Venture - Dronelife",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRFh3ZnA3dDZGUUV5ZFBjZGVGMS1jUTlDZ2pGMTZqZm1EN2ktNGVnUXloVVNleDJmRE1iVUhaSG03aGIwamdEcVQzYTRfRkNndUxWbEtnRGNveWhhdE5BNGF5dmlqVDl1eUlDdHFjSWp1LVhob2VDcEVBdFcwVDRadDh4WGxZWnVPQkxF?oc=5",
-      "published": "Tue, 14 Apr 2026 07:00:00 GMT",
-      "source": "Dronelife"
+      "title": "Joint Task Force Commits Over $600 Million to Procure New Counter-UAS Capability - U.S. Department of War (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNNTVJQlR2ZFhDQW53NEExUDhES2t0X280STBOcjI3TGdVSVhua2ZWLWRRYzYzOXRvQVdTR2E0WFNjVzBLcWxvWm5mWEFZeC1CdVZuZUFjcThTLUhaVG42OWp2WUNZMEdnN3FmUGt2bENybzl3dThhLTBpcE8wbWlHU2JkUzZxZVJYaDFQaFIydnJRNmFBQVpZSHlJeVNVQ1NhSDR0QmxfR3JaMTRGMUJ2b2hJbHFzbU5mYjRUU2dwbzhpaXJicDI4U252ck5VM05oU0RzRlJkYkw1dw?oc=5",
+      "published": "Mon, 06 Apr 2026 07:00:00 GMT",
+      "source": "U.S. Department of War (.gov)"
     }
   ]
 }
