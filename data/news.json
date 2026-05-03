@@ -1,17 +1,29 @@
 {
-  "last_updated": "2026-05-03T09:47:12.416278",
+  "last_updated": "2026-05-03T10:40:15.319048",
   "articles": [
+    {
+      "title": "News - Joint Task Force test advances drone defenses - DVIDS",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPLXhFeUdDSXFYME1QNk9kdUNtelFWb0tNRFdnd3J1bERHWmpFNmExQjlWam9VNVUwSDBGRUJFTkd2MGt0ZERFajhUcHdQUFdFVlR6ZnM4VTg1Z1F6dW9nNVFFQjdWOUx0R2I4bkZGX0RoMTdLRF94MU91TVYwaXJRR21mQXZHUEdROHc?oc=5",
+      "published": "Fri, 01 May 2026 19:26:00 GMT",
+      "source": "DVIDS"
+    },
+    {
+      "title": "Marine division to get first-of-its-kind counter-drone training as officials signal \u2018significant concern\u2019 over defeating UAS - DefenseScoop",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZEs5RlYxZ0tkeFdIZElMVUM3X3hsekt4dW9ZanBMMElORTRxMXZsS1NiLUxmQ1dMRWJLUUNPSGN6RjRQVUpRaXhiTUQtRUJocFhoUUUyQnRuV3J0eFRoRGczYVJRaFZJdng5V2NpdEtTdmV6VjlMeWJ5ZjdwVWhOaV94dXZhdGUxTktUaUExNXBicjNOVUZZdWwwZVlZZTE1QVE?oc=5",
+      "published": "Tue, 28 Apr 2026 20:17:38 GMT",
+      "source": "DefenseScoop"
+    },
+    {
+      "title": "JIATF-401 Marketplace strengthens allies' defense against drone threats - army.mil",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUWhQbUJNcm4tem9XTnJBcjBmVjc1bUYtX1BOdlMzVmxjZmpOMm1sMmNKUmE3aGlKT2lQQTdESFRYME42UFYwbHhDNTdvcGl1OVliT3JVZVlBZl83U1lDODhMMTU0a2VJMTNMVFB4dlZGT0FzWWljOE9KZGRxTjZhTVJic2RPRFhNaGtnMGxPbFg0TU1wZUJNbktTLXo5UkFFaWNBN3NRWVZ6d9IBrwFBVV95cUxNb2dPQUkxMVdRR0w2ZGxVNEw4U0JxQkE1bXlZMGVWMmZiWmVESkI1S29lUXY4TDBWMm5lNjFlYjE3SXZwQ2tjcXNhSEUzanpBOWw0bFUyTzduaEs1TGhabmUxakFua0FJUFl2aDlIMW1hVmRySGs5bE81YnRsN1JFOExMR1c5SzVIMHVKZjhMUjEtYUFpM1h0UGNuaEZsZ2N6ajk4YUktMnBCbnhkMlRR?oc=5",
+      "published": "Wed, 29 Apr 2026 16:35:06 GMT",
+      "source": "army.mil"
+    },
     {
       "title": "Joint Interagency Task Force 401, Paratroopers Test New Counter-UAS - U.S. Department of War (.gov)",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcmotTWZIUmNrR0ttaHBEQW9EMGY1OTc1ZXZoRjNoY2Y4d21FS084NDl0bE43SHE4Nlh0X0l5a3ppMTU1b2pESnplV2VFa19ONHVubFk4X2tUWjFiakFfTlpFUWVNbDhaWEVxemY3YzVtYm9hTVpnNzBkd0U0SFREZTdaSzFrWElKdnRyd1BTbW5CSldHVVQ2ZEZtU0FpcnZuQ3drMktkajhocks0d0ZDT0NnZHljY3htZ0R6c1pzMGF6NEl6SjZkaA?oc=5",
       "published": "Wed, 29 Apr 2026 20:04:56 GMT",
       "source": "U.S. Department of War (.gov)"
-    },
-    {
-      "title": "UAS is \u2018the new\u2019 IED: Hung Cao urges industry to innovate faster against modern drone threats - DefenseScoop",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOaW80M3JJYlptOHhOcW9MSmdIWEpUT1JMcG0tMTNCMTZaM0hvMi1SSjV2WGdRNHJiU1Z5aHNVeXIwamRhR3Q1RWRleUtlWXVfbktTNURlQUVyRHFxRmI5TDFFeVVTeUZILXVkMUs5dlhsX01HeVhNQXZUTThsSWFibEZhdElJVjJHODBLb1BR?oc=5",
-      "published": "Tue, 28 Apr 2026 22:27:38 GMT",
-      "source": "DefenseScoop"
     },
     {
       "title": "Counter-drone system to be introduced for layered defense by AeroVironment - Military Embedded Systems",
@@ -38,12 +50,6 @@
       "source": "The Jerusalem Post"
     },
     {
-      "title": "JIATF-401, JTF-NCR strengthen homeland defense with counter-UAS training in National Capital Region - army.mil",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNdEM4b3g5bzBDV0JTVjhjVHhxNGJXd2NzdXZ3dUYxVE5YYy1UTUZvU3NLZlBWcFFNVHpYZkRjUXh4RnVGeWNieTh5clJWdUUyNHdhdlBBRVNvN2Nram9fWWZNeFF1UndzaEVrMUJYUWh6UVBGQ0FqZXZCak40ZXZORGF0YW54SFBfWnlzZU04RjlSVldidVpZSE5EVGpSazVoZXo4el80RG1DVmFHdVJaRHVmUVFVLWlIcjZwc3lyUE1mQ3FuM01kYm9mTGVzRnPSAdQBQVVfeXFMT1pCZ2NJSy0zSXI5dVRja2NXNDJQZlNaWW9JUzkzWDZIdWNGa3I0UUt5X1FqSGV2bjc1WDF5a1BMekptNkRXS29kZ3B4NmVsbWxEVnJWQ2JTSDYwMEJwTERLamZHUjFQVFdGT0lxdEs1dkQzT3Y3eWNncHhEcXh4dFZzN1cyclRsQ3hqVHA2cHJaWTFFT01haEU1R180dXFvYjlrcTVhMlZtSGJocDkzVXNLYU9WY2xDQ3p3ZVgtZWtocUJmbUo0WmRERGV6Tlo3MDNzTGI?oc=5",
-      "published": "Mon, 13 Apr 2026 07:00:00 GMT",
-      "source": "army.mil"
-    },
-    {
       "title": "U.S. Marines Evaluate Iron Shield Counter Drone System for Littoral and Coastal Base Defense - Army Recognition",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNRVM3U0lXWlFBbnJsR1M3N3FydC1vMXc1N0V2UVh6ZGl1d1RLdW5OS1lvenhhaEJ4S095VHRDUW5ieTdWU2l0a0NkcUlrVng5R3ZMVFB5WkhhdjNpaHpyeDlWX25mQ29TVE9sZkRQQWhkQXN4WWFYZy1jWDNUZ1RncFRWSERUWjVKV2RHWVZOaThwQlNlWlJyT0gwNXhxaEZIdEUta1c2RVBXcjlWd0F1VE9DQUhFREpLM2dIOFVNcXk0UVdDeXl3cGgwa3pWMmlTV0VheVln?oc=5",
       "published": "Thu, 30 Apr 2026 07:00:00 GMT",
@@ -56,10 +62,10 @@
       "source": "The Defence Blog"
     },
     {
-      "title": "Australia awards contracts for counter-drone tech based on lasers, interceptors - Defense News",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPdE1YNnJmUU9XSk1COHk4eXdKdDdINnMzMmx4b2h2dWY5TnJCMlR2QjFfVkdUcmJkOFFiZHByajNrSVpqNGM2YkFzMkVKMF81N282M09KSVkyX3h1Z0Q2R1ZTTFRwelB5OEJmcGdUcFA5SFRPeTlxNFoybGVvT0lsNDV1c2Q3RGh2Yk9GaXE1emxKYzMxSmZ0eU53R2V6bTUzRkhyRVJIaTkzMjRIVnYyeTZGRXkwVnBBWjIwZlp1V0lQd3JzbnNpT0N5RHlKWm1RM0c5bg?oc=5",
-      "published": "Fri, 24 Apr 2026 07:00:00 GMT",
-      "source": "Defense News"
+      "title": "UAS is \u2018the new\u2019 IED: Hung Cao urges industry to innovate faster against modern drone threats - DefenseScoop",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOaW80M3JJYlptOHhOcW9MSmdIWEpUT1JMcG0tMTNCMTZaM0hvMi1SSjV2WGdRNHJiU1Z5aHNVeXIwamRhR3Q1RWRleUtlWXVfbktTNURlQUVyRHFxRmI5TDFFeVVTeUZILXVkMUs5dlhsX01HeVhNQXZUTThsSWFibEZhdElJVjJHODBLb1BR?oc=5",
+      "published": "Tue, 28 Apr 2026 22:27:38 GMT",
+      "source": "DefenseScoop"
     },
     {
       "title": "Romania gains real-time access to US Counter-UAS Marketplace under new defense agreement - Romania Insider",
@@ -68,16 +74,16 @@
       "source": "Romania Insider"
     },
     {
-      "title": "U.S. military to continue dispatching counter-drone capabilities to the Middle East - DefenseScoop",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOY1ZGcm0xWmFSY19Scjl2ckhiZ1ZMOW52X2lXR3lSOWFIaFNWanZ3OVoxZE4zMG0xM1AtZnBwQTBqTWFZZjhJV2NETVR4dEk4cW1zNGFUREVuY09EMWdHb3FUVWg4VF9HTURJTi1zSFZidzM0ZGl4T0hTcm1PS1RBRlZGbDRnUU0?oc=5",
-      "published": "Fri, 10 Apr 2026 07:00:00 GMT",
-      "source": "DefenseScoop"
-    },
-    {
       "title": "Counter-UAS Marketplace Streamlines Acquisition, First Purchases Total $13 Million - U.S. Department of War (.gov)",
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQQjRPWHh5Z1JlZXJVWjAxSGE5dHUzeDI0OUt1eFp3cUVKV2VYWkNhUjBvNTRfTkVVdm1pUF96THB2a0RfbFZFY19zTkQ2OExva196NENfbTFKQWp4cFVvdUpmVHFvd1o4RmE5eXZHWXVWQUtuTU5qdE5YZ1ptcVpsTHVDTlZsRnBXdXJ1TlRBZ240Y1VqbVNPSlFrSWhYY04tNE9wU0Z5X0tIaFBnUTRXUG5CNkVWSTV1NzRYZTluN1ByWnpobmNSRGFtNVhUVG5sSnJyM2xkRWpXUFk?oc=5",
       "published": "Wed, 15 Apr 2026 07:00:00 GMT",
       "source": "U.S. Department of War (.gov)"
+    },
+    {
+      "title": "JIATF-401, JTF-NCR strengthen homeland defense with counter-UAS training in National Capital Region - army.mil",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNdEM4b3g5bzBDV0JTVjhjVHhxNGJXd2NzdXZ3dUYxVE5YYy1UTUZvU3NLZlBWcFFNVHpYZkRjUXh4RnVGeWNieTh5clJWdUUyNHdhdlBBRVNvN2Nram9fWWZNeFF1UndzaEVrMUJYUWh6UVBGQ0FqZXZCak40ZXZORGF0YW54SFBfWnlzZU04RjlSVldidVpZSE5EVGpSazVoZXo4el80RG1DVmFHdVJaRHVmUVFVLWlIcjZwc3lyUE1mQ3FuM01kYm9mTGVzRnPSAdQBQVVfeXFMT1pCZ2NJSy0zSXI5dVRja2NXNDJQZlNaWW9JUzkzWDZIdWNGa3I0UUt5X1FqSGV2bjc1WDF5a1BMekptNkRXS29kZ3B4NmVsbWxEVnJWQ2JTSDYwMEJwTERLamZHUjFQVFdGT0lxdEs1dkQzT3Y3eWNncHhEcXh4dFZzN1cyclRsQ3hqVHA2cHJaWTFFT01haEU1R180dXFvYjlrcTVhMlZtSGJocDkzVXNLYU9WY2xDQ3p3ZVgtZWtocUJmbUo0WmRERGV6Tlo3MDNzTGI?oc=5",
+      "published": "Mon, 13 Apr 2026 07:00:00 GMT",
+      "source": "army.mil"
     },
     {
       "title": "1st Cavalry Division tests 'Golden Shield' counter-drone system - army.mil",
@@ -110,16 +116,10 @@
       "source": "DefenseScoop"
     },
     {
-      "title": "Military marketplace for counter-drone tech makes its debut - DefenseScoop",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVXVKNGZfUXRBN2FKYWEwZHNabms0NXF4MFZjYnpfRllQLWxBcks3V044enp2Q0xDc1duNjNSWTFTM0Npd3hYcFJJZElkYUZxT3ctaHp3QmYyczRscVc2WW5VV1pQMkxiYWJOSXJ6U3htWkxXYlZtQi1FaUNRRUdJLXBzdFNBYThNb2Q0Q3NzQkRFS0FpSU9xTU5YcFpxVUNCZW95Nw?oc=5",
-      "published": "Wed, 25 Feb 2026 08:00:00 GMT",
-      "source": "DefenseScoop"
-    },
-    {
-      "title": "Pentagon counter-drone task force issues guidance on testing, federal surveillance laws - DefenseScoop",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMUIxUjJaX2pDV0czcDMxVXQwVWIyQ0xfZktfbDJ2UUcwZ29wX1dnWkZhMTNKRVdOMnpIcElRSG9vMmNUWmVfNDlRdGtob2hJZjhFOTRNNzROWHpPaDBweWQ2WG5GR05FdTRsRGlyc0RwN0Vybm9LVGt6QTJvV284Z3ZYYnVTYTh3SUxnNWZGTkFRTU9UaUk1SGRYd0F3dw?oc=5",
-      "published": "Tue, 10 Mar 2026 07:00:00 GMT",
-      "source": "DefenseScoop"
+      "title": "JIATF 401 Expands Counter-Drone Training, Bolsters Homeland Defense - U.S. Department of War (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNN3Q0czJ6R3BLT254aXI5Wm1MZi1NMUthRU1McTFuLTZXY2ZyQ2VlVTlWVFpjLUdObWZoNHZwRXBMdjRycE5UNU5hSXNpdkFRQXdyUy1wV2VQc1ZNRFAzTHBQRm9oanplc0JVSnllVFhzcFlFcGt2R19pVUhkT1FPeUpMLVNxakpwUHZfbW95bHpIbWc2aW9lWU96VVNXTWd1NXVXQi14YjNxRUczRlV1M2hDQUFadHV1NFRTQ2FLWjN1Q2lIRk51Sg?oc=5",
+      "published": "Tue, 17 Feb 2026 08:00:00 GMT",
+      "source": "U.S. Department of War (.gov)"
     }
   ]
 }
