@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-04T07:43:55.662632",
+  "last_updated": "2026-05-04T10:02:07.230109",
   "articles": [
     {
       "title": "News - Joint Task Force test advances drone defenses - DVIDS",
@@ -8,10 +8,10 @@
       "source": "DVIDS"
     },
     {
-      "title": "RAF Regiment Counter-UAS: Defending the Airspace and Turning Threat into Intelligence - sUAS News",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZEIwcXBlLXFOYlItV1FuTWNJdElrc2pHdlFHZnRtci1LYzB1LW9sSUZIaVIzWWpmaVdEXzk3bFA4Mk9tSWJ1LVFHVXFnVFpIdmN2QlZkNUNTY2VsTjVoVHFrYW5nYW9VMXZMUVNsVEtJMUtzaDRZcWtmaGhTNThvV2MzXzNKMGRFX0tESFVwYzVMWUR3NGFyWkx4WWxvZjRCWUZLUXpZYUw4YW9CcVdBN0ZpUTlheC1iYWc?oc=5",
-      "published": "Sun, 03 May 2026 13:50:26 GMT",
-      "source": "sUAS News"
+      "title": "U.S. And UK Forces Use FlyTrap 5.0 Counter-Drone Exercise To Shape NATO Eastern Flank Air Defense Doctrine - Army Recognition",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOXzU0bGFQdGYwQVM1b0VLRjVzX0F6ZXk1aDVib0RGVkdvTnVyUkw2OUZYU3F3cktERkJrRGZhYmpuMkJOcGhpM1NLX2RZWW1abUVTRGU2WXJoZXJmRzdrLW85VHFlZ0wteWw0WUJPZS1JUFg2SlN6M0U3WWNsWnRPMTJKZUlPVUhfaDVFVmVXaGVrZ2dsNzBiNzlBS2VORUhJR1VFV0IxdEk3MGNOYkVJV0pPUzBrNFR0V2d3WHhTa2w2YWRCVnNhZDJ1dFh6cllSNnJCUDVPQUxwNWdEN2I0WWZVQk5JRS1TdlU2cUln?oc=5",
+      "published": "Mon, 04 May 2026 08:39:33 GMT",
+      "source": "Army Recognition"
     },
     {
       "title": "JIATF-401 Marketplace strengthens allies' defense against drone threats - army.mil",
@@ -26,9 +26,15 @@
       "source": "U.S. Department of War (.gov)"
     },
     {
-      "title": "Marine division to get first-of-its-kind counter-drone training as officials signal \u2018significant concern\u2019 over defeating UAS - DefenseScoop",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZEs5RlYxZ0tkeFdIZElMVUM3X3hsekt4dW9ZanBMMElORTRxMXZsS1NiLUxmQ1dMRWJLUUNPSGN6RjRQVUpRaXhiTUQtRUJocFhoUUUyQnRuV3J0eFRoRGczYVJRaFZJdng5V2NpdEtTdmV6VjlMeWJ5ZjdwVWhOaV94dXZhdGUxTktUaUExNXBicjNOVUZZdWwwZVlZZTE1QVE?oc=5",
-      "published": "Tue, 28 Apr 2026 20:18:12 GMT",
+      "title": "RAF Regiment Counter-UAS: Defending the Airspace and Turning Threat into Intelligence - sUAS News",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZEIwcXBlLXFOYlItV1FuTWNJdElrc2pHdlFHZnRtci1LYzB1LW9sSUZIaVIzWWpmaVdEXzk3bFA4Mk9tSWJ1LVFHVXFnVFpIdmN2QlZkNUNTY2VsTjVoVHFrYW5nYW9VMXZMUVNsVEtJMUtzaDRZcWtmaGhTNThvV2MzXzNKMGRFX0tESFVwYzVMWUR3NGFyWkx4WWxvZjRCWUZLUXpZYUw4YW9CcVdBN0ZpUTlheC1iYWc?oc=5",
+      "published": "Sun, 03 May 2026 13:50:26 GMT",
+      "source": "sUAS News"
+    },
+    {
+      "title": "UAS is \u2018the new\u2019 IED: Hung Cao urges industry to innovate faster against modern drone threats - DefenseScoop",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOaW80M3JJYlptOHhOcW9MSmdIWEpUT1JMcG0tMTNCMTZaM0hvMi1SSjV2WGdRNHJiU1Z5aHNVeXIwamRhR3Q1RWRleUtlWXVfbktTNURlQUVyRHFxRmI5TDFFeVVTeUZILXVkMUs5dlhsX01HeVhNQXZUTThsSWFibEZhdElJVjJHODBLb1BR?oc=5",
+      "published": "Tue, 28 Apr 2026 22:27:38 GMT",
       "source": "DefenseScoop"
     },
     {
@@ -40,7 +46,7 @@
     {
       "title": "Counter-drone system to be introduced for layered defense by AeroVironment - Military Embedded Systems",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVFZPSWRQSUlFeWNTdUtNNUlubXhMQnprNkc1MEEzTDNGTWdHdU1zLVBnbWkxT0lQYVVFZlVma2RVSWJzamlsWlN0SERnWHhZeUloRmRFRWIzLXc5Um45QUxuZlExRi0zOGhYdVJlenVDa1p3T0JjMTU3azRER0hyWWhhZjVaRVBnTmRyejNBX0VpYWJ6S09IanlaN0tHaDJtLS1TQXNwRlowTWZ5eHZYWXUwSjY4UFFraDJOOW1tT1dfZw?oc=5",
-      "published": "Wed, 29 Apr 2026 19:48:27 GMT",
+      "published": "Wed, 29 Apr 2026 19:49:07 GMT",
       "source": "Military Embedded Systems"
     },
     {
@@ -68,9 +74,9 @@
       "source": "The Defence Blog"
     },
     {
-      "title": "UAS is \u2018the new\u2019 IED: Hung Cao urges industry to innovate faster against modern drone threats - DefenseScoop",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOaW80M3JJYlptOHhOcW9MSmdIWEpUT1JMcG0tMTNCMTZaM0hvMi1SSjV2WGdRNHJiU1Z5aHNVeXIwamRhR3Q1RWRleUtlWXVfbktTNURlQUVyRHFxRmI5TDFFeVVTeUZILXVkMUs5dlhsX01HeVhNQXZUTThsSWFibEZhdElJVjJHODBLb1BR?oc=5",
-      "published": "Tue, 28 Apr 2026 22:27:38 GMT",
+      "title": "U.S. military to continue dispatching counter-drone capabilities to the Middle East - DefenseScoop",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOY1ZGcm0xWmFSY19Scjl2ckhiZ1ZMOW52X2lXR3lSOWFIaFNWanZ3OVoxZE4zMG0xM1AtZnBwQTBqTWFZZjhJV2NETVR4dEk4cW1zNGFUREVuY09EMWdHb3FUVWg4VF9HTURJTi1zSFZidzM0ZGl4T0hTcm1PS1RBRlZGbDRnUU0?oc=5",
+      "published": "Fri, 10 Apr 2026 07:00:00 GMT",
       "source": "DefenseScoop"
     },
     {
@@ -114,12 +120,6 @@
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaGFTV2c1MDhWcFRCR1hDV1M1WFBBenVXSGVYanJnOGlzX1JNTFBueE5GdHhxRlFlMS1KME1HRFRkTEtKN0ZkanNwb21qQ25mUGt6RG5nR2FELXlXdVA1YTF2UDE4SmRKdHBpSy1tVUttdEVzRzNabHc4SVNNbGtXdWpHYUtfTTZSTGhNVGZFQQ?oc=5",
       "published": "Mon, 13 Apr 2026 07:00:00 GMT",
       "source": "DefenseScoop"
-    },
-    {
-      "title": "Joint Task Force Commits Over $600 Million to Procure New Counter-UAS Capability - U.S. Department of War (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNNTVJQlR2ZFhDQW53NEExUDhES2t0X280STBOcjI3TGdVSVhua2ZWLWRRYzYzOXRvQVdTR2E0WFNjVzBLcWxvWm5mWEFZeC1CdVZuZUFjcThTLUhaVG42OWp2WUNZMEdnN3FmUGt2bENybzl3dThhLTBpcE8wbWlHU2JkUzZxZVJYaDFQaFIydnJRNmFBQVpZSHlJeVNVQ1NhSDR0QmxfR3JaMTRGMUJ2b2hJbHFzbU5mYjRUU2dwbzhpaXJicDI4U252ck5VM05oU0RzRlJkYkw1dw?oc=5",
-      "published": "Mon, 06 Apr 2026 07:00:00 GMT",
-      "source": "U.S. Department of War (.gov)"
     }
   ]
 }
