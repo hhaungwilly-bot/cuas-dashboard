@@ -1,17 +1,17 @@
 {
-  "last_updated": "2026-05-04T10:02:07.230109",
+  "last_updated": "2026-05-04T12:02:33.526977",
   "articles": [
+    {
+      "title": "DroneShield and Terma Sign Strategic MoU to Strengthen Layered Counter-UAS Defense Capabilities - uasweekly.com",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPek9MUnRQTXJiV09mZ2xhMWRpZzNWdDlMdHJpTGNLTlVoTXNMWDhESVBwNEVoRjdmUmNyYmQtSk43bGhBWktCb0hmRlNlVHlnSHFhYVBadzdjREo3aUlWX2FJdTRVTnQ4Zlg5WkZ2UHVmOVhmbXhXamtXb3pmWVNNV1M5UjhCUW1FOW56VHl6eHRyWGtXZGNlVHNmMER3bGp4am85NGtRMVVmelVrZW5iN3R1aGNhQXc4YjlWTGJTV3lJbVQ4MG1rWA?oc=5",
+      "published": "Mon, 04 May 2026 10:53:06 GMT",
+      "source": "uasweekly.com"
+    },
     {
       "title": "News - Joint Task Force test advances drone defenses - DVIDS",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPLXhFeUdDSXFYME1QNk9kdUNtelFWb0tNRFdnd3J1bERHWmpFNmExQjlWam9VNVUwSDBGRUJFTkd2MGt0ZERFajhUcHdQUFdFVlR6ZnM4VTg1Z1F6dW9nNVFFQjdWOUx0R2I4bkZGX0RoMTdLRF94MU91TVYwaXJRR21mQXZHUEdROHc?oc=5",
       "published": "Fri, 01 May 2026 19:26:00 GMT",
       "source": "DVIDS"
-    },
-    {
-      "title": "U.S. And UK Forces Use FlyTrap 5.0 Counter-Drone Exercise To Shape NATO Eastern Flank Air Defense Doctrine - Army Recognition",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOXzU0bGFQdGYwQVM1b0VLRjVzX0F6ZXk1aDVib0RGVkdvTnVyUkw2OUZYU3F3cktERkJrRGZhYmpuMkJOcGhpM1NLX2RZWW1abUVTRGU2WXJoZXJmRzdrLW85VHFlZ0wteWw0WUJPZS1JUFg2SlN6M0U3WWNsWnRPMTJKZUlPVUhfaDVFVmVXaGVrZ2dsNzBiNzlBS2VORUhJR1VFV0IxdEk3MGNOYkVJV0pPUzBrNFR0V2d3WHhTa2w2YWRCVnNhZDJ1dFh6cllSNnJCUDVPQUxwNWdEN2I0WWZVQk5JRS1TdlU2cUln?oc=5",
-      "published": "Mon, 04 May 2026 08:39:33 GMT",
-      "source": "Army Recognition"
     },
     {
       "title": "JIATF-401 Marketplace strengthens allies' defense against drone threats - army.mil",
@@ -24,6 +24,12 @@
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcmotTWZIUmNrR0ttaHBEQW9EMGY1OTc1ZXZoRjNoY2Y4d21FS084NDl0bE43SHE4Nlh0X0l5a3ppMTU1b2pESnplV2VFa19ONHVubFk4X2tUWjFiakFfTlpFUWVNbDhaWEVxemY3YzVtYm9hTVpnNzBkd0U0SFREZTdaSzFrWElKdnRyd1BTbW5CSldHVVQ2ZEZtU0FpcnZuQ3drMktkajhocks0d0ZDT0NnZHljY3htZ0R6c1pzMGF6NEl6SjZkaA?oc=5",
       "published": "Wed, 29 Apr 2026 20:04:56 GMT",
       "source": "U.S. Department of War (.gov)"
+    },
+    {
+      "title": "U.S. And UK Forces Use FlyTrap 5.0 Counter-Drone Exercise To Shape NATO Eastern Flank Air Defense Doctrine - Army Recognition",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOXzU0bGFQdGYwQVM1b0VLRjVzX0F6ZXk1aDVib0RGVkdvTnVyUkw2OUZYU3F3cktERkJrRGZhYmpuMkJOcGhpM1NLX2RZWW1abUVTRGU2WXJoZXJmRzdrLW85VHFlZ0wteWw0WUJPZS1JUFg2SlN6M0U3WWNsWnRPMTJKZUlPVUhfaDVFVmVXaGVrZ2dsNzBiNzlBS2VORUhJR1VFV0IxdEk3MGNOYkVJV0pPUzBrNFR0V2d3WHhTa2w2YWRCVnNhZDJ1dFh6cllSNnJCUDVPQUxwNWdEN2I0WWZVQk5JRS1TdlU2cUln?oc=5",
+      "published": "Mon, 04 May 2026 08:39:33 GMT",
+      "source": "Army Recognition"
     },
     {
       "title": "RAF Regiment Counter-UAS: Defending the Airspace and Turning Threat into Intelligence - sUAS News",
@@ -68,12 +74,6 @@
       "source": "The Jerusalem Post"
     },
     {
-      "title": "ThinKom\u2019s truck-mounted microwave gun fries drones at U.S. Army test - The Defence Blog",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSXd4WWFEaDNkWFdILWgwNlhkWWhKRmZlcmtFWURBbzBiV2tKU1pDaGVleEQtQlFtZmVGZmJESTA4b3h5d2UwcHpUc1VHUEpuem1mTkdFQWh1RGhxd013OTBvdERaVjJORlNhYkFLYUg4SncxeVdNekstMm0tTE1pV1k1Smg4ODVkWldZZWlSS3UxUkYyNk9z0gGcAUFVX3lxTE9tbTNUZFRxRXZNa1BQVzIxV0NlUnN6ZV80R2RFRjZLRUxRTmhzMDBuanlVVUk0cGVGbHIzM0Q0b2gteVhjUlhEQW9JZktPWjNLM2N5azFTOUFTbVEtQ3hKcnMwc09ReG9XdWdTSXp1MWpmbXl3X0JDRW9xM0dCMUVyNmFMV0dVRDlkSC1rMzlYdFVKUTV0TXdxY2laWg?oc=5",
-      "published": "Thu, 30 Apr 2026 14:39:55 GMT",
-      "source": "The Defence Blog"
-    },
-    {
       "title": "U.S. military to continue dispatching counter-drone capabilities to the Middle East - DefenseScoop",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOY1ZGcm0xWmFSY19Scjl2ckhiZ1ZMOW52X2lXR3lSOWFIaFNWanZ3OVoxZE4zMG0xM1AtZnBwQTBqTWFZZjhJV2NETVR4dEk4cW1zNGFUREVuY09EMWdHb3FUVWg4VF9HTURJTi1zSFZidzM0ZGl4T0hTcm1PS1RBRlZGbDRnUU0?oc=5",
       "published": "Fri, 10 Apr 2026 07:00:00 GMT",
@@ -116,10 +116,10 @@
       "source": "DefenseScoop"
     },
     {
-      "title": "Pentagon, FAA sign safety agreement over counter-drone laser - DefenseScoop",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaGFTV2c1MDhWcFRCR1hDV1M1WFBBenVXSGVYanJnOGlzX1JNTFBueE5GdHhxRlFlMS1KME1HRFRkTEtKN0ZkanNwb21qQ25mUGt6RG5nR2FELXlXdVA1YTF2UDE4SmRKdHBpSy1tVUttdEVzRzNabHc4SVNNbGtXdWpHYUtfTTZSTGhNVGZFQQ?oc=5",
-      "published": "Mon, 13 Apr 2026 07:00:00 GMT",
-      "source": "DefenseScoop"
+      "title": "ThinKom\u2019s truck-mounted microwave gun fries drones at U.S. Army test - The Defence Blog",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSXd4WWFEaDNkWFdILWgwNlhkWWhKRmZlcmtFWURBbzBiV2tKU1pDaGVleEQtQlFtZmVGZmJESTA4b3h5d2UwcHpUc1VHUEpuem1mTkdFQWh1RGhxd013OTBvdERaVjJORlNhYkFLYUg4SncxeVdNekstMm0tTE1pV1k1Smg4ODVkWldZZWlSS3UxUkYyNk9z0gGcAUFVX3lxTE9tbTNUZFRxRXZNa1BQVzIxV0NlUnN6ZV80R2RFRjZLRUxRTmhzMDBuanlVVUk0cGVGbHIzM0Q0b2gteVhjUlhEQW9JZktPWjNLM2N5azFTOUFTbVEtQ3hKcnMwc09ReG9XdWdTSXp1MWpmbXl3X0JDRW9xM0dCMUVyNmFMV0dVRDlkSC1rMzlYdFVKUTV0TXdxY2laWg?oc=5",
+      "published": "Thu, 30 Apr 2026 14:39:55 GMT",
+      "source": "The Defence Blog"
     }
   ]
 }
