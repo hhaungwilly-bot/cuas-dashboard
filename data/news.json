@@ -1,6 +1,12 @@
 {
-  "last_updated": "2026-05-08T17:05:01.888459",
+  "last_updated": "2026-05-08T18:21:53.738081",
   "articles": [
+    {
+      "title": "U.S. Military selects first bases for directed-energy counter-drone program - UAS Magazine",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYTBSSlZTWElOU015U0xMVTZNYVRwVFhYZ25fSEEyMHVaWjJEYm1QcHVWd0NCVG84MGxvUFhxVWJfZi1WN1JTcWZuZWg5OUMtNHIyd3BIRU52bFhwS0t4cG9SR0dSaW01RFJ4QTNUVHphZXRFRVF6WlQ5UjZVZUtrekVtUlhaQTI3Rm9YMm51eG1teWFUUXNNTy1lbVdnTTN4ZUI0ZHB5Zk1EUQ?oc=5",
+      "published": "Fri, 08 May 2026 17:46:17 GMT",
+      "source": "UAS Magazine"
+    },
     {
       "title": "Site Selections Announced for Directed-Energy Counter-Drone Program - U.S. Department of War (.gov)",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZy0zSHpoNXJ2YlZDUGZvdG0xRHR3TTI1bVhmMGdxdE0wNnFmN2p6OVdlTHVzLWQtUXFjVVVONlpHUktBakNGeVk3SnJOdnF0WFBlc0JyekFwa2pCUUM1bkFxbXdhNkc5aHFQNkZPVTM2V0NTLXZHZHVZMF9tYzhEcXlwRzVqMVdPTDQzZUM1SVVDTEdwSG56SThrYnV5c29XcWxzQVV3elRqeUhGVVItaU8xTFhFX2V0NTRENlFfaU10a2lhSUZXY3F3?oc=5",
@@ -86,9 +92,9 @@
       "source": "Dronelife"
     },
     {
-      "title": "U.S. Army evaluates JLTV-based RAD counter-drone system - The Defence Blog",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNk9uakhJTnJkUEZ1ZXFTSE1PaHJ2MmtCY2h3Ty1sanB2V3dhZzZ5eGhBN240LUNWd1pDNEpqV3NkMkhwSWFjSEZwbzVMb0tEdmJEdl9YV0tMb2hrTlp2cjhJdDVQSnN0bWV6MjhMc1JZT1YwQjdmTkpYUXhWdUdoUkVidGdEeVXSAYwBQVVfeXFMTXM5a1NqRnhQQUVXUHh3czJYVTdROHQzWkJnazcxS2dDZkRXd3hfTjdLN0dILUVpVWFDbDY4Y0pteWluTVY3MFdvMzVqNzdGcnkxVnltV1F4bE54b19sTnNCN1RkQm81WFFxdFlOSEluOE10ZmRXVEI5djdzMjlrN2RZYU1HZW4yejBnUE4?oc=5",
-      "published": "Thu, 07 May 2026 18:46:41 GMT",
+      "title": "Russia develops new jammer to counter FPV drone attacks - The Defence Blog",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRHNGYjN3LW9OZzlsWVFaNmhtN2Rmc1lSbllFa2J6eUJlRzBNVGpBdnh5RnlLUVBucDNRTmtpNWYtUzNFTWtKdVNuUWEybzh6UzE3UlRPQlA2LXJHYWExSHhqM1YxZm45XzBwcUdFVUV1b1pJX09LRGNKcG5zTkVOTGFxUldNdHNU0gGOAUFVX3lxTE1Ka3lTV3owTnJiZTlXS0NGX05JRW1FUkxFcE8yUFJWbi15cF9NbkF0SWZfNUk0UGY2Nms4VDc1S0hmRzJoX1NBbXd3b0UzZGJTMmJ0TTRTa0NSWEdjdUJ4T1dEMmN6ZnhfcFdCZXUzZGJEY2RjU3pkSXkyMG8xRDNuQTN2VmhrZ1BOeU05QXc?oc=5",
+      "published": "Tue, 05 May 2026 08:30:51 GMT",
       "source": "The Defence Blog"
     },
     {
@@ -104,22 +110,16 @@
       "source": "army.mil"
     },
     {
+      "title": "U.S. Army evaluates JLTV-based RAD counter-drone system - The Defence Blog",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNk9uakhJTnJkUEZ1ZXFTSE1PaHJ2MmtCY2h3Ty1sanB2V3dhZzZ5eGhBN240LUNWd1pDNEpqV3NkMkhwSWFjSEZwbzVMb0tEdmJEdl9YV0tMb2hrTlp2cjhJdDVQSnN0bWV6MjhMc1JZT1YwQjdmTkpYUXhWdUdoUkVidGdEeVXSAYwBQVVfeXFMTXM5a1NqRnhQQUVXUHh3czJYVTdROHQzWkJnazcxS2dDZkRXd3hfTjdLN0dILUVpVWFDbDY4Y0pteWluTVY3MFdvMzVqNzdGcnkxVnltV1F4bE54b19sTnNCN1RkQm81WFFxdFlOSEluOE10ZmRXVEI5djdzMjlrN2RZYU1HZW4yejBnUE4?oc=5",
+      "published": "Thu, 07 May 2026 18:46:41 GMT",
+      "source": "The Defence Blog"
+    },
+    {
       "title": "Joint Interagency Task Force 401, Paratroopers Test New Counter-UAS - U.S. Department of War (.gov)",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcmotTWZIUmNrR0ttaHBEQW9EMGY1OTc1ZXZoRjNoY2Y4d21FS084NDl0bE43SHE4Nlh0X0l5a3ppMTU1b2pESnplV2VFa19ONHVubFk4X2tUWjFiakFfTlpFUWVNbDhaWEVxemY3YzVtYm9hTVpnNzBkd0U0SFREZTdaSzFrWElKdnRyd1BTbW5CSldHVVQ2ZEZtU0FpcnZuQ3drMktkajhocks0d0ZDT0NnZHljY3htZ0R6c1pzMGF6NEl6SjZkaA?oc=5",
       "published": "Wed, 29 Apr 2026 20:04:56 GMT",
       "source": "U.S. Department of War (.gov)"
-    },
-    {
-      "title": "Russia develops new jammer to counter FPV drone attacks - The Defence Blog",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRHNGYjN3LW9OZzlsWVFaNmhtN2Rmc1lSbllFa2J6eUJlRzBNVGpBdnh5RnlLUVBucDNRTmtpNWYtUzNFTWtKdVNuUWEybzh6UzE3UlRPQlA2LXJHYWExSHhqM1YxZm45XzBwcUdFVUV1b1pJX09LRGNKcG5zTkVOTGFxUldNdHNU0gGOAUFVX3lxTE1Ka3lTV3owTnJiZTlXS0NGX05JRW1FUkxFcE8yUFJWbi15cF9NbkF0SWZfNUk0UGY2Nms4VDc1S0hmRzJoX1NBbXd3b0UzZGJTMmJ0TTRTa0NSWEdjdUJ4T1dEMmN6ZnhfcFdCZXUzZGJEY2RjU3pkSXkyMG8xRDNuQTN2VmhrZ1BOeU05QXc?oc=5",
-      "published": "Tue, 05 May 2026 08:30:51 GMT",
-      "source": "The Defence Blog"
-    },
-    {
-      "title": "Army leans on counter-drone marketplace to help address \u2018high security concerns\u2019 for upcoming stateside events - DefenseScoop",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOV0hXWS1IZU5QNHVxQ2xJT0dxM0Y0OTNrS3NZSlB2RWwyTHNtYnFBZWtkbWh4RGxxaUNZd2U3dnpUTHdlQTc1Tjlac3ZDZjVlaU13WmJMa3hnRGZieDRwaTlqSlZiTmIxVk9BMGF3dF9jTkZhd054d2JTTjRjbktYQkcxMUdnOVI1T1lqVTZVN3FCVzR1TUtSZzhUNXR4NWRNenA3bTAwaUQ?oc=5",
-      "published": "Thu, 16 Apr 2026 07:00:00 GMT",
-      "source": "DefenseScoop"
     }
   ]
 }
