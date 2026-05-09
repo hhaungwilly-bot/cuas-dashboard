@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-09T11:04:26.811352",
+  "last_updated": "2026-05-09T11:58:19.888909",
   "articles": [
     {
       "title": "Pentagon counter-drone task force announces pilot program to get directed energy systems to 5 installations - DefenseScoop",
@@ -80,12 +80,6 @@
       "source": "Army Recognition"
     },
     {
-      "title": "DroneShield and Terma Partner on Counter UAS Tech - Security Today",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNd3ROOXg1TXphNE1kTVN0c2sxd25RT2N1MG9IcVRjbWw4a0xYM1Ryd2FFUXZHSGh4UEZSZnFaLWhoNFo5MDZZeGxzSFRVUE8tLTJyemIyVUpzRE81U0o3bjhrU2JzZVM5WlFkYzVCUUI1Q0cwdmdFRUg1WTZncVh5bjJ3bTJKTDZSR3h1ZGM4UEhVQUpXT3BaQkRQc2g1cFhLZm1iNnR3LXBrRTQzcWxISlRsTmZVem95ZHlDV3l0cnI?oc=5",
-      "published": "Mon, 04 May 2026 07:00:00 GMT",
-      "source": "Security Today"
-    },
-    {
       "title": "\u201cMuch Bigger Than Stadiums\u201d: Fortem CEO Raises Concerns Over U.S. Counter-UAS Gaps - Dronelife",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5QOHlaNVAteDRjcVhIdUxFUHBvcmxxTWtuNG9oeWZZU2tQQkFQZ0ROaEQzVV9kd1BzS3YyN1hQTVBWakZwd0w5QmRhSHdRcldvc2w0aU80UUszTVVrOThsM05hQXYwdVlnbzVONW93?oc=5",
       "published": "Mon, 04 May 2026 17:42:02 GMT",
@@ -116,10 +110,16 @@
       "source": "The Defence Blog"
     },
     {
-      "title": "Joint Interagency Task Force 401, Paratroopers Test New Counter-UAS - U.S. Department of War (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcmotTWZIUmNrR0ttaHBEQW9EMGY1OTc1ZXZoRjNoY2Y4d21FS084NDl0bE43SHE4Nlh0X0l5a3ppMTU1b2pESnplV2VFa19ONHVubFk4X2tUWjFiakFfTlpFUWVNbDhaWEVxemY3YzVtYm9hTVpnNzBkd0U0SFREZTdaSzFrWElKdnRyd1BTbW5CSldHVVQ2ZEZtU0FpcnZuQ3drMktkajhocks0d0ZDT0NnZHljY3htZ0R6c1pzMGF6NEl6SjZkaA?oc=5",
-      "published": "Wed, 29 Apr 2026 20:04:56 GMT",
-      "source": "U.S. Department of War (.gov)"
+      "title": "Coast Guard adopts \u2018whole new mission\u2019 for drone defense at high-security events - DefenseScoop",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQmlnSUM0ekxueHBnNVJtWXl5UzRVM0x3MDFCeTJXX1lvTlNtbmF4bkNYeHlJN2VFU1BhZlRfQ0drUjZvTlBhOXlhX1lTdEtjUUVBcWhiZ3llY29QNjVzTWxxMXhHMWF0NWl5ZmJLUUc2NFBWdWFjQTBwT29ScHhVUDBwbWR5ME5nNzNLWkJfWWFCaVRpd2RYWjlCNU5BZw?oc=5",
+      "published": "Tue, 21 Apr 2026 07:00:00 GMT",
+      "source": "DefenseScoop"
+    },
+    {
+      "title": "DroneShield and Terma Partner on Counter UAS Tech - Security Today",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNd3ROOXg1TXphNE1kTVN0c2sxd25RT2N1MG9IcVRjbWw4a0xYM1Ryd2FFUXZHSGh4UEZSZnFaLWhoNFo5MDZZeGxzSFRVUE8tLTJyemIyVUpzRE81U0o3bjhrU2JzZVM5WlFkYzVCUUI1Q0cwdmdFRUg1WTZncVh5bjJ3bTJKTDZSR3h1ZGM4UEhVQUpXT3BaQkRQc2g1cFhLZm1iNnR3LXBrRTQzcWxISlRsTmZVem95ZHlDV3l0cnI?oc=5",
+      "published": "Mon, 04 May 2026 07:00:00 GMT",
+      "source": "Security Today"
     }
   ]
 }
