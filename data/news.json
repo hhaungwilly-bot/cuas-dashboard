@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-31T09:19:34.276751",
+  "last_updated": "2026-05-31T11:11:50.254598",
   "articles": [
     {
       "title": "JIATF 401 Drone Defense Marketplace Broadens Allied Access to Counter-Drone Capabilities - U.S. Department of War (.gov)",
@@ -32,12 +32,6 @@
       "source": "The Jerusalem Post"
     },
     {
-      "title": "RAF Regiment Counter-UAS: Defending the Airspace and Turning Threat into Intelligence - sUAS News",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZEIwcXBlLXFOYlItV1FuTWNJdElrc2pHdlFHZnRtci1LYzB1LW9sSUZIaVIzWWpmaVdEXzk3bFA4Mk9tSWJ1LVFHVXFnVFpIdmN2QlZkNUNTY2VsTjVoVHFrYW5nYW9VMXZMUVNsVEtJMUtzaDRZcWtmaGhTNThvV2MzXzNKMGRFX0tESFVwYzVMWUR3NGFyWkx4WWxvZjRCWUZLUXpZYUw4YW9CcVdBN0ZpUTlheC1iYWc?oc=5",
-      "published": "Wed, 27 May 2026 04:33:48 GMT",
-      "source": "sUAS News"
-    },
-    {
       "title": "U.S. Army Expands Drone Defense Marketplace to More Allies - AFCEA International",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWXZYTTF0VFpQZmg4Q1paNEtPc0VxRDNyWnI2VWJuVGNoUWROd1BZTlA3RElnTTJEdl90OTMySDA4Vm9aV0Rzc2hfUDNic2R4MXhyWWZOMGFsUERRWk5hbTlhTnY3ODhmaG5TN1o1aV9FU3RWbDBXQkRFX1B0UlFkcGxuQWg2R25kc29XeW82ZDdfdw?oc=5",
       "published": "Wed, 20 May 2026 07:00:00 GMT",
@@ -60,6 +54,12 @@
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPeHpzWWhWenZpVDVvdTYxN2VUTE9aR1VLbGg3c0hBRHQ2TElGY3hiT1FrT1owWE5KNDlZdUVRamNXcUs4VUJUNUx2cXhEWm9lMVRZN1k5WGVod0RaZzhrWnhiWU5iMFZ3YnF3WWFCUnBFM2FrbllGOXk1SWF3b3hvTWFEbHd4YUZiMGtyc0pXb05UMVlhc2FtSVNoZkd2cm5UQUdjNWZUQQ?oc=5",
       "published": "Tue, 12 May 2026 07:00:00 GMT",
       "source": "Yahoo Finance"
+    },
+    {
+      "title": "Drone Dominance: 8 Key Initiatives Advancing the Army\u2019s UAS & Counter-UAS Capabilities - executivegov.com",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQOVdVY1JHamJZLXJFQUxWOTVYMjRaS3Y2LTRyeXJsTXR4UTNRLVRxNElfZHA5bUtabGVQaGNfT2JXbmZhczdaOE80ajJFOEJGdU1BcmtWUkZ2blBxUFJlc2JOS2QzWHE2MU5pcFdWYkt4MWNHLTBfTVBpZU91enpDUk1mYTZTX2FqVldmVmRJZw?oc=5",
+      "published": "Wed, 20 May 2026 19:56:22 GMT",
+      "source": "executivegov.com"
     },
     {
       "title": "Counter-Drone Procurement Goes Generational - TradingView",
@@ -104,6 +104,12 @@
       "source": "army.mil"
     },
     {
+      "title": "Army flexes additive manufacturing capabilities during Flytrap counter-drone exercise - DefenseScoop",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQakNSRlJUekVrcEdXd0ViV2FZN2xveW5QeDlEQUVjckNrTlJYVHBtUi0xU2VaWlVhLWg1RGlRdFgxeUZQd2ZJY0FrQ1hVOExRQXlqdWRfUm9aV0ltOEpkSDVRYXN2S0xqVlV6Rmp3cUo1TU9oSE9jTGFScDlISkx0dHBWS3Q3T29jQnFFTld1NHEydTF2TURUTC0xRQ?oc=5",
+      "published": "Thu, 14 May 2026 07:00:00 GMT",
+      "source": "DefenseScoop"
+    },
+    {
       "title": "Military marketplace for counter-drone tech makes its debut - DefenseScoop",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVXVKNGZfUXRBN2FKYWEwZHNabms0NXF4MFZjYnpfRllQLWxBcks3V044enp2Q0xDc1duNjNSWTFTM0Npd3hYcFJJZElkYUZxT3ctaHp3QmYyczRscVc2WW5VV1pQMkxiYWJOSXJ6U3htWkxXYlZtQi1FaUNRRUdJLXBzdFNBYThNb2Q0Q3NzQkRFS0FpSU9xTU5YcFpxVUNCZW95Nw?oc=5",
       "published": "Wed, 25 Feb 2026 08:00:00 GMT",
@@ -113,12 +119,6 @@
       "title": "Coast Guard adopts \u2018whole new mission\u2019 for drone defense at high-security events - DefenseScoop",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQmlnSUM0ekxueHBnNVJtWXl5UzRVM0x3MDFCeTJXX1lvTlNtbmF4bkNYeHlJN2VFU1BhZlRfQ0drUjZvTlBhOXlhX1lTdEtjUUVBcWhiZ3llY29QNjVzTWxxMXhHMWF0NWl5ZmJLUUc2NFBWdWFjQTBwT29ScHhVUDBwbWR5ME5nNzNLWkJfWWFCaVRpd2RYWjlCNU5BZw?oc=5",
       "published": "Tue, 21 Apr 2026 07:00:00 GMT",
-      "source": "DefenseScoop"
-    },
-    {
-      "title": "Pentagon counter-drone task force issues guidance on testing, federal surveillance laws - DefenseScoop",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMUIxUjJaX2pDV0czcDMxVXQwVWIyQ0xfZktfbDJ2UUcwZ29wX1dnWkZhMTNKRVdOMnpIcElRSG9vMmNUWmVfNDlRdGtob2hJZjhFOTRNNzROWHpPaDBweWQ2WG5GR05FdTRsRGlyc0RwN0Vybm9LVGt6QTJvV284Z3ZYYnVTYTh3SUxnNWZGTkFRTU9UaUk1SGRYd0F3dw?oc=5",
-      "published": "Tue, 10 Mar 2026 07:00:00 GMT",
       "source": "DefenseScoop"
     }
   ]
