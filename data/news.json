@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-13T17:25:16.873166",
+  "last_updated": "2026-06-13T18:52:29.302144",
   "articles": [
     {
       "title": "Pentagon approves long-range, autonomous counter-UAS system for use across the military after border testing - DefenseScoop",
@@ -26,12 +26,6 @@
       "source": "Defense News"
     },
     {
-      "title": "Two days, one drone killer: How defense companies built a wheeled counter-UAS robot at the Army\u2019s Operation Jailbreak - DefenseScoop",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQ0ozTnRHSGliS1JZbXhiZUQ0aF9nTmlOV0dZWERBRm1RQS1lTnVmNU9rM1pPM2ZpZ1k2UVNYUkxZR05pS3Z4WDNzYmZYZUVpN1FLMklYbnF5Z1puaVdLN0hycWxPWlNsZUh1TVVpMlZuOTBoMFRHUS1EdHBmbTNQOHRMRkFKSDBaUW5PdUpBTFNaUHpTUzhjeGZuNHRhZXJNdXVmcTN5ZUNJbjQ?oc=5",
-      "published": "Fri, 12 Jun 2026 21:52:01 GMT",
-      "source": "DefenseScoop"
-    },
-    {
       "title": "TSG unveils AI\u2011driven DroneWeaver System for rapid counter\u2011UAS defense - The Jerusalem Post",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9PSWVORERHb2w5NDdHZExLd3BKdVN5X3RDMi1BaE5FWUVEQ1FUVERwQUUtSEdkckFyUUQwTFBqZlNTcU5TV1gzWFltZGU5N0ZROVBfUGJDOTJBVjZrQ1J2Q0FZZw?oc=5",
       "published": "Thu, 11 Jun 2026 07:41:41 GMT",
@@ -48,6 +42,12 @@
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQREtMUjhOMkVZbjJ1eXhmQU1rNHV2Q2U2akNXTG9sY1JmYVRaZnJiSDg2UWxjX1NQN0JBd0o2SGU1YmU3eWhKTXhTNV9weTRJbDY4cHhqMTZYR2o4UnphYXVaWE83bWM0em43TW43TkNTZmtVVGFRZk5PWHlyQ1NqTmg2UnFrZzEzY2lDTFl1dnM0UXg2?oc=5",
       "published": "Wed, 10 Jun 2026 15:13:34 GMT",
       "source": "MarketsandMarkets"
+    },
+    {
+      "title": "Two days, one drone killer: How defense companies built a wheeled counter-UAS robot at the Army\u2019s Operation Jailbreak - DefenseScoop",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQ0ozTnRHSGliS1JZbXhiZUQ0aF9nTmlOV0dZWERBRm1RQS1lTnVmNU9rM1pPM2ZpZ1k2UVNYUkxZR05pS3Z4WDNzYmZYZUVpN1FLMklYbnF5Z1puaVdLN0hycWxPWlNsZUh1TVVpMlZuOTBoMFRHUS1EdHBmbTNQOHRMRkFKSDBaUW5PdUpBTFNaUHpTUzhjeGZuNHRhZXJNdXVmcTN5ZUNJbjQ?oc=5",
+      "published": "Fri, 12 Jun 2026 21:52:01 GMT",
+      "source": "DefenseScoop"
     },
     {
       "title": "Israeli startup unveils laser system it says can kill drones in seconds - Breaking Defense",
@@ -116,10 +116,10 @@
       "source": "army.mil"
     },
     {
-      "title": "Ahead of the threat: 163d Attack Wing spearheads counter-UAS strategies - af.mil",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVjUzOVVzeEhTdkFPdDVEM0JWUXFBdURvbUt1dGFiVDk0VWZ6UTV6TjV2T2pnSHY3RV9lY0JJZnF2WnFMdEZoMzZZbDN2clYtbDR6YzBrR3dDVk5xV3NsUkJPMnpTVWFlX085eDJXaWtLd282LWpQbS1ienZGTkhnYnBKWTMtMlZwR2tVVDdXa21LeWtCdXpzTnhDRGlPYmhwMEhpQ0hSY2c3cnVxdkhncFBDQkt6blV1MlBBUUQ4Y0h6MlpfWFE?oc=5",
-      "published": "Thu, 04 Jun 2026 13:04:13 GMT",
-      "source": "af.mil"
+      "title": "All About Project Flytrap\u2014US Army's Latest C-UAS Initiative - ExecutiveBiz",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYzZ3cDBzeUJDQ3hwTWl3dkswMnFSUWN1ajFQTS1FOWE2ZUJiSTFJSjEwVDBhLXBFOUE0ZWhORWt4TFJkc1p6T2RNSDFkY3NiQWhnTkdCcnNmbGhtVElNNlRqUkRQSTMyTnNTSkU1WUxxV2ZRcGpnSkJWeG1vdkJKZHRpNVBkb0E?oc=5",
+      "published": "Wed, 10 Jun 2026 15:38:22 GMT",
+      "source": "ExecutiveBiz"
     }
   ]
 }
