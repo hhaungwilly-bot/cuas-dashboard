@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-17T21:26:08.541158",
+  "last_updated": "2026-06-17T23:00:26.973574",
   "articles": [
     {
       "title": "Droneshield, Defenture partner to develop moblie counter-drone defense systems - UAS Magazine",
@@ -26,16 +26,16 @@
       "source": "Streetwise Reports"
     },
     {
-      "title": "Cornyn Introduces Bill to Spur Counter-Drone Defense Innovation - Senator Cornyn (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNV201cnJ3MmMyZVRfV2tPM1N6azhDOGk3S3FKUGtTbEVVVWtudG8yRDZCRXJiNGxEX3F6V0tFbHBrZXAxc2xjNkJjaDl1YU5HbFBMbDlJT0RXZGgxNzhhakFCNVRfZTdtbDI1YmRQaWlhRDRhb3NCT0Q5ZnZSSVdBN1FzNl8xekl3UmtLamNvZ3J0N1VmQzlDbG16bEFMU2Iz?oc=5",
-      "published": "Fri, 12 Jun 2026 02:58:14 GMT",
-      "source": "Senator Cornyn (.gov)"
-    },
-    {
       "title": "Coast Guard is providing key counter-drone defense for World Cup - C4ISRNet",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOM2xkYTNCWTZQVjNRb19WS1k4ZVZESkJoWlBVUUdsc01RRXl1QjZEaGhzRExOcFg2WkdKVllMUDBjdzZSQWZqVXdkQlZMOTA3X2lhUWFtMS1kdldJUWRwMHNtWWJvc3FwQk1JM1RHcXlnSWs1WFZGWldCQ2J0WGQzLXZjYk9kODNyZUFjRElPc2IwbUZfdG9OX09za2J6eXhib0N0VUtOaVl5aklRcGl4bERwZGc1bnlNUElpeg?oc=5",
       "published": "Mon, 15 Jun 2026 17:52:10 GMT",
       "source": "C4ISRNet"
+    },
+    {
+      "title": "Cornyn Introduces Bill to Spur Counter-Drone Defense Innovation - Senator Cornyn (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNV201cnJ3MmMyZVRfV2tPM1N6azhDOGk3S3FKUGtTbEVVVWtudG8yRDZCRXJiNGxEX3F6V0tFbHBrZXAxc2xjNkJjaDl1YU5HbFBMbDlJT0RXZGgxNzhhakFCNVRfZTdtbDI1YmRQaWlhRDRhb3NCT0Q5ZnZSSVdBN1FzNl8xekl3UmtLamNvZ3J0N1VmQzlDbG16bEFMU2Iz?oc=5",
+      "published": "Fri, 12 Jun 2026 02:58:14 GMT",
+      "source": "Senator Cornyn (.gov)"
     },
     {
       "title": "Interceptor Drones: The Emerging Counter-UAS Market - AeroMorning.com",
@@ -92,16 +92,22 @@
       "source": "Dronelife"
     },
     {
+      "title": "MyDefence Launches Long-Range Counter-Drone Jammer to Strengthen Frontline Airspace Defense - uasweekly.com",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMi1pMGY5cWhxTTJUY3d3T0RISjFwRW9kdnJIQkRqUDZoemRLMHVKaHZkRUdTYWVyRW9zRGlQWjBBZ2hGOHExN0pZcU5BYmduQW9aOU5Fc1luV01TMU8yc00tODV4WWtBTGpyVjUyRm0wMDFISWFVR3lGMFo1cFl5NHl2SlIwSmJ4S25UR1E4MmhOczFYZ2U0UGg0TldNZHVja2NDcHlrUURKSC1neV9ZWFFPSlFmMWxnQXVkVnBMSTFwakk?oc=5",
+      "published": "Mon, 15 Jun 2026 11:57:17 GMT",
+      "source": "uasweekly.com"
+    },
+    {
       "title": "Counter-Drone Net Technology Receives First Tier-1 Defense Order - Unmanned Systems Technology",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVDVzalQtc3RtMHJqd0dEZmFpQTNKU0JpMDdBdHExSUliY2FFaU1NaGlmWUt5R0tWVmk2Qk1iZmtFc2NjREMtd1I3ZGpCblRXcnhVR2ZVNDhDaEdUdkZRakl0cVVpekh3OWFENHBCWUtSV0pHaVEzQU9rWUQ3bDBIRmpJcmxKYlUzTG9PQWh1dnJwZzcyWnN3NmdCMy1xU2s0THY3UGpDa21sZDExZW9yemxNRERvUQ?oc=5",
       "published": "Fri, 12 Jun 2026 05:35:48 GMT",
       "source": "Unmanned Systems Technology"
     },
     {
-      "title": "MyDefence Launches Long-Range Counter-Drone Jammer to Strengthen Frontline Airspace Defense - uasweekly.com",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMi1pMGY5cWhxTTJUY3d3T0RISjFwRW9kdnJIQkRqUDZoemRLMHVKaHZkRUdTYWVyRW9zRGlQWjBBZ2hGOHExN0pZcU5BYmduQW9aOU5Fc1luV01TMU8yc00tODV4WWtBTGpyVjUyRm0wMDFISWFVR3lGMFo1cFl5NHl2SlIwSmJ4S25UR1E4MmhOczFYZ2U0UGg0TldNZHVja2NDcHlrUURKSC1neV9ZWFFPSlFmMWxnQXVkVnBMSTFwakk?oc=5",
-      "published": "Mon, 15 Jun 2026 11:57:17 GMT",
-      "source": "uasweekly.com"
+      "title": "JIATF-401 validates next-generation counter-drone technology at Yuma - UAS Magazine",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQX2FDVHJ1LTJmV0kwUEhhWjRlR1ZEdmQ3T05kSXZsOURwZ1A5cXBDZExnY0lhZFFtcmd2UGE0bVViYWVjRE1iaGJUamlPaDE4bDlzTXhHb1JPZFh4Z0hNVFFfc0psblRFZWdRdlVaSHZiZTFvR1d4em9Bdlg0U3FCYXQzWWpoNGF0UkZUNm1fbkNIc3Q2SHJYYzBvRVU5WGJSY19v?oc=5",
+      "published": "Thu, 11 Jun 2026 19:06:04 GMT",
+      "source": "UAS Magazine"
     },
     {
       "title": "DHS Secretary: U.S. Still Building Counter-Drone Defenses for World Cup - Dronelife",
@@ -114,12 +120,6 @@
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSXVLd0NxZkF6Slhoa1FJaWlQcTdtYnNObzBiY3FvOGYzS1RwS2swMjVqaHBubDFVcEdkVVRxeGhIdVhQWTV4Rml1dXN0MFh2aGN3M09uMVNmY0xZN1EyWjA4bGFURGhtWjFWMVNIRjBrR3NNcTNleHBtaUN3WG9HRGYxVF9HX0VSM25HbE1qSFpsRzhFR2dnMWln?oc=5",
       "published": "Mon, 08 Jun 2026 07:00:00 GMT",
       "source": "Dronelife"
-    },
-    {
-      "title": "Pakistan Deploys Turkish \u201cDrone Killer\u201d as ASELSAN \u015eAH\u0130N Counter-UAS System Reshapes South Asia Air Defence Balance - Defence Security Asia",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORmZJVjJRc1drcHA2OUxRVGlxT1RVUnJUdXJOVnYybHpXc0UyZ3k4a0NzUkJwVElzUl81alFLcFBJdEJHZ1E0aXA1RTdRYW5fSFRVWjNZUE5oT3NCUHZSeFVCNDhhdUFLVU9wMUlYQUc3YzZURVk3MVZaMUN1WTJkOXFlOFdOYlJ6cWp5NXZMejhPYjNxc05tSEwwRHZ5elB3Njd5Rjc5MVVpQ1hJeWxfRWdpeS0?oc=5",
-      "published": "Tue, 16 Jun 2026 15:15:06 GMT",
-      "source": "Defence Security Asia"
     }
   ]
 }
