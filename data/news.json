@@ -1,6 +1,12 @@
 {
-  "last_updated": "2026-06-18T16:18:05.682259",
+  "last_updated": "2026-06-18T18:38:17.252384",
   "articles": [
+    {
+      "title": "Parsons and DroneShield Advance Open-Architecture Counter-Drone Defense for Emerging UAS Threats - uasweekly.com",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPcjZocTVvLTRYYzMydl80VG9xMGJRWUwzNjM4THAwVW81emtjTXl6dTNab1o0cGN4RnFOb05UaHZuQzdlNUpWM0lpTHZhQnRBalBkcmJvakxVRlRZdEJWQUJVN0oxbHFubFRab05maFI1enY2STJSSjFaZ0pUMmoyQ25rZmRXbndwaHVEY3RkZkFZUlk2NVQ0RnVtMG1rZXljdHk0ZXVKWGJKc0lNQkV0SDZKTUNWbnZKZkhlUFNxWjNMYmpsY0dPMVhB?oc=5",
+      "published": "Thu, 18 Jun 2026 14:44:13 GMT",
+      "source": "uasweekly.com"
+    },
     {
       "title": "Droneshield, Defenture partner to develop moblie counter-drone defense systems - UAS Magazine",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdTd6aHo1bTdGZ0tNVnhVTTk1NVZLRjJQekp2X1hWU1pPa21nQURVZ1pBWEVCeUhpbTF1Ti1LRzVZckFDdFdXeGhoM0NEcmN3YlhCTFlVbkNtelo1NUZTRnlPU2stWVVOcVluWWRDQ2w1d0R2Y2RoaklYSjBSNzBORm5ncDBubGVNclRJQ3gzalhBRm9SUmd2QzVadUNXVmdzNVYwZjJGeS1vU2JCTU1j?oc=5",
@@ -62,12 +68,6 @@
       "source": "Breaking Defense"
     },
     {
-      "title": "Netline Launches SonicScan Acoustic Drone Detection System to Enhance Layered Counter-UAS Defense - uasweekly.com",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5qRk9YNGFiLTd1R0JBZTN5WUNhVVYzRHlwZm9XSVBCZnlhblRISl9wellzRjJla3JjLTh0VWNTNkJQbXFYdk1BT3d3RUxlTlBO?oc=5",
-      "published": "Tue, 16 Jun 2026 10:56:33 GMT",
-      "source": "uasweekly.com"
-    },
-    {
       "title": "Rafael unveils Hunter Eagle, a hit\u2011to\u2011kill interceptor for the low\u2011altitude drone fight - The Jerusalem Post",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5wUldBRXJUdGw2YmZYYWprcU5LVjlmekVjTmcwcEhTeEVrclRmQTBubTlOS0pwSURoZV9kTl90WVpHUkkwMzBnREpzZXkzY1cxM3dWNVF0Um82MDNBd2pPckRtTQ?oc=5",
       "published": "Sun, 14 Jun 2026 09:33:53 GMT",
@@ -80,10 +80,10 @@
       "source": "Security Today"
     },
     {
-      "title": "U.S. Army, Allies and Partners to Expand Drone and Counter-Drone Marketplaces at Eurosatory Defense Exhibition - army.mil",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQWVUzNktHTXUxT2xCbW52WnhNeFAzVlAtSlJONktJa3F0elpZN1hpR1R6T1VWNzkxMW5MN1N3SjI4bF9sNGZaUzIwQk4tU2FMeW5GYXJma3J3cG95OU14dXNYTXQ3TE54Q3RWeUVZZHJPaGVxSUtKQV80cDB5OUFtVDlCSENfYmRXMTZUMlJlY2Y0VmpBT1NGTlpxWTNienVFdUZzc3lBQzZBN2JJUG4xMjVqOFE0VmFmRUxfWUVYbTRnejhHVVFJOGoxWG9URmhoOUZ6UF9aU05DcUQ40gHiAUFVX3lxTE5CZTh2SzNXOVZjYkJhVk9Kamk1YkpnNVdXOEVva1lxSVpISUFVbVR0ZUw0MWpidGtBVlk3SXA3RWdjeU9acTVhOXBYUnRjTnU3d0VWY2xxTjItQVdocmJHZXk4Y2pLTFNrUVo3eWFiV3dLMXJGYlFld2QxQS03c3JuZlBoZ1N4MTFBdi1laFhKdnFkcmpJX0wxYXFoYnVBdUVtNFUxc1pVaTdiOUhZNGtzMUVfcmNtNUxmQW8yTjFIUkxlbXEyTllCdk5yd0g4c0Q3V01ERFMzcTJBR3JPd0xuWnc?oc=5",
-      "published": "Thu, 11 Jun 2026 20:11:58 GMT",
-      "source": "army.mil"
+      "title": "Pentagon approves long-range, autonomous counter-UAS system for use across the military after border testing - DefenseScoop",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQ2ZSVldfYnY3OWlpREdGRVVTaFNfNUFxX3h6TzJnREhOUzVfLU93bFllLXdnMGZkNFVaUWdHVUo4c1dyMkpXbEh4UzJBOFFSclhJdTlxMl9wOUVZTVFEUlFxQzNNZXU2c21QcW9FY1V4NGlHVkhQVzJjUF80dHh4ODZvc3ZCNlBiQ3NrQmd1Y2NEVDFtSFdXMDFKM3hDem9XM0tpb01xVmpSUHc?oc=5",
+      "published": "Tue, 09 Jun 2026 07:00:00 GMT",
+      "source": "DefenseScoop"
     },
     {
       "title": "Red Cat launches Hellcat drone for global defense and security markets - UAS Magazine",
@@ -92,21 +92,15 @@
       "source": "UAS Magazine"
     },
     {
-      "title": "Pentagon approves long-range, autonomous counter-UAS system for use across the military after border testing - DefenseScoop",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQ2ZSVldfYnY3OWlpREdGRVVTaFNfNUFxX3h6TzJnREhOUzVfLU93bFllLXdnMGZkNFVaUWdHVUo4c1dyMkpXbEh4UzJBOFFSclhJdTlxMl9wOUVZTVFEUlFxQzNNZXU2c21QcW9FY1V4NGlHVkhQVzJjUF80dHh4ODZvc3ZCNlBiQ3NrQmd1Y2NEVDFtSFdXMDFKM3hDem9XM0tpb01xVmpSUHc?oc=5",
-      "published": "Tue, 09 Jun 2026 07:00:00 GMT",
-      "source": "DefenseScoop"
-    },
-    {
       "title": "First DroneShield Products Roll Off Production Line in Europe - Dronelife",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQ24tVmhEZThNbjJTcThfX21NN0RTZTQ5V2kxb3NRZzFCMUhpUG9kRHI2Y3NvZHNfWHZRTXFVaUc0Uy1BRkM0NU00NnhDZVBIRkpFZlhQTGNSU0o2ZU9tRDRCT2YzWU44NFJ0OEdmTGkzekpxZElXZ19tY096S0FfcDNqRUpQZE1fY1YwM28xTGxQX2lWdUgzZi1vSQ?oc=5",
       "published": "Wed, 17 Jun 2026 14:56:17 GMT",
       "source": "Dronelife"
     },
     {
-      "title": "MyDefence Launches Long-Range Counter-Drone Jammer to Strengthen Frontline Airspace Defense - uasweekly.com",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMi1pMGY5cWhxTTJUY3d3T0RISjFwRW9kdnJIQkRqUDZoemRLMHVKaHZkRUdTYWVyRW9zRGlQWjBBZ2hGOHExN0pZcU5BYmduQW9aOU5Fc1luV01TMU8yc00tODV4WWtBTGpyVjUyRm0wMDFISWFVR3lGMFo1cFl5NHl2SlIwSmJ4S25UR1E4MmhOczFYZ2U0UGg0TldNZHVja2NDcHlrUURKSC1neV9ZWFFPSlFmMWxnQXVkVnBMSTFwakk?oc=5",
-      "published": "Mon, 15 Jun 2026 11:57:17 GMT",
+      "title": "Netline Launches SonicScan Acoustic Drone Detection System to Enhance Layered Counter-UAS Defense - uasweekly.com",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5qRk9YNGFiLTd1R0JBZTN5WUNhVVYzRHlwZm9XSVBCZnlhblRISl9wellzRjJla3JjLTh0VWNTNkJQbXFYdk1BT3d3RUxlTlBO?oc=5",
+      "published": "Tue, 16 Jun 2026 10:56:33 GMT",
       "source": "uasweekly.com"
     },
     {
@@ -116,10 +110,16 @@
       "source": "UAS Magazine"
     },
     {
-      "title": "DHS Secretary: U.S. Still Building Counter-Drone Defenses for World Cup - Dronelife",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1iWFFwdDktYVFWV1lEMndMV3A1MDQ4WXNQa01DRGNvMnFHV1ZnN0FlX1A5SUNoR0dzcG5CRFgwNFJkY0dkUEgwdnZNRWpoZlYxODcyUGdIWGRvUk9WVlh5N3ROXzhxaHJ4Nk5BcHA4ZWdSNzdmWnNKTzNNU0QxUQ?oc=5",
-      "published": "Fri, 05 Jun 2026 16:25:06 GMT",
-      "source": "Dronelife"
+      "title": "MyDefence Launches Long-Range Counter-Drone Jammer to Strengthen Frontline Airspace Defense - uasweekly.com",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMi1pMGY5cWhxTTJUY3d3T0RISjFwRW9kdnJIQkRqUDZoemRLMHVKaHZkRUdTYWVyRW9zRGlQWjBBZ2hGOHExN0pZcU5BYmduQW9aOU5Fc1luV01TMU8yc00tODV4WWtBTGpyVjUyRm0wMDFISWFVR3lGMFo1cFl5NHl2SlIwSmJ4S25UR1E4MmhOczFYZ2U0UGg0TldNZHVja2NDcHlrUURKSC1neV9ZWFFPSlFmMWxnQXVkVnBMSTFwakk?oc=5",
+      "published": "Mon, 15 Jun 2026 11:57:17 GMT",
+      "source": "uasweekly.com"
+    },
+    {
+      "title": "U.S. Army, Allies and Partners to Expand Drone and Counter-Drone Marketplaces at Eurosatory Defense Exhibition - army.mil",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQWVUzNktHTXUxT2xCbW52WnhNeFAzVlAtSlJONktJa3F0elpZN1hpR1R6T1VWNzkxMW5MN1N3SjI4bF9sNGZaUzIwQk4tU2FMeW5GYXJma3J3cG95OU14dXNYTXQ3TE54Q3RWeUVZZHJPaGVxSUtKQV80cDB5OUFtVDlCSENfYmRXMTZUMlJlY2Y0VmpBT1NGTlpxWTNienVFdUZzc3lBQzZBN2JJUG4xMjVqOFE0VmFmRUxfWUVYbTRnejhHVVFJOGoxWG9URmhoOUZ6UF9aU05DcUQ40gHiAUFVX3lxTE5CZTh2SzNXOVZjYkJhVk9Kamk1YkpnNVdXOEVva1lxSVpISUFVbVR0ZUw0MWpidGtBVlk3SXA3RWdjeU9acTVhOXBYUnRjTnU3d0VWY2xxTjItQVdocmJHZXk4Y2pLTFNrUVo3eWFiV3dLMXJGYlFld2QxQS03c3JuZlBoZ1N4MTFBdi1laFhKdnFkcmpJX0wxYXFoYnVBdUVtNFUxc1pVaTdiOUhZNGtzMUVfcmNtNUxmQW8yTjFIUkxlbXEyTllCdk5yd0g4c0Q3V01ERFMzcTJBR3JPd0xuWnc?oc=5",
+      "published": "Thu, 11 Jun 2026 20:11:58 GMT",
+      "source": "army.mil"
     }
   ]
 }
