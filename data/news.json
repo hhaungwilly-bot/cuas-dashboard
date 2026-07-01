@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-01T18:06:53.143445",
+  "last_updated": "2026-07-01T20:11:47.132063",
   "articles": [
     {
       "title": "Givon Defense and Innoviz Partner to Advance Precision Localization Capabilities for Counter-UAS Systems - PR Newswire",
@@ -18,6 +18,12 @@
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPOXpua1U4M3ppVV9Wa3dCVUczNXdlRXhYUzNFbWxvSEIwQ2UtRzlCaTNEblRTTUFlY0g2Qnh6TGFoNjJXUkhGSEJoWGoxblk0X0J5Q1V1TnNTZWh2THNGbjh6ZERLZXJqeVpzekVfSzQ1dlJWZ3h6U2VfM1FYNFBXQTZXRmpUWFYtWE4xQWlXM3p2VU1ZNVZUZ2tid2ZLMmticUxSRFBnMG9TLU40SDZ0WTZtTl8zUDRVYUlr?oc=5",
       "published": "Wed, 01 Jul 2026 12:39:54 GMT",
       "source": "Investing.com"
+    },
+    {
+      "title": "U.S. Army, FBI expand counter-drone training ahead of 2026 World Cup - UAS Magazine",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSy1Veno0WFZyWDcwNWJhZy1oM20wcDBJUVdGd1FPSTJFLVhRSzd5cDZvWVZMQ3dxZGJLcUpHdVZQN2pXWDJJT01oS2d0UGZrRGpaRHhiVTN2T2YtN0tob2pwcE5QV19BTW5xWTlRWVBJYVdEVDhlU1VkVHRieHFVVzdwQjBNbmF5WmhRZ1dPcU5zbTByTmRla2dLbWtSb1U?oc=5",
+      "published": "Mon, 29 Jun 2026 15:42:41 GMT",
+      "source": "UAS Magazine"
     },
     {
       "title": "Two days, one drone killer: How defense companies built a wheeled counter-UAS robot at the Army\u2019s Operation Jailbreak - DefenseScoop",
@@ -50,12 +56,6 @@
       "source": "Military Times"
     },
     {
-      "title": "Droneshield, Defenture partner to develop moblie counter-drone defense systems - UAS Magazine",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdTd6aHo1bTdGZ0tNVnhVTTk1NVZLRjJQekp2X1hWU1pPa21nQURVZ1pBWEVCeUhpbTF1Ti1LRzVZckFDdFdXeGhoM0NEcmN3YlhCTFlVbkNtelo1NUZTRnlPU2stWVVOcVluWWRDQ2w1d0R2Y2RoaklYSjBSNzBORm5ncDBubGVNclRJQ3gzalhBRm9SUmd2QzVadUNXVmdzNVYwZjJGeS1vU2JCTU1j?oc=5",
-      "published": "Wed, 17 Jun 2026 20:51:08 GMT",
-      "source": "UAS Magazine"
-    },
-    {
       "title": "MCTECH to Deploy Counter-Drone Systems Across Maccabiah Games - Israel Defense",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1RZER6UW5jVTRPNW9XdnFleUV2QzZmWnotU2JicnVPQ3ZtdkNUOENHNHBHal9fWlBmZ2NqcUJMYVZCN1U5X01URkpOdU5lUWhadmV0bnNCM3E?oc=5",
       "published": "Wed, 01 Jul 2026 03:10:01 GMT",
@@ -68,22 +68,28 @@
       "source": "Military Embedded Systems"
     },
     {
+      "title": "Romania integrates Merops counter-drone system into national air defense architecture to strengthen airspace protection - Defence Industry Europe",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNNTZLWjZGTThZVzhLc3VIZ0k5Z0h1UG5FN0N3UHpRMkpxOGRMMG81RURabDg2U3hqUDZXR25RemVZb1ByVGlleDFlR2w1LTBrV3pCbnNPVU5HZEZjcGU1VmZrRWY5bWJqaGpWUk9xZmUzY2JpZTVWOTZNSHUxMXRvcm9pQllLdGZFS1ZEYjVQUFV6bGxiWGJldlE5a1lEOWtvYjZkbTdWYzJyS2JSMVNPc0x5YlZLVVI2OXdwdFUtalFsd1A1SFdxblpVekQ2R016TWtfUXZqYjBBdERaZzRDdWFR?oc=5",
+      "published": "Sun, 28 Jun 2026 17:18:27 GMT",
+      "source": "Defence Industry Europe"
+    },
+    {
       "title": "News - U.S. Army, Allies and Partners to Expand Drone and Counter-Drone Marketplaces at Eu - europeafrica.army.mil",
       "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOaFhQNXJNUU1JUkgweW1jaDhqNEh0ZHZMdXZnZWZDYWFsRElZRTN5ajlTZGZfajlObDd0clJ3WTYxaTZ0cFJMMi1ESGlWQlJOWVNFRGZ2SVBPUUF2dG94Z2VOOGxWOEdwMjYxQVl5SGlzcmQ4WkptR19BQlEzZUNmQ3ZyYWZMcVR2dm1WVjRFbVJvQmlnYUFvWkM4UU11dklFeGU4dVNhMEpTLTJSeGJvRkxjZ2ZaUXFrMUgxR2xNSl9qZTVrTVkxcmxOZ0phc3JfQXdTeUFLekVkQ1V0djRSOGgxU3pQaVJHdHc?oc=5",
       "published": "Thu, 11 Jun 2026 07:00:00 GMT",
       "source": "europeafrica.army.mil"
     },
     {
+      "title": "TSG unveils AI\u2011driven DroneWeaver System for rapid counter\u2011UAS defense - The Jerusalem Post",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9PSWVORERHb2w5NDdHZExLd3BKdVN5X3RDMi1BaE5FWUVEQ1FUVERwQUUtSEdkckFyUUQwTFBqZlNTcU5TV1gzWFltZGU5N0ZROVBfUGJDOTJBVjZrQ1J2Q0FZZw?oc=5",
+      "published": "Thu, 11 Jun 2026 07:00:00 GMT",
+      "source": "The Jerusalem Post"
+    },
+    {
       "title": "Ahead of the threat: 163d Attack Wing spearheads counter-UAS strategies - af.mil",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVjUzOVVzeEhTdkFPdDVEM0JWUXFBdURvbUt1dGFiVDk0VWZ6UTV6TjV2T2pnSHY3RV9lY0JJZnF2WnFMdEZoMzZZbDN2clYtbDR6YzBrR3dDVk5xV3NsUkJPMnpTVWFlX085eDJXaWtLd282LWpQbS1ienZGTkhnYnBKWTMtMlZwR2tVVDdXa21LeWtCdXpzTnhDRGlPYmhwMEhpQ0hSY2c3cnVxdkhncFBDQkt6blV1MlBBUUQ4Y0h6MlpfWFE?oc=5",
       "published": "Thu, 04 Jun 2026 07:00:00 GMT",
       "source": "af.mil"
-    },
-    {
-      "title": "Romania integrates Merops counter-drone system into national air defense architecture to strengthen airspace protection - Defence Industry Europe",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNNTZLWjZGTThZVzhLc3VIZ0k5Z0h1UG5FN0N3UHpRMkpxOGRMMG81RURabDg2U3hqUDZXR25RemVZb1ByVGlleDFlR2w1LTBrV3pCbnNPVU5HZEZjcGU1VmZrRWY5bWJqaGpWUk9xZmUzY2JpZTVWOTZNSHUxMXRvcm9pQllLdGZFS1ZEYjVQUFV6bGxiWGJldlE5a1lEOWtvYjZkbTdWYzJyS2JSMVNPc0x5YlZLVVI2OXdwdFUtalFsd1A1SFdxblpVekQ2R016TWtfUXZqYjBBdERaZzRDdWFR?oc=5",
-      "published": "Sun, 28 Jun 2026 17:18:27 GMT",
-      "source": "Defence Industry Europe"
     },
     {
       "title": "Counter-Drone Net Technology Receives First Tier-1 Defense Order - Unmanned Systems Technology",
@@ -104,22 +110,16 @@
       "source": "army.mil"
     },
     {
+      "title": "Building Decision Advantage for Counter-Drone Operations in the Age of 3D Physical Security - Homeland Security Today",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQNjdlZmYtMzZJSHBfSGxYUG9MeEtiUnRfdXFRWmx3VjBIcWJ6ZWlVcFp0TFhiU093STIxVHBnVHVGOTRMVnBleWh1OW5ZZE9Qa1ZTbGVEMGZmSFZJWDIxTXNsTzYyOTlrSXkyYkxjMmRrUmotRGpWZDlhdjBNNmotdHFqR3haZFVHVDUwVVIwelplU3lCaVJyWjA4b1J6dXRaaUVPTERKWG5kMnNQSTZwRjhwN3F5RGp3RnUwd2doS3hmVHh4bkFrcTRpZnNNRWczRzZaRXl3dzVxU014RHJ2NXFvOFFvS3BTdmc?oc=5",
+      "published": "Tue, 23 Jun 2026 14:00:45 GMT",
+      "source": "Homeland Security Today"
+    },
+    {
       "title": "Washington National Guard Builds Counter-UAS Partnerships Ahead of World Cup 2026 - U.S. Department of War (.gov)",
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNcUZTM2Y0RkJYQVBvQzd1RmM5UDVPcXV0NHNlWi1LUjhwZUIxWEJlWnNiQXY3bFA5dzVvZ01QYnF5clNKRmU1MW9ia1BGWTVOTmtfLWdBRXlRaFViMWVoMndmMFRIRkFGbkZzREpfdUhzOGVFQkdaOWV3R0NibzFvZmlpRExBekE0OUJIcWpTemstZUtlYy0zcDFxUHJpMWpoeG52bEx2by1FLS1lVU05UXYzalVPVEdQZ3Q2RWszWmV6UEFweGhlUDZnRzA2ZnpldTNyX3lCSnhrQQ?oc=5",
       "published": "Fri, 05 Jun 2026 07:00:00 GMT",
       "source": "U.S. Department of War (.gov)"
-    },
-    {
-      "title": "DHS Secretary: U.S. Still Building Counter-Drone Defenses for World Cup - Dronelife",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1iWFFwdDktYVFWV1lEMndMV3A1MDQ4WXNQa01DRGNvMnFHV1ZnN0FlX1A5SUNoR0dzcG5CRFgwNFJkY0dkUEgwdnZNRWpoZlYxODcyUGdIWGRvUk9WVlh5N3ROXzhxaHJ4Nk5BcHA4ZWdSNzdmWnNKTzNNU0QxUQ?oc=5",
-      "published": "Fri, 05 Jun 2026 07:00:00 GMT",
-      "source": "Dronelife"
-    },
-    {
-      "title": "Echodyne selected as radar Provider for Air Force counter-drone program - UAS Magazine",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZVg0Z3htbndKMjRYazNjVVBrT3JibklnR1B0WXN1SUdoMmJ2djUyTWhYZ3otWUNmeHVnajBqRWxRVGhtU1pldmgwSVpNaGdfU05oWFRpQkpxZ29wM1RCSlRFaDNDWWVnUG10UGo4OWRON2xwOTJMVlROMVRITlk0X0dkcmlQRDlSelVkejRYNUJudUhxWkJ0dlVuenFESzZha3d3VHBBSQ?oc=5",
-      "published": "Thu, 11 Jun 2026 07:00:00 GMT",
-      "source": "UAS Magazine"
     }
   ]
 }
