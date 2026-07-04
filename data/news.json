@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-04T07:10:47.561805",
+  "last_updated": "2026-07-04T09:31:07.121450",
   "articles": [
     {
       "title": "Pentagon awards $500M contract for counter-drone tech to AeroVironment - DefenseScoop",
@@ -20,6 +20,12 @@
       "source": "uasweekly.com"
     },
     {
+      "title": "Israel\u2019s Smart Shooter sees c-UAS demand grow across US military: Exec - Breaking Defense",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYkV2NzRmZHU0aXIyUUxkc3Z3QkZRQ3NhS180ekN4TVhOdk9xcHJxaGEyX2ptZEZ3bmlUVEVNc1EzTVVoeHNqY01DYnVaZ1hNSklQbG51RHlQY3pmX2MzY2dUbEN6ak51R1ladFBYZVJpc2NYNVNvc3RYT0NDWUMxYklJMmlabWtpckE2VmtUdkpBdzFSaDVqM2tUQjcwZ01wSk9ZOEZtTFk?oc=5",
+      "published": "Mon, 29 Jun 2026 12:16:10 GMT",
+      "source": "Breaking Defense"
+    },
+    {
       "title": "U.S. Army, FBI expand counter-drone training ahead of 2026 World Cup - UAS Magazine",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSy1Veno0WFZyWDcwNWJhZy1oM20wcDBJUVdGd1FPSTJFLVhRSzd5cDZvWVZMQ3dxZGJLcUpHdVZQN2pXWDJJT01oS2d0UGZrRGpaRHhiVTN2T2YtN0tob2pwcE5QV19BTW5xWTlRWVBJYVdEVDhlU1VkVHRieHFVVzdwQjBNbmF5WmhRZ1dPcU5zbTByTmRla2dLbWtSb1U?oc=5",
       "published": "Mon, 29 Jun 2026 15:42:41 GMT",
@@ -30,12 +36,6 @@
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPOXpua1U4M3ppVV9Wa3dCVUczNXdlRXhYUzNFbWxvSEIwQ2UtRzlCaTNEblRTTUFlY0g2Qnh6TGFoNjJXUkhGSEJoWGoxblk0X0J5Q1V1TnNTZWh2THNGbjh6ZERLZXJqeVpzekVfSzQ1dlJWZ3h6U2VfM1FYNFBXQTZXRmpUWFYtWE4xQWlXM3p2VU1ZNVZUZ2tid2ZLMmticUxSRFBnMG9TLU40SDZ0WTZtTl8zUDRVYUlr?oc=5",
       "published": "Wed, 01 Jul 2026 12:39:54 GMT",
       "source": "Investing.com"
-    },
-    {
-      "title": "Israel\u2019s Smart Shooter sees c-UAS demand grow across US military: Exec - Breaking Defense",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYkV2NzRmZHU0aXIyUUxkc3Z3QkZRQ3NhS180ekN4TVhOdk9xcHJxaGEyX2ptZEZ3bmlUVEVNc1EzTVVoeHNqY01DYnVaZ1hNSklQbG51RHlQY3pmX2MzY2dUbEN6ak51R1ladFBYZVJpc2NYNVNvc3RYT0NDWUMxYklJMmlabWtpckE2VmtUdkpBdzFSaDVqM2tUQjcwZ01wSk9ZOEZtTFk?oc=5",
-      "published": "Mon, 29 Jun 2026 12:16:10 GMT",
-      "source": "Breaking Defense"
     },
     {
       "title": "Counter-UAS Operations at the World Cup: A Template for Layered Airspace Defense - Small Wars Journal",
@@ -68,16 +68,16 @@
       "source": "The Jerusalem Post"
     },
     {
-      "title": "News - U.S. Army, Allies and Partners to Expand Drone and Counter-Drone Marketplaces at Eu - europeafrica.army.mil",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOaFhQNXJNUU1JUkgweW1jaDhqNEh0ZHZMdXZnZWZDYWFsRElZRTN5ajlTZGZfajlObDd0clJ3WTYxaTZ0cFJMMi1ESGlWQlJOWVNFRGZ2SVBPUUF2dG94Z2VOOGxWOEdwMjYxQVl5SGlzcmQ4WkptR19BQlEzZUNmQ3ZyYWZMcVR2dm1WVjRFbVJvQmlnYUFvWkM4UU11dklFeGU4dVNhMEpTLTJSeGJvRkxjZ2ZaUXFrMUgxR2xNSl9qZTVrTVkxcmxOZ0phc3JfQXdTeUFLekVkQ1V0djRSOGgxU3pQaVJHdHc?oc=5",
-      "published": "Thu, 11 Jun 2026 07:00:00 GMT",
-      "source": "europeafrica.army.mil"
-    },
-    {
       "title": "Building Decision Advantage for Counter-Drone Operations in the Age of 3D Physical Security - Homeland Security Today",
       "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQNjdlZmYtMzZJSHBfSGxYUG9MeEtiUnRfdXFRWmx3VjBIcWJ6ZWlVcFp0TFhiU093STIxVHBnVHVGOTRMVnBleWh1OW5ZZE9Qa1ZTbGVEMGZmSFZJWDIxTXNsTzYyOTlrSXkyYkxjMmRrUmotRGpWZDlhdjBNNmotdHFqR3haZFVHVDUwVVIwelplU3lCaVJyWjA4b1J6dXRaaUVPTERKWG5kMnNQSTZwRjhwN3F5RGp3RnUwd2doS3hmVHh4bkFrcTRpZnNNRWczRzZaRXl3dzVxU014RHJ2NXFvOFFvS3BTdmc?oc=5",
       "published": "Tue, 23 Jun 2026 14:00:45 GMT",
       "source": "Homeland Security Today"
+    },
+    {
+      "title": "News - U.S. Army, Allies and Partners to Expand Drone and Counter-Drone Marketplaces at Eu - europeafrica.army.mil",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOaFhQNXJNUU1JUkgweW1jaDhqNEh0ZHZMdXZnZWZDYWFsRElZRTN5ajlTZGZfajlObDd0clJ3WTYxaTZ0cFJMMi1ESGlWQlJOWVNFRGZ2SVBPUUF2dG94Z2VOOGxWOEdwMjYxQVl5SGlzcmQ4WkptR19BQlEzZUNmQ3ZyYWZMcVR2dm1WVjRFbVJvQmlnYUFvWkM4UU11dklFeGU4dVNhMEpTLTJSeGJvRkxjZ2ZaUXFrMUgxR2xNSl9qZTVrTVkxcmxOZ0phc3JfQXdTeUFLekVkQ1V0djRSOGgxU3pQaVJHdHc?oc=5",
+      "published": "Thu, 11 Jun 2026 07:00:00 GMT",
+      "source": "europeafrica.army.mil"
     },
     {
       "title": "Hegseth realigning DOD\u2019s scattered unmanned and autonomy work under new drone boss - DefenseScoop",
