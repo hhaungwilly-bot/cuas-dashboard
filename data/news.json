@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-08T21:53:25.470802",
+  "last_updated": "2026-07-08T23:03:18.301017",
   "articles": [
     {
       "title": "Joint Interagency Task Force 401 Publishes Counter-Drone Handbook - U.S. Department of War (.gov)",
@@ -56,22 +56,10 @@
       "source": "Senator Cornyn (.gov)"
     },
     {
-      "title": "Coast Guard is providing key counter-drone defense for World Cup - Military Times",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQeFBIdzBHbmdnSmMzNmNNaE44WWdka003S1JXcnpEcmJqbHFBa3ZUUE9pYk1FQjA0alkwVEQwZ3FEU040MDFrRXctejRUb0RYR3M4M3RDMEZEWXNuZFVwbWtBTVhrb1l3RmRNakhGemlXS1VpSmpIZ18zbnNLVk9ud2FaNGxGTm5lejVjUHd1Qk1mLWhHaVdzUGVJQTNZMjhhTlpaSUtwcGhjZU42OFBVTmI5U3EwakhqTXpRQUs0R0pRcHc?oc=5",
-      "published": "Mon, 15 Jun 2026 07:00:00 GMT",
-      "source": "Military Times"
-    },
-    {
       "title": "Marine Corps establishes robotics integration group for drone and counter-drone training - DefenseScoop",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbXhGMTRJVktiY0IyYmdhU2xMVjVlRERBQTZSRzVqX0VVamJ3Q2UyR1BLM2ZYcVFrZl9lT25jbGwtOS16WlhfSG5EZERCWl92TXRVMVRVeDJ3N1ozajU1WncycUEydlBFbzR5MzVNSU1RaGtKdjhFY3FXZU1EbWtsSExvQ0Iwakh6NVpUR2tjWFRLZXVpcHRPWlJJR3NCZ3QxNk9QU3dR?oc=5",
       "published": "Mon, 06 Jul 2026 17:48:00 GMT",
       "source": "DefenseScoop"
-    },
-    {
-      "title": "Innoviz and Cogniteam Unveil AI-LiDAR Solution to Tackle the Drone Threat - Israel Defense",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBRaWFGTkZRRnUwaW5BdUhGRXRnVWcwdmotcGpvUDN3RnRIdmhZN0JmM3BueDBjM0FMTC1jTUFxbUpISnhKdEtZSEhRbG42V2FlQjRWbVAtbE4?oc=5",
-      "published": "Wed, 08 Jul 2026 02:45:11 GMT",
-      "source": "Israel Defense"
     },
     {
       "title": "U.S. Army Awards AeroVironment Counter-Drone Defense Systems Contract - Defense Feeds",
@@ -80,16 +68,16 @@
       "source": "Defense Feeds"
     },
     {
+      "title": "Innoviz and Cogniteam Unveil AI-LiDAR Solution to Tackle the Drone Threat - Israel Defense",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBRaWFGTkZRRnUwaW5BdUhGRXRnVWcwdmotcGpvUDN3RnRIdmhZN0JmM3BueDBjM0FMTC1jTUFxbUpISnhKdEtZSEhRbG42V2FlQjRWbVAtbE4?oc=5",
+      "published": "Wed, 08 Jul 2026 02:45:11 GMT",
+      "source": "Israel Defense"
+    },
+    {
       "title": "Parsons and DroneShield Champion Open-Architecture Counter-Drone Defense for Modern Airspace Security - uasweekly.com",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNERCVnN2Y0dGWUE0YjU3MUF6LWs4Q1h1cjNELVFhdnNGWlVhOExUY3JLdjBrV19hQ0NKd2lBN0w3N1FkVUhIMGJXQ3BnV1Zvd3ZvZTdPZm1FXzhKMWJPTnhQd2t0emdtYldxdDdlSGZscElvTXd1VVd4YjdpUGxOQVRSUnN6TndwdUZlVG5rV1ozUkU4ekFHREMzQVFzX21ULWUwOUtjbWQ3MGR2c0FnNTBJdXdqSXpuRzZFcUZ5YVdxb1A1NHZveVduYm9Uci1O?oc=5",
       "published": "Wed, 01 Jul 2026 10:54:12 GMT",
       "source": "uasweekly.com"
-    },
-    {
-      "title": "DroneShield extends defense reach as global demand for counter-UAS technology grows - AD HOC NEWS",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdHFFcXN0RVBlcURlcEdZMHpCWERJeGRwYlRmRzA4ZUt0cEhTeXNaUlQ2Qzh0OWxHa3B5VWpmS1B6Qm9tQjlrOG9UYU1waUtCTDZxcHpkbVNxZWwxMUdLSGFQbUFxSTV2dFZjRjRpd3RTUU9PRXRYNFFiay01LWttYzR3QUlDWjdfNndFanRJN1hSQ0dVM2lEejZES1lwb0p4NW02UGdiYWpqTlVZUWRwT2lVaGNjaGdMdEFKajJNQTJlVzA?oc=5",
-      "published": "Wed, 08 Jul 2026 18:25:14 GMT",
-      "source": "AD HOC NEWS"
     },
     {
       "title": "This Counter-UAS System Chooses the Best Way to Defeat Each Drone Threat - i-hls.com",
@@ -98,14 +86,26 @@
       "source": "i-hls.com"
     },
     {
+      "title": "DroneShield extends defense reach as global demand for counter-UAS technology grows - AD HOC NEWS",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdHFFcXN0RVBlcURlcEdZMHpCWERJeGRwYlRmRzA4ZUt0cEhTeXNaUlQ2Qzh0OWxHa3B5VWpmS1B6Qm9tQjlrOG9UYU1waUtCTDZxcHpkbVNxZWwxMUdLSGFQbUFxSTV2dFZjRjRpd3RTUU9PRXRYNFFiay01LWttYzR3QUlDWjdfNndFanRJN1hSQ0dVM2lEejZES1lwb0p4NW02UGdiYWpqTlVZUWRwT2lVaGNjaGdMdEFKajJNQTJlVzA?oc=5",
+      "published": "Wed, 08 Jul 2026 18:25:14 GMT",
+      "source": "AD HOC NEWS"
+    },
+    {
       "title": "U.S. Army, Allies and Partners to Expand Drone and Counter-Drone Marketplaces at Eurosatory Defense Exhibition - army.mil",
       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQWVUzNktHTXUxT2xCbW52WnhNeFAzVlAtSlJONktJa3F0elpZN1hpR1R6T1VWNzkxMW5MN1N3SjI4bF9sNGZaUzIwQk4tU2FMeW5GYXJma3J3cG95OU14dXNYTXQ3TE54Q3RWeUVZZHJPaGVxSUtKQV80cDB5OUFtVDlCSENfYmRXMTZUMlJlY2Y0VmpBT1NGTlpxWTNienVFdUZzc3lBQzZBN2JJUG4xMjVqOFE0VmFmRUxfWUVYbTRnejhHVVFJOGoxWG9URmhoOUZ6UF9aU05DcUQ40gHiAUFVX3lxTE5CZTh2SzNXOVZjYkJhVk9Kamk1YkpnNVdXOEVva1lxSVpISUFVbVR0ZUw0MWpidGtBVlk3SXA3RWdjeU9acTVhOXBYUnRjTnU3d0VWY2xxTjItQVdocmJHZXk4Y2pLTFNrUVo3eWFiV3dLMXJGYlFld2QxQS03c3JuZlBoZ1N4MTFBdi1laFhKdnFkcmpJX0wxYXFoYnVBdUVtNFUxc1pVaTdiOUhZNGtzMUVfcmNtNUxmQW8yTjFIUkxlbXEyTllCdk5yd0g4c0Q3V01ERFMzcTJBR3JPd0xuWnc?oc=5",
       "published": "Thu, 11 Jun 2026 07:00:00 GMT",
       "source": "army.mil"
     },
     {
+      "title": "U.S. Army, FBI expand counter-drone training ahead of 2026 World Cup - uasmagazine.com",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSy1Veno0WFZyWDcwNWJhZy1oM20wcDBJUVdGd1FPSTJFLVhRSzd5cDZvWVZMQ3dxZGJLcUpHdVZQN2pXWDJJT01oS2d0UGZrRGpaRHhiVTN2T2YtN0tob2pwcE5QV19BTW5xWTlRWVBJYVdEVDhlU1VkVHRieHFVVzdwQjBNbmF5WmhRZ1dPcU5zbTByTmRla2dLbWtSb1U?oc=5",
+      "published": "Mon, 29 Jun 2026 15:42:41 GMT",
+      "source": "uasmagazine.com"
+    },
+    {
       "title": "Givon Defense and Innoviz Partner to Advance Precision Localization Capabilities for Counter-UAS Systems - PR Newswire",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPZW5VaW5LWW1Walh4c2RMM2lRQXRFaW1vQjZKcjA3WVdFXzhqa09EbVlTQnM5a1NHSkpwRnZZSS1ncmh4amxZanRDWWJya0JQSWZfNWhkNGdrWkdmNTFCNEk4Y3YwVHM2Y0s4N3RmQjdoUkhQX2NwdnBkLXlfWi1qb2t6OGZhN3h2MGs4Zkt6MGFQRnBvWXh6NUtJVHV0LWdjcUtKN3YtNVRGT1Q2T0phTEVrZjN5amZTelNlUnNzOWs0RHFTdHFILTdNd1ppMUFmUmd3WTdXS0R3RWVMWlRodlJCSlRUNWhFVWxmQ0ZEZG5oT29QaXc?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPbE0yRE5vNUh0ODlzZUc2WW1Kb3VTQzE5VVVCWkRwb0JrMnI3bUR2ZEt3T2hEOS1yUmhfcmEzNHJSTVUxREVGM0k5bTJTM0xGVV95UXRsUm1jZ3pnVWcxcjlCOVpSeXdEZDZycmI5cWpOMl9QYmxuNFpwX0NTZnFfZnh3dDNHMmg3ZUtWWW93YmFXR1BfN2FjOGpFemVDSkltbmVXWUdkaEl1aG5Ea0lEdHE0RFhJMHpGUGdRel8zS0NOM0JWT3BOS2VXM0pOZFByb2VwUnR5WVBzbGZVX1JDeDl5WU9HMDJxY1RMS1lmNm9FZw?oc=5",
       "published": "Wed, 01 Jul 2026 12:00:00 GMT",
       "source": "PR Newswire"
     },
@@ -116,10 +116,10 @@
       "source": "DefenseScoop"
     },
     {
-      "title": "Counter UAS Market Overview, Size, Industry, Growth, Trend - Market Research Future",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9ocFdxc3loZzJGeHVaaklaM2JoXzk5cDRkRFozbWl6Tm5wU05lLWlNYlkyWVVMYVNFWHhQN0tSMlgxb2NLcTNUdGNNMkhrRlhFTDFXZ3JNN1JHUlJ6UUpObEVlWVVxd0ZiSWwzeTh0VVFMcGR4cVA4?oc=5",
-      "published": "Mon, 29 Jun 2026 07:00:00 GMT",
-      "source": "Market Research Future"
+      "title": "Aurelius Systems and American Rheinmetall partner to integrate autonomous directed-energy counter-drone defence on robotic vehicles - Defence Industry Europe",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPYlM4MllzaF9Obk5Wa0pPVzNzYWFGMkR1bzJtMVdyZmtpZVZ4TUVsaUFlTy1DdjRDY3RIb0ZLR0pXdTV6VG54SWhVcmVsVFE2cnl3VE1WT2hpeW56dzJJOFZ5V0lQWkNzVjhtWUlfbE92bGJsTVlFOVkxNkZZUFlQQUpPYzNyal93TGFwc2ZFdWJZLU1CN2k0WkZtN0h2ZG4wWElzczVsT0hLc1VLMl9QNmk4a1RPQWdmWHU0XzZYcU9FaXlibVNPb0NKcjJETGUxa1RpaHlzX3ZockhuLTdwck9STWRsWjktUGd2bGxXR3hfUQ?oc=5",
+      "published": "Tue, 07 Jul 2026 15:46:22 GMT",
+      "source": "Defence Industry Europe"
     }
   ]
 }
