@@ -1,6 +1,12 @@
 {
-  "last_updated": "2026-07-08T16:21:48.256258",
+  "last_updated": "2026-07-08T17:56:32.407794",
   "articles": [
+    {
+      "title": "Joint Interagency Task Force 401 Publishes Counter-Drone Handbook - U.S. Department of War (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOc2s1Zmx4bnZ6ZllPYjRUWXd5d0pNT3VxTHlXVGYzeV85VmNtaWo0MzE4MW16WVAxSHhpQXc1UVhYbTBRYmMxYllNLW9NUi0wYkVJY0g5eTMxb1N6NGpiX0JPUlc4ZlZCQ204TWxzd1haYk1ld2U3RGxObHB6V0p3eDBLb2FLcU1mT2RaVGFjXzZpVjRPdHEtQ1U0a21wWGI3cy1Ub0xiLU9FLWdZNmFxN1hPWWFIWEpjSmNQM3Z0cDZlTnBzT3ZJ?oc=5",
+      "published": "Wed, 08 Jul 2026 17:46:15 GMT",
+      "source": "U.S. Department of War (.gov)"
+    },
     {
       "title": "Pentagon awards $80M task order for AI-enabled tech to defend Air Force bases against small drones - DefenseScoop",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPV3R3ZFloTzRKSGtWY3hoLW1wYTk4Tjd3NlpITHd4MVJpQ0lqeWtHYzN0SmQ5UnVUTVNnTHViNHhfdkUxSlQ0emtlbEhoTFVmS0tRMlI5ZHZycEJvaU1fMVBhV1E5UDhUWld0Wm10eVZPMUVtMWpqd2FfUTJpYWxWUTYxMTZSZm14eERJVGpUdFVickhFeEZUdQ?oc=5",
@@ -32,16 +38,16 @@
       "source": "Inside Unmanned Systems"
     },
     {
-      "title": "Innoviz and Cogniteam Unveil AI-LiDAR Solution to Tackle the Drone Threat - Israel Defense",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBRaWFGTkZRRnUwaW5BdUhGRXRnVWcwdmotcGpvUDN3RnRIdmhZN0JmM3BueDBjM0FMTC1jTUFxbUpISnhKdEtZSEhRbG42V2FlQjRWbVAtbE4?oc=5",
-      "published": "Wed, 08 Jul 2026 02:45:11 GMT",
-      "source": "Israel Defense"
-    },
-    {
       "title": "Pentagon awards $500M contract for counter-drone tech to AeroVironment - DefenseScoop",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWDAtUVhpcFItSWRHSDRWYWotZWpsQzZ4Qm5tNlA4RGt2TUJrTEJmLW5hRDVPY19PazQ5c3QtQlZCNGJrdmVLRUc4M05MS29WaWJ6Z2RJLTN1dlpkMUducjFSeExPTTF5Mm5YeWh0RHNXV1ZVTi12bUFoNEZ1Q05WQmZyOC1TUER3YkUtSVoxcjRWS1ZfXzZoaFVOcmVpTGRLdkJyd2UyVFE?oc=5",
       "published": "Thu, 02 Jul 2026 22:07:15 GMT",
       "source": "DefenseScoop"
+    },
+    {
+      "title": "Innoviz and Cogniteam Unveil AI-LiDAR Solution to Tackle the Drone Threat - Israel Defense",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBRaWFGTkZRRnUwaW5BdUhGRXRnVWcwdmotcGpvUDN3RnRIdmhZN0JmM3BueDBjM0FMTC1jTUFxbUpISnhKdEtZSEhRbG42V2FlQjRWbVAtbE4?oc=5",
+      "published": "Wed, 08 Jul 2026 02:45:11 GMT",
+      "source": "Israel Defense"
     },
     {
       "title": "Counter-UAS Operations at the World Cup: A Template for Layered Airspace Defense - Small Wars Journal",
@@ -102,12 +108,6 @@
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPRmxmQTVXcUZNN0Q4TldSaWl6YlBSNWVFMjhnMk9WWTBSQ3hRNFVoY0dSanBEZkVicFd5N2hQdFFUbmtSY1E1cFdyTU92U1ZMYXFaMFlPalpuMW5IRmV2LVJlOGRQeFU0MkRuNGJCcGhOV1dRRG5qeFJJS3BLNHpmaC1KWmpDZE5rV0l4WDJIZjB4RnVTTUZCRjJwTXBUQXJ3VWw3YVpLV0o1MlIyRFBvcXFnYjNxSWhDcWVfSnpEQWMtVVJ4TDlndGlB?oc=5",
       "published": "Tue, 07 Jul 2026 06:36:05 GMT",
       "source": "Bisinfotech"
-    },
-    {
-      "title": "Building Decision Advantage for Counter-Drone Operations in the Age of 3D Physical Security - Homeland Security Today",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQNjdlZmYtMzZJSHBfSGxYUG9MeEtiUnRfdXFRWmx3VjBIcWJ6ZWlVcFp0TFhiU093STIxVHBnVHVGOTRMVnBleWh1OW5ZZE9Qa1ZTbGVEMGZmSFZJWDIxTXNsTzYyOTlrSXkyYkxjMmRrUmotRGpWZDlhdjBNNmotdHFqR3haZFVHVDUwVVIwelplU3lCaVJyWjA4b1J6dXRaaUVPTERKWG5kMnNQSTZwRjhwN3F5RGp3RnUwd2doS3hmVHh4bkFrcTRpZnNNRWczRzZaRXl3dzVxU014RHJ2NXFvOFFvS3BTdmc?oc=5",
-      "published": "Tue, 23 Jun 2026 14:00:45 GMT",
-      "source": "Homeland Security Today"
     },
     {
       "title": "Marine Corps establishes robotics integration group for drone and counter-drone training - DefenseScoop",
