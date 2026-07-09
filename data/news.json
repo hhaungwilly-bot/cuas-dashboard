@@ -1,17 +1,17 @@
 {
-  "last_updated": "2026-07-09T16:33:36.055960",
+  "last_updated": "2026-07-09T18:22:20.987564",
   "articles": [
-    {
-      "title": "Joint Interagency Task Force 401 Publishes Counter-Drone Handbook - U.S. Department of War (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOc2s1Zmx4bnZ6ZllPYjRUWXd5d0pNT3VxTHlXVGYzeV85VmNtaWo0MzE4MW16WVAxSHhpQXc1UVhYbTBRYmMxYllNLW9NUi0wYkVJY0g5eTMxb1N6NGpiX0JPUlc4ZlZCQ204TWxzd1haYk1ld2U3RGxObHB6V0p3eDBLb2FLcU1mT2RaVGFjXzZpVjRPdHEtQ1U0a21wWGI3cy1Ub0xiLU9FLWdZNmFxN1hPWWFIWEpjSmNQM3Z0cDZlTnBzT3ZJ?oc=5",
-      "published": "Wed, 08 Jul 2026 17:46:15 GMT",
-      "source": "U.S. Department of War (.gov)"
-    },
     {
       "title": "Startup Aims to Make Drone Attacks Too Expensive to Wage - Dronelife",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeDNNSnZuME93cjJ3QkVVRHlRa2QtV2ZBTU5pVHFhc3E1RGcwMklKTVlIY3RYdHM0RXVDSzZtQ2JoMlZJMGt0SFRSeTNZb0JOZmppQlY0akxFLWtQLVI1VVBFVlhLVkh1cENVMWJzWFVzb1lBVDNTTG9MY1RUOG5wSzFva1NtQ0Q1OERvVUNHZ0dOVk9n?oc=5",
       "published": "Thu, 09 Jul 2026 13:50:05 GMT",
       "source": "Dronelife"
+    },
+    {
+      "title": "Joint Interagency Task Force 401 Publishes Counter-Drone Handbook - U.S. Department of War (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOc2s1Zmx4bnZ6ZllPYjRUWXd5d0pNT3VxTHlXVGYzeV85VmNtaWo0MzE4MW16WVAxSHhpQXc1UVhYbTBRYmMxYllNLW9NUi0wYkVJY0g5eTMxb1N6NGpiX0JPUlc4ZlZCQ204TWxzd1haYk1ld2U3RGxObHB6V0p3eDBLb2FLcU1mT2RaVGFjXzZpVjRPdHEtQ1U0a21wWGI3cy1Ub0xiLU9FLWdZNmFxN1hPWWFIWEpjSmNQM3Z0cDZlTnBzT3ZJ?oc=5",
+      "published": "Wed, 08 Jul 2026 17:46:15 GMT",
+      "source": "U.S. Department of War (.gov)"
     },
     {
       "title": "U.S. Army Awards AeroVironment a $500 Million Contract for Layered Counter-Drone Defense Systems - Overt Defense -",
@@ -26,9 +26,9 @@
       "source": "FedScoop"
     },
     {
-      "title": "Marine Corps establishes robotics integration group for drone and counter-drone training - DefenseScoop",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbXhGMTRJVktiY0IyYmdhU2xMVjVlRERBQTZSRzVqX0VVamJ3Q2UyR1BLM2ZYcVFrZl9lT25jbGwtOS16WlhfSG5EZERCWl92TXRVMVRVeDJ3N1ozajU1WncycUEydlBFbzR5MzVNSU1RaGtKdjhFY3FXZU1EbWtsSExvQ0Iwakh6NVpUR2tjWFRLZXVpcHRPWlJJR3NCZ3QxNk9QU3dR?oc=5",
-      "published": "Mon, 06 Jul 2026 17:48:00 GMT",
+      "title": "Pentagon awards $80M task order for AI-enabled tech to defend Air Force bases against small drones - DefenseScoop",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPV3R3ZFloTzRKSGtWY3hoLW1wYTk4Tjd3NlpITHd4MVJpQ0lqeWtHYzN0SmQ5UnVUTVNnTHViNHhfdkUxSlQ0emtlbEhoTFVmS0tRMlI5ZHZycEJvaU1fMVBhV1E5UDhUWld0Wm10eVZPMUVtMWpqd2FfUTJpYWxWUTYxMTZSZm14eERJVGpUdFVickhFeEZUdQ?oc=5",
+      "published": "Mon, 06 Jul 2026 15:37:58 GMT",
       "source": "DefenseScoop"
     },
     {
@@ -74,16 +74,16 @@
       "source": "Small Wars Journal"
     },
     {
+      "title": "Marine Corps establishes robotics integration group for drone and counter-drone training - DefenseScoop",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbXhGMTRJVktiY0IyYmdhU2xMVjVlRERBQTZSRzVqX0VVamJ3Q2UyR1BLM2ZYcVFrZl9lT25jbGwtOS16WlhfSG5EZERCWl92TXRVMVRVeDJ3N1ozajU1WncycUEydlBFbzR5MzVNSU1RaGtKdjhFY3FXZU1EbWtsSExvQ0Iwakh6NVpUR2tjWFRLZXVpcHRPWlJJR3NCZ3QxNk9QU3dR?oc=5",
+      "published": "Mon, 06 Jul 2026 17:48:00 GMT",
+      "source": "DefenseScoop"
+    },
+    {
       "title": "Cornyn Introduces Bill to Spur Counter-Drone Defense Innovation - Senator Cornyn - Senator Cornyn (.gov)",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNV201cnJ3MmMyZVRfV2tPM1N6azhDOGk3S3FKUGtTbEVVVWtudG8yRDZCRXJiNGxEX3F6V0tFbHBrZXAxc2xjNkJjaDl1YU5HbFBMbDlJT0RXZGgxNzhhakFCNVRfZTdtbDI1YmRQaWlhRDRhb3NCT0Q5ZnZSSVdBN1FzNl8xekl3UmtLamNvZ3J0N1VmQzlDbG16bEFMU2Iz?oc=5",
       "published": "Thu, 11 Jun 2026 07:00:00 GMT",
       "source": "Senator Cornyn (.gov)"
-    },
-    {
-      "title": "U.S. Army Awards AeroVironment Counter-Drone Defense Systems Contract - Defense Feeds",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYldLTWdEU0pXUjhTckp5VGVmeHprTlJlVV9rZ2s4WkJ1OTRNek8wZ05oYUUwSmNHNTcwZzlDNFpVb3MxY3p0ZlNZMjhkWWs2TjR1cGZicEhKdnpWNWRDUDRpajR2LXJRNThoOUtlS1hXQzlMX3VEM293cUZmMnNZb0RQSmF5QnZtdzRMZ0Fqc1dIMXhjdHJPOGpyaWhuY3UxZUstSWtwSzJ1VGtNRlE?oc=5",
-      "published": "Mon, 06 Jul 2026 07:35:28 GMT",
-      "source": "Defense Feeds"
     },
     {
       "title": "Parsons and DroneShield Champion Open-Architecture Counter-Drone Defense for Modern Airspace Security - uasweekly.com",
@@ -92,16 +92,16 @@
       "source": "uasweekly.com"
     },
     {
-      "title": "Pentagon awards $80M task order for AI-enabled tech to defend Air Force bases against small drones - DefenseScoop",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPV3R3ZFloTzRKSGtWY3hoLW1wYTk4Tjd3NlpITHd4MVJpQ0lqeWtHYzN0SmQ5UnVUTVNnTHViNHhfdkUxSlQ0emtlbEhoTFVmS0tRMlI5ZHZycEJvaU1fMVBhV1E5UDhUWld0Wm10eVZPMUVtMWpqd2FfUTJpYWxWUTYxMTZSZm14eERJVGpUdFVickhFeEZUdQ?oc=5",
-      "published": "Mon, 06 Jul 2026 15:37:58 GMT",
-      "source": "DefenseScoop"
+      "title": "U.S. Army Awards AeroVironment Counter-Drone Defense Systems Contract - Defense Feeds",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYldLTWdEU0pXUjhTckp5VGVmeHprTlJlVV9rZ2s4WkJ1OTRNek8wZ05oYUUwSmNHNTcwZzlDNFpVb3MxY3p0ZlNZMjhkWWs2TjR1cGZicEhKdnpWNWRDUDRpajR2LXJRNThoOUtlS1hXQzlMX3VEM293cUZmMnNZb0RQSmF5QnZtdzRMZ0Fqc1dIMXhjdHJPOGpyaWhuY3UxZUstSWtwSzJ1VGtNRlE?oc=5",
+      "published": "Mon, 06 Jul 2026 07:35:28 GMT",
+      "source": "Defense Feeds"
     },
     {
-      "title": "U.S. Army, FBI expand counter-drone training ahead of 2026 World Cup - uasmagazine.com",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSy1Veno0WFZyWDcwNWJhZy1oM20wcDBJUVdGd1FPSTJFLVhRSzd5cDZvWVZMQ3dxZGJLcUpHdVZQN2pXWDJJT01oS2d0UGZrRGpaRHhiVTN2T2YtN0tob2pwcE5QV19BTW5xWTlRWVBJYVdEVDhlU1VkVHRieHFVVzdwQjBNbmF5WmhRZ1dPcU5zbTByTmRla2dLbWtSb1U?oc=5",
-      "published": "Mon, 29 Jun 2026 15:42:41 GMT",
-      "source": "uasmagazine.com"
+      "title": "This Counter-UAS System Chooses the Best Way to Defeat Each Drone Threat - i-hls.com",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1wYm96aUduTnpEN2Q0bGY0Wjg3MnNRYzJoTUpPTHBlemFjUWExSUt6QXRmblNoOEx5aVc0ZVVwNm5OT3Y0TXlUWQ?oc=5",
+      "published": "Tue, 07 Jul 2026 08:12:51 GMT",
+      "source": "i-hls.com"
     },
     {
       "title": "Givon Defense and Innoviz Partner to Advance Precision Localization Capabilities for Counter-UAS Systems - PR Newswire",
@@ -116,10 +116,10 @@
       "source": "DefenseScoop"
     },
     {
-      "title": "U.S. Army, Allies and Partners to Expand Drone and Counter-Drone Marketplaces at Eurosatory Defense Exhibition - army.mil",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQWVUzNktHTXUxT2xCbW52WnhNeFAzVlAtSlJONktJa3F0elpZN1hpR1R6T1VWNzkxMW5MN1N3SjI4bF9sNGZaUzIwQk4tU2FMeW5GYXJma3J3cG95OU14dXNYTXQ3TE54Q3RWeUVZZHJPaGVxSUtKQV80cDB5OUFtVDlCSENfYmRXMTZUMlJlY2Y0VmpBT1NGTlpxWTNienVFdUZzc3lBQzZBN2JJUG4xMjVqOFE0VmFmRUxfWUVYbTRnejhHVVFJOGoxWG9URmhoOUZ6UF9aU05DcUQ40gHiAUFVX3lxTE5CZTh2SzNXOVZjYkJhVk9Kamk1YkpnNVdXOEVva1lxSVpISUFVbVR0ZUw0MWpidGtBVlk3SXA3RWdjeU9acTVhOXBYUnRjTnU3d0VWY2xxTjItQVdocmJHZXk4Y2pLTFNrUVo3eWFiV3dLMXJGYlFld2QxQS03c3JuZlBoZ1N4MTFBdi1laFhKdnFkcmpJX0wxYXFoYnVBdUVtNFUxc1pVaTdiOUhZNGtzMUVfcmNtNUxmQW8yTjFIUkxlbXEyTllCdk5yd0g4c0Q3V01ERFMzcTJBR3JPd0xuWnc?oc=5",
-      "published": "Thu, 11 Jun 2026 07:00:00 GMT",
-      "source": "army.mil"
+      "title": "U.S. Army, FBI expand counter-drone training ahead of 2026 World Cup - uasmagazine.com",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSy1Veno0WFZyWDcwNWJhZy1oM20wcDBJUVdGd1FPSTJFLVhRSzd5cDZvWVZMQ3dxZGJLcUpHdVZQN2pXWDJJT01oS2d0UGZrRGpaRHhiVTN2T2YtN0tob2pwcE5QV19BTW5xWTlRWVBJYVdEVDhlU1VkVHRieHFVVzdwQjBNbmF5WmhRZ1dPcU5zbTByTmRla2dLbWtSb1U?oc=5",
+      "published": "Mon, 29 Jun 2026 15:42:41 GMT",
+      "source": "uasmagazine.com"
     }
   ]
 }
