@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-10T07:59:23.280661",
+  "last_updated": "2026-07-10T11:14:16.389425",
   "articles": [
     {
       "title": "DOD Drone Task Force Releases Counter-Drone Handbook - MeriTalk",
@@ -14,6 +14,12 @@
       "source": "U.S. Department of War (.gov)"
     },
     {
+      "title": "JIATF 401 Releases Handbook on Countering Drone Threats - ExecutiveGov",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUWEyb2I1WWpVd29kTmE0R1J3RU9ZbmlCa3hMMHROMzN6Q1lKWWYtU2RmZjktVEc0ZF9EWTZyN0E0ZnpQLTl3amxiWS0wdnVhZE82c1BXLUdoa2dSbkRBcU5lZW15R1JKcHdZdENMTmJfbG1fRkh1Q3ZxLUxLT2lQQlhyUDk?oc=5",
+      "published": "Thu, 09 Jul 2026 19:44:33 GMT",
+      "source": "ExecutiveGov"
+    },
+    {
       "title": "Startup Aims to Make Drone Attacks Too Expensive to Wage - Dronelife",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeDNNSnZuME93cjJ3QkVVRHlRa2QtV2ZBTU5pVHFhc3E1RGcwMklKTVlIY3RYdHM0RXVDSzZtQ2JoMlZJMGt0SFRSeTNZb0JOZmppQlY0akxFLWtQLVI1VVBFVlhLVkh1cENVMWJzWFVzb1lBVDNTTG9MY1RUOG5wSzFva1NtQ0Q1OERvVUNHZ0dOVk9n?oc=5",
       "published": "Thu, 09 Jul 2026 20:14:35 GMT",
@@ -24,12 +30,6 @@
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNUZxV3d4S244RDJMLWFRN2RKVFJYcUFIY2tNSjI1STNKb0dMUXBDSkJ5VUNKUFlTOFV2THlPRUFXNFNxc2hmUzh4UVpQb3FnZ2xaeWJQanNCeGhrU0NzNjNCVE8yRXdMRnJTWXplUFpCSXNCeXFhY29XeXY3c0x0OFJ4WmdKSDFQNDh0RHllUFhkaWdZb0VHLVpPUFRwOG1FY1FDLXpPMnBlLXd0QjY5eFNMRjBFQnQ0?oc=5",
       "published": "Thu, 09 Jul 2026 19:17:59 GMT",
       "source": "Inside Unmanned Systems"
-    },
-    {
-      "title": "JIATF 401 Releases Handbook on Countering Drone Threats - ExecutiveGov",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUWEyb2I1WWpVd29kTmE0R1J3RU9ZbmlCa3hMMHROMzN6Q1lKWWYtU2RmZjktVEc0ZF9EWTZyN0E0ZnpQLTl3amxiWS0wdnVhZE82c1BXLUdoa2dSbkRBcU5lZW15R1JKcHdZdENMTmJfbG1fRkh1Q3ZxLUxLT2lQQlhyUDk?oc=5",
-      "published": "Thu, 09 Jul 2026 19:44:33 GMT",
-      "source": "ExecutiveGov"
     },
     {
       "title": "Pentagon awards $80M task order for AI-enabled tech to defend Air Force bases against small drones - DefenseScoop",
@@ -80,16 +80,16 @@
       "source": "Small Wars Journal"
     },
     {
-      "title": "Echodyne Expands U.S. Radar Manufacturing to Meet Global C-UAS Demand - Dronelife",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcF9laU5iNTBXNEhwN3VVQlhwLWM0cFdBd1ZCcmFtNVhVRThRQXlvZWxOclVMRGpEQV9OeC1TeGZWYjI4cHJvZ2lyQ3JUSlNjclM2ZjdNS21QU0x2TzFrY3dXdVczREkwelBqSDcwSExoYldDTVdmSXVpM2dmMVRJd2J5dmVZVHQ3Wk1wOG5NYU5EbnhCX3l1SVViUlR5VDNGYmYwUQ?oc=5",
-      "published": "Thu, 09 Jul 2026 15:56:16 GMT",
-      "source": "Dronelife"
-    },
-    {
       "title": "Marine Corps establishes robotics integration group for drone and counter-drone training - DefenseScoop",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbXhGMTRJVktiY0IyYmdhU2xMVjVlRERBQTZSRzVqX0VVamJ3Q2UyR1BLM2ZYcVFrZl9lT25jbGwtOS16WlhfSG5EZERCWl92TXRVMVRVeDJ3N1ozajU1WncycUEydlBFbzR5MzVNSU1RaGtKdjhFY3FXZU1EbWtsSExvQ0Iwakh6NVpUR2tjWFRLZXVpcHRPWlJJR3NCZ3QxNk9QU3dR?oc=5",
       "published": "Mon, 06 Jul 2026 17:48:00 GMT",
       "source": "DefenseScoop"
+    },
+    {
+      "title": "Echodyne Expands U.S. Radar Manufacturing to Meet Global C-UAS Demand - Dronelife",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcF9laU5iNTBXNEhwN3VVQlhwLWM0cFdBd1ZCcmFtNVhVRThRQXlvZWxOclVMRGpEQV9OeC1TeGZWYjI4cHJvZ2lyQ3JUSlNjclM2ZjdNS21QU0x2TzFrY3dXdVczREkwelBqSDcwSExoYldDTVdmSXVpM2dmMVRJd2J5dmVZVHQ3Wk1wOG5NYU5EbnhCX3l1SVViUlR5VDNGYmYwUQ?oc=5",
+      "published": "Thu, 09 Jul 2026 15:56:16 GMT",
+      "source": "Dronelife"
     },
     {
       "title": "Parsons and DroneShield Champion Open-Architecture Counter-Drone Defense for Modern Airspace Security - uasweekly.com",
@@ -112,7 +112,7 @@
     {
       "title": "Givon Defense and Innoviz Partner to Advance Precision Localization Capabilities for Counter-UAS Systems - PR Newswire",
       "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPbE0yRE5vNUh0ODlzZUc2WW1Kb3VTQzE5VVVCWkRwb0JrMnI3bUR2ZEt3T2hEOS1yUmhfcmEzNHJSTVUxREVGM0k5bTJTM0xGVV95UXRsUm1jZ3pnVWcxcjlCOVpSeXdEZDZycmI5cWpOMl9QYmxuNFpwX0NTZnFfZnh3dDNHMmg3ZUtWWW93YmFXR1BfN2FjOGpFemVDSkltbmVXWUdkaEl1aG5Ea0lEdHE0RFhJMHpGUGdRel8zS0NOM0JWT3BOS2VXM0pOZFByb2VwUnR5WVBzbGZVX1JDeDl5WU9HMDJxY1RMS1lmNm9FZw?oc=5",
-      "published": "Wed, 01 Jul 2026 12:00:00 GMT",
+      "published": "Wed, 01 Jul 2026 07:00:00 GMT",
       "source": "PR Newswire"
     },
     {
