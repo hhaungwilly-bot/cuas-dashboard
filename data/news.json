@@ -1,11 +1,17 @@
 {
-  "last_updated": "2026-07-13T13:31:09.123799",
+  "last_updated": "2026-07-13T16:07:26.606455",
   "articles": [
     {
       "title": "Joint Interagency Task Force 401 Publishes Counter-Drone Handbook - U.S. Department of War (.gov)",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOc2s1Zmx4bnZ6ZllPYjRUWXd5d0pNT3VxTHlXVGYzeV85VmNtaWo0MzE4MW16WVAxSHhpQXc1UVhYbTBRYmMxYllNLW9NUi0wYkVJY0g5eTMxb1N6NGpiX0JPUlc4ZlZCQ204TWxzd1haYk1ld2U3RGxObHB6V0p3eDBLb2FLcU1mT2RaVGFjXzZpVjRPdHEtQ1U0a21wWGI3cy1Ub0xiLU9FLWdZNmFxN1hPWWFIWEpjSmNQM3Z0cDZlTnBzT3ZJ?oc=5",
       "published": "Wed, 08 Jul 2026 17:46:15 GMT",
       "source": "U.S. Department of War (.gov)"
+    },
+    {
+      "title": "Subpar Secret Service drone defense flagged in Trump assassination attempt report - FedScoop",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNLVgyd2tERG9hXzRlbGJfRWdaTkUwVkdKNGNUOENJcGd1eV80TDlvaGQ2LUFqaTZfSldBTkg1VTNTeW1qTnNfSE9aNEEycXB5ZC1OdkFSS2hCcENaLUV4R2MwQ0VlTl9XMW1WczNyczRURzRLN1VSeExocEpHcElVY2E4akVDcmVZOVE?oc=5",
+      "published": "Wed, 08 Jul 2026 20:19:27 GMT",
+      "source": "FedScoop"
     },
     {
       "title": "DOD Drone Task Force Releases Counter-Drone Handbook - MeriTalk",
@@ -20,12 +26,6 @@
       "source": "ExecutiveGov"
     },
     {
-      "title": "Subpar Secret Service drone defense flagged in Trump assassination attempt report - FedScoop",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNLVgyd2tERG9hXzRlbGJfRWdaTkUwVkdKNGNUOENJcGd1eV80TDlvaGQ2LUFqaTZfSldBTkg1VTNTeW1qTnNfSE9aNEEycXB5ZC1OdkFSS2hCcENaLUV4R2MwQ0VlTl9XMW1WczNyczRURzRLN1VSeExocEpHcElVY2E4akVDcmVZOVE?oc=5",
-      "published": "Wed, 08 Jul 2026 20:19:27 GMT",
-      "source": "FedScoop"
-    },
-    {
       "title": "New JIATF 401 Handbook Reframes Counter-Drone Defense Around Five First Principles - Inside Unmanned Systems",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNUZxV3d4S244RDJMLWFRN2RKVFJYcUFIY2tNSjI1STNKb0dMUXBDSkJ5VUNKUFlTOFV2THlPRUFXNFNxc2hmUzh4UVpQb3FnZ2xaeWJQanNCeGhrU0NzNjNCVE8yRXdMRnJTWXplUFpCSXNCeXFhY29XeXY3c0x0OFJ4WmdKSDFQNDh0RHllUFhkaWdZb0VHLVpPUFRwOG1FY1FDLXpPMnBlLXd0QjY5eFNMRjBFQnQ0?oc=5",
       "published": "Thu, 09 Jul 2026 19:17:59 GMT",
@@ -38,9 +38,9 @@
       "source": "Dronelife"
     },
     {
-      "title": "Pentagon awards $80M task order for AI-enabled tech to defend Air Force bases against small drones - DefenseScoop",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPV3R3ZFloTzRKSGtWY3hoLW1wYTk4Tjd3NlpITHd4MVJpQ0lqeWtHYzN0SmQ5UnVUTVNnTHViNHhfdkUxSlQ0emtlbEhoTFVmS0tRMlI5ZHZycEJvaU1fMVBhV1E5UDhUWld0Wm10eVZPMUVtMWpqd2FfUTJpYWxWUTYxMTZSZm14eERJVGpUdFVickhFeEZUdQ?oc=5",
-      "published": "Mon, 06 Jul 2026 15:37:58 GMT",
+      "title": "Pentagon awards deals for laser weapons that could shoot down drone swarms - DefenseScoop",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWUF4N1R4b05EZDNPZzBqYW9ZLW04RXRpRjdPN2xzX2V3WkZ6YUVlOUhkOTUwaWRzOHlTZVdWWm5XbXN1V2hrQllKa3UwdklESzI5RHVKOHdteF9rcVZQQ1ZETmJiazEyeThIbnlnQ2pWNEVwOVNQc2pSeVc5bXVBTHJxeVNoVHJseFF0NHp0c3E5eGtPeXc?oc=5",
+      "published": "Thu, 09 Jul 2026 16:49:32 GMT",
       "source": "DefenseScoop"
     },
     {
@@ -92,10 +92,10 @@
       "source": "Interesting Engineering"
     },
     {
-      "title": "Building Decision Advantage for Counter-Drone Operations in the Age of 3D Physical Security - Homeland Security Today",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQNjdlZmYtMzZJSHBfSGxYUG9MeEtiUnRfdXFRWmx3VjBIcWJ6ZWlVcFp0TFhiU093STIxVHBnVHVGOTRMVnBleWh1OW5ZZE9Qa1ZTbGVEMGZmSFZJWDIxTXNsTzYyOTlrSXkyYkxjMmRrUmotRGpWZDlhdjBNNmotdHFqR3haZFVHVDUwVVIwelplU3lCaVJyWjA4b1J6dXRaaUVPTERKWG5kMnNQSTZwRjhwN3F5RGp3RnUwd2doS3hmVHh4bkFrcTRpZnNNRWczRzZaRXl3dzVxU014RHJ2NXFvOFFvS3BTdmc?oc=5",
-      "published": "Tue, 23 Jun 2026 07:00:00 GMT",
-      "source": "Homeland Security Today"
+      "title": "Pentagon awards $80M task order for AI-enabled tech to defend Air Force bases against small drones - DefenseScoop",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPV3R3ZFloTzRKSGtWY3hoLW1wYTk4Tjd3NlpITHd4MVJpQ0lqeWtHYzN0SmQ5UnVUTVNnTHViNHhfdkUxSlQ0emtlbEhoTFVmS0tRMlI5ZHZycEJvaU1fMVBhV1E5UDhUWld0Wm10eVZPMUVtMWpqd2FfUTJpYWxWUTYxMTZSZm14eERJVGpUdFVickhFeEZUdQ?oc=5",
+      "published": "Mon, 06 Jul 2026 15:37:58 GMT",
+      "source": "DefenseScoop"
     },
     {
       "title": "Echodyne Expands U.S. Radar Manufacturing to Meet Global C-UAS Demand - Dronelife",
@@ -104,22 +104,22 @@
       "source": "Dronelife"
     },
     {
-      "title": "Marine Corps establishes robotics integration group for drone and counter-drone training - DefenseScoop",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbXhGMTRJVktiY0IyYmdhU2xMVjVlRERBQTZSRzVqX0VVamJ3Q2UyR1BLM2ZYcVFrZl9lT25jbGwtOS16WlhfSG5EZERCWl92TXRVMVRVeDJ3N1ozajU1WncycUEydlBFbzR5MzVNSU1RaGtKdjhFY3FXZU1EbWtsSExvQ0Iwakh6NVpUR2tjWFRLZXVpcHRPWlJJR3NCZ3QxNk9QU3dR?oc=5",
-      "published": "Mon, 06 Jul 2026 17:48:00 GMT",
-      "source": "DefenseScoop"
-    },
-    {
       "title": "Givon Defense and Innoviz Partner to Advance Precision Localization Capabilities for Counter-UAS Systems - PR Newswire",
       "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPbE0yRE5vNUh0ODlzZUc2WW1Kb3VTQzE5VVVCWkRwb0JrMnI3bUR2ZEt3T2hEOS1yUmhfcmEzNHJSTVUxREVGM0k5bTJTM0xGVV95UXRsUm1jZ3pnVWcxcjlCOVpSeXdEZDZycmI5cWpOMl9QYmxuNFpwX0NTZnFfZnh3dDNHMmg3ZUtWWW93YmFXR1BfN2FjOGpFemVDSkltbmVXWUdkaEl1aG5Ea0lEdHE0RFhJMHpGUGdRel8zS0NOM0JWT3BOS2VXM0pOZFByb2VwUnR5WVBzbGZVX1JDeDl5WU9HMDJxY1RMS1lmNm9FZw?oc=5",
       "published": "Wed, 01 Jul 2026 07:00:00 GMT",
       "source": "PR Newswire"
     },
     {
-      "title": "Coast Guard is providing key counter-drone defense for World Cup - Military Times",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQeFBIdzBHbmdnSmMzNmNNaE44WWdka003S1JXcnpEcmJqbHFBa3ZUUE9pYk1FQjA0alkwVEQwZ3FEU040MDFrRXctejRUb0RYR3M4M3RDMEZEWXNuZFVwbWtBTVhrb1l3RmRNakhGemlXS1VpSmpIZ18zbnNLVk9ud2FaNGxGTm5lejVjUHd1Qk1mLWhHaVdzUGVJQTNZMjhhTlpaSUtwcGhjZU42OFBVTmI5U3EwakhqTXpRQUs0R0pRcHc?oc=5",
-      "published": "Mon, 15 Jun 2026 07:00:00 GMT",
-      "source": "Military Times"
+      "title": "Marine Corps establishes robotics integration group for drone and counter-drone training - DefenseScoop",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbXhGMTRJVktiY0IyYmdhU2xMVjVlRERBQTZSRzVqX0VVamJ3Q2UyR1BLM2ZYcVFrZl9lT25jbGwtOS16WlhfSG5EZERCWl92TXRVMVRVeDJ3N1ozajU1WncycUEydlBFbzR5MzVNSU1RaGtKdjhFY3FXZU1EbWtsSExvQ0Iwakh6NVpUR2tjWFRLZXVpcHRPWlJJR3NCZ3QxNk9QU3dR?oc=5",
+      "published": "Mon, 06 Jul 2026 17:48:00 GMT",
+      "source": "DefenseScoop"
+    },
+    {
+      "title": "Building Decision Advantage for Counter-Drone Operations in the Age of 3D Physical Security - Homeland Security Today",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQNjdlZmYtMzZJSHBfSGxYUG9MeEtiUnRfdXFRWmx3VjBIcWJ6ZWlVcFp0TFhiU093STIxVHBnVHVGOTRMVnBleWh1OW5ZZE9Qa1ZTbGVEMGZmSFZJWDIxTXNsTzYyOTlrSXkyYkxjMmRrUmotRGpWZDlhdjBNNmotdHFqR3haZFVHVDUwVVIwelplU3lCaVJyWjA4b1J6dXRaaUVPTERKWG5kMnNQSTZwRjhwN3F5RGp3RnUwd2doS3hmVHh4bkFrcTRpZnNNRWczRzZaRXl3dzVxU014RHJ2NXFvOFFvS3BTdmc?oc=5",
+      "published": "Tue, 23 Jun 2026 07:00:00 GMT",
+      "source": "Homeland Security Today"
     }
   ]
 }
