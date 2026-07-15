@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-15T00:06:52.286488",
+  "last_updated": "2026-07-15T03:30:00.658627",
   "articles": [
     {
       "title": "Pentagon Releases Counter-Drone Handbook - National Guard Association of the United States",
@@ -32,16 +32,16 @@
       "source": "MeriTalk"
     },
     {
-      "title": "Subpar Secret Service drone defense flagged in Trump assassination attempt report - FedScoop",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNLVgyd2tERG9hXzRlbGJfRWdaTkUwVkdKNGNUOENJcGd1eV80TDlvaGQ2LUFqaTZfSldBTkg1VTNTeW1qTnNfSE9aNEEycXB5ZC1OdkFSS2hCcENaLUV4R2MwQ0VlTl9XMW1WczNyczRURzRLN1VSeExocEpHcElVY2E4akVDcmVZOVE?oc=5",
-      "published": "Wed, 08 Jul 2026 20:19:27 GMT",
-      "source": "FedScoop"
-    },
-    {
       "title": "JIATF 401 Releases Handbook on Countering Drone Threats - ExecutiveGov",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUWEyb2I1WWpVd29kTmE0R1J3RU9ZbmlCa3hMMHROMzN6Q1lKWWYtU2RmZjktVEc0ZF9EWTZyN0E0ZnpQLTl3amxiWS0wdnVhZE82c1BXLUdoa2dSbkRBcU5lZW15R1JKcHdZdENMTmJfbG1fRkh1Q3ZxLUxLT2lQQlhyUDk?oc=5",
       "published": "Thu, 09 Jul 2026 19:44:33 GMT",
       "source": "ExecutiveGov"
+    },
+    {
+      "title": "Subpar Secret Service drone defense flagged in Trump assassination attempt report - FedScoop",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNLVgyd2tERG9hXzRlbGJfRWdaTkUwVkdKNGNUOENJcGd1eV80TDlvaGQ2LUFqaTZfSldBTkg1VTNTeW1qTnNfSE9aNEEycXB5ZC1OdkFSS2hCcENaLUV4R2MwQ0VlTl9XMW1WczNyczRURzRLN1VSeExocEpHcElVY2E4akVDcmVZOVE?oc=5",
+      "published": "Wed, 08 Jul 2026 20:19:27 GMT",
+      "source": "FedScoop"
     },
     {
       "title": "New JIATF 401 Handbook Reframes Counter-Drone Defense Around Five First Principles - Inside Unmanned Systems",
@@ -86,6 +86,12 @@
       "source": "uasweekly.com"
     },
     {
+      "title": "Aurelius Systems and American Rheinmetall Partner to Advance Autonomous Counter-Drone Defense - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOM3A4d2VJM3hZMlRFQUpfWHlrd3I2cDE5MExCSm9CSEdvMFB2WFIyNUhES3J5eFJGRDdBbllfNzNKX1kyamNLTFdJOHR3bUNDeWt5SWFLMW5iODZpSXlWNFBuTFdXUnlNUlBQSVFPcV9qSDZ2RUxweGlpeGdBUV9reUJlVXAxZTV6WFpuUDFtY0I0Z3JwbXN4SzFQcF9Jc0VqaXRjTi1kWEctTGZPblE?oc=5",
+      "published": "Tue, 07 Jul 2026 14:30:00 GMT",
+      "source": "Yahoo Finance"
+    },
+    {
       "title": "Cornyn Introduces Bill to Spur Counter-Drone Defense Innovation - Senator Cornyn - Senator Cornyn (.gov)",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNV201cnJ3MmMyZVRfV2tPM1N6azhDOGk3S3FKUGtTbEVVVWtudG8yRDZCRXJiNGxEX3F6V0tFbHBrZXAxc2xjNkJjaDl1YU5HbFBMbDlJT0RXZGgxNzhhakFCNVRfZTdtbDI1YmRQaWlhRDRhb3NCT0Q5ZnZSSVdBN1FzNl8xekl3UmtLamNvZ3J0N1VmQzlDbG16bEFMU2Iz?oc=5",
       "published": "Thu, 11 Jun 2026 07:00:00 GMT",
@@ -94,7 +100,7 @@
     {
       "title": "Pentagon awards $80M task order for AI-enabled tech to defend Air Force bases against small drones - DefenseScoop",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPV3R3ZFloTzRKSGtWY3hoLW1wYTk4Tjd3NlpITHd4MVJpQ0lqeWtHYzN0SmQ5UnVUTVNnTHViNHhfdkUxSlQ0emtlbEhoTFVmS0tRMlI5ZHZycEJvaU1fMVBhV1E5UDhUWld0Wm10eVZPMUVtMWpqd2FfUTJpYWxWUTYxMTZSZm14eERJVGpUdFVickhFeEZUdQ?oc=5",
-      "published": "Mon, 06 Jul 2026 15:37:58 GMT",
+      "published": "Mon, 06 Jul 2026 07:00:00 GMT",
       "source": "DefenseScoop"
     },
     {
@@ -110,15 +116,9 @@
       "source": "Dronelife"
     },
     {
-      "title": "Innoviz LiDAR Powers Cogniteam's New Counter-UAS Classification Module for Advanced Security Platforms - PR Newswire",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxORnpRZnFxeTVscWJjT2VEcGNESUVTdXNzSHdWbVVnUG00WE9rT3g2YnVjWk5BUjFxSnhXNVBRejZLRVBsRjNWaFhfQnBIeG4xMEl5OHh2UEw3RE5uRnBRZzh1LThYckRVQnN6U2d2ajNzWEJjajFieV9oQzJDWXdBQWMtZWN6a1FFZ3p4VEpxMmVBMlh5TkZxT0UwNnhOcU1JeTd3STBGelc2ZGJWR1huQTlHcldUY2dMQnlpckJ0RURndnd4OTEydThTUjlCNFQ0djQ4STJYeXhLWnhiSzVWRHdDanVBdjBTU1JSY1lDQTVWUQ?oc=5",
-      "published": "Tue, 07 Jul 2026 12:00:00 GMT",
-      "source": "PR Newswire"
-    },
-    {
       "title": "Marine Corps establishes robotics integration group for drone and counter-drone training - DefenseScoop",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbXhGMTRJVktiY0IyYmdhU2xMVjVlRERBQTZSRzVqX0VVamJ3Q2UyR1BLM2ZYcVFrZl9lT25jbGwtOS16WlhfSG5EZERCWl92TXRVMVRVeDJ3N1ozajU1WncycUEydlBFbzR5MzVNSU1RaGtKdjhFY3FXZU1EbWtsSExvQ0Iwakh6NVpUR2tjWFRLZXVpcHRPWlJJR3NCZ3QxNk9QU3dR?oc=5",
-      "published": "Mon, 06 Jul 2026 17:48:00 GMT",
+      "published": "Mon, 06 Jul 2026 07:00:00 GMT",
       "source": "DefenseScoop"
     }
   ]
