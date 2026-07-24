@@ -1,11 +1,17 @@
 {
-  "last_updated": "2026-07-23T23:41:34.297031",
+  "last_updated": "2026-07-24T01:11:20.616236",
   "articles": [
     {
       "title": "USAFE-AFAFRICA Expands Layered Defenses Against Growing UAS Threat - ExecutiveGov",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRksydkhENUpUWVhRdTZRNTBEalpmSDRhMVd4RWtqQVUwZ3psT0Zzc3k3eFdaZ1lTZVU2RmEwd2c0ZVZybUlkR0Vxbzctc2EwTnRjMHc4STgwbC0yNS1kWWZTZW5ic1A0ZktBOW5mZloxbC1CVEZMeG5NRnRTLVNsZ0dkLW9XUQ?oc=5",
       "published": "Thu, 23 Jul 2026 20:59:44 GMT",
       "source": "ExecutiveGov"
+    },
+    {
+      "title": "Next-gen maritime counter-drone system to bolster defense with precision-guided missile systems - Interesting Engineering",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYS1kb1EzaTJCbkpQTXlDcEdpY3lvZ2pmTXVOcGFYNEZpRlFlNkZVaHhyNlpndzZUc3NWTlNXZFEyVl9PNmR0Wnotd1RqeF80cE0yV29GMmpvS0xsYXF5Z2xGZFFuUlp4c0d2eU43WTFjX2V4dDQ0Z0plWHdJY1o1eFQxaVhwX2JHOXY5U0xOQzhaSXc?oc=5",
+      "published": "Thu, 23 Jul 2026 23:39:00 GMT",
+      "source": "Interesting Engineering"
     },
     {
       "title": "JC Tech Secures Exclusive Taiwan Distribution Rights for AI Counter-UAS Radar, Plans Local ODM Production - Taipei Times",
@@ -30,12 +36,6 @@
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSXpBREJZdWxoQko1Vncyc3VITm5DQ2Eydks3bHQtM3ZmRGNETFkwZDhWX1BnMGQyVG5rY2NIa3JZLUQzX1dTdEptYWFjRFFpazVmWkZrYWZtTXlNWExlaEdWcFdkTTdzdXJwajRiTE50enhhRFJSRmlxU3dlS1Q4X2FJcUhDWE5TVEs0bEJ4RUNBaG5BdXI3SEp4NElwVEZJLThfM3NGRUI3RkxvWVZRYTRRNHM4dG13THVXclhFRi1qc05wOVVaZ0RQRFRadlU?oc=5",
       "published": "Mon, 20 Jul 2026 15:04:49 GMT",
       "source": "Defense News"
-    },
-    {
-      "title": "Army\u2019s heavy units face counter-drone capability gaps - DefenseScoop",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOeUpqSFB2akk0R3NabmNQRi1FMmx1cU5VbW9lOWNrYlFYNER6QkxXVjdDSVZabk1FUDg3M2ZfRGF1ZW9ISmdVbTRCazV6UDZSRzJaa1RFTk5sM0g3YXk2akxUaHR5V3d2aG5vNG1kT282ODZFR1ZlU0ttZlZmc2pJRW83d0F4ZFpKbldTR2FPRnVQdw?oc=5",
-      "published": "Thu, 16 Jul 2026 22:08:36 GMT",
-      "source": "DefenseScoop"
     },
     {
       "title": "Babcock Signs MOU with ACUA Ocean Technologies & Frankenburg on Maritime Counter-Drone Defense - Ocean News & Technology",
@@ -68,12 +68,6 @@
       "source": "National Guard Association of the United States"
     },
     {
-      "title": "New ForceField counter-UAS system stops FPV drone attacks without emitting signals - Interesting Engineering",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQeG5hQS1rSDlQMXA0SWFVVGJfc2l5NkZXckptcHFpTmVTV01xTHN3bUtySS1seEI2NV9ra0ZJbmJtRzlwMjdOSjFtWUluQkx5OUVGOWpoY2JEVnZTbXQ4blZfNEVscEhXc2NRUEJwU2g0b2doOUNhbWpXUm1PMmwwZGc3Y0Uyd0E2Ry1FUDNESFl6OE51emc?oc=5",
-      "published": "Thu, 16 Jul 2026 21:10:00 GMT",
-      "source": "Interesting Engineering"
-    },
-    {
       "title": "Lockheed Martin unveils MORFIUS X-Rotor to fry drones with high-power microwaves - The Jerusalem Post",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBtWEdXMXE0VU5hTWZYV05KelZHc3hNRUh5cjdTTnF2WnZzQXZUZ3dsYUtzUmhrdW15V2VxQkUwUW5BcXYwRWM1TXc2QmFpdlVkVGNoczhnU09yZUExaFhsa0Rjdw?oc=5",
       "published": "Wed, 22 Jul 2026 09:08:24 GMT",
@@ -86,10 +80,10 @@
       "source": "Haaretz"
     },
     {
-      "title": "U.S. Introduces Buckler Interceptor for Counter-Drone Defense at Lower Cost - Defense Feeds",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQVo1T0l1Y3NXMVJ5Tkt3UzA2MlZjdi1LekdLZmhwUjhRZDgxelQ1OGJBbURPVDhtV05FX3NxVTcxX0tRckxxVlNMZHBmcnR0VjlZRTBDaGFIeXJIZzZkbWlYTnJKMTR2R2I3U3BuMEdZTHdHZEJ2RDJ5UHdsdnNhTl9COFZ1Wll3N0Fxb056aHppN2pPNjBTNjhYOGdPVmhaLTl4MGU3RFNFalExRC0tTmhrSC1DUQ?oc=5",
-      "published": "Thu, 23 Jul 2026 07:27:45 GMT",
-      "source": "Defense Feeds"
+      "title": "Pentagon awards $80M task order for AI-enabled tech to defend Air Force bases against small drones - DefenseScoop",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPV3R3ZFloTzRKSGtWY3hoLW1wYTk4Tjd3NlpITHd4MVJpQ0lqeWtHYzN0SmQ5UnVUTVNnTHViNHhfdkUxSlQ0emtlbEhoTFVmS0tRMlI5ZHZycEJvaU1fMVBhV1E5UDhUWld0Wm10eVZPMUVtMWpqd2FfUTJpYWxWUTYxMTZSZm14eERJVGpUdFVickhFeEZUdQ?oc=5",
+      "published": "Mon, 06 Jul 2026 07:00:00 GMT",
+      "source": "DefenseScoop"
     },
     {
       "title": "DOD Drone Task Force Releases Counter-Drone Handbook - MeriTalk",
@@ -104,16 +98,22 @@
       "source": "Defense Security Monitor"
     },
     {
+      "title": "U.S. Introduces Buckler Interceptor for Counter-Drone Defense at Lower Cost - Defense Feeds",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQVo1T0l1Y3NXMVJ5Tkt3UzA2MlZjdi1LekdLZmhwUjhRZDgxelQ1OGJBbURPVDhtV05FX3NxVTcxX0tRckxxVlNMZHBmcnR0VjlZRTBDaGFIeXJIZzZkbWlYTnJKMTR2R2I3U3BuMEdZTHdHZEJ2RDJ5UHdsdnNhTl9COFZ1Wll3N0Fxb056aHppN2pPNjBTNjhYOGdPVmhaLTl4MGU3RFNFalExRC0tTmhrSC1DUQ?oc=5",
+      "published": "Thu, 23 Jul 2026 07:27:45 GMT",
+      "source": "Defense Feeds"
+    },
+    {
       "title": "Japan Taps Quantum Systems to Develop Drone Killers - The Defense Post",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5sZWJFalQ1bkRCSG13cHBmVXB2YnEzSnBRaF9wSVZXbFNSNmFIQ2NwNGNGRkVDdTNJampVZ20tYWI1OW5wREk0TTdjQjBOZjNZcmRWcFBIUnlZQ2lPaU9acTVqZE1NQTVSQU1pR19wU05yWlRN0gF6QVVfeXFMUElyQmRkU2RXSEo5aDU0N2lObmowV21vUVRqeVAyMEgyNHA2VUdIa1ZtQ2hlTVF0YTRCdkk2MmFJRFFCNTBaZzVQRXF4V0puNGx0N09GRnpBcjFZcWJiT21FUV9xS2JxRlZuUEZqMGlwSk1VLTNXenpJRFE?oc=5",
       "published": "Mon, 20 Jul 2026 13:48:22 GMT",
       "source": "The Defense Post"
     },
     {
-      "title": "Pentagon awards $80M task order for AI-enabled tech to defend Air Force bases against small drones - DefenseScoop",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPV3R3ZFloTzRKSGtWY3hoLW1wYTk4Tjd3NlpITHd4MVJpQ0lqeWtHYzN0SmQ5UnVUTVNnTHViNHhfdkUxSlQ0emtlbEhoTFVmS0tRMlI5ZHZycEJvaU1fMVBhV1E5UDhUWld0Wm10eVZPMUVtMWpqd2FfUTJpYWxWUTYxMTZSZm14eERJVGpUdFVickhFeEZUdQ?oc=5",
-      "published": "Mon, 06 Jul 2026 07:00:00 GMT",
-      "source": "DefenseScoop"
+      "title": "New ForceField counter-UAS system stops FPV drone attacks without emitting signals - Interesting Engineering",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQeG5hQS1rSDlQMXA0SWFVVGJfc2l5NkZXckptcHFpTmVTV01xTHN3bUtySS1seEI2NV9ra0ZJbmJtRzlwMjdOSjFtWUluQkx5OUVGOWpoY2JEVnZTbXQ4blZfNEVscEhXc2NRUEJwU2g0b2doOUNhbWpXUm1PMmwwZGc3Y0Uyd0E2Ry1FUDNESFl6OE51emc?oc=5",
+      "published": "Thu, 16 Jul 2026 21:10:00 GMT",
+      "source": "Interesting Engineering"
     },
     {
       "title": "Subpar Secret Service drone defense flagged in Trump assassination attempt report - FedScoop",
