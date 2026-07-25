@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-25T03:41:17.418053",
+  "last_updated": "2026-07-25T06:05:47.121597",
   "articles": [
     {
       "title": "RSE Ventures and Ondas Co-Lead Strategic Investment in FPF Defense to Build the Next Generation of Counter-UAS Interceptors, Anchoring West Palm Beach as America's Emerging Defense-Tech Hub - Ondas Holdings",
@@ -20,12 +20,6 @@
       "source": "Dronelife"
     },
     {
-      "title": "FPF Develops Interceptor for Roughly $50,000 Attack Drones at Scale - Stock Titan",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNm5VZl9iMkFudVk1T0txLU5GSDdFbU5kS05jOUNPQ1YxU3hfb3ZtVDVWRVZPaTZBd1VBU19kWGtoZWpvNEowNmFpRERvcG1rUi1FdFdBdlJXQk8wdFk3c3FIZHB1Tk43eVVOZGI1TUt6SUZrQkpRdDZfZ1BzUzV5d3EyLTZBS2ItQmx2MlpyYXNKR1NXNVVRbnRaTThxeVkwejhJdW5vSDBwamtjeE9sYTFDWFVMRllrT0FVSXl3?oc=5",
-      "published": "Fri, 24 Jul 2026 12:30:00 GMT",
-      "source": "Stock Titan"
-    },
-    {
       "title": "USAFE-AFAFRICA Expands Layered Defenses Against Growing UAS Threat - ExecutiveGov",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRksydkhENUpUWVhRdTZRNTBEalpmSDRhMVd4RWtqQVUwZ3psT0Zzc3k3eFdaZ1lTZVU2RmEwd2c0ZVZybUlkR0Vxbzctc2EwTnRjMHc4STgwbC0yNS1kWWZTZW5ic1A0ZktBOW5mZloxbC1CVEZMeG5NRnRTLVNsZ0dkLW9XUQ?oc=5",
       "published": "Thu, 23 Jul 2026 20:59:44 GMT",
@@ -36,6 +30,12 @@
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOeUpqSFB2akk0R3NabmNQRi1FMmx1cU5VbW9lOWNrYlFYNER6QkxXVjdDSVZabk1FUDg3M2ZfRGF1ZW9ISmdVbTRCazV6UDZSRzJaa1RFTk5sM0g3YXk2akxUaHR5V3d2aG5vNG1kT282ODZFR1ZlU0ttZlZmc2pJRW83d0F4ZFpKbldTR2FPRnVQdw?oc=5",
       "published": "Thu, 16 Jul 2026 07:00:00 GMT",
       "source": "DefenseScoop"
+    },
+    {
+      "title": "FPF Develops Interceptor for Roughly $50,000 Attack Drones at Scale - Stock Titan",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNm5VZl9iMkFudVk1T0txLU5GSDdFbU5kS05jOUNPQ1YxU3hfb3ZtVDVWRVZPaTZBd1VBU19kWGtoZWpvNEowNmFpRERvcG1rUi1FdFdBdlJXQk8wdFk3c3FIZHB1Tk43eVVOZGI1TUt6SUZrQkpRdDZfZ1BzUzV5d3EyLTZBS2ItQmx2MlpyYXNKR1NXNVVRbnRaTThxeVkwejhJdW5vSDBwamtjeE9sYTFDWFVMRllrT0FVSXl3?oc=5",
+      "published": "Fri, 24 Jul 2026 12:30:00 GMT",
+      "source": "Stock Titan"
     },
     {
       "title": "Lockheed Martin\u2019s Morfius X-Rotor built to fry 50 enemy drones in one flight - Defense News",
@@ -74,16 +74,16 @@
       "source": "Taipei Times"
     },
     {
-      "title": "Lockheed Martin Q2 2026 highlights include $1.4 billion hypersonic work, missile defense plants and counter-drone investment - Defence Industry Europe",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxORGJCdVN5TWxuWUtTWTcwbXBLVGE3QVl2b28taGJ3QVh2RVM0dHhZUGNjbkNkMUlwZjBwLUhyOXdXOEJRSGQxdHFBOWFFUkNmZGNyd3VIVlBEcFJ5YmhOYXYzcFlPMnd2VHJDd3ZzbUVLSlh5bGUyUi10cW4zOUgtUlgzVjNBcWJCOVF0aUV4NHpkUXdoR0ZSRDZaV2JQRG1LZjlNMjlheVhkRkhrS1RfOGxXb3JpZV9ESGVHMHU2RE1fbG9UMi1XVEN1LTdQM2FHYWtPYktvMXBzTEgyMXJrUWtzZTBGdw?oc=5",
-      "published": "Fri, 24 Jul 2026 13:24:36 GMT",
-      "source": "Defence Industry Europe"
-    },
-    {
       "title": "Lockheed Martin introduces PAC-3 ACE interceptor, MORFIUS X-Rotor counter-UAS system - Military Aerospace",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOY1BXaXhwejktQ2VNZXA2cmJfYjZ4ek90a3AtVEcxeE9mZzhhd0RJV2wzT2t3dFA4Y21vTGRXazFnSkNBNXBCamo4ZlRHRjRYdTg5ZS1pYVdkMGdYeHdtUmVMVTFrWWhONU54cDBOd0RsYVZkbUJGdVVTWjZFSFEzeXN6ZklkbGRSNG4zNVpGQVJNcGlsLWUzVmJ6Wll6V2ZwSEVCbEdseU5LaXRabkNPbGFPdzVyd25TRnl1a3NzS1FZdjZIRE9GLVo1dWNyd1JXUElkVkdR?oc=5",
       "published": "Wed, 22 Jul 2026 08:32:49 GMT",
       "source": "Military Aerospace"
+    },
+    {
+      "title": "Lockheed Martin Q2 2026 highlights include $1.4 billion hypersonic work, missile defense plants and counter-drone investment - Defence Industry Europe",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxORGJCdVN5TWxuWUtTWTcwbXBLVGE3QVl2b28taGJ3QVh2RVM0dHhZUGNjbkNkMUlwZjBwLUhyOXdXOEJRSGQxdHFBOWFFUkNmZGNyd3VIVlBEcFJ5YmhOYXYzcFlPMnd2VHJDd3ZzbUVLSlh5bGUyUi10cW4zOUgtUlgzVjNBcWJCOVF0aUV4NHpkUXdoR0ZSRDZaV2JQRG1LZjlNMjlheVhkRkhrS1RfOGxXb3JpZV9ESGVHMHU2RE1fbG9UMi1XVEN1LTdQM2FHYWtPYktvMXBzTEgyMXJrUWtzZTBGdw?oc=5",
+      "published": "Fri, 24 Jul 2026 13:24:36 GMT",
+      "source": "Defence Industry Europe"
     },
     {
       "title": "Lockheed Martin unveils MORFIUS X-Rotor to fry drones with high-power microwaves - The Jerusalem Post",
@@ -92,10 +92,10 @@
       "source": "The Jerusalem Post"
     },
     {
-      "title": "The Pentagon\u2019s New C-UAS Handbook: What\u2019s Inside and Why it Matters - Defense Security Monitor",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNOFl4cFFOcHl5MFhkRGFaMVhueU9MMEFpT2lIOWxlZzd6VzZyVVE2dG5KM2JXLURIQ2ZkN1VrWER0a09HTWFJMHI1ZUlRcXdFbFJWcnNiTXlTTDhRYU51WVRlWmRxa1JmU3RLTEFvM0I5S1lzS0w5ZDkwTGhfRG5sMDFkSHlkWXpQd2dyclFMeWJUWHZLRVB3M3E0YlFzQzNrZTl1cWZpNE5RamN2VEZMS01nY1o?oc=5",
-      "published": "Tue, 14 Jul 2026 13:49:02 GMT",
-      "source": "Defense Security Monitor"
+      "title": "DOD Drone Task Force Releases Counter-Drone Handbook - MeriTalk",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPaHh0YzROaGoyX2dIdFNIWEUwc1NkeE4xcFltSUZMYUJBbmRsTXVGeXBaem9lQW50bWEzN0EwMXNmaTdkcGEyQllkOWV0dG5faFJKOWhzRVJObmVZUTVmRk1IbzZHbk5LVGxscDJUVWdXNVFieHBFU0k0Qk0wUzhvUFRZSWcycGF0Vlo5cUJnRi0?oc=5",
+      "published": "Thu, 09 Jul 2026 19:24:16 GMT",
+      "source": "MeriTalk"
     },
     {
       "title": "Ondas Secures $6.9M Australian Defence Order, Expanding International Demand for Counter-UAS Solutions - Ondas Holdings",
