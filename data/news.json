@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-25T06:05:47.121597",
+  "last_updated": "2026-07-25T08:21:42.524040",
   "articles": [
     {
       "title": "RSE Ventures and Ondas Co-Lead Strategic Investment in FPF Defense to Build the Next Generation of Counter-UAS Interceptors, Anchoring West Palm Beach as America's Emerging Defense-Tech Hub - Ondas Holdings",
@@ -32,12 +32,6 @@
       "source": "DefenseScoop"
     },
     {
-      "title": "FPF Develops Interceptor for Roughly $50,000 Attack Drones at Scale - Stock Titan",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNm5VZl9iMkFudVk1T0txLU5GSDdFbU5kS05jOUNPQ1YxU3hfb3ZtVDVWRVZPaTZBd1VBU19kWGtoZWpvNEowNmFpRERvcG1rUi1FdFdBdlJXQk8wdFk3c3FIZHB1Tk43eVVOZGI1TUt6SUZrQkpRdDZfZ1BzUzV5d3EyLTZBS2ItQmx2MlpyYXNKR1NXNVVRbnRaTThxeVkwejhJdW5vSDBwamtjeE9sYTFDWFVMRllrT0FVSXl3?oc=5",
-      "published": "Fri, 24 Jul 2026 12:30:00 GMT",
-      "source": "Stock Titan"
-    },
-    {
       "title": "Lockheed Martin\u2019s Morfius X-Rotor built to fry 50 enemy drones in one flight - Defense News",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSXpBREJZdWxoQko1Vncyc3VITm5DQ2Eydks3bHQtM3ZmRGNETFkwZDhWX1BnMGQyVG5rY2NIa3JZLUQzX1dTdEptYWFjRFFpazVmWkZrYWZtTXlNWExlaEdWcFdkTTdzdXJwajRiTE50enhhRFJSRmlxU3dlS1Q4X2FJcUhDWE5TVEs0bEJ4RUNBaG5BdXI3SEp4NElwVEZJLThfM3NGRUI3RkxvWVZRYTRRNHM4dG13THVXclhFRi1qc05wOVVaZ0RQRFRadlU?oc=5",
       "published": "Mon, 20 Jul 2026 15:04:49 GMT",
@@ -48,6 +42,12 @@
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOR0RWMU9RYnFCYWY0MUtXTFp0Q2NIOVNsWG9wZXlkYmRjcUROcTk4QUx3enhhbUNoVndyY1VORzktQWZ4SHNsbnljdVhKRE4xTF9iTnZtRERPbEZST2xscUl1VkNyODZoYlZRckZRV1BqQU5BdDdCNTh5bWVLYm8wd28zUnM1LWdvMVNKZU52ckU5SUk?oc=5",
       "published": "Wed, 15 Jul 2026 22:05:36 GMT",
       "source": "Small Wars Journal"
+    },
+    {
+      "title": "FPF Develops Interceptor for Roughly $50,000 Attack Drones at Scale - Stock Titan",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNm5VZl9iMkFudVk1T0txLU5GSDdFbU5kS05jOUNPQ1YxU3hfb3ZtVDVWRVZPaTZBd1VBU19kWGtoZWpvNEowNmFpRERvcG1rUi1FdFdBdlJXQk8wdFk3c3FIZHB1Tk43eVVOZGI1TUt6SUZrQkpRdDZfZ1BzUzV5d3EyLTZBS2ItQmx2MlpyYXNKR1NXNVVRbnRaTThxeVkwejhJdW5vSDBwamtjeE9sYTFDWFVMRllrT0FVSXl3?oc=5",
+      "published": "Fri, 24 Jul 2026 12:30:00 GMT",
+      "source": "Stock Titan"
     },
     {
       "title": "Joint Interagency Task Force 401 publishes counter-drone handbook - army.mil",
@@ -92,10 +92,10 @@
       "source": "The Jerusalem Post"
     },
     {
-      "title": "DOD Drone Task Force Releases Counter-Drone Handbook - MeriTalk",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPaHh0YzROaGoyX2dIdFNIWEUwc1NkeE4xcFltSUZMYUJBbmRsTXVGeXBaem9lQW50bWEzN0EwMXNmaTdkcGEyQllkOWV0dG5faFJKOWhzRVJObmVZUTVmRk1IbzZHbk5LVGxscDJUVWdXNVFieHBFU0k0Qk0wUzhvUFRZSWcycGF0Vlo5cUJnRi0?oc=5",
-      "published": "Thu, 09 Jul 2026 19:24:16 GMT",
-      "source": "MeriTalk"
+      "title": "The Pentagon\u2019s New C-UAS Handbook: What\u2019s Inside and Why it Matters - Defense Security Monitor",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNOFl4cFFOcHl5MFhkRGFaMVhueU9MMEFpT2lIOWxlZzd6VzZyVVE2dG5KM2JXLURIQ2ZkN1VrWER0a09HTWFJMHI1ZUlRcXdFbFJWcnNiTXlTTDhRYU51WVRlWmRxa1JmU3RLTEFvM0I5S1lzS0w5ZDkwTGhfRG5sMDFkSHlkWXpQd2dyclFMeWJUWHZLRVB3M3E0YlFzQzNrZTl1cWZpNE5RamN2VEZMS01nY1o?oc=5",
+      "published": "Tue, 14 Jul 2026 13:49:02 GMT",
+      "source": "Defense Security Monitor"
     },
     {
       "title": "Ondas Secures $6.9M Australian Defence Order, Expanding International Demand for Counter-UAS Solutions - Ondas Holdings",
