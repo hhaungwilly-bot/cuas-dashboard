@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-28T22:37:09.792271",
+  "last_updated": "2026-07-28T23:37:55.561965",
   "articles": [
     {
       "title": "Israeli defense\u2011tech firms fuse AI drone detection with autonomous net capture - The Jerusalem Post",
@@ -12,6 +12,12 @@
       "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQOXQyVDdhYUhPVTd3N1oyQ2tvajhQYTFsVl9YcDRHQXBkVU9ENFd5Q082b1dUcGFTWXlLNFh1eEx4MUtaazRNZW5jeWNwcURRUlBUa3lNMWc0VENUVEZyNVYzZGU5QWY3ZUJQdFI3YW5HaF9VNzBWdS1qcEZEZ1E5UGRqNEcxX1pMTEZrN09vM294VWMtNXk1dHAzRUwyUVpxbFpfZmZTSHVyTTd6NklZWWxXbmNWeDlBMWgtd3lSREVTNnRpYnl3eXdhQ29ld3RjbkJaYjF5X3VPamFZSFJDMVdTVnduSFJ6Uksw?oc=5",
       "published": "Tue, 28 Jul 2026 13:33:00 GMT",
       "source": "Stocktwits"
+    },
+    {
+      "title": "ZenaTech\u2019s ZenaDrone Begins Testing Phase for Interceptor P-1 Counter-UAS Drone Platform - Yahoo Finance Singapore",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPc3g0czFzLWd6SmxidG9ySmEteU5RSjJ4b0I2ZnhSM1N4NklTb19zRzM5N21MV1VtSVByN2sycjk5UVFISkVOcHdsUFozMHI3QU14VUNhUlNSbFl1VlU0TXVXcDlkOWtnYnFzS0hjY2hUMHhrNk1UbmZVR0dJemVwYlhYYWpVS3NzajIyZzhKYWZMZw?oc=5",
+      "published": "Tue, 28 Jul 2026 11:30:00 GMT",
+      "source": "Yahoo Finance Singapore"
     },
     {
       "title": "Counter-drone systems deployed for defense and infrastructure protection in Asia - Military Embedded Systems",
@@ -50,21 +56,15 @@
       "source": "ExecutiveGov"
     },
     {
-      "title": "RSE Ventures and Ondas Co-Lead Strategic Investment in FPF Defense to Build the Next Generation of Counter-UAS Interceptors, Anchoring West Palm Beach as America's Emerging Defense-Tech Hub - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONVl4aDFra2J5ODNpNGpibnl6VG9wdGdVS2Z2clhTU3pha3Y1T2x5WW1wem53Y19PdTlvNmhBZnFIbDdJUE9FQnRsZDBkNmtYemphdFRzVlhNS3B0MFJIOUowY3RmVVJ0M1pWSEpLSlUtd213QnlXdHlRZHl5OHlvTDk0Y216RnFzOXVzNnMzRjM?oc=5",
-      "published": "Fri, 24 Jul 2026 12:30:00 GMT",
-      "source": "Yahoo Finance"
-    },
-    {
       "title": "Ondas Secures $6.9M Australian Defence Order, Expanding International Demand for Counter-UAS Solutions - Ondas Holdings",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbkFXcDJndkJSZmxfaENRdzUwTWx6STNhOWlzVzJrNU5MZktPWkFWMTRzS2NIWjRrVzRLR3pOWnJ6TEdqSTJRVGxzQWo2VEZvTWZlQVN5NmlJd3VuMktDZTJIUjFmcFNJSUN6Ml8xRzRxRDBoV2RXOWw1eGFLZ2R5cHV5cFlkSFV5TkdsWl9QSm5maUFhSXFyZHluMnoxY2xTWnc?oc=5",
       "published": "Mon, 20 Jul 2026 12:34:56 GMT",
       "source": "Ondas Holdings"
     },
     {
-      "title": "New ForceField counter-UAS system stops FPV drone attacks without emitting signals - Interesting Engineering",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQeG5hQS1rSDlQMXA0SWFVVGJfc2l5NkZXckptcHFpTmVTV01xTHN3bUtySS1seEI2NV9ra0ZJbmJtRzlwMjdOSjFtWUluQkx5OUVGOWpoY2JEVnZTbXQ4blZfNEVscEhXc2NRUEJwU2g0b2doOUNhbWpXUm1PMmwwZGc3Y0Uyd0E2Ry1FUDNESFl6OE51emc?oc=5",
-      "published": "Thu, 16 Jul 2026 07:00:00 GMT",
+      "title": "Next-gen maritime counter-drone system to bolster defense with precision-guided missile systems - Interesting Engineering",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYS1kb1EzaTJCbkpQTXlDcEdpY3lvZ2pmTXVOcGFYNEZpRlFlNkZVaHhyNlpndzZUc3NWTlNXZFEyVl9PNmR0Wnotd1RqeF80cE0yV29GMmpvS0xsYXF5Z2xGZFFuUlp4c0d2eU43WTFjX2V4dDQ0Z0plWHdJY1o1eFQxaVhwX2JHOXY5U0xOQzhaSXc?oc=5",
+      "published": "Thu, 23 Jul 2026 23:39:00 GMT",
       "source": "Interesting Engineering"
     },
     {
@@ -110,16 +110,16 @@
       "source": "Ocean News & Technology"
     },
     {
-      "title": "Lockheed Martin introduces PAC-3 ACE interceptor, MORFIUS X-Rotor counter-UAS system - Military Aerospace",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOY1BXaXhwejktQ2VNZXA2cmJfYjZ4ek90a3AtVEcxeE9mZzhhd0RJV2wzT2t3dFA4Y21vTGRXazFnSkNBNXBCamo4ZlRHRjRYdTg5ZS1pYVdkMGdYeHdtUmVMVTFrWWhONU54cDBOd0RsYVZkbUJGdVVTWjZFSFEzeXN6ZklkbGRSNG4zNVpGQVJNcGlsLWUzVmJ6Wll6V2ZwSEVCbEdseU5LaXRabkNPbGFPdzVyd25TRnl1a3NzS1FZdjZIRE9GLVo1dWNyd1JXUElkVkdR?oc=5",
-      "published": "Wed, 22 Jul 2026 08:32:49 GMT",
-      "source": "Military Aerospace"
+      "title": "RSE Ventures and Ondas Co-Lead Strategic Investment in FPF Defense to Build the Next Generation of Counter-UAS Interceptors, Anchoring West Palm Beach as America's Emerging Defense-Tech Hub - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONVl4aDFra2J5ODNpNGpibnl6VG9wdGdVS2Z2clhTU3pha3Y1T2x5WW1wem53Y19PdTlvNmhBZnFIbDdJUE9FQnRsZDBkNmtYemphdFRzVlhNS3B0MFJIOUowY3RmVVJ0M1pWSEpLSlUtd213QnlXdHlRZHl5OHlvTDk0Y216RnFzOXVzNnMzRjM?oc=5",
+      "published": "Fri, 24 Jul 2026 12:30:00 GMT",
+      "source": "Yahoo Finance"
     },
     {
-      "title": "Next-gen maritime counter-drone system to bolster defense with precision-guided missile systems - Interesting Engineering",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYS1kb1EzaTJCbkpQTXlDcEdpY3lvZ2pmTXVOcGFYNEZpRlFlNkZVaHhyNlpndzZUc3NWTlNXZFEyVl9PNmR0Wnotd1RqeF80cE0yV29GMmpvS0xsYXF5Z2xGZFFuUlp4c0d2eU43WTFjX2V4dDQ0Z0plWHdJY1o1eFQxaVhwX2JHOXY5U0xOQzhaSXc?oc=5",
-      "published": "Thu, 23 Jul 2026 23:39:00 GMT",
-      "source": "Interesting Engineering"
+      "title": "Pentagon awards deals for laser weapons that could shoot down drone swarms - DefenseScoop",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWUF4N1R4b05EZDNPZzBqYW9ZLW04RXRpRjdPN2xzX2V3WkZ6YUVlOUhkOTUwaWRzOHlTZVdWWm5XbXN1V2hrQllKa3UwdklESzI5RHVKOHdteF9rcVZQQ1ZETmJiazEyeThIbnlnQ2pWNEVwOVNQc2pSeVc5bXVBTHJxeVNoVHJseFF0NHp0c3E5eGtPeXc?oc=5",
+      "published": "Thu, 09 Jul 2026 07:00:00 GMT",
+      "source": "DefenseScoop"
     }
   ]
 }
