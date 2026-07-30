@@ -1,6 +1,12 @@
 {
-  "last_updated": "2026-07-30T14:55:37.599170",
+  "last_updated": "2026-07-30T16:37:01.573705",
   "articles": [
+    {
+      "title": "Data Centers Under Fire: Do Facilities Need Counter-Drone Defenses? - datacenterknowledge.com",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRmxMWkgyWW9aMm5QWkVfSDdWWFFNQklHdjlEdW9IT0ZTNk90cEhTa0ZxUGtUV2UxeVNlVHh5TzFkY2liTGRoVkhEMEpOcm9IdElpejFLd2IwRW5vZ1JSS0FaRzg1SU9Fc0VKMzE2QTZsZ2VzSjZONlpXZkt3a0NXZUtIRldBTE9MSW5BSC1jUFM3UXFURGxHZkd4Zmh2RlVyZ2FzbnJZLW03b2h0MnZwZXBtaEgwb3NDWWdxUQ?oc=5",
+      "published": "Thu, 30 Jul 2026 08:56:57 GMT",
+      "source": "datacenterknowledge.com"
+    },
     {
       "title": "Counter UAS-Solutions Provider DroneShield Introduces RfAI-3 Drone Detection Engine - Defensemirror.com",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdG9KeWhMX2lJYWxaYjNEOUszOUJ3b1d3MVQ2dlRFSWVleFlXS0hrQklRWjZqTk1ka3UzWlo5Ym9EMHg3eUhtNE5mX1NSVGRkMkFNSXFveC1QUHRkNVkzTzhwZVRRM2s4RGNEaE9aZHBXWk1nLVByVWdjaUpIT2Nyd09PZ05YTGxRV3ktakxYN3VKMWNCQVd2Z1ZSZGhNN1JCRFBKVUY1MF9mNzdKSUFmaVJ4cHlvRjg2LWZuTQ?oc=5",
@@ -8,10 +14,16 @@
       "source": "Defensemirror.com"
     },
     {
-      "title": "Israeli defense tech companies combine AI detection with autonomous net interception - The Jerusalem Post",
+      "title": "Israeli defense\u2011tech firms fuse AI drone detection with autonomous net capture - The Jerusalem Post",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE04VGtCZ2o4Y1FxbFcwNDlvblJEZS15NXB4WWpKMWFfTjQ2NFlLcFpVemdBc3drcVdZX00wVVlZb0lUU0Y4MXByYXBlX3lOR3VsRTAwRGlDODVPYVMxUjNKZW42SQ?oc=5",
       "published": "Tue, 28 Jul 2026 08:53:59 GMT",
       "source": "The Jerusalem Post"
+    },
+    {
+      "title": "ZenaTech\u2019s ZenaDrone Begins Testing Phase for Interceptor P-1 Counter-UAS Drone Platform - Stocktwits",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQOXQyVDdhYUhPVTd3N1oyQ2tvajhQYTFsVl9YcDRHQXBkVU9ENFd5Q082b1dUcGFTWXlLNFh1eEx4MUtaazRNZW5jeWNwcURRUlBUa3lNMWc0VENUVEZyNVYzZGU5QWY3ZUJQdFI3YW5HaF9VNzBWdS1qcEZEZ1E5UGRqNEcxX1pMTEZrN09vM294VWMtNXk1dHAzRUwyUVpxbFpfZmZTSHVyTTd6NklZWWxXbmNWeDlBMWgtd3lSREVTNnRpYnl3eXdhQ29ld3RjbkJaYjF5X3VPamFZSFJDMVdTVnduSFJ6Uksw?oc=5",
+      "published": "Tue, 28 Jul 2026 13:33:00 GMT",
+      "source": "Stocktwits"
     },
     {
       "title": "Teledyne FLIR Defense Receives Significant Order to Support AV\u2019s Titan MS Counter-UAS Solution for JIATF-401 - Business Wire",
@@ -20,10 +32,10 @@
       "source": "Business Wire"
     },
     {
-      "title": "ZenaTech\u2019s ZenaDrone Begins Testing Phase for Interceptor P-1 Counter-UAS Drone Platform - EIN News",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPU09FQXBndE95V25WSHpwYUN5eUNmUHo4aXNma2lsa1MzTjh2T3VVUUlyUlAzV0xUQmFVTE1lOGV4NmVKZTdCeUw4U094VURmT3hXY1JmUTJhOUF5ekczNDAzeVN4NnhraHJMSmtaRkljcUJJWkFVbXVwemw0Uml5VElDdmpVZHVLeDZPY2hEc21Kc2ZTa0wtenJwbjJqOFk4cXc0bjQzMmFjamhLSDA0Sk1tRmxQT3hYOWdQUTNFSE02VFdybno2Zjdn?oc=5",
-      "published": "Wed, 29 Jul 2026 10:48:00 GMT",
-      "source": "EIN News"
+      "title": "CBO: Counter-Drone Defense Could Cost $7.4 Billion - Small Wars Journal",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOR0RWMU9RYnFCYWY0MUtXTFp0Q2NIOVNsWG9wZXlkYmRjcUROcTk4QUx3enhhbUNoVndyY1VORzktQWZ4SHNsbnljdVhKRE4xTF9iTnZtRERPbEZST2xscUl1VkNyODZoYlZRckZRV1BqQU5BdDdCNTh5bWVLYm8wd28zUnM1LWdvMVNKZU52ckU5SUk?oc=5",
+      "published": "Wed, 15 Jul 2026 22:05:36 GMT",
+      "source": "Small Wars Journal"
     },
     {
       "title": "RSE Ventures and Ondas Co-Lead Strategic Investment in FPF Defense to Build the Next Generation of Counter-UAS Interceptors, Anchoring West Palm Beach as America's Emerging Defense-Tech Hub - Ondas Holdings",
@@ -38,22 +50,10 @@
       "source": "The Defense Post"
     },
     {
-      "title": "CBO: Counter-Drone Defense Could Cost $7.4 Billion - Small Wars Journal",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOR0RWMU9RYnFCYWY0MUtXTFp0Q2NIOVNsWG9wZXlkYmRjcUROcTk4QUx3enhhbUNoVndyY1VORzktQWZ4SHNsbnljdVhKRE4xTF9iTnZtRERPbEZST2xscUl1VkNyODZoYlZRckZRV1BqQU5BdDdCNTh5bWVLYm8wd28zUnM1LWdvMVNKZU52ckU5SUk?oc=5",
-      "published": "Wed, 15 Jul 2026 22:05:36 GMT",
-      "source": "Small Wars Journal"
-    },
-    {
-      "title": "ZenaTech\u2019s ZenaDrone Begins Testing Phase for Interceptor P-1 Counter-UAS Drone Platform - Stocktwits",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQOXQyVDdhYUhPVTd3N1oyQ2tvajhQYTFsVl9YcDRHQXBkVU9ENFd5Q082b1dUcGFTWXlLNFh1eEx4MUtaazRNZW5jeWNwcURRUlBUa3lNMWc0VENUVEZyNVYzZGU5QWY3ZUJQdFI3YW5HaF9VNzBWdS1qcEZEZ1E5UGRqNEcxX1pMTEZrN09vM294VWMtNXk1dHAzRUwyUVpxbFpfZmZTSHVyTTd6NklZWWxXbmNWeDlBMWgtd3lSREVTNnRpYnl3eXdhQ29ld3RjbkJaYjF5X3VPamFZSFJDMVdTVnduSFJ6Uksw?oc=5",
-      "published": "Tue, 28 Jul 2026 13:33:00 GMT",
-      "source": "Stocktwits"
-    },
-    {
-      "title": "Counter-drone systems deployed for defense and infrastructure protection in Asia - militaryembedded.com",
+      "title": "Counter-drone systems deployed for defense and infrastructure protection in Asia - Military Embedded Systems",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVkZXZE1WWnFRQ05HYW5IdngteHAwNVZQMDFmaUN2RWIweVhDQjVjMVRkampTN05hQ0xWeUFJMkE2ejVyYmJ2LTVFRi1UWnZiVUl3WUN4VEhYX3o1ems1VUgtdFdlNkV5bkw1SGJ2UFU2eXU5S1oycVFEeWUzRTkxQUdreWNIeHhkS3FRNHBkbVJSdl9ORTNMSG90Q056TnBsMmpmeVV0ZGR2b1o5TUptNl8ybmZ4VzlkVzZxb1RDUWgwOENMN0djT2NB?oc=5",
       "published": "Fri, 24 Jul 2026 15:33:18 GMT",
-      "source": "militaryembedded.com"
+      "source": "Military Embedded Systems"
     },
     {
       "title": "Joint Interagency Task Force 401 publishes counter-drone handbook - army.mil",
@@ -92,12 +92,6 @@
       "source": "ExecutiveGov"
     },
     {
-      "title": "Pentagon awards $80M task order for AI-enabled tech to defend Air Force bases against small drones - DefenseScoop",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPV3R3ZFloTzRKSGtWY3hoLW1wYTk4Tjd3NlpITHd4MVJpQ0lqeWtHYzN0SmQ5UnVUTVNnTHViNHhfdkUxSlQ0emtlbEhoTFVmS0tRMlI5ZHZycEJvaU1fMVBhV1E5UDhUWld0Wm10eVZPMUVtMWpqd2FfUTJpYWxWUTYxMTZSZm14eERJVGpUdFVickhFeEZUdQ?oc=5",
-      "published": "Mon, 06 Jul 2026 07:00:00 GMT",
-      "source": "DefenseScoop"
-    },
-    {
       "title": "Autonomous Guard expands Asian presence as regional drone threats accelerate - The Jerusalem Post",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5CNGhNcVZsc0lPYVpkVUllWC0wcHFqRVRINjFHa3BRYTI0R044eGFjZXNNS1pvSUozVXc5ekFWVjJmNzJMdzMwR3l1em9OQzVwaFM3eEJLUFF6LVlEdUdrd1MyUQ?oc=5",
       "published": "Tue, 28 Jul 2026 07:42:39 GMT",
@@ -110,16 +104,22 @@
       "source": "Ondas Holdings"
     },
     {
+      "title": "Pentagon awards $80M task order for AI-enabled tech to defend Air Force bases against small drones - defensescoop.com",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPV3R3ZFloTzRKSGtWY3hoLW1wYTk4Tjd3NlpITHd4MVJpQ0lqeWtHYzN0SmQ5UnVUTVNnTHViNHhfdkUxSlQ0emtlbEhoTFVmS0tRMlI5ZHZycEJvaU1fMVBhV1E5UDhUWld0Wm10eVZPMUVtMWpqd2FfUTJpYWxWUTYxMTZSZm14eERJVGpUdFVickhFeEZUdQ?oc=5",
+      "published": "Mon, 06 Jul 2026 07:00:00 GMT",
+      "source": "defensescoop.com"
+    },
+    {
       "title": "New JIATF 401 Handbook Reframes Counter-Drone Defense Around Five First Principles - Inside Unmanned Systems",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNUZxV3d4S244RDJMLWFRN2RKVFJYcUFIY2tNSjI1STNKb0dMUXBDSkJ5VUNKUFlTOFV2THlPRUFXNFNxc2hmUzh4UVpQb3FnZ2xaeWJQanNCeGhrU0NzNjNCVE8yRXdMRnJTWXplUFpCSXNCeXFhY29XeXY3c0x0OFJ4WmdKSDFQNDh0RHllUFhkaWdZb0VHLVpPUFRwOG1FY1FDLXpPMnBlLXd0QjY5eFNMRjBFQnQ0?oc=5",
       "published": "Thu, 09 Jul 2026 07:00:00 GMT",
       "source": "Inside Unmanned Systems"
     },
     {
-      "title": "Subpar Secret Service drone defense flagged in Trump assassination attempt report - FedScoop",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNLVgyd2tERG9hXzRlbGJfRWdaTkUwVkdKNGNUOENJcGd1eV80TDlvaGQ2LUFqaTZfSldBTkg1VTNTeW1qTnNfSE9aNEEycXB5ZC1OdkFSS2hCcENaLUV4R2MwQ0VlTl9XMW1WczNyczRURzRLN1VSeExocEpHcElVY2E4akVDcmVZOVE?oc=5",
-      "published": "Wed, 08 Jul 2026 07:00:00 GMT",
-      "source": "FedScoop"
+      "title": "Pentagon awards deals for laser weapons that could shoot down drone swarms - defensescoop.com",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWUF4N1R4b05EZDNPZzBqYW9ZLW04RXRpRjdPN2xzX2V3WkZ6YUVlOUhkOTUwaWRzOHlTZVdWWm5XbXN1V2hrQllKa3UwdklESzI5RHVKOHdteF9rcVZQQ1ZETmJiazEyeThIbnlnQ2pWNEVwOVNQc2pSeVc5bXVBTHJxeVNoVHJseFF0NHp0c3E5eGtPeXc?oc=5",
+      "published": "Thu, 09 Jul 2026 07:00:00 GMT",
+      "source": "defensescoop.com"
     }
   ]
 }
