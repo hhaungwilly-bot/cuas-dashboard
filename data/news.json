@@ -1,17 +1,11 @@
 {
-  "last_updated": "2026-07-31T20:10:54.213312",
+  "last_updated": "2026-07-31T21:28:44.433534",
   "articles": [
     {
-      "title": "CACI\u2019s SkyValor Drone Defense System Selected for Deployment Under $500M C-UAS IDIQ Contract - govconwire.com",
+      "title": "CACI\u2019s SkyValor Drone Defense System Selected for Deployment Under $500M C-UAS IDIQ Contract - GovCon Wire",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPdFhNaGlOSkMtYk1sWkd3RFlZNS1oX1E1VmlVZFdMX3JXOGtvbUNkWjNOa1pnbGFUdV9icERjalFwWHBYQ0gwanBwWXJoWU5STHBaSmdWa1NaXzJkYkhyd2FRaTB3NThoYzVIUGVzVGJTZGVpZF8yaWpPZTI4RnVVcFJR?oc=5",
       "published": "Fri, 31 Jul 2026 07:48:42 GMT",
-      "source": "govconwire.com"
-    },
-    {
-      "title": "Data Centers Face New Aerial Threat; Counter-Drone Defenses Eyed - Indiatimes",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQaXFfWWNCNjRFY0UtdHhjR0FFZjJfalYzNnNXMEZnc0dPU09ucGlYcnJid3F0YmNfUld6S25ONm0tVVJaQjNPN0tXQlRHVXkxaExOc2cwbUNacVlfUXlWbXoxV1E1UHpkbjZycHdOdHNlU01ucXFCczZ2d2g5WU56MmtuU0FzU2p1ZkpZRG5DV056MUEzVklfVHg3Zks1cVBIREFFQUp1Nm9qVV9FY095ZE1JM2cxbkZQeVAyak56eXFNT1kwcmdKU19jS2FmSHVfWktRT18yWnM1YmlsSnVBUzktRQ?oc=5",
-      "published": "Fri, 31 Jul 2026 16:12:33 GMT",
-      "source": "Indiatimes"
+      "source": "GovCon Wire"
     },
     {
       "title": "ZenaTech\u2019s ZenaDrone Begins Testing Phase for Interceptor P-1 Counter-UAS Drone Platform - EIN Presswire",
@@ -20,22 +14,28 @@
       "source": "EIN Presswire"
     },
     {
-      "title": "Israeli defense\u2011tech firms fuse AI drone detection with autonomous net capture - The Jerusalem Post",
+      "title": "Data Centers Under Fire: Do Facilities Need Counter-Drone Defenses? - Data Center Knowledge",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRmxMWkgyWW9aMm5QWkVfSDdWWFFNQklHdjlEdW9IT0ZTNk90cEhTa0ZxUGtUV2UxeVNlVHh5TzFkY2liTGRoVkhEMEpOcm9IdElpejFLd2IwRW5vZ1JSS0FaRzg1SU9Fc0VKMzE2QTZsZ2VzSjZONlpXZkt3a0NXZUtIRldBTE9MSW5BSC1jUFM3UXFURGxHZkd4Zmh2RlVyZ2FzbnJZLW03b2h0MnZwZXBtaEgwb3NDWWdxUQ?oc=5",
+      "published": "Thu, 30 Jul 2026 08:56:57 GMT",
+      "source": "Data Center Knowledge"
+    },
+    {
+      "title": "Israeli defense\u2011tech firms fuse AI drone detection with autonomous net capture - jpost.com",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE04VGtCZ2o4Y1FxbFcwNDlvblJEZS15NXB4WWpKMWFfTjQ2NFlLcFpVemdBc3drcVdZX00wVVlZb0lUU0Y4MXByYXBlX3lOR3VsRTAwRGlDODVPYVMxUjNKZW42SQ?oc=5",
       "published": "Tue, 28 Jul 2026 08:53:59 GMT",
-      "source": "The Jerusalem Post"
+      "source": "jpost.com"
+    },
+    {
+      "title": "Data Centers Face New Aerial Threat; Counter-Drone Defenses Eyed - Indiatimes",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQaXFfWWNCNjRFY0UtdHhjR0FFZjJfalYzNnNXMEZnc0dPU09ucGlYcnJid3F0YmNfUld6S25ONm0tVVJaQjNPN0tXQlRHVXkxaExOc2cwbUNacVlfUXlWbXoxV1E1UHpkbjZycHdOdHNlU01ucXFCczZ2d2g5WU56MmtuU0FzU2p1ZkpZRG5DV056MUEzVklfVHg3Zks1cVBIREFFQUp1Nm9qVV9FY095ZE1JM2cxbkZQeVAyak56eXFNT1kwcmdKU19jS2FmSHVfWktRT18yWnM1YmlsSnVBUzktRQ?oc=5",
+      "published": "Fri, 31 Jul 2026 16:12:33 GMT",
+      "source": "Indiatimes"
     },
     {
       "title": "Teledyne FLIR Defense Receives Significant Order to Support AV\u2019s Titan MS Counter-UAS Solution for JIATF-401 - Business Wire",
       "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNZHpxUndzcFk5RHFIUTRtVVN0aUt1VUNkWlRTWF9IVXhIT3Jkd0ZvRUNieDFOdU9Rc0RRNTV3OER0TlhRejhJWG1KVUVucTh0TDRjN0pZNEJlY1oteXdLUGMzX1pIb3kyR2VFc3JMakVycl8tRFBuQkRQUUFCcEtpWHlCZHRDc0dhNldwdWhEVHd4cTJ1Q1BWZURVVWE5QVZhVGNtbWhYTzl3SE1HMkI0ZkdZNnRpaWx2YzVuWURDVHN0ckl3VU93NnBBTXJDanc5U2pHd3REMmdaMllQTVAtLS11Q2ZQeVlkcG1rWkdDM0VrOGlFdURz?oc=5",
       "published": "Wed, 29 Jul 2026 13:07:00 GMT",
       "source": "Business Wire"
-    },
-    {
-      "title": "Data Centers Under Fire: Do Facilities Need Counter-Drone Defenses? - Data Center Knowledge",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRmxMWkgyWW9aMm5QWkVfSDdWWFFNQklHdjlEdW9IT0ZTNk90cEhTa0ZxUGtUV2UxeVNlVHh5TzFkY2liTGRoVkhEMEpOcm9IdElpejFLd2IwRW5vZ1JSS0FaRzg1SU9Fc0VKMzE2QTZsZ2VzSjZONlpXZkt3a0NXZUtIRldBTE9MSW5BSC1jUFM3UXFURGxHZkd4Zmh2RlVyZ2FzbnJZLW03b2h0MnZwZXBtaEgwb3NDWWdxUQ?oc=5",
-      "published": "Thu, 30 Jul 2026 08:56:57 GMT",
-      "source": "Data Center Knowledge"
     },
     {
       "title": "CBO: Counter-Drone Defense Could Cost $7.4 Billion - Small Wars Journal",
@@ -92,10 +92,10 @@
       "source": "Defense Security Monitor"
     },
     {
-      "title": "Autonomous Guard expands Asian presence as regional drone threats accelerate - The Jerusalem Post",
+      "title": "Autonomous Guard expands Asian presence as regional drone threats accelerate - jpost.com",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5CNGhNcVZsc0lPYVpkVUllWC0wcHFqRVRINjFHa3BRYTI0R044eGFjZXNNS1pvSUozVXc5ekFWVjJmNzJMdzMwR3l1em9OQzVwaFM3eEJLUFF6LVlEdUdrd1MyUQ?oc=5",
       "published": "Tue, 28 Jul 2026 07:42:39 GMT",
-      "source": "The Jerusalem Post"
+      "source": "jpost.com"
     },
     {
       "title": "Ondas Secures $6.9M Australian Defence Order, Expanding International Demand for Counter-UAS Solutions - Ondas Holdings",
@@ -116,10 +116,10 @@
       "source": "Stock Titan"
     },
     {
-      "title": "Pentagon awards $80M task order for AI-enabled tech to defend Air Force bases against small drones - DefenseScoop",
+      "title": "Pentagon awards $80M task order for AI-enabled tech to defend Air Force bases against small drones - defensescoop.com",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPV3R3ZFloTzRKSGtWY3hoLW1wYTk4Tjd3NlpITHd4MVJpQ0lqeWtHYzN0SmQ5UnVUTVNnTHViNHhfdkUxSlQ0emtlbEhoTFVmS0tRMlI5ZHZycEJvaU1fMVBhV1E5UDhUWld0Wm10eVZPMUVtMWpqd2FfUTJpYWxWUTYxMTZSZm14eERJVGpUdFVickhFeEZUdQ?oc=5",
       "published": "Mon, 06 Jul 2026 07:00:00 GMT",
-      "source": "DefenseScoop"
+      "source": "defensescoop.com"
     }
   ]
 }
