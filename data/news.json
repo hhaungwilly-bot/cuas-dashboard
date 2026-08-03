@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-03T14:05:43.956755",
+  "last_updated": "2026-08-03T16:38:20.683401",
   "articles": [
     {
       "title": "Pentagon\u2019s counter-drone task force inks $500M contract for SkyValor 'detect and defeat' system after border testing - DefenseScoop",
@@ -18,6 +18,12 @@
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPdFhNaGlOSkMtYk1sWkd3RFlZNS1oX1E1VmlVZFdMX3JXOGtvbUNkWjNOa1pnbGFUdV9icERjalFwWHBYQ0gwanBwWXJoWU5STHBaSmdWa1NaXzJkYkhyd2FRaTB3NThoYzVIUGVzVGJTZGVpZF8yaWpPZTI4RnVVcFJR?oc=5",
       "published": "Fri, 31 Jul 2026 07:48:42 GMT",
       "source": "GovCon Wire"
+    },
+    {
+      "title": "JIATF-401 awards CACI $500M for non-kinetic cUAS - Breaking Defense",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcGZSQThtMmVYWElRNEk2VlZQeXlhLVJKY3loc2hrR253aWtUcHRVTnpPZUdmaTdLSmFUb3BmUXl2MFFHWjRrYTdXLWNzNW5UVXlQNFZDbVJuZUtRYVdnVnVJMHhEVkx1VEMzSzVGQndnVXBrdjVwQ1M3Y2tDd0JoZkctWGRfTXcxRmRYXw?oc=5",
+      "published": "Thu, 30 Jul 2026 21:21:06 GMT",
+      "source": "Breaking Defense"
     },
     {
       "title": "CBO: Counter-Drone Defense Could Cost $7.4 Billion - Small Wars Journal",
@@ -56,10 +62,16 @@
       "source": "The Jerusalem Post"
     },
     {
-      "title": "Axon Vision Expands Counter-UAS Platform with ParaZero Integration - israeldefense.co.il",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBBaGZpVWFIZkEyOVBMTW4xVUpMZWw0bnU4czRyLUQ2ZEtLR3A0UmpIQklKbjBSWkFRQzhRdm1SeUt4NnVFNFpsZ1NZV1plOWRVUkxJWW5GU04?oc=5",
-      "published": "Mon, 03 Aug 2026 03:24:13 GMT",
-      "source": "israeldefense.co.il"
+      "title": "RSE Ventures and Ondas Co-Lead Strategic Investment in FPF Defense to Build the Next Generation of Counter-UAS Interceptors, Anchoring West Palm Beach as America's Emerging Defense-Tech Hub - Ondas Holdings",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQS2VmemlhRlhOWXdSOGI0T29OQnoyWGg0LU1RQW02LWFsQTNGS1J4a3lxNUZfSEV5c1JweEdIazFWbnhvbmhTM1R4dTlJblVfVEpINE1SYnA0ME5ydG5WWVV0VUJleEtEX0Vfdi1kTy1YY0VCSkp0U3ZNbHFnQklPaDdZbnJzUy1waVJiUGRwdzZMaGtyUGs0TlpRY21ZNVppczVZN3dXdlk?oc=5",
+      "published": "Fri, 24 Jul 2026 07:00:00 GMT",
+      "source": "Ondas Holdings"
+    },
+    {
+      "title": "New ForceField counter-UAS system stops FPV drone attacks without emitting signals - interestingengineering.com",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQeG5hQS1rSDlQMXA0SWFVVGJfc2l5NkZXckptcHFpTmVTV01xTHN3bUtySS1seEI2NV9ra0ZJbmJtRzlwMjdOSjFtWUluQkx5OUVGOWpoY2JEVnZTbXQ4blZfNEVscEhXc2NRUEJwU2g0b2doOUNhbWpXUm1PMmwwZGc3Y0Uyd0E2Ry1FUDNESFl6OE51emc?oc=5",
+      "published": "Thu, 16 Jul 2026 07:00:00 GMT",
+      "source": "interestingengineering.com"
     },
     {
       "title": "Exosens to Triple Thermal Camera Production for Drone Defense Demand - The Defense Post",
@@ -68,16 +80,10 @@
       "source": "The Defense Post"
     },
     {
-      "title": "RSE Ventures and Ondas Co-Lead Strategic Investment in FPF Defense to Build the Next Generation of Counter-UAS Interceptors, Anchoring West Palm Beach as America's Emerging Defense-Tech Hub - Ondas Holdings",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQS2VmemlhRlhOWXdSOGI0T29OQnoyWGg0LU1RQW02LWFsQTNGS1J4a3lxNUZfSEV5c1JweEdIazFWbnhvbmhTM1R4dTlJblVfVEpINE1SYnA0ME5ydG5WWVV0VUJleEtEX0Vfdi1kTy1YY0VCSkp0U3ZNbHFnQklPaDdZbnJzUy1waVJiUGRwdzZMaGtyUGs0TlpRY21ZNVppczVZN3dXdlk?oc=5",
-      "published": "Fri, 24 Jul 2026 07:00:00 GMT",
-      "source": "Ondas Holdings"
-    },
-    {
-      "title": "New ForceField counter-UAS system stops FPV drone attacks without emitting signals - Interesting Engineering",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQeG5hQS1rSDlQMXA0SWFVVGJfc2l5NkZXckptcHFpTmVTV01xTHN3bUtySS1seEI2NV9ra0ZJbmJtRzlwMjdOSjFtWUluQkx5OUVGOWpoY2JEVnZTbXQ4blZfNEVscEhXc2NRUEJwU2g0b2doOUNhbWpXUm1PMmwwZGc3Y0Uyd0E2Ry1FUDNESFl6OE51emc?oc=5",
-      "published": "Thu, 16 Jul 2026 07:00:00 GMT",
-      "source": "Interesting Engineering"
+      "title": "Axon Vision Expands Counter-UAS Platform with ParaZero Integration - israeldefense.co.il",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBBaGZpVWFIZkEyOVBMTW4xVUpMZWw0bnU4czRyLUQ2ZEtLR3A0UmpIQklKbjBSWkFRQzhRdm1SeUt4NnVFNFpsZ1NZV1plOWRVUkxJWW5GU04?oc=5",
+      "published": "Mon, 03 Aug 2026 03:24:13 GMT",
+      "source": "israeldefense.co.il"
     },
     {
       "title": "Is the 'Happy Time' for Drones Coming to an End? New Government Guide Signals a Shift in Counter-UAS Strategy - Dronelife",
@@ -98,28 +104,22 @@
       "source": "Defense News"
     },
     {
-      "title": "Autonomous Guard expands Asian presence as regional drone threats accelerate - The Jerusalem Post",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5CNGhNcVZsc0lPYVpkVUllWC0wcHFqRVRINjFHa3BRYTI0R044eGFjZXNNS1pvSUozVXc5ekFWVjJmNzJMdzMwR3l1em9OQzVwaFM3eEJLUFF6LVlEdUdrd1MyUQ?oc=5",
-      "published": "Tue, 28 Jul 2026 07:42:39 GMT",
-      "source": "The Jerusalem Post"
-    },
-    {
       "title": "Ondas Secures $6.9M Australian Defence Order, Expanding International Demand for Counter-UAS Solutions - Ondas Holdings",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbkFXcDJndkJSZmxfaENRdzUwTWx6STNhOWlzVzJrNU5MZktPWkFWMTRzS2NIWjRrVzRLR3pOWnJ6TEdqSTJRVGxzQWo2VEZvTWZlQVN5NmlJd3VuMktDZTJIUjFmcFNJSUN6Ml8xRzRxRDBoV2RXOWw1eGFLZ2R5cHV5cFlkSFV5TkdsWl9QSm5maUFhSXFyZHluMnoxY2xTWnc?oc=5",
       "published": "Mon, 20 Jul 2026 12:34:56 GMT",
       "source": "Ondas Holdings"
     },
     {
+      "title": "Autonomous Guard expands Asian presence as regional drone threats accelerate - The Jerusalem Post",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5CNGhNcVZsc0lPYVpkVUllWC0wcHFqRVRINjFHa3BRYTI0R044eGFjZXNNS1pvSUozVXc5ekFWVjJmNzJMdzMwR3l1em9OQzVwaFM3eEJLUFF6LVlEdUdrd1MyUQ?oc=5",
+      "published": "Tue, 28 Jul 2026 07:42:39 GMT",
+      "source": "The Jerusalem Post"
+    },
+    {
       "title": "Virtuix Enters Counter-Drone Training for U.S. Marine Corps - GlobeNewswire",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPelBwN3VQaVg1WF9Ub2preHFPZ19zeW9BZzQ2aFZ4ZUt6NW93ckh4eDBJRGhGejMyVFpGUlFrRjRYZTJ0ZUlQeUh6WFZ5LUljMFNxWVRFelV5blZpcXc2MHB6Y2E5NEdQSF9NVmdIRTBpYWlPZjFWYVlMWXVLTHJoTklnZXBEdnZCWkZ3Y1I2QUdocVZaSFhjMGNjV1Zad3ZoemJaNkJ3VXpLRFNINHNUbnF0NEtLbGJ3X3Z2MU1mdHR1WUIzRFhmTGZn?oc=5",
       "published": "Tue, 28 Jul 2026 12:57:00 GMT",
       "source": "GlobeNewswire"
-    },
-    {
-      "title": "Counter UAS-Solutions Provider DroneShield Introduces RfAI-3 Drone Detection Engine - Defensemirror.com",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdG9KeWhMX2lJYWxaYjNEOUszOUJ3b1d3MVQ2dlRFSWVleFlXS0hrQklRWjZqTk1ka3UzWlo5Ym9EMHg3eUhtNE5mX1NSVGRkMkFNSXFveC1QUHRkNVkzTzhwZVRRM2s4RGNEaE9aZHBXWk1nLVByVWdjaUpIT2Nyd09PZ05YTGxRV3ktakxYN3VKMWNCQVd2Z1ZSZGhNN1JCRFBKVUY1MF9mNzdKSUFmaVJ4cHlvRjg2LWZuTQ?oc=5",
-      "published": "Thu, 30 Jul 2026 08:04:34 GMT",
-      "source": "Defensemirror.com"
     }
   ]
 }
