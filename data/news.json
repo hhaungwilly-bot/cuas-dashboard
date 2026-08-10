@@ -1,11 +1,17 @@
 {
-  "last_updated": "2026-08-10T15:41:08.361737",
+  "last_updated": "2026-08-10T16:33:36.328716",
   "articles": [
     {
       "title": "Pentagon launches online marketplace for counter-UAS technology - Defense News",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSi0xTzZCaE15Ymd5YlJkME14LWpmbWJsT2FHZW1xbjl1M3ZnNTNXWmtDRUgySGJVSXo5cFN6a1NRRmZrSHBPbTltcWJnWF82a0VFbE5ua2UtUEstSlI3ZW52T3RZLWx2dktiM1g1RFQ2Zmd1SXpyMmJwVGJSSm9yYjBNMWZXUUVKeHJfLUk1VTYxaUpQZEF4MFdwbVdFUF9QdlBPWjEzQjFWWXFNb0FHb0ZMQnlFNXpfTEpISzYzUUV1bU1w?oc=5",
       "published": "Mon, 10 Aug 2026 13:55:17 GMT",
       "source": "Defense News"
+    },
+    {
+      "title": "Modular Counter-UAS Systems for Military Vehicles - Mobility Engineering Technology",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPT1BCRVJTN1JTUGRQbzRBVDVqZ2RjOVlVamJoWUNDX2U0eUdualJUWkNKVU9aRWVIV3VVcExfbm5MRlBDZFc1al9GZkE5M1R1U1NEYUV5RFlZWlVWZFNSWVBWMzBzcktVTzFtZzZPTVZHMV9yNXNKUHNUdjRsdjZtaEFMb1hxYjFSUGVTb2s3Q0V5V1RyS1RfOW8xal9XWHVxelJfMWVaNUNMYjVIYmw3TUdhWkVrZ2xFTTFwTWR3?oc=5",
+      "published": "Mon, 10 Aug 2026 11:00:00 GMT",
+      "source": "Mobility Engineering Technology"
     },
     {
       "title": "DHS begins $1.5B spending spree on drone defense - FedScoop",
@@ -44,12 +50,6 @@
       "source": "MarketsandMarkets"
     },
     {
-      "title": "Modular Counter-UAS Systems for Military Vehicles - techbriefs.com",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTnVtUFR2emNOSU1pR3lxN09OTEhSX2tGVVdzZDQzeVBIYTd4MzIzWklweGM3ZE1peE5YdkJYbFlUaVZiWEdzZXhEeEEydkFORzZ0NGpIcHlNdUVLMjROSHY0cVdPQjJQc1RaWTIyU2dwY1VBWkJMdGdEa2dwa3Z2bnlxZlUzS0RjUVRlZGpNSEViME1OQUdSMy1ZV0pTTEMybWFRUDBUNE9Sa3Ba?oc=5",
-      "published": "Fri, 07 Aug 2026 14:24:26 GMT",
-      "source": "techbriefs.com"
-    },
-    {
       "title": "The Pentagon's counter-drone force has rolled out a new online marketplace for buying defensive tech - Business Insider",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQa1U0a2xKY3VHcEZVMHFpRUg5NGNUcGRkU25FUW5TZ01tY3dGX1EzRXhJSEI5dU1NajU2M3JGQXpxQm5faC1mWWZvQlFVWW1POUwxcmtfU3AyOWk0Q1ViQkJxUG5RbWNIeFJ2bm1KXzBmSnI2RG1Ndy1scnpTQjJDY2gtamd3X1dUaWZSR1pELU4?oc=5",
       "published": "Tue, 04 Aug 2026 19:55:00 GMT",
@@ -80,16 +80,16 @@
       "source": "Ondas Holdings"
     },
     {
-      "title": "New ForceField counter-UAS system stops FPV drone attacks without emitting signals - Interesting Engineering",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQeG5hQS1rSDlQMXA0SWFVVGJfc2l5NkZXckptcHFpTmVTV01xTHN3bUtySS1seEI2NV9ra0ZJbmJtRzlwMjdOSjFtWUluQkx5OUVGOWpoY2JEVnZTbXQ4blZfNEVscEhXc2NRUEJwU2g0b2doOUNhbWpXUm1PMmwwZGc3Y0Uyd0E2Ry1FUDNESFl6OE51emc?oc=5",
-      "published": "Thu, 16 Jul 2026 07:00:00 GMT",
-      "source": "Interesting Engineering"
-    },
-    {
       "title": "Army seeks next-gen missile that could shoot down small drones for less than $150K a pop - DefenseScoop",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5GbzRtdW9TS3Y4b3JkaW9oazVGWW9nUWRxa0hGY25RV2h1UEg1MVVfQnhSUE1xS1VFMzVSUGRyckRva0VEZFV5aWhqeHZsbngwV2FpTDBLMVEwdllFOWVXYVZyU3g2VDNESS1WekhBLXNYOEdhMWZrenRESQ?oc=5",
       "published": "Tue, 04 Aug 2026 18:12:13 GMT",
       "source": "DefenseScoop"
+    },
+    {
+      "title": "New ForceField counter-UAS system stops FPV drone attacks without emitting signals - Interesting Engineering",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQeG5hQS1rSDlQMXA0SWFVVGJfc2l5NkZXckptcHFpTmVTV01xTHN3bUtySS1seEI2NV9ra0ZJbmJtRzlwMjdOSjFtWUluQkx5OUVGOWpoY2JEVnZTbXQ4blZfNEVscEhXc2NRUEJwU2g0b2doOUNhbWpXUm1PMmwwZGc3Y0Uyd0E2Ry1FUDNESFl6OE51emc?oc=5",
+      "published": "Thu, 16 Jul 2026 07:00:00 GMT",
+      "source": "Interesting Engineering"
     },
     {
       "title": "Department of War Launches Marketplace for Validated Counter-Drone Systems - Dronelife",
