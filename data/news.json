@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-11T06:38:44.381315",
+  "last_updated": "2026-08-11T07:54:25.657886",
   "articles": [
     {
       "title": "Pentagon launches online marketplace for counter-UAS technology - Defense News",
@@ -20,22 +20,16 @@
       "source": "Mobility Engineering Technology"
     },
     {
-      "title": "DHS begins $1.5B spending spree on drone defense - fedscoop.com",
+      "title": "DHS begins $1.5B spending spree on drone defense - FedScoop",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5PQzVfakozTmxSay11NkVLYk9BWklmOF9qd1pYcTNCVWZ2cmhVaktqc2JtQnJpbms1Yko1THhFRnkyOWN4c2VTVjJuTUgySEV3QTZLOFBnRERaYkxBVkpVZldma2xPVWFUTG5EVEFR?oc=5",
       "published": "Tue, 04 Aug 2026 19:09:40 GMT",
-      "source": "fedscoop.com"
+      "source": "FedScoop"
     },
     {
-      "title": "Army launches search for counter-drone missile priced under $150K - breakingdefense.com",
+      "title": "Army launches search for counter-drone missile priced under $150K - Breaking Defense",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPd0hFSjR5eV81aHo3Y1RjYkFxYTU0ZlVnck9xNkZjMVhqY0t5V01KaW9TWVdUcDBFeGJJZzYxUE5qSm9XelF6MFZOUktvX29zdlV3bVVCaEdlU0NMeXAyQk9IUVh4ZldQLWRFOUFzNUhLVnRaNmoxbmtGS3JlV0Q1UV92am1ZdENhV091LWZzdlBibUFHbVdzRWVoV0hzRTBSWlQ0?oc=5",
       "published": "Wed, 05 Aug 2026 17:50:40 GMT",
-      "source": "breakingdefense.com"
-    },
-    {
-      "title": "Pentagon\u2019s counter-drone hub picked software startup Kaizen to develop c-UAS marketplace for $15M - DefenseScoop",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPYlJzVVpNNGpnd0V3M3FUeHhIVUlCNTktdEFObmlOR1ZLVzVmLWI0bTZ5ZmxHQjBDd21fTVdUUTMxU1dzeUFkNHdzOU9Tc05fRFU2SjEtWVFCblRyU3NYcmdSNW5vODN4SGwxTlpydm1hU3kzZ2NNQWhFVjhjOWNRS2l1X0JSNTRxbTJDU3VpcjAxc3VoTk1wVlVsLTJLc3B1TDg0UzVmUUxGVFdPZXJJQjRFeTY2QlFjY1hTRXpfVnJvVDVQazNibFhR?oc=5",
-      "published": "Tue, 04 Aug 2026 09:02:07 GMT",
-      "source": "DefenseScoop"
+      "source": "Breaking Defense"
     },
     {
       "title": "DHS Awards $1.5 Billion Counter-UAS Contract to 12 Companies - Inside Unmanned Systems",
@@ -44,10 +38,16 @@
       "source": "Inside Unmanned Systems"
     },
     {
-      "title": "Counter-UAS Investment Continues as Monava Raises New Funding for AI Drone Detection - dronelife.com",
+      "title": "Pentagon\u2019s counter-drone hub picked software startup Kaizen to develop c-UAS marketplace for $15M - defensescoop.com",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPYlJzVVpNNGpnd0V3M3FUeHhIVUlCNTktdEFObmlOR1ZLVzVmLWI0bTZ5ZmxHQjBDd21fTVdUUTMxU1dzeUFkNHdzOU9Tc05fRFU2SjEtWVFCblRyU3NYcmdSNW5vODN4SGwxTlpydm1hU3kzZ2NNQWhFVjhjOWNRS2l1X0JSNTRxbTJDU3VpcjAxc3VoTk1wVlVsLTJLc3B1TDg0UzVmUUxGVFdPZXJJQjRFeTY2QlFjY1hTRXpfVnJvVDVQazNibFhR?oc=5",
+      "published": "Tue, 04 Aug 2026 09:02:07 GMT",
+      "source": "defensescoop.com"
+    },
+    {
+      "title": "Counter-UAS Investment Continues as Monava Raises New Funding for AI Drone Detection - Dronelife",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1lSmZwd0dnQW93cDczX19DU0xMMHByLWQyeFE4dnhkSzYwU1pCUndpVGtsMmk0NnpTYlh4dUljRktKNllCbGdnNzVSNTV6SjQzQ3RnbndWajVyendrUXRYOEwyZ2xsb0JndUwzZ0FBcnhNWFRscENyQm9qVQ?oc=5",
       "published": "Tue, 04 Aug 2026 16:05:40 GMT",
-      "source": "dronelife.com"
+      "source": "Dronelife"
     },
     {
       "title": "Latest Trends in the C-UAS Market: AI-Driven Counter-Drone Solutions for Defense and Critical Infrastructure - MarketsandMarkets",
@@ -56,10 +56,10 @@
       "source": "MarketsandMarkets"
     },
     {
-      "title": "The Pentagon's counter-drone force has rolled out a new online marketplace for buying defensive tech - Business Insider",
+      "title": "The Pentagon's counter-drone force has rolled out a new online marketplace for buying defensive tech - businessinsider.com",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQa1U0a2xKY3VHcEZVMHFpRUg5NGNUcGRkU25FUW5TZ01tY3dGX1EzRXhJSEI5dU1NajU2M3JGQXpxQm5faC1mWWZvQlFVWW1POUwxcmtfU3AyOWk0Q1ViQkJxUG5RbWNIeFJ2bm1KXzBmSnI2RG1Ndy1scnpTQjJDY2gtamd3X1dUaWZSR1pELU4?oc=5",
       "published": "Tue, 04 Aug 2026 19:55:00 GMT",
-      "source": "Business Insider"
+      "source": "businessinsider.com"
     },
     {
       "title": "USAFE-AFAFRICA strengthens defense through layered, integrated Counter-UAS approach - usafe.af.mil",
@@ -68,10 +68,10 @@
       "source": "usafe.af.mil"
     },
     {
-      "title": "Diehl Defence Develops Sky Sphere Counter Drone System With CICADA - \u041c\u0435\u0436\u0430. \u041d\u043e\u0432\u0438\u043d\u0438 \u0423\u043a\u0440\u0430\u0457\u043d\u0438.",
+      "title": "Diehl Defence Develops Sky Sphere Counter Drone System With CICADA - mezha.net",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1zdkxQWHlWdzZ0MUJKbmxRM2pFcTBESjg1MEtjLXQzTVVFLXNhLVMzOEVkb0h3LUwtR1BqcVduWlpObG5IWl91TmJrX0YyWlNNRjNhY0kzWlBPR1puM1ZGbnA0Ynh5bkl1LWQ4bQ?oc=5",
       "published": "Fri, 07 Aug 2026 02:55:45 GMT",
-      "source": "\u041c\u0435\u0436\u0430. \u041d\u043e\u0432\u0438\u043d\u0438 \u0423\u043a\u0440\u0430\u0457\u043d\u0438."
+      "source": "mezha.net"
     },
     {
       "title": "CACI\u2019s SkyValor Drone Defense System Selected for Deployment Under $500M C-UAS IDIQ Contract - GovCon Wire",
@@ -86,22 +86,16 @@
       "source": "Small Wars Journal"
     },
     {
-      "title": "RSE Ventures and Ondas Co-Lead Strategic Investment in FPF Defense to Build the Next Generation of Counter-UAS Interceptors, Anchoring West Palm Beach as America's Emerging Defense-Tech Hub - Ondas Holdings",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQS2VmemlhRlhOWXdSOGI0T29OQnoyWGg0LU1RQW02LWFsQTNGS1J4a3lxNUZfSEV5c1JweEdIazFWbnhvbmhTM1R4dTlJblVfVEpINE1SYnA0ME5ydG5WWVV0VUJleEtEX0Vfdi1kTy1YY0VCSkp0U3ZNbHFnQklPaDdZbnJzUy1waVJiUGRwdzZMaGtyUGs0TlpRY21ZNVppczVZN3dXdlk?oc=5",
-      "published": "Fri, 24 Jul 2026 07:00:00 GMT",
-      "source": "Ondas Holdings"
-    },
-    {
-      "title": "Army seeks next-gen missile that could shoot down small drones for less than $150K a pop - DefenseScoop",
+      "title": "Army seeks next-gen missile that could shoot down small drones for less than $150K a pop - defensescoop.com",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5GbzRtdW9TS3Y4b3JkaW9oazVGWW9nUWRxa0hGY25RV2h1UEg1MVVfQnhSUE1xS1VFMzVSUGRyckRva0VEZFV5aWhqeHZsbngwV2FpTDBLMVEwdllFOWVXYVZyU3g2VDNESS1WekhBLXNYOEdhMWZrenRESQ?oc=5",
       "published": "Tue, 04 Aug 2026 18:12:13 GMT",
-      "source": "DefenseScoop"
+      "source": "defensescoop.com"
     },
     {
-      "title": "Department of War Launches Marketplace for Validated Counter-Drone Systems - dronelife.com",
+      "title": "Department of War Launches Marketplace for Validated Counter-Drone Systems - Dronelife",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZjdTQVkxNklwc3ozNlNwTTF4cVNCU01EMnA4dkNvRDFDUi1OM3dnQk5uWWVlSGFUcmZ2TWpFSE5qLWtVUHMxalV4ZDFIZzNWLUV3TjlRMjZyZEk4dF81S2pkbXBxSWRJWEJ0WmFGZl92MnZ5SDF2b2pBZW1vbHgyNHM2UQ?oc=5",
       "published": "Tue, 04 Aug 2026 14:50:36 GMT",
-      "source": "dronelife.com"
+      "source": "Dronelife"
     },
     {
       "title": "Why the US Air Forces Argus XL Deployment Signals the Next Growth Phase for the Counter-UAS System (C-UAS) Market - MarketsandMarkets",
@@ -110,16 +104,22 @@
       "source": "MarketsandMarkets"
     },
     {
-      "title": "JIATF-401 awards CACI $500M for non-kinetic cUAS - breakingdefense.com",
+      "title": "JIATF-401 awards CACI $500M for non-kinetic cUAS - Breaking Defense",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcGZSQThtMmVYWElRNEk2VlZQeXlhLVJKY3loc2hrR253aWtUcHRVTnpPZUdmaTdLSmFUb3BmUXl2MFFHWjRrYTdXLWNzNW5UVXlQNFZDbVJuZUtRYVdnVnVJMHhEVkx1VEMzSzVGQndnVXBrdjVwQ1M3Y2tDd0JoZkctWGRfTXcxRmRYXw?oc=5",
       "published": "Thu, 30 Jul 2026 21:21:06 GMT",
-      "source": "breakingdefense.com"
+      "source": "Breaking Defense"
     },
     {
-      "title": "Pentagon\u2019s counter-drone task force inks $500M contract for SkyValor 'detect and defeat' system after border testing - DefenseScoop",
+      "title": "Pentagon\u2019s counter-drone task force inks $500M contract for SkyValor 'detect and defeat' system after border testing - defensescoop.com",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZUpxTkZwc3BESFJYVVVqLUgzdW1qbHNBTm9yWXhNUHNZLUh3c25HT25xZE9OOWw0SU56QlpwN2NJWGIyX0s4TUFaYTF6d2MtckFsZVB3bjAyLVcyV1R4OFJueWJYM2ZsaEYxVFJiM3E3d0o3MGlILTNIQkZQLTJ1cXZhaDUtdU5hNHc4dFk5YWEwMGtGYmQ2d3pwUTNvb2c?oc=5",
       "published": "Fri, 31 Jul 2026 07:00:00 GMT",
-      "source": "DefenseScoop"
+      "source": "defensescoop.com"
+    },
+    {
+      "title": "Army\u2019s heavy units face counter-drone capability gaps - defensescoop.com",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOeUpqSFB2akk0R3NabmNQRi1FMmx1cU5VbW9lOWNrYlFYNER6QkxXVjdDSVZabk1FUDg3M2ZfRGF1ZW9ISmdVbTRCazV6UDZSRzJaa1RFTk5sM0g3YXk2akxUaHR5V3d2aG5vNG1kT282ODZFR1ZlU0ttZlZmc2pJRW83d0F4ZFpKbldTR2FPRnVQdw?oc=5",
+      "published": "Thu, 16 Jul 2026 07:00:00 GMT",
+      "source": "defensescoop.com"
     }
   ]
 }
