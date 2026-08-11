@@ -1,12 +1,6 @@
 {
-  "last_updated": "2026-08-11T21:58:09.152006",
+  "last_updated": "2026-08-11T22:52:44.517901",
   "articles": [
-    {
-      "title": "Counter-UAS Market Set to Triple by 2030 as Defense Companies Position for Growth - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOTGZSeGFwT21DNnljVmZkREFKLWQ3Mkh6SUtxUW5RSVN4NnlkNzNSN2tvaG5jdG5lYkk0aXlubUtjWEZydHBqeUctZGF5YkNDc3I0M0dSbTI4bzRHOUREekNyd3UyTktmcWhKTjY5TUNESl8tTDBlcDMzc0Q2Y2h2aUVsazEzVzNjZFJ5Z1BiYVdQQlduRUFXbmRGUkFwMDVzX1ZzbEROdnFIenk5dnhYTXBMQ3R2akZQbEFZclZFWUxtR1Z1WkJQZ3U4SXZVWnh4bHVMekxvSlc3R1k?oc=5",
-      "published": "Tue, 11 Aug 2026 13:02:51 GMT",
-      "source": "TradingView"
-    },
     {
       "title": "Pentagon launches online marketplace for counter-UAS technology - Defense News",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSi0xTzZCaE15Ymd5YlJkME14LWpmbWJsT2FHZW1xbjl1M3ZnNTNXWmtDRUgySGJVSXo5cFN6a1NRRmZrSHBPbTltcWJnWF82a0VFbE5ua2UtUEstSlI3ZW52T3RZLWx2dktiM1g1RFQ2Zmd1SXpyMmJwVGJSSm9yYjBNMWZXUUVKeHJfLUk1VTYxaUpQZEF4MFdwbVdFUF9QdlBPWjEzQjFWWXFNb0FHb0ZMQnlFNXpfTEpISzYzUUV1bU1w?oc=5",
@@ -14,10 +8,10 @@
       "source": "Defense News"
     },
     {
-      "title": "US Army exploring 50mm cannon to destroy drones - Military Times",
+      "title": "US Army exploring 50mm cannon to destroy drones - militarytimes.com",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTEk0VGt4MGctREI1X3N4V05TejVaSXViRndxRXBRNDhMT0pPVHJrVmhMbkxSWUdJNkVMNVlpQWdMbUZWTnRPekxRSGVmM2VSUjlvTEFYQ282X29qMmNlcnN5YnpUQjcxMGJraFNPZG56Z3phZG1JMmlBeTh1RU9aUzJJdnBHUzQ5akVOdWFnc1lhZmM4QktQTG9MV1A1QVNZTDBMVXB1dkZEMmk5?oc=5",
       "published": "Mon, 10 Aug 2026 18:10:52 GMT",
-      "source": "Military Times"
+      "source": "militarytimes.com"
     },
     {
       "title": "DHS begins $1.5B spending spree on drone defense - FedScoop",
@@ -26,10 +20,10 @@
       "source": "FedScoop"
     },
     {
-      "title": "Why the nation\u2019s premier nuclear lab holds the key to America\u2019s counter-UAS challenge - inl.gov",
+      "title": "Why the nation\u2019s premier nuclear lab holds the key to America\u2019s counter-UAS challenge - Idaho National Laboratory (.gov)",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQU05qSk1Wc0EzUHBVYXdfRzdoZG9Wc042NG9lMDRZMVpkQnNiX0g2dE11eDRTOVFjcVRYNWNkZzRnUTZQSS1JSkVvQTJIOG5Sakdpa1ZUUmtPR1ZESER4clhwQzJvVGJDTjZUMjlhM2ppeXpBeVlfUUpwb3FJd2RHVmdGeDNJTVRPWUd1MkViNjdQcXBsZ0tibXA2YmZmd0ktbGZzSlNCdDJTbm92M19NZXAtakY?oc=5",
       "published": "Mon, 10 Aug 2026 13:02:04 GMT",
-      "source": "inl.gov"
+      "source": "Idaho National Laboratory (.gov)"
     },
     {
       "title": "Modular Counter-UAS Systems for Military Vehicles - Mobility Engineering Technology",
@@ -38,10 +32,10 @@
       "source": "Mobility Engineering Technology"
     },
     {
-      "title": "Army launches search for counter-drone missile priced under $150K - Breaking Defense",
+      "title": "Army launches search for counter-drone missile priced under $150K - breakingdefense.com",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPd0hFSjR5eV81aHo3Y1RjYkFxYTU0ZlVnck9xNkZjMVhqY0t5V01KaW9TWVdUcDBFeGJJZzYxUE5qSm9XelF6MFZOUktvX29zdlV3bVVCaEdlU0NMeXAyQk9IUVh4ZldQLWRFOUFzNUhLVnRaNmoxbmtGS3JlV0Q1UV92am1ZdENhV091LWZzdlBibUFHbVdzRWVoV0hzRTBSWlQ0?oc=5",
       "published": "Wed, 05 Aug 2026 17:50:40 GMT",
-      "source": "Breaking Defense"
+      "source": "breakingdefense.com"
     },
     {
       "title": "Pentagon\u2019s counter-drone hub picked software startup Kaizen to develop c-UAS marketplace for $15M - DefenseScoop",
@@ -56,10 +50,16 @@
       "source": "Inside Unmanned Systems"
     },
     {
-      "title": "Counter-UAS Investment Continues as Monava Raises New Funding for AI Drone Detection - Dronelife",
+      "title": "Counter-UAS Investment Continues as Monava Raises New Funding for AI Drone Detection - dronelife.com",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1lSmZwd0dnQW93cDczX19DU0xMMHByLWQyeFE4dnhkSzYwU1pCUndpVGtsMmk0NnpTYlh4dUljRktKNllCbGdnNzVSNTV6SjQzQ3RnbndWajVyendrUXRYOEwyZ2xsb0JndUwzZ0FBcnhNWFRscENyQm9qVQ?oc=5",
       "published": "Tue, 04 Aug 2026 16:05:40 GMT",
-      "source": "Dronelife"
+      "source": "dronelife.com"
+    },
+    {
+      "title": "Northrop Grumman unveils 50mm Raid Hunter air defense system to counter cruise missiles and mass drone attacks at military bases - Defence Industry Europe",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPejRuNUtOZFM5YWpnZW1MQkFfSTJHTENrZmp3ZVZzVHllaGNYNDloZ0hYaHBkd2poR1VHWDdsY1RwMUxBMC1yU0tka3hhemlkeDE3VlY0TTFpSXVFcGtPakZLdE5QRHBfeFZiVUFESzVRZ0plR3hxbWdFd0c1UlFIVm1XcUtJTDJiSVU4Qi1MS1N0cVR3TEhPdy1tLUhaUmdLR3g4WmZxSldyRzlZRlFUTEFndFhydEFseVJkbmhtclpWRWtRdnVmVHk5M0w3SHZuRmZxOG9SeS1FSkh4R29hX18zLTF2TXNOYTRDU1hn?oc=5",
+      "published": "Tue, 11 Aug 2026 18:33:58 GMT",
+      "source": "Defence Industry Europe"
     },
     {
       "title": "Latest Trends in the C-UAS Market: AI-Driven Counter-Drone Solutions for Defense and Critical Infrastructure - MarketsandMarkets",
@@ -86,16 +86,16 @@
       "source": "GovCon Wire"
     },
     {
-      "title": "Diehl Defence Develops Sky Sphere Counter Drone System With CICADA - \u041c\u0435\u0436\u0430. \u041d\u043e\u0432\u0438\u043d\u0438 \u0423\u043a\u0440\u0430\u0457\u043d\u0438.",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1zdkxQWHlWdzZ0MUJKbmxRM2pFcTBESjg1MEtjLXQzTVVFLXNhLVMzOEVkb0h3LUwtR1BqcVduWlpObG5IWl91TmJrX0YyWlNNRjNhY0kzWlBPR1puM1ZGbnA0Ynh5bkl1LWQ4bQ?oc=5",
-      "published": "Fri, 07 Aug 2026 02:55:45 GMT",
-      "source": "\u041c\u0435\u0436\u0430. \u041d\u043e\u0432\u0438\u043d\u0438 \u0423\u043a\u0440\u0430\u0457\u043d\u0438."
-    },
-    {
       "title": "The Pentagon's counter-drone force has rolled out a new online marketplace for buying defensive tech - Business Insider",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQa1U0a2xKY3VHcEZVMHFpRUg5NGNUcGRkU25FUW5TZ01tY3dGX1EzRXhJSEI5dU1NajU2M3JGQXpxQm5faC1mWWZvQlFVWW1POUwxcmtfU3AyOWk0Q1ViQkJxUG5RbWNIeFJ2bm1KXzBmSnI2RG1Ndy1scnpTQjJDY2gtamd3X1dUaWZSR1pELU4?oc=5",
       "published": "Tue, 04 Aug 2026 19:55:00 GMT",
       "source": "Business Insider"
+    },
+    {
+      "title": "Diehl Defence Develops Sky Sphere Counter Drone System With CICADA - \u041c\u0435\u0436\u0430. \u041d\u043e\u0432\u0438\u043d\u0438 \u0423\u043a\u0440\u0430\u0457\u043d\u0438.",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1zdkxQWHlWdzZ0MUJKbmxRM2pFcTBESjg1MEtjLXQzTVVFLXNhLVMzOEVkb0h3LUwtR1BqcVduWlpObG5IWl91TmJrX0YyWlNNRjNhY0kzWlBPR1puM1ZGbnA0Ynh5bkl1LWQ4bQ?oc=5",
+      "published": "Fri, 07 Aug 2026 02:55:45 GMT",
+      "source": "\u041c\u0435\u0436\u0430. \u041d\u043e\u0432\u0438\u043d\u0438 \u0423\u043a\u0440\u0430\u0457\u043d\u0438."
     },
     {
       "title": "Pentagon\u2019s counter-drone task force inks $500M contract for SkyValor 'detect and defeat' system after border testing - DefenseScoop",
@@ -104,10 +104,10 @@
       "source": "DefenseScoop"
     },
     {
-      "title": "Department of War Launches Marketplace for Validated Counter-Drone Systems - Dronelife",
+      "title": "Department of War Launches Marketplace for Validated Counter-Drone Systems - dronelife.com",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZjdTQVkxNklwc3ozNlNwTTF4cVNCU01EMnA4dkNvRDFDUi1OM3dnQk5uWWVlSGFUcmZ2TWpFSE5qLWtVUHMxalV4ZDFIZzNWLUV3TjlRMjZyZEk4dF81S2pkbXBxSWRJWEJ0WmFGZl92MnZ5SDF2b2pBZW1vbHgyNHM2UQ?oc=5",
       "published": "Tue, 04 Aug 2026 14:50:36 GMT",
-      "source": "Dronelife"
+      "source": "dronelife.com"
     },
     {
       "title": "Why the US Air Forces Argus XL Deployment Signals the Next Growth Phase for the Counter-UAS System (C-UAS) Market - MarketsandMarkets",
@@ -116,10 +116,10 @@
       "source": "MarketsandMarkets"
     },
     {
-      "title": "JIATF-401 awards CACI $500M for non-kinetic cUAS - Breaking Defense",
+      "title": "JIATF-401 awards CACI $500M for non-kinetic cUAS - breakingdefense.com",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcGZSQThtMmVYWElRNEk2VlZQeXlhLVJKY3loc2hrR253aWtUcHRVTnpPZUdmaTdLSmFUb3BmUXl2MFFHWjRrYTdXLWNzNW5UVXlQNFZDbVJuZUtRYVdnVnVJMHhEVkx1VEMzSzVGQndnVXBrdjVwQ1M3Y2tDd0JoZkctWGRfTXcxRmRYXw?oc=5",
       "published": "Thu, 30 Jul 2026 21:21:06 GMT",
-      "source": "Breaking Defense"
+      "source": "breakingdefense.com"
     }
   ]
 }
