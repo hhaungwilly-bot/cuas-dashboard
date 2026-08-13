@@ -1,17 +1,17 @@
 {
-  "last_updated": "2026-08-13T16:07:51.080800",
+  "last_updated": "2026-08-13T17:10:26.328859",
   "articles": [
-    {
-      "title": "Autonomous Net Interception & AI Combine for Counter-UAS - Unmanned Systems Technology",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRXNlaERJVTJsOVlZcDdMMXFCMW9ad21vU2xJajdCbzhVczZFdkxSMEpsQVFkbEJ5SUF0ZTdMeDZTT2xCOGFEbnRZd2FRN1FON1BJVFd6QmJYZWhXeVJacW1BRXBEWWZyNEpORjRjZ1d6c0FzMENfZmJJLUFxc054R3BYRGhRdldfUkEyc1pVWWl0ZV9VYVpiaU5oM2JqaEJ5TVRjd3h4SFo?oc=5",
-      "published": "Thu, 13 Aug 2026 07:10:44 GMT",
-      "source": "Unmanned Systems Technology"
-    },
     {
       "title": "Pentagon launches online marketplace for counter-UAS technology - Defense News",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSi0xTzZCaE15Ymd5YlJkME14LWpmbWJsT2FHZW1xbjl1M3ZnNTNXWmtDRUgySGJVSXo5cFN6a1NRRmZrSHBPbTltcWJnWF82a0VFbE5ua2UtUEstSlI3ZW52T3RZLWx2dktiM1g1RFQ2Zmd1SXpyMmJwVGJSSm9yYjBNMWZXUUVKeHJfLUk1VTYxaUpQZEF4MFdwbVdFUF9QdlBPWjEzQjFWWXFNb0FHb0ZMQnlFNXpfTEpISzYzUUV1bU1w?oc=5",
       "published": "Mon, 10 Aug 2026 13:55:17 GMT",
       "source": "Defense News"
+    },
+    {
+      "title": "Autonomous Net Interception & AI Combine for Counter-UAS - Unmanned Systems Technology",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRXNlaERJVTJsOVlZcDdMMXFCMW9ad21vU2xJajdCbzhVczZFdkxSMEpsQVFkbEJ5SUF0ZTdMeDZTT2xCOGFEbnRZd2FRN1FON1BJVFd6QmJYZWhXeVJacW1BRXBEWWZyNEpORjRjZ1d6c0FzMENfZmJJLUFxc054R3BYRGhRdldfUkEyc1pVWWl0ZV9VYVpiaU5oM2JqaEJ5TVRjd3h4SFo?oc=5",
+      "published": "Thu, 13 Aug 2026 07:10:44 GMT",
+      "source": "Unmanned Systems Technology"
     },
     {
       "title": "Pentagon\u2019s counter-drone group to add defenses to 46 U.S. sites, director says - Aerospace America",
@@ -26,12 +26,6 @@
       "source": "Lockheed Martin"
     },
     {
-      "title": "Northrop introduces Raid Hunter for networked counter-UAS air defense - Military Aerospace",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcUhmT3d5RE9XN195SGFaallzS3JmVkpETmFYTkRUZGtxOTU1d0tEU0ZGcTl6VkZrTUdadzBtTnJHTklqVFNNaHV0TW5EVzFyMThZbmRHa0ZuMXdpTF9QY0hlbTNBdFBsTlZybE9oU3ZDUWFZQVNjMmVQZmxlSkVtOE1IQ1JwcEVDREZBaU1pVHN5MTJ1LU9yWmg4bXNFZDFmcHpjT2NjU3lCeF9FR0NUdXFncHY2cmxoNlJaNnh0SHJqd3IxQlVZYg?oc=5",
-      "published": "Thu, 13 Aug 2026 07:44:11 GMT",
-      "source": "Military Aerospace"
-    },
-    {
       "title": "DHS begins $1.5B spending spree on drone defense - FedScoop",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5PQzVfakozTmxSay11NkVLYk9BWklmOF9qd1pYcTNCVWZ2cmhVaktqc2JtQnJpbms1Yko1THhFRnkyOWN4c2VTVjJuTUgySEV3QTZLOFBnRERaYkxBVkpVZldma2xPVWFUTG5EVEFR?oc=5",
       "published": "Tue, 04 Aug 2026 07:00:00 GMT",
@@ -42,6 +36,12 @@
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTEk0VGt4MGctREI1X3N4V05TejVaSXViRndxRXBRNDhMT0pPVHJrVmhMbkxSWUdJNkVMNVlpQWdMbUZWTnRPekxRSGVmM2VSUjlvTEFYQ282X29qMmNlcnN5YnpUQjcxMGJraFNPZG56Z3phZG1JMmlBeTh1RU9aUzJJdnBHUzQ5akVOdWFnc1lhZmM4QktQTG9MV1A1QVNZTDBMVXB1dkZEMmk5?oc=5",
       "published": "Mon, 10 Aug 2026 18:10:52 GMT",
       "source": "Military Times"
+    },
+    {
+      "title": "Northrop introduces Raid Hunter for networked counter-UAS air defense - Military Aerospace",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcUhmT3d5RE9XN195SGFaallzS3JmVkpETmFYTkRUZGtxOTU1d0tEU0ZGcTl6VkZrTUdadzBtTnJHTklqVFNNaHV0TW5EVzFyMThZbmRHa0ZuMXdpTF9QY0hlbTNBdFBsTlZybE9oU3ZDUWFZQVNjMmVQZmxlSkVtOE1IQ1JwcEVDREZBaU1pVHN5MTJ1LU9yWmg4bXNFZDFmcHpjT2NjU3lCeF9FR0NUdXFncHY2cmxoNlJaNnh0SHJqd3IxQlVZYg?oc=5",
+      "published": "Thu, 13 Aug 2026 07:44:11 GMT",
+      "source": "Military Aerospace"
     },
     {
       "title": "Why the nation\u2019s premier nuclear lab holds the key to America\u2019s counter-UAS challenge - Idaho National Laboratory (.gov)",
@@ -92,16 +92,16 @@
       "source": "Northrop Grumman"
     },
     {
-      "title": "DHS Awards $1.5 Billion Counter-UAS Contract to 12 Companies - Inside Unmanned Systems",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOc1ZFb1Fsclk2cmtWaGJ0R3M0WnQ3UzU4T2lBZ1UtUlhlTmliVHdoQVZrZWxKVWw3ZjkxVk42RFhaVHRWc3ZRLTZ0dnpTSWFPbFZlSVVobG5lUmhFQ3ZtQmRTSEFtOGlPRE93U3VmQlppT0t5UHhJSmlJLVp0MmdnVzBTWmREM3BMSi1oZ0I5LWhYSE4wRGtGWFNR?oc=5",
-      "published": "Thu, 06 Aug 2026 20:03:19 GMT",
-      "source": "Inside Unmanned Systems"
-    },
-    {
       "title": "Joint Interagency Task Force 401 Publishes Counter-Drone Handbook - U.S. Department of War (.gov)",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOc2s1Zmx4bnZ6ZllPYjRUWXd5d0pNT3VxTHlXVGYzeV85VmNtaWo0MzE4MW16WVAxSHhpQXc1UVhYbTBRYmMxYllNLW9NUi0wYkVJY0g5eTMxb1N6NGpiX0JPUlc4ZlZCQ204TWxzd1haYk1ld2U3RGxObHB6V0p3eDBLb2FLcU1mT2RaVGFjXzZpVjRPdHEtQ1U0a21wWGI3cy1Ub0xiLU9FLWdZNmFxN1hPWWFIWEpjSmNQM3Z0cDZlTnBzT3ZJ?oc=5",
       "published": "Wed, 08 Jul 2026 07:00:00 GMT",
       "source": "U.S. Department of War (.gov)"
+    },
+    {
+      "title": "DHS Awards $1.5 Billion Counter-UAS Contract to 12 Companies - Inside Unmanned Systems",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOc1ZFb1Fsclk2cmtWaGJ0R3M0WnQ3UzU4T2lBZ1UtUlhlTmliVHdoQVZrZWxKVWw3ZjkxVk42RFhaVHRWc3ZRLTZ0dnpTSWFPbFZlSVVobG5lUmhFQ3ZtQmRTSEFtOGlPRE93U3VmQlppT0t5UHhJSmlJLVp0MmdnVzBTWmREM3BMSi1oZ0I5LWhYSE4wRGtGWFNR?oc=5",
+      "published": "Thu, 06 Aug 2026 20:03:19 GMT",
+      "source": "Inside Unmanned Systems"
     },
     {
       "title": "Pentagon approves long-range, autonomous counter-UAS system for use across the military after border testing - DefenseScoop",
