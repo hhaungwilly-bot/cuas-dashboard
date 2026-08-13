@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-13T20:01:36.417184",
+  "last_updated": "2026-08-13T20:55:38.928818",
   "articles": [
     {
       "title": "Pentagon launches online marketplace for counter-UAS technology - Defense News",
@@ -20,10 +20,10 @@
       "source": "Aerospace America"
     },
     {
-      "title": "The New Drone Threat Demands a New Defense - Lockheed Martin",
+      "title": "The New Drone Threat Demands a New Defense - lockheedmartin.com",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZ3AtbENpR1FGTk5ZTTlsRmlvU0pFcjJWcWoyTHA0c0F0WFo4MFdGdW9nMDJfSjZqazhYU1ZOSFJVQUZCbmdacG9zQnp3a01qVzBBeUlNc2JxODJ5TGttRUNnYnNiSFJ4TkYxbTlMWEJqOGlFdVExOGFnMkZ6SlIzYVNwS2QyWDBoNjdnTlVwdlY3V3NzU0lUUDNOaWRreEJtZWloczZR?oc=5",
       "published": "Tue, 11 Aug 2026 21:09:03 GMT",
-      "source": "Lockheed Martin"
+      "source": "lockheedmartin.com"
     },
     {
       "title": "DHS begins $1.5B spending spree on drone defense - FedScoop",
@@ -68,16 +68,16 @@
       "source": "DefenseScoop"
     },
     {
-      "title": "Northrop Grumman unveils 50mm Raid Hunter air defence system - Unmanned airspace",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNQ0ZVVkd5XzBWcnJnYzB0ZTF2cV9qVkVFZ1ZGeC1rNjAtWWxReWpFdlo3OGhpelNEQ0lJN05ZZWZNMmtVQWRlUnNCYXktYTg1YmNQY3J5bldLaXZZQldNSGVaTWk2MmtkSm9sNWlLZTAwT0NXREFpTEpXWmt0cUNJWlJjQktkdEkzaFYtdVRoemRVeFBxSUd4ZDhKV0lZZ2E1QnlPY1QxNm94aVY0NG1sRjlSLVp4MGNlN2xoRU5JMHMwcjV0VTVN?oc=5",
-      "published": "Wed, 12 Aug 2026 12:14:55 GMT",
-      "source": "Unmanned airspace"
-    },
-    {
       "title": "Army launches search for counter-drone missile priced under $150K - Breaking Defense",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPd0hFSjR5eV81aHo3Y1RjYkFxYTU0ZlVnck9xNkZjMVhqY0t5V01KaW9TWVdUcDBFeGJJZzYxUE5qSm9XelF6MFZOUktvX29zdlV3bVVCaEdlU0NMeXAyQk9IUVh4ZldQLWRFOUFzNUhLVnRaNmoxbmtGS3JlV0Q1UV92am1ZdENhV091LWZzdlBibUFHbVdzRWVoV0hzRTBSWlQ0?oc=5",
       "published": "Wed, 05 Aug 2026 17:50:40 GMT",
       "source": "Breaking Defense"
+    },
+    {
+      "title": "Northrop Grumman unveils 50mm Raid Hunter air defence system - Unmanned airspace",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNQ0ZVVkd5XzBWcnJnYzB0ZTF2cV9qVkVFZ1ZGeC1rNjAtWWxReWpFdlo3OGhpelNEQ0lJN05ZZWZNMmtVQWRlUnNCYXktYTg1YmNQY3J5bldLaXZZQldNSGVaTWk2MmtkSm9sNWlLZTAwT0NXREFpTEpXWmt0cUNJWlJjQktkdEkzaFYtdVRoemRVeFBxSUd4ZDhKV0lZZ2E1QnlPY1QxNm94aVY0NG1sRjlSLVp4MGNlN2xoRU5JMHMwcjV0VTVN?oc=5",
+      "published": "Wed, 12 Aug 2026 12:14:55 GMT",
+      "source": "Unmanned airspace"
     },
     {
       "title": "Counter-UAS Investment Continues as Monava Raises New Funding for AI Drone Detection - Dronelife",
@@ -86,33 +86,27 @@
       "source": "Dronelife"
     },
     {
+      "title": "Cornyn Introduces Bill to Spur Counter-Drone Defense Innovation - Senator Cornyn - Senator Cornyn (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNV201cnJ3MmMyZVRfV2tPM1N6azhDOGk3S3FKUGtTbEVVVWtudG8yRDZCRXJiNGxEX3F6V0tFbHBrZXAxc2xjNkJjaDl1YU5HbFBMbDlJT0RXZGgxNzhhakFCNVRfZTdtbDI1YmRQaWlhRDRhb3NCT0Q5ZnZSSVdBN1FzNl8xekl3UmtLamNvZ3J0N1VmQzlDbG16bEFMU2Iz?oc=5",
+      "published": "Thu, 11 Jun 2026 07:00:00 GMT",
+      "source": "Senator Cornyn (.gov)"
+    },
+    {
       "title": "Northrop Grumman Introduces Raid Hunter\u2122 for Next Generation Gun-Based Air Defense System - Northrop Grumman",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQT0QzY0RnMTEtM2lZRm5EZFJySk1IXzhSNEo2SnBvUi15NDA4M2o0NEpZWFd5WGl6OC1SdEVDQUxjSmhDMnFnNC1Hcy1Zc2t2ZV8yV28tLUFtVC16Vy1wOUo1S2otX0xrdDl4OUh2ZEhiZm0zRWpXWDhiMmQ2dGwzZmZBVTNPOEExTVFFSThLSW9rWldDSERWbHA0eEpyVldTVlF0bkkxSEFhMmx6MDV4UEc2RDd4eGNNZFppa2FQeWR2N2ZE?oc=5",
       "published": "Tue, 11 Aug 2026 06:33:17 GMT",
       "source": "Northrop Grumman"
     },
     {
-      "title": "DHS Awards $1.5 Billion Counter-UAS Contract to 12 Companies - Inside Unmanned Systems",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOc1ZFb1Fsclk2cmtWaGJ0R3M0WnQ3UzU4T2lBZ1UtUlhlTmliVHdoQVZrZWxKVWw3ZjkxVk42RFhaVHRWc3ZRLTZ0dnpTSWFPbFZlSVVobG5lUmhFQ3ZtQmRTSEFtOGlPRE93U3VmQlppT0t5UHhJSmlJLVp0MmdnVzBTWmREM3BMSi1oZ0I5LWhYSE4wRGtGWFNR?oc=5",
-      "published": "Thu, 06 Aug 2026 20:03:19 GMT",
-      "source": "Inside Unmanned Systems"
+      "title": "Joint Interagency Task Force 401 Publishes Counter-Drone Handbook - U.S. Department of War (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOc2s1Zmx4bnZ6ZllPYjRUWXd5d0pNT3VxTHlXVGYzeV85VmNtaWo0MzE4MW16WVAxSHhpQXc1UVhYbTBRYmMxYllNLW9NUi0wYkVJY0g5eTMxb1N6NGpiX0JPUlc4ZlZCQ204TWxzd1haYk1ld2U3RGxObHB6V0p3eDBLb2FLcU1mT2RaVGFjXzZpVjRPdHEtQ1U0a21wWGI3cy1Ub0xiLU9FLWdZNmFxN1hPWWFIWEpjSmNQM3Z0cDZlTnBzT3ZJ?oc=5",
+      "published": "Wed, 08 Jul 2026 07:00:00 GMT",
+      "source": "U.S. Department of War (.gov)"
     },
     {
-      "title": "Latest Trends in the C-UAS Market: AI-Driven Counter-Drone Solutions for Defense and Critical Infrastructure - MarketsandMarkets",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZERIeVV1YVIwbVFYaVYwdHpkRXR0bENHX2s3bnB1d2FfbGg3Tlo4M09sbl9LUVlPQUdfb19NZy1xUE90Y21IQmM1aVJXVUR6czAzenA1YjFYbl8wTWE4bWVKTUlxc3kwV25obVJqTkE4U0g2V3prUkx2UEZMQmpQM1pFLWsxLXpENnFPbmpoVXJpdU43eU1RUlpDMUh6Rk1sZVVtcWhoRlFuUFlZa2Z1QVl1M00?oc=5",
-      "published": "Wed, 05 Aug 2026 21:38:07 GMT",
-      "source": "MarketsandMarkets"
-    },
-    {
-      "title": "Task Force Publishes Counter-Drone Handbook - Association of the United States Army",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1MV3RaaElHTjl3UWhWdEdhdi1xVzBqbng4RDRqQlNhbTI3SjlMY042YXY3YWNvV2JKZEozTVBnZmFtdkxJV3c4dXZYaXh3SnZCQkxCN21MNVhlX3lMZEo0RkJDSGw3WG5hUnczMDBOT0RxZHM1RV9CZw?oc=5",
-      "published": "Mon, 27 Jul 2026 10:24:53 GMT",
-      "source": "Association of the United States Army"
-    },
-    {
-      "title": "Pentagon\u2019s counter-drone task force inks $500M contract for SkyValor 'detect and defeat' system after border testing - DefenseScoop",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZUpxTkZwc3BESFJYVVVqLUgzdW1qbHNBTm9yWXhNUHNZLUh3c25HT25xZE9OOWw0SU56QlpwN2NJWGIyX0s4TUFaYTF6d2MtckFsZVB3bjAyLVcyV1R4OFJueWJYM2ZsaEYxVFJiM3E3d0o3MGlILTNIQkZQLTJ1cXZhaDUtdU5hNHc4dFk5YWEwMGtGYmQ2d3pwUTNvb2c?oc=5",
-      "published": "Fri, 31 Jul 2026 07:00:00 GMT",
+      "title": "Pentagon approves long-range, autonomous counter-UAS system for use across the military after border testing - DefenseScoop",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQ2ZSVldfYnY3OWlpREdGRVVTaFNfNUFxX3h6TzJnREhOUzVfLU93bFllLXdnMGZkNFVaUWdHVUo4c1dyMkpXbEh4UzJBOFFSclhJdTlxMl9wOUVZTVFEUlFxQzNNZXU2c21QcW9FY1V4NGlHVkhQVzJjUF80dHh4ODZvc3ZCNlBiQ3NrQmd1Y2NEVDFtSFdXMDFKM3hDem9XM0tpb01xVmpSUHc?oc=5",
+      "published": "Tue, 09 Jun 2026 07:00:00 GMT",
       "source": "DefenseScoop"
     },
     {
@@ -120,6 +114,12 @@
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZjdTQVkxNklwc3ozNlNwTTF4cVNCU01EMnA4dkNvRDFDUi1OM3dnQk5uWWVlSGFUcmZ2TWpFSE5qLWtVUHMxalV4ZDFIZzNWLUV3TjlRMjZyZEk4dF81S2pkbXBxSWRJWEJ0WmFGZl92MnZ5SDF2b2pBZW1vbHgyNHM2UQ?oc=5",
       "published": "Tue, 04 Aug 2026 14:50:36 GMT",
       "source": "Dronelife"
+    },
+    {
+      "title": "Pentagon\u2019s counter-drone task force inks $500M contract for SkyValor 'detect and defeat' system after border testing - DefenseScoop",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZUpxTkZwc3BESFJYVVVqLUgzdW1qbHNBTm9yWXhNUHNZLUh3c25HT25xZE9OOWw0SU56QlpwN2NJWGIyX0s4TUFaYTF6d2MtckFsZVB3bjAyLVcyV1R4OFJueWJYM2ZsaEYxVFJiM3E3d0o3MGlILTNIQkZQLTJ1cXZhaDUtdU5hNHc4dFk5YWEwMGtGYmQ2d3pwUTNvb2c?oc=5",
+      "published": "Fri, 31 Jul 2026 07:00:00 GMT",
+      "source": "DefenseScoop"
     }
   ]
 }
