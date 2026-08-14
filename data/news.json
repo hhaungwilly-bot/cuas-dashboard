@@ -1,17 +1,17 @@
 {
-  "last_updated": "2026-08-14T00:02:28.258959",
+  "last_updated": "2026-08-14T02:39:01.524804",
   "articles": [
-    {
-      "title": "Counter Drone Market Future Trends and Emerging Technologies - MarketsandMarkets",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWGVmdGNaRnkyVmlGSE5HVUR5bzBOWWRONC0tblVIb0hUbzk4anllRlAwVmpkWEtzX0ZMa1VMUDlieTBJeXltVzdBZWVLV2p1X1lubVpVQjJidjJZVldOdG1pWGFpcVk5ajI0dV94MWozUkYzb2Y0Z3FDWnpfSEJ0UUh1bFZBdFlldUxJOVhWeHRyelZDX09yNXIyVVI4bl9wc1V2dkJ3akthNTFyRXBuSVVLR1Q?oc=5",
-      "published": "Thu, 13 Aug 2026 15:03:23 GMT",
-      "source": "MarketsandMarkets"
-    },
     {
       "title": "Pentagon launches online marketplace for counter-UAS technology - Defense News",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSi0xTzZCaE15Ymd5YlJkME14LWpmbWJsT2FHZW1xbjl1M3ZnNTNXWmtDRUgySGJVSXo5cFN6a1NRRmZrSHBPbTltcWJnWF82a0VFbE5ua2UtUEstSlI3ZW52T3RZLWx2dktiM1g1RFQ2Zmd1SXpyMmJwVGJSSm9yYjBNMWZXUUVKeHJfLUk1VTYxaUpQZEF4MFdwbVdFUF9QdlBPWjEzQjFWWXFNb0FHb0ZMQnlFNXpfTEpISzYzUUV1bU1w?oc=5",
       "published": "Mon, 10 Aug 2026 13:55:17 GMT",
       "source": "Defense News"
+    },
+    {
+      "title": "Counter Drone Market Future Trends and Emerging Technologies - MarketsandMarkets",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWGVmdGNaRnkyVmlGSE5HVUR5bzBOWWRONC0tblVIb0hUbzk4anllRlAwVmpkWEtzX0ZMa1VMUDlieTBJeXltVzdBZWVLV2p1X1lubVpVQjJidjJZVldOdG1pWGFpcVk5ajI0dV94MWozUkYzb2Y0Z3FDWnpfSEJ0UUh1bFZBdFlldUxJOVhWeHRyelZDX09yNXIyVVI4bl9wc1V2dkJ3akthNTFyRXBuSVVLR1Q?oc=5",
+      "published": "Thu, 13 Aug 2026 15:03:23 GMT",
+      "source": "MarketsandMarkets"
     },
     {
       "title": "Pentagon\u2019s counter-drone group to add defenses to 46 U.S. sites, director says - Aerospace America",
@@ -20,16 +20,16 @@
       "source": "Aerospace America"
     },
     {
+      "title": "The New Drone Threat Demands a New Defense - lockheedmartin.com",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZ3AtbENpR1FGTk5ZTTlsRmlvU0pFcjJWcWoyTHA0c0F0WFo4MFdGdW9nMDJfSjZqazhYU1ZOSFJVQUZCbmdacG9zQnp3a01qVzBBeUlNc2JxODJ5TGttRUNnYnNiSFJ4TkYxbTlMWEJqOGlFdVExOGFnMkZ6SlIzYVNwS2QyWDBoNjdnTlVwdlY3V3NzU0lUUDNOaWRreEJtZWloczZR?oc=5",
+      "published": "Tue, 11 Aug 2026 21:09:03 GMT",
+      "source": "lockheedmartin.com"
+    },
+    {
       "title": "Autonomous Net Interception & AI Combine for Counter-UAS - Unmanned Systems Technology",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRXNlaERJVTJsOVlZcDdMMXFCMW9ad21vU2xJajdCbzhVczZFdkxSMEpsQVFkbEJ5SUF0ZTdMeDZTT2xCOGFEbnRZd2FRN1FON1BJVFd6QmJYZWhXeVJacW1BRXBEWWZyNEpORjRjZ1d6c0FzMENfZmJJLUFxc054R3BYRGhRdldfUkEyc1pVWWl0ZV9VYVpiaU5oM2JqaEJ5TVRjd3h4SFo?oc=5",
       "published": "Thu, 13 Aug 2026 07:10:44 GMT",
       "source": "Unmanned Systems Technology"
-    },
-    {
-      "title": "The New Drone Threat Demands a New Defense - Lockheed Martin",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZ3AtbENpR1FGTk5ZTTlsRmlvU0pFcjJWcWoyTHA0c0F0WFo4MFdGdW9nMDJfSjZqazhYU1ZOSFJVQUZCbmdacG9zQnp3a01qVzBBeUlNc2JxODJ5TGttRUNnYnNiSFJ4TkYxbTlMWEJqOGlFdVExOGFnMkZ6SlIzYVNwS2QyWDBoNjdnTlVwdlY3V3NzU0lUUDNOaWRreEJtZWloczZR?oc=5",
-      "published": "Tue, 11 Aug 2026 21:09:03 GMT",
-      "source": "Lockheed Martin"
     },
     {
       "title": "DHS begins $1.5B spending spree on drone defense - FedScoop",
@@ -50,12 +50,6 @@
       "source": "Idaho National Laboratory (.gov)"
     },
     {
-      "title": "Northrop introduces Raid Hunter for networked counter-UAS air defense - Military Aerospace",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcUhmT3d5RE9XN195SGFaallzS3JmVkpETmFYTkRUZGtxOTU1d0tEU0ZGcTl6VkZrTUdadzBtTnJHTklqVFNNaHV0TW5EVzFyMThZbmRHa0ZuMXdpTF9QY0hlbTNBdFBsTlZybE9oU3ZDUWFZQVNjMmVQZmxlSkVtOE1IQ1JwcEVDREZBaU1pVHN5MTJ1LU9yWmg4bXNFZDFmcHpjT2NjU3lCeF9FR0NUdXFncHY2cmxoNlJaNnh0SHJqd3IxQlVZYg?oc=5",
-      "published": "Thu, 13 Aug 2026 07:44:11 GMT",
-      "source": "Military Aerospace"
-    },
-    {
       "title": "Counter-UAS Systems and Land Warfare - Defence IQ",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTVZobGlUMTd6SmdFUW1INlFXaGdnamc5TlBlTWpsaGVlTzdSVXRfNHRfUmM2UW80cUNLS2RzLTU4dGYtRjMxR0NkVUw4NF9zLTNmRlpPVWtGRFZJVUZGamxvZVgxYm5VSWoxN3NtZXJMcWdSVDl1U1FvcHYzUWZJSkNpNzRmaWxUXzNhWHFCeDlBY05zNTBIZnhlcWlmZGxwRXRITnJJTzdFSU1tLXFhZEx0NA?oc=5",
       "published": "Wed, 12 Aug 2026 15:02:38 GMT",
@@ -66,6 +60,12 @@
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPT1BCRVJTN1JTUGRQbzRBVDVqZ2RjOVlVamJoWUNDX2U0eUdualJUWkNKVU9aRWVIV3VVcExfbm5MRlBDZFc1al9GZkE5M1R1U1NEYUV5RFlZWlVWZFNSWVBWMzBzcktVTzFtZzZPTVZHMV9yNXNKUHNUdjRsdjZtaEFMb1hxYjFSUGVTb2s3Q0V5V1RyS1RfOW8xal9XWHVxelJfMWVaNUNMYjVIYmw3TUdhWkVrZ2xFTTFwTWR3?oc=5",
       "published": "Mon, 10 Aug 2026 11:00:00 GMT",
       "source": "Mobility Engineering Technology"
+    },
+    {
+      "title": "Northrop introduces Raid Hunter for networked counter-UAS air defense - Military Aerospace",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcUhmT3d5RE9XN195SGFaallzS3JmVkpETmFYTkRUZGtxOTU1d0tEU0ZGcTl6VkZrTUdadzBtTnJHTklqVFNNaHV0TW5EVzFyMThZbmRHa0ZuMXdpTF9QY0hlbTNBdFBsTlZybE9oU3ZDUWFZQVNjMmVQZmxlSkVtOE1IQ1JwcEVDREZBaU1pVHN5MTJ1LU9yWmg4bXNFZDFmcHpjT2NjU3lCeF9FR0NUdXFncHY2cmxoNlJaNnh0SHJqd3IxQlVZYg?oc=5",
+      "published": "Thu, 13 Aug 2026 07:44:11 GMT",
+      "source": "Military Aerospace"
     },
     {
       "title": "Pentagon\u2019s counter-drone hub picked software startup Kaizen to develop c-UAS marketplace for $15M - DefenseScoop",
@@ -98,12 +98,6 @@
       "source": "Northrop Grumman"
     },
     {
-      "title": "U.S. Army\u2019s Stryker-based air defense system gets a drone upgrade - The Defence Blog",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWGVlT2ZIeXpFY1VZU3k1Ym1aaXo2NHpUTHlnbkVrZzdudFlValFMek1WMHdSNEF0OVpBWHhZRVptTDk2dnFUd3M5Y3pIX2IxQnJ2ZDRmY0dIN2w5aTQ1QlRsdlM0enVqaWVfSTQ0aVN0WGszcHp3ZTJpVlpKWkZ1ZnpHWEtrMmdyN1hnU3ZwSzlUTnfSAZgBQVVfeXFMT25hMHF2cEM0Um9uQjZ5TUluZEVrNk5PLTMtY0RKWWJNR2RiOExlYThQbVlGRkxvVjZseGNnUWZJV1daUE52d3dSeFZQRmctWU5aTEM3dmR0ejVVc01GNU9na0tTbmtVWEJFc1hLbTN1T3Y3eWRVaTgtczNpUzB3TVhWMEIwVXpYNVVuRE9uMVFfWVprd1Y1aXQ?oc=5",
-      "published": "Wed, 12 Aug 2026 17:22:37 GMT",
-      "source": "The Defence Blog"
-    },
-    {
       "title": "DHS Awards $1.5 Billion Counter-UAS Contract to 12 Companies - Inside Unmanned Systems",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOc1ZFb1Fsclk2cmtWaGJ0R3M0WnQ3UzU4T2lBZ1UtUlhlTmliVHdoQVZrZWxKVWw3ZjkxVk42RFhaVHRWc3ZRLTZ0dnpTSWFPbFZlSVVobG5lUmhFQ3ZtQmRTSEFtOGlPRE93U3VmQlppT0t5UHhJSmlJLVp0MmdnVzBTWmREM3BMSi1oZ0I5LWhYSE4wRGtGWFNR?oc=5",
       "published": "Thu, 06 Aug 2026 20:03:19 GMT",
@@ -120,6 +114,12 @@
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZjdTQVkxNklwc3ozNlNwTTF4cVNCU01EMnA4dkNvRDFDUi1OM3dnQk5uWWVlSGFUcmZ2TWpFSE5qLWtVUHMxalV4ZDFIZzNWLUV3TjlRMjZyZEk4dF81S2pkbXBxSWRJWEJ0WmFGZl92MnZ5SDF2b2pBZW1vbHgyNHM2UQ?oc=5",
       "published": "Tue, 04 Aug 2026 14:50:36 GMT",
       "source": "Dronelife"
+    },
+    {
+      "title": "Latest Trends in the C-UAS Market: AI-Driven Counter-Drone Solutions for Defense and Critical Infrastructure - MarketsandMarkets",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZERIeVV1YVIwbVFYaVYwdHpkRXR0bENHX2s3bnB1d2FfbGg3Tlo4M09sbl9LUVlPQUdfb19NZy1xUE90Y21IQmM1aVJXVUR6czAzenA1YjFYbl8wTWE4bWVKTUlxc3kwV25obVJqTkE4U0g2V3prUkx2UEZMQmpQM1pFLWsxLXpENnFPbmpoVXJpdU43eU1RUlpDMUh6Rk1sZVVtcWhoRlFuUFlZa2Z1QVl1M00?oc=5",
+      "published": "Wed, 05 Aug 2026 21:38:07 GMT",
+      "source": "MarketsandMarkets"
     }
   ]
 }
