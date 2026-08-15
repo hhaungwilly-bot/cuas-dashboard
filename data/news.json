@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-15T08:45:50.629039",
+  "last_updated": "2026-08-15T09:11:02.416735",
   "articles": [
     {
       "title": "Top Northcom general adds to drumbeat of warnings about weak drone defenses in the homeland - DefenseScoop",
@@ -26,22 +26,16 @@
       "source": "Aerospace America"
     },
     {
-      "title": "DHS begins $1.5B spending spree on drone defense - FedScoop",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5PQzVfakozTmxSay11NkVLYk9BWklmOF9qd1pYcTNCVWZ2cmhVaktqc2JtQnJpbms1Yko1THhFRnkyOWN4c2VTVjJuTUgySEV3QTZLOFBnRERaYkxBVkpVZldma2xPVWFUTG5EVEFR?oc=5",
-      "published": "Tue, 04 Aug 2026 07:00:00 GMT",
-      "source": "FedScoop"
-    },
-    {
       "title": "Pentagon launches online marketplace for counter-UAS technology - Military Times",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZHROOUY0V1dqTmdveU9VSHg3NDhQOWlOMTlSTDhMRTB6WnpmeTFhalpwOUpweWV4WmhudVZkeUVVNktBTnBPeE5Hb1dBS1RnYmE5RE55dnR1Q3M1VVFxX1ZITXZsbTZJeFpVVnptemdDeTlhUVF2RXdEYmR2SzJ1d2Y2YmhNQzlNY0E1Nzl4WmpXZVNTaHN3ZFdtc0V4VkFDcGFQel9iVi1sSVRRZTMzbnJlM0h2b2pvRnVQdGdKMUd6T2h5aUxN?oc=5",
       "published": "Mon, 10 Aug 2026 13:55:17 GMT",
       "source": "Military Times"
     },
     {
-      "title": "NORTHCOM Lacks Sensors To Counter Drone Threat - RealClearDefense",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVnV6VGw4b1dXZ2hoVkxWRjBOdFYyRmFTdnZhcFA3azVBeWVNN0JIMFNwV2JRdU1sWC1JYmZSUkFIQTJjUHRlQjhIcDJmWnIyMlgxaXhsdUxCWDl5Zk5aYnZsRWxzbllpdXE3RjRGaEhqa2RyOEI0YU5xUzBRTWEzWjhaNUE3MjcxTm5odGUwOXg2NmxoakpUd1VWUmhySlVtRUNfUmlR?oc=5",
-      "published": "Fri, 14 Aug 2026 10:59:32 GMT",
-      "source": "RealClearDefense"
+      "title": "DHS begins $1.5B spending spree on drone defense - FedScoop",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5PQzVfakozTmxSay11NkVLYk9BWklmOF9qd1pYcTNCVWZ2cmhVaktqc2JtQnJpbms1Yko1THhFRnkyOWN4c2VTVjJuTUgySEV3QTZLOFBnRERaYkxBVkpVZldma2xPVWFUTG5EVEFR?oc=5",
+      "published": "Tue, 04 Aug 2026 07:00:00 GMT",
+      "source": "FedScoop"
     },
     {
       "title": "Autonomous Net Interception & AI Combine for Counter-UAS - Unmanned Systems Technology",
@@ -60,6 +54,12 @@
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTVZobGlUMTd6SmdFUW1INlFXaGdnamc5TlBlTWpsaGVlTzdSVXRfNHRfUmM2UW80cUNLS2RzLTU4dGYtRjMxR0NkVUw4NF9zLTNmRlpPVWtGRFZJVUZGamxvZVgxYm5VSWoxN3NtZXJMcWdSVDl1U1FvcHYzUWZJSkNpNzRmaWxUXzNhWHFCeDlBY05zNTBIZnhlcWlmZGxwRXRITnJJTzdFSU1tLXFhZEx0NA?oc=5",
       "published": "Wed, 12 Aug 2026 15:02:38 GMT",
       "source": "Defence IQ"
+    },
+    {
+      "title": "NORTHCOM Lacks Sensors To Counter Drone Threat - RealClearDefense",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVnV6VGw4b1dXZ2hoVkxWRjBOdFYyRmFTdnZhcFA3azVBeWVNN0JIMFNwV2JRdU1sWC1JYmZSUkFIQTJjUHRlQjhIcDJmWnIyMlgxaXhsdUxCWDl5Zk5aYnZsRWxzbllpdXE3RjRGaEhqa2RyOEI0YU5xUzBRTWEzWjhaNUE3MjcxTm5odGUwOXg2NmxoakpUd1VWUmhySlVtRUNfUmlR?oc=5",
+      "published": "Fri, 14 Aug 2026 10:59:32 GMT",
+      "source": "RealClearDefense"
     },
     {
       "title": "Why the nation\u2019s premier nuclear lab holds the key to America\u2019s counter-UAS challenge - Idaho National Laboratory (.gov)",
