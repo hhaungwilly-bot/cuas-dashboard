@@ -1,17 +1,17 @@
 {
-  "last_updated": "2026-08-15T20:34:00.576994",
+  "last_updated": "2026-08-15T20:55:27.775834",
   "articles": [
-    {
-      "title": "Top Northcom general adds to drumbeat of warnings about weak drone defenses in the homeland - DefenseScoop",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdDhlYTZaRWNRR3FKZU9xSlBYMmlkYkpEM2NnUFI5a2NWa0Q2Q2RIdWpERDR1bERfVnlKX2dMT19OMmp6WWNEYUFwQ2tZSU1PM1dCd2FGaV90WVlTR1BkSnVCWFZrTzczbFd2YXM2aWF6SWFHZFljMW56ZkQ2Z1ZuNzExVmZ4dzZCYnU1OWZrZEM0N3M?oc=5",
-      "published": "Fri, 14 Aug 2026 22:33:33 GMT",
-      "source": "DefenseScoop"
-    },
     {
       "title": "JUST IN: Northcom Lacks Sensors to Counter Drone Threat, Official Says - National Defense Magazine",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNeUt2Vk1RUEx0eVI3QVZUcmEyUC04YTRKY3ROcHhPMlBiQVdMYlpDSVIyaElJZHktSDNfZ2FTaEtxeVFxNE9LTGdEclRQVWxOSTRsa0ZZZFBkT1p6dzVYbElGVjM3NzA5THlJeHllZG9UZGktZFJBampUNTh4b0w0VmZrS3RZSkFzZVZBcHNuOFMtaV92Q1pyRC1WOWViZS16M21uM2VnNjBfd01UTlh3OFljTVNBNUExa1dkeG5uTS1JczZPVDV1djh5dEV2ZUNa?oc=5",
       "published": "Thu, 13 Aug 2026 19:40:01 GMT",
       "source": "National Defense Magazine"
+    },
+    {
+      "title": "Top Northcom general adds to drumbeat of warnings about weak drone defenses in the homeland - DefenseScoop",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdDhlYTZaRWNRR3FKZU9xSlBYMmlkYkpEM2NnUFI5a2NWa0Q2Q2RIdWpERDR1bERfVnlKX2dMT19OMmp6WWNEYUFwQ2tZSU1PM1dCd2FGaV90WVlTR1BkSnVCWFZrTzczbFd2YXM2aWF6SWFHZFljMW56ZkQ2Z1ZuNzExVmZ4dzZCYnU1OWZrZEM0N3M?oc=5",
+      "published": "Fri, 14 Aug 2026 22:33:33 GMT",
+      "source": "DefenseScoop"
     },
     {
       "title": "The New Drone Threat Demands a New Defense - Lockheed Martin",
@@ -62,10 +62,10 @@
       "source": "RealClearDefense"
     },
     {
-      "title": "Modular Counter-UAS Systems for Military Vehicles - Mobility Engineering Technology",
+      "title": "Modular Counter-UAS Systems for Military Vehicles - mobilityengineeringtech.com",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPT1BCRVJTN1JTUGRQbzRBVDVqZ2RjOVlVamJoWUNDX2U0eUdualJUWkNKVU9aRWVIV3VVcExfbm5MRlBDZFc1al9GZkE5M1R1U1NEYUV5RFlZWlVWZFNSWVBWMzBzcktVTzFtZzZPTVZHMV9yNXNKUHNUdjRsdjZtaEFMb1hxYjFSUGVTb2s3Q0V5V1RyS1RfOW8xal9XWHVxelJfMWVaNUNMYjVIYmw3TUdhWkVrZ2xFTTFwTWR3?oc=5",
       "published": "Mon, 10 Aug 2026 11:00:00 GMT",
-      "source": "Mobility Engineering Technology"
+      "source": "mobilityengineeringtech.com"
     },
     {
       "title": "Counter-UAS Market Set to Triple by 2030 as Defense Companies Position for Growth By FinanceWire - Investing.com",
@@ -74,22 +74,22 @@
       "source": "Investing.com"
     },
     {
-      "title": "Army launches search for counter-drone missile priced under $150K - breakingdefense.com",
+      "title": "Army launches search for counter-drone missile priced under $150K - Breaking Defense",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPd0hFSjR5eV81aHo3Y1RjYkFxYTU0ZlVnck9xNkZjMVhqY0t5V01KaW9TWVdUcDBFeGJJZzYxUE5qSm9XelF6MFZOUktvX29zdlV3bVVCaEdlU0NMeXAyQk9IUVh4ZldQLWRFOUFzNUhLVnRaNmoxbmtGS3JlV0Q1UV92am1ZdENhV091LWZzdlBibUFHbVdzRWVoV0hzRTBSWlQ0?oc=5",
       "published": "Wed, 05 Aug 2026 07:00:00 GMT",
-      "source": "breakingdefense.com"
+      "source": "Breaking Defense"
+    },
+    {
+      "title": "Counter-UAS Investment Continues as Monava Raises New Funding for AI Drone Detection - Dronelife",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1lSmZwd0dnQW93cDczX19DU0xMMHByLWQyeFE4dnhkSzYwU1pCUndpVGtsMmk0NnpTYlh4dUljRktKNllCbGdnNzVSNTV6SjQzQ3RnbndWajVyendrUXRYOEwyZ2xsb0JndUwzZ0FBcnhNWFRscENyQm9qVQ?oc=5",
+      "published": "Tue, 04 Aug 2026 16:05:40 GMT",
+      "source": "Dronelife"
     },
     {
       "title": "Northrop introduces Raid Hunter for networked counter-UAS air defense - Military Aerospace",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcUhmT3d5RE9XN195SGFaallzS3JmVkpETmFYTkRUZGtxOTU1d0tEU0ZGcTl6VkZrTUdadzBtTnJHTklqVFNNaHV0TW5EVzFyMThZbmRHa0ZuMXdpTF9QY0hlbTNBdFBsTlZybE9oU3ZDUWFZQVNjMmVQZmxlSkVtOE1IQ1JwcEVDREZBaU1pVHN5MTJ1LU9yWmg4bXNFZDFmcHpjT2NjU3lCeF9FR0NUdXFncHY2cmxoNlJaNnh0SHJqd3IxQlVZYg?oc=5",
       "published": "Thu, 13 Aug 2026 07:44:11 GMT",
       "source": "Military Aerospace"
-    },
-    {
-      "title": "Counter-UAS Investment Continues as Monava Raises New Funding for AI Drone Detection - dronelife.com",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1lSmZwd0dnQW93cDczX19DU0xMMHByLWQyeFE4dnhkSzYwU1pCUndpVGtsMmk0NnpTYlh4dUljRktKNllCbGdnNzVSNTV6SjQzQ3RnbndWajVyendrUXRYOEwyZ2xsb0JndUwzZ0FBcnhNWFRscENyQm9qVQ?oc=5",
-      "published": "Tue, 04 Aug 2026 16:05:40 GMT",
-      "source": "dronelife.com"
     },
     {
       "title": "Northrop Grumman unveils 50mm Raid Hunter air defence system - Unmanned airspace",
