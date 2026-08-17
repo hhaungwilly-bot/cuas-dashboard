@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-17T08:08:34.220053",
+  "last_updated": "2026-08-17T08:59:38.720558",
   "articles": [
     {
       "title": "ParaZero: Closing the Final C-UAS Defense Gap - Unmanned Systems Technology",
@@ -26,6 +26,12 @@
       "source": "Lockheed Martin"
     },
     {
+      "title": "Top Northcom general adds to drumbeat of warnings about weak drone defenses in the homeland - DefenseScoop",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdDhlYTZaRWNRR3FKZU9xSlBYMmlkYkpEM2NnUFI5a2NWa0Q2Q2RIdWpERDR1bERfVnlKX2dMT19OMmp6WWNEYUFwQ2tZSU1PM1dCd2FGaV90WVlTR1BkSnVCWFZrTzczbFd2YXM2aWF6SWFHZFljMW56ZkQ2Z1ZuNzExVmZ4dzZCYnU1OWZrZEM0N3M?oc=5",
+      "published": "Fri, 14 Aug 2026 22:33:33 GMT",
+      "source": "DefenseScoop"
+    },
+    {
       "title": "DHS begins $1.5B spending spree on drone defense - FedScoop",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5PQzVfakozTmxSay11NkVLYk9BWklmOF9qd1pYcTNCVWZ2cmhVaktqc2JtQnJpbms1Yko1THhFRnkyOWN4c2VTVjJuTUgySEV3QTZLOFBnRERaYkxBVkpVZldma2xPVWFUTG5EVEFR?oc=5",
       "published": "Tue, 04 Aug 2026 07:00:00 GMT",
@@ -38,16 +44,10 @@
       "source": "Aerospace America"
     },
     {
-      "title": "Top Northcom general adds to drumbeat of warnings about weak drone defenses in the homeland - DefenseScoop",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdDhlYTZaRWNRR3FKZU9xSlBYMmlkYkpEM2NnUFI5a2NWa0Q2Q2RIdWpERDR1bERfVnlKX2dMT19OMmp6WWNEYUFwQ2tZSU1PM1dCd2FGaV90WVlTR1BkSnVCWFZrTzczbFd2YXM2aWF6SWFHZFljMW56ZkQ2Z1ZuNzExVmZ4dzZCYnU1OWZrZEM0N3M?oc=5",
-      "published": "Fri, 14 Aug 2026 22:33:33 GMT",
-      "source": "DefenseScoop"
-    },
-    {
-      "title": "Pentagon launches online marketplace for counter-UAS technology - Military Times",
+      "title": "Pentagon launches online marketplace for counter-UAS technology - militarytimes.com",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZHROOUY0V1dqTmdveU9VSHg3NDhQOWlOMTlSTDhMRTB6WnpmeTFhalpwOUpweWV4WmhudVZkeUVVNktBTnBPeE5Hb1dBS1RnYmE5RE55dnR1Q3M1VVFxX1ZITXZsbTZJeFpVVnptemdDeTlhUVF2RXdEYmR2SzJ1d2Y2YmhNQzlNY0E1Nzl4WmpXZVNTaHN3ZFdtc0V4VkFDcGFQel9iVi1sSVRRZTMzbnJlM0h2b2pvRnVQdGdKMUd6T2h5aUxN?oc=5",
       "published": "Mon, 10 Aug 2026 13:55:17 GMT",
-      "source": "Military Times"
+      "source": "militarytimes.com"
     },
     {
       "title": "Counter-UAS Systems and Land Warfare - Defence IQ",
@@ -92,10 +92,10 @@
       "source": "Mobility Engineering Technology"
     },
     {
-      "title": "Northrop Grumman unveils 50mm Raid Hunter air defence system - unmannedairspace.info",
+      "title": "Northrop Grumman unveils 50mm Raid Hunter air defence system - Unmanned airspace",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNQ0ZVVkd5XzBWcnJnYzB0ZTF2cV9qVkVFZ1ZGeC1rNjAtWWxReWpFdlo3OGhpelNEQ0lJN05ZZWZNMmtVQWRlUnNCYXktYTg1YmNQY3J5bldLaXZZQldNSGVaTWk2MmtkSm9sNWlLZTAwT0NXREFpTEpXWmt0cUNJWlJjQktkdEkzaFYtdVRoemRVeFBxSUd4ZDhKV0lZZ2E1QnlPY1QxNm94aVY0NG1sRjlSLVp4MGNlN2xoRU5JMHMwcjV0VTVN?oc=5",
       "published": "Wed, 12 Aug 2026 12:14:55 GMT",
-      "source": "unmannedairspace.info"
+      "source": "Unmanned airspace"
     },
     {
       "title": "Autonomous Net Interception & AI Combine for Counter-UAS - Unmanned Systems Technology",
@@ -104,10 +104,10 @@
       "source": "Unmanned Systems Technology"
     },
     {
-      "title": "US Army exploring 50mm cannon to destroy drones - Military Times",
+      "title": "US Army exploring 50mm cannon to destroy drones - militarytimes.com",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTEk0VGt4MGctREI1X3N4V05TejVaSXViRndxRXBRNDhMT0pPVHJrVmhMbkxSWUdJNkVMNVlpQWdMbUZWTnRPekxRSGVmM2VSUjlvTEFYQ282X29qMmNlcnN5YnpUQjcxMGJraFNPZG56Z3phZG1JMmlBeTh1RU9aUzJJdnBHUzQ5akVOdWFnc1lhZmM4QktQTG9MV1A1QVNZTDBMVXB1dkZEMmk5?oc=5",
       "published": "Mon, 10 Aug 2026 18:10:52 GMT",
-      "source": "Military Times"
+      "source": "militarytimes.com"
     },
     {
       "title": "Pentagon\u2019s counter-drone task force inks $500M contract for SkyValor 'detect and defeat' system after border testing - DefenseScoop",
