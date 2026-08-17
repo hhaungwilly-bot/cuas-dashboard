@@ -1,11 +1,17 @@
 {
-  "last_updated": "2026-08-17T15:33:11.336968",
+  "last_updated": "2026-08-17T15:54:55.055875",
   "articles": [
     {
       "title": "ParaZero: Closing the Final C-UAS Defense Gap - Unmanned Systems Technology",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUGl6Nkp4Qk83VFhCRHQxbzF5SkRyTXVtM252OTFVdW1IV1dfYWY4Q09UclpUczRUWDl6R2lPUmtJOURldS1aQThfdlFuTkdMbmxhSy0zOVd2MnRJeFk2SHMxTGwwWGZjbUpMN2Jfb0NiSnlqOWRycU56WFhlSE5vRTFuZ1NfRzZINHZqbElLbldzSndTMzRwZ1R4bw?oc=5",
       "published": "Mon, 17 Aug 2026 07:04:09 GMT",
       "source": "Unmanned Systems Technology"
+    },
+    {
+      "title": "Honeywell tests counter-drone system at CENTCOM event - The Defence Blog",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRG9lOC10VWJDek54TjJNUlNLd3Q3OFFkRkhlV0VjT3dGLWZxVmtmSmpUVTRjWnM0UXpOVl94Ykxub0xrMnVwZmFJdUNfOThxeURPN2dFOHNuYzV0TUpCSGNjUjF2bUxHRk1vNTNrZUhjVmlicmpBeGI3S2lKdHJvQ3BiSlV3QdIBiwFBVV95cUxPUlcwdlBQYzcwMGYyb01YNkJlN01qdExrZWR1Q3hUcXhEcnVENGhSdVAwQV9jN1o2VWtHX2tWTkhpOVBweXNBc0J5ZmlXNE5IVnRRM2x4TXkxQlF2SU5JNVluNXppMmtHeVNLX1BxX25HdE9VVDBJc2FLWWZWVXl1VmxsRl9xT0RDMGNF?oc=5",
+      "published": "Mon, 17 Aug 2026 11:28:27 GMT",
+      "source": "The Defence Blog"
     },
     {
       "title": "The New Drone Threat Demands a New Defense - Lockheed Martin",
@@ -50,16 +56,16 @@
       "source": "Defence IQ"
     },
     {
-      "title": "NORTHCOM Lacks Sensors To Counter Drone Threat - RealClearDefense",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVnV6VGw4b1dXZ2hoVkxWRjBOdFYyRmFTdnZhcFA3azVBeWVNN0JIMFNwV2JRdU1sWC1JYmZSUkFIQTJjUHRlQjhIcDJmWnIyMlgxaXhsdUxCWDl5Zk5aYnZsRWxzbllpdXE3RjRGaEhqa2RyOEI0YU5xUzBRTWEzWjhaNUE3MjcxTm5odGUwOXg2NmxoakpUd1VWUmhySlVtRUNfUmlR?oc=5",
-      "published": "Fri, 14 Aug 2026 10:59:32 GMT",
-      "source": "RealClearDefense"
-    },
-    {
       "title": "Pentagon launches online marketplace for counter-UAS technology - Military Times",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZHROOUY0V1dqTmdveU9VSHg3NDhQOWlOMTlSTDhMRTB6WnpmeTFhalpwOUpweWV4WmhudVZkeUVVNktBTnBPeE5Hb1dBS1RnYmE5RE55dnR1Q3M1VVFxX1ZITXZsbTZJeFpVVnptemdDeTlhUVF2RXdEYmR2SzJ1d2Y2YmhNQzlNY0E1Nzl4WmpXZVNTaHN3ZFdtc0V4VkFDcGFQel9iVi1sSVRRZTMzbnJlM0h2b2pvRnVQdGdKMUd6T2h5aUxN?oc=5",
       "published": "Mon, 10 Aug 2026 13:55:17 GMT",
       "source": "Military Times"
+    },
+    {
+      "title": "NORTHCOM Lacks Sensors To Counter Drone Threat - RealClearDefense",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVnV6VGw4b1dXZ2hoVkxWRjBOdFYyRmFTdnZhcFA3azVBeWVNN0JIMFNwV2JRdU1sWC1JYmZSUkFIQTJjUHRlQjhIcDJmWnIyMlgxaXhsdUxCWDl5Zk5aYnZsRWxzbllpdXE3RjRGaEhqa2RyOEI0YU5xUzBRTWEzWjhaNUE3MjcxTm5odGUwOXg2NmxoakpUd1VWUmhySlVtRUNfUmlR?oc=5",
+      "published": "Fri, 14 Aug 2026 10:59:32 GMT",
+      "source": "RealClearDefense"
     },
     {
       "title": "Army launches search for counter-drone missile priced under $150K - Breaking Defense",
@@ -90,12 +96,6 @@
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPT1BCRVJTN1JTUGRQbzRBVDVqZ2RjOVlVamJoWUNDX2U0eUdualJUWkNKVU9aRWVIV3VVcExfbm5MRlBDZFc1al9GZkE5M1R1U1NEYUV5RFlZWlVWZFNSWVBWMzBzcktVTzFtZzZPTVZHMV9yNXNKUHNUdjRsdjZtaEFMb1hxYjFSUGVTb2s3Q0V5V1RyS1RfOW8xal9XWHVxelJfMWVaNUNMYjVIYmw3TUdhWkVrZ2xFTTFwTWR3?oc=5",
       "published": "Mon, 10 Aug 2026 11:00:00 GMT",
       "source": "Mobility Engineering Technology"
-    },
-    {
-      "title": "Task Force Publishes Counter-Drone Handbook - Association of the United States Army",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1MV3RaaElHTjl3UWhWdEdhdi1xVzBqbng4RDRqQlNhbTI3SjlMY042YXY3YWNvV2JKZEozTVBnZmFtdkxJV3c4dXZYaXh3SnZCQkxCN21MNVhlX3lMZEo0RkJDSGw3WG5hUnczMDBOT0RxZHM1RV9CZw?oc=5",
-      "published": "Mon, 27 Jul 2026 10:24:53 GMT",
-      "source": "Association of the United States Army"
     },
     {
       "title": "Autonomous Net Interception & AI Combine for Counter-UAS - Unmanned Systems Technology",
