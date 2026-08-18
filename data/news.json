@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-18T06:33:38.305162",
+  "last_updated": "2026-08-18T07:22:04.648935",
   "articles": [
     {
       "title": "Mexico to Buy US Army Drones & Counter-UAS Tech in Historic Deal - Mexico Business News",
@@ -74,6 +74,12 @@
       "source": "Breaking Defense"
     },
     {
+      "title": "Lockheed Martin Unveils Layered Counter-Drone Architecture To Counter Swarms - The Defense Watch",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbU5wYWFTOEJ5WHY5Y21hVXUzbDA0MnV5OEZXRmVscW1tcTh0SmYyamRNNGFEN2JWc0hCaFlNQ2lHY21NdFNKY25vaVMwajJPbGRSYTlrQW9NUEctcXQ5SDR1R0lsMFZ2WmxOcmxpeks2N1l4bEluYnozUU5jMXZFVXh1YXYxclUzNElLQUN4RzJma0pTaVJvMEh0OGNGQU80NFkteDI0VEpTSXhZVEhELVZ3?oc=5",
+      "published": "Mon, 17 Aug 2026 09:47:07 GMT",
+      "source": "The Defense Watch"
+    },
+    {
       "title": "Counter-UAS Investment Continues as Monava Raises New Funding for AI Drone Detection - Dronelife",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1lSmZwd0dnQW93cDczX19DU0xMMHByLWQyeFE4dnhkSzYwU1pCUndpVGtsMmk0NnpTYlh4dUljRktKNllCbGdnNzVSNTV6SjQzQ3RnbndWajVyendrUXRYOEwyZ2xsb0JndUwzZ0FBcnhNWFRscENyQm9qVQ?oc=5",
       "published": "Tue, 04 Aug 2026 16:05:40 GMT",
@@ -92,22 +98,10 @@
       "source": "Military Aerospace"
     },
     {
-      "title": "Task Force Publishes Counter-Drone Handbook - Association of the United States Army",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1MV3RaaElHTjl3UWhWdEdhdi1xVzBqbng4RDRqQlNhbTI3SjlMY042YXY3YWNvV2JKZEozTVBnZmFtdkxJV3c4dXZYaXh3SnZCQkxCN21MNVhlX3lMZEo0RkJDSGw3WG5hUnczMDBOT0RxZHM1RV9CZw?oc=5",
-      "published": "Mon, 27 Jul 2026 10:24:53 GMT",
-      "source": "Association of the United States Army"
-    },
-    {
       "title": "Autonomous Net Interception & AI Combine for Counter-UAS - Unmanned Systems Technology",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRXNlaERJVTJsOVlZcDdMMXFCMW9ad21vU2xJajdCbzhVczZFdkxSMEpsQVFkbEJ5SUF0ZTdMeDZTT2xCOGFEbnRZd2FRN1FON1BJVFd6QmJYZWhXeVJacW1BRXBEWWZyNEpORjRjZ1d6c0FzMENfZmJJLUFxc054R3BYRGhRdldfUkEyc1pVWWl0ZV9VYVpiaU5oM2JqaEJ5TVRjd3h4SFo?oc=5",
       "published": "Thu, 13 Aug 2026 07:10:44 GMT",
       "source": "Unmanned Systems Technology"
-    },
-    {
-      "title": "Army seeks next-gen missile that could shoot down small drones for less than $150K a pop - DefenseScoop",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5GbzRtdW9TS3Y4b3JkaW9oazVGWW9nUWRxa0hGY25RV2h1UEg1MVVfQnhSUE1xS1VFMzVSUGRyckRva0VEZFV5aWhqeHZsbngwV2FpTDBLMVEwdllFOWVXYVZyU3g2VDNESS1WekhBLXNYOEdhMWZrenRESQ?oc=5",
-      "published": "Tue, 04 Aug 2026 07:00:00 GMT",
-      "source": "DefenseScoop"
     },
     {
       "title": "US Army exploring 50mm cannon to destroy drones - Military Times",
@@ -119,6 +113,12 @@
       "title": "Pentagon\u2019s counter-drone task force inks $500M contract for SkyValor 'detect and defeat' system after border testing - DefenseScoop",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZUpxTkZwc3BESFJYVVVqLUgzdW1qbHNBTm9yWXhNUHNZLUh3c25HT25xZE9OOWw0SU56QlpwN2NJWGIyX0s4TUFaYTF6d2MtckFsZVB3bjAyLVcyV1R4OFJueWJYM2ZsaEYxVFJiM3E3d0o3MGlILTNIQkZQLTJ1cXZhaDUtdU5hNHc4dFk5YWEwMGtGYmQ2d3pwUTNvb2c?oc=5",
       "published": "Fri, 31 Jul 2026 07:00:00 GMT",
+      "source": "DefenseScoop"
+    },
+    {
+      "title": "Army seeks next-gen missile that could shoot down small drones for less than $150K a pop - DefenseScoop",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5GbzRtdW9TS3Y4b3JkaW9oazVGWW9nUWRxa0hGY25RV2h1UEg1MVVfQnhSUE1xS1VFMzVSUGRyckRva0VEZFV5aWhqeHZsbngwV2FpTDBLMVEwdllFOWVXYVZyU3g2VDNESS1WekhBLXNYOEdhMWZrenRESQ?oc=5",
+      "published": "Tue, 04 Aug 2026 07:00:00 GMT",
       "source": "DefenseScoop"
     }
   ]
