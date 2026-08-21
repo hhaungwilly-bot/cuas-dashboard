@@ -1,11 +1,17 @@
 {
-  "last_updated": "2026-08-21T16:14:14.026921",
+  "last_updated": "2026-08-21T16:54:29.038013",
   "articles": [
     {
       "title": "Media Advisory: Virginia Tech opens new Counter-UAS Testing and Research Center to develop drone defense capability for the U.S. Army and civilian infrastructure - Virginia Tech News",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaUFXRDdGdElYeTFsUFF6U1llODIxOUExWUFab3VuN0pDTjctUXJTNEVoN0ZRVzhfNDM4ZEtYQmJNaUlkTElFQVZHQUxmR3NxcUhQMVpETHlma29sZEdPdDQzYVRhMUtfbl9DcnNaY1B3aVJXYXIwNHg2R3Y1THNTWGJVcExpY2prUzExWEFNclBfbEVId1ZnNHVCR01MSkdGTjhSZFRFcGxZTGZqS1E?oc=5",
       "published": "Wed, 19 Aug 2026 21:54:46 GMT",
       "source": "Virginia Tech News"
+    },
+    {
+      "title": "Lockheed Martin\u2019s Layered Counter-Drone Defense Architecture - Overt Defense -",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSlNIbTJPSEUxa0gwY2gyaUluWFZoejM1Wjh4VHVQX3l5RnpOV25abEpoUkdmZFRBclFnRFZGT05CV1BJLU1KOWpwUGRqNHJuTktnVkxaNHM4MHlpcjRXazg5Y2FIbG56TV9VNTg3RVBQemdiRmx5MmZsajhMbUQ4cUY0M0J3eEVDaHhCd200dzM1d2FvQXBMeUxfSGl2bm5xeGc?oc=5",
+      "published": "Fri, 21 Aug 2026 15:00:47 GMT",
+      "source": "Overt Defense -"
     },
     {
       "title": "U.S. defense company AeroVironment forms Greek venture to pursue drone and counter-UAS production for European market from 2028 - Defence Industry Europe",
@@ -86,22 +92,16 @@
       "source": "Dronelife"
     },
     {
-      "title": "The EOTECH for drone defense - SPARTANAT.com",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5mNk1oMDFZWEJIV2pzblg1Y3BQWTNFa1AzOG9fb3pnWUtFeDBVMUpGRFpHT2ozTEdSLUstWEQ3UnJPeHRqYUVCSHBSWFgtYjlUdGlzaEZHbmVVNXdYTUdBQ2xJMA?oc=5",
-      "published": "Wed, 19 Aug 2026 09:43:29 GMT",
-      "source": "SPARTANAT.com"
-    },
-    {
       "title": "Pentagon launches online marketplace for counter-UAS technology - Military Times",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZHROOUY0V1dqTmdveU9VSHg3NDhQOWlOMTlSTDhMRTB6WnpmeTFhalpwOUpweWV4WmhudVZkeUVVNktBTnBPeE5Hb1dBS1RnYmE5RE55dnR1Q3M1VVFxX1ZITXZsbTZJeFpVVnptemdDeTlhUVF2RXdEYmR2SzJ1d2Y2YmhNQzlNY0E1Nzl4WmpXZVNTaHN3ZFdtc0V4VkFDcGFQel9iVi1sSVRRZTMzbnJlM0h2b2pvRnVQdGdKMUd6T2h5aUxN?oc=5",
       "published": "Mon, 10 Aug 2026 07:00:00 GMT",
       "source": "Military Times"
     },
     {
-      "title": "Why the nation\u2019s premier nuclear lab holds the key to America\u2019s counter-UAS challenge - Idaho National Laboratory (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQU05qSk1Wc0EzUHBVYXdfRzdoZG9Wc042NG9lMDRZMVpkQnNiX0g2dE11eDRTOVFjcVRYNWNkZzRnUTZQSS1JSkVvQTJIOG5Sakdpa1ZUUmtPR1ZESER4clhwQzJvVGJDTjZUMjlhM2ppeXpBeVlfUUpwb3FJd2RHVmdGeDNJTVRPWUd1MkViNjdQcXBsZ0tibXA2YmZmd0ktbGZzSlNCdDJTbm92M19NZXAtakY?oc=5",
-      "published": "Mon, 10 Aug 2026 13:02:04 GMT",
-      "source": "Idaho National Laboratory (.gov)"
+      "title": "The EOTECH for drone defense - SPARTANAT.com",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5mNk1oMDFZWEJIV2pzblg1Y3BQWTNFa1AzOG9fb3pnWUtFeDBVMUpGRFpHT2ozTEdSLUstWEQ3UnJPeHRqYUVCSHBSWFgtYjlUdGlzaEZHbmVVNXdYTUdBQ2xJMA?oc=5",
+      "published": "Wed, 19 Aug 2026 09:43:29 GMT",
+      "source": "SPARTANAT.com"
     },
     {
       "title": "U.S. Army tests counter-drone systems from more than 50 companies as it builds layered defense ahead of Scarlet Dragon - Defence Industry Europe",
@@ -116,10 +116,10 @@
       "source": "DefenseScoop"
     },
     {
-      "title": "Lockheed Martin unveils layered counter-drone architecture combining JAGM missiles, AI command systems and MORFIUS microwave weapon - Defence Industry Europe",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOa1lRVFdoSTNLTWlGUG9sempVbVlkbmpoaS1vMmVWWFFGZ0FZODg4UnZrSEJLanRkNDlGZnI4SGVOV29xTmlOWGpnTjl1VHVSUHpVaDFCRmF0dTdScnJ0eFFqSk8zR29FbFNIZ0FUcUR0T29WWk91LThfM294MmZsUXptdFRhRlJyOXJzdTY4YmlmWlduV2VlSDZuVVZjbmd1ZS1WT0hDczVsbXk3MmlueFZBTmlDNThBOFplYk5VWXlTVFZnVUcwOC0wcEo3cEdqX0NvUXNWTjRXUEt1aHJGMTJxNl9uRW94MDQ2cGJ2bzg?oc=5",
-      "published": "Sun, 16 Aug 2026 21:34:47 GMT",
-      "source": "Defence Industry Europe"
+      "title": "Why the nation\u2019s premier nuclear lab holds the key to America\u2019s counter-UAS challenge - Idaho National Laboratory (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQU05qSk1Wc0EzUHBVYXdfRzdoZG9Wc042NG9lMDRZMVpkQnNiX0g2dE11eDRTOVFjcVRYNWNkZzRnUTZQSS1JSkVvQTJIOG5Sakdpa1ZUUmtPR1ZESER4clhwQzJvVGJDTjZUMjlhM2ppeXpBeVlfUUpwb3FJd2RHVmdGeDNJTVRPWUd1MkViNjdQcXBsZ0tibXA2YmZmd0ktbGZzSlNCdDJTbm92M19NZXAtakY?oc=5",
+      "published": "Mon, 10 Aug 2026 13:02:04 GMT",
+      "source": "Idaho National Laboratory (.gov)"
     }
   ]
 }
