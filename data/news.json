@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-26T03:54:18.592559",
+  "last_updated": "2026-08-26T04:37:58.470150",
   "articles": [
     {
       "title": "One year in, America\u2019s counter-drone task force still has \u2018a ton of work to do\u2019 - DefenseScoop",
@@ -30,12 +30,6 @@
       "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNcEVabC04aXBEQkdKYzNwSlFuaXJNSGJybGFQeWdNVHZiVXNSWXhwcmhaWVVRcm1sVl9DUXYzS3lxVS0tTUd0TFhyLVZxbmJsODhDUE1ZeVBmNmZUb2V4OURDbW5WZmIxdnJwd2VxcWM5TzEweUFiN3ljS05MdmtmZmwxcDVObzYzbmhpWnRseGlITm1ESjZ2U2hzTHBaSkRaNFRlMjBhZkRvWDlUajltN2U1VVJSVnQ3bVlFLWRBdmYtTXNOWXdKdmNKeEhLT2xOMzdkVWtfVFBaSURIQ040eXJCNGc2dmdjVWM4S1M3M2xkOVE?oc=5",
       "published": "Mon, 24 Aug 2026 13:00:00 GMT",
       "source": "EIN News"
-    },
-    {
-      "title": "DHS begins $1.5B spending spree on drone defense - FedScoop",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5PQzVfakozTmxSay11NkVLYk9BWklmOF9qd1pYcTNCVWZ2cmhVaktqc2JtQnJpbms1Yko1THhFRnkyOWN4c2VTVjJuTUgySEV3QTZLOFBnRERaYkxBVkpVZldma2xPVWFUTG5EVEFR?oc=5",
-      "published": "Tue, 04 Aug 2026 07:00:00 GMT",
-      "source": "FedScoop"
     },
     {
       "title": "The New Drone Threat Demands a New Defense - Lockheed Martin",
@@ -104,16 +98,22 @@
       "source": "Military Times"
     },
     {
+      "title": "DHS Awards $1.5 Billion Counter-UAS Contract to 12 Companies - Inside Unmanned Systems",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOc1ZFb1Fsclk2cmtWaGJ0R3M0WnQ3UzU4T2lBZ1UtUlhlTmliVHdoQVZrZWxKVWw3ZjkxVk42RFhaVHRWc3ZRLTZ0dnpTSWFPbFZlSVVobG5lUmhFQ3ZtQmRTSEFtOGlPRE93U3VmQlppT0t5UHhJSmlJLVp0MmdnVzBTWmREM3BMSi1oZ0I5LWhYSE4wRGtGWFNR?oc=5",
+      "published": "Thu, 06 Aug 2026 07:00:00 GMT",
+      "source": "Inside Unmanned Systems"
+    },
+    {
       "title": "Top Northcom general adds to drumbeat of warnings about weak drone defenses in the homeland - DefenseScoop",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdDhlYTZaRWNRR3FKZU9xSlBYMmlkYkpEM2NnUFI5a2NWa0Q2Q2RIdWpERDR1bERfVnlKX2dMT19OMmp6WWNEYUFwQ2tZSU1PM1dCd2FGaV90WVlTR1BkSnVCWFZrTzczbFd2YXM2aWF6SWFHZFljMW56ZkQ2Z1ZuNzExVmZ4dzZCYnU1OWZrZEM0N3M?oc=5",
       "published": "Fri, 14 Aug 2026 07:00:00 GMT",
       "source": "DefenseScoop"
     },
     {
-      "title": "Army seeks next-gen missile that could shoot down small drones for less than $150K a pop - DefenseScoop",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5GbzRtdW9TS3Y4b3JkaW9oazVGWW9nUWRxa0hGY25RV2h1UEg1MVVfQnhSUE1xS1VFMzVSUGRyckRva0VEZFV5aWhqeHZsbngwV2FpTDBLMVEwdllFOWVXYVZyU3g2VDNESS1WekhBLXNYOEdhMWZrenRESQ?oc=5",
-      "published": "Tue, 04 Aug 2026 07:00:00 GMT",
-      "source": "DefenseScoop"
+      "title": "Department of War Launches Marketplace for Validated Counter-Drone Systems - Dronelife",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZjdTQVkxNklwc3ozNlNwTTF4cVNCU01EMnA4dkNvRDFDUi1OM3dnQk5uWWVlSGFUcmZ2TWpFSE5qLWtVUHMxalV4ZDFIZzNWLUV3TjlRMjZyZEk4dF81S2pkbXBxSWRJWEJ0WmFGZl92MnZ5SDF2b2pBZW1vbHgyNHM2UQ?oc=5",
+      "published": "Tue, 04 Aug 2026 14:50:36 GMT",
+      "source": "Dronelife"
     },
     {
       "title": "Pentagon approves long-range, autonomous counter-UAS system for use across the military after border testing - DefenseScoop",
