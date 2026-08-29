@@ -1,17 +1,17 @@
 {
-  "last_updated": "2026-08-28T22:41:48.570929",
+  "last_updated": "2026-08-29T03:53:36.872785",
   "articles": [
-    {
-      "title": "ParaZero Secures Third Anti-Drone Net Gun Order - Unmanned Systems Technology",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVXo3eFUteEFhZ1BZc204cHd4YTJTLWRPYnRTb3N5eC1Oc3V4RExDUVRNY014SHN6UG03bXBBbUhoQzlNZ01SZ0dfU2FiUTV6eUpVbUhkcDBxb1hrRW16blBDYWpIaU1JNVZYR25uR3ljZDRqNHZKUXM3Z2Z6THdjdWJibFdlM3Y5T0dMSDFEMTg5eWRHUWFWNDc1RG14aFk?oc=5",
-      "published": "Fri, 28 Aug 2026 07:02:51 GMT",
-      "source": "Unmanned Systems Technology"
-    },
     {
       "title": "One year in, America\u2019s counter-drone task force still has \u2018a ton of work to do\u2019 - DefenseScoop",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORThPZklYSTRJS2hZZkF6UXNsRnhOMV9EVWIyLW1vQ29tTEhSVzBKX2ZScHVqbWxlVzRWR3Rhdmh2WkExaEVBTEN3Y0hKaXZhSDFTZjRTbHdicnNvYV9XbURwRGJvODEzMWEzWTFHMUFnemNienFLRHktYWVfRTlRU01PTjVFZmRMdUNuMDFNWl9GbzNob0JPU2M5eFpwS09kcUpLTjdTUEhFMmhURjFUeXpB?oc=5",
       "published": "Mon, 24 Aug 2026 22:31:13 GMT",
       "source": "DefenseScoop"
+    },
+    {
+      "title": "ParaZero Secures Third Anti-Drone Net Gun Order - Unmanned Systems Technology",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVXo3eFUteEFhZ1BZc204cHd4YTJTLWRPYnRTb3N5eC1Oc3V4RExDUVRNY014SHN6UG03bXBBbUhoQzlNZ01SZ0dfU2FiUTV6eUpVbUhkcDBxb1hrRW16blBDYWpIaU1JNVZYR25uR3ljZDRqNHZKUXM3Z2Z6THdjdWJibFdlM3Y5T0dMSDFEMTg5eWRHUWFWNDc1RG14aFk?oc=5",
+      "published": "Fri, 28 Aug 2026 07:02:51 GMT",
+      "source": "Unmanned Systems Technology"
     },
     {
       "title": "Volantyx Aerospace Rebrands Beyond Counter-Drone Defense - Advanced Manufacturing",
@@ -26,34 +26,10 @@
       "source": "uasweekly.com"
     },
     {
-      "title": "VANEA Defence unveils non-kinetic optical effector to counter civil drone threats - Unmanned airspace",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNay1kMFZHTnM1ejAxVGV1ekJvQjBzY1lpSFF5eWZqekItY0FzQm1IbTFMVkdMM0FOcGpNQ0lfWFpaUHI2N2hUbFNDUTVFcVdNSEtUZ1o1Y3pkRzU4bkZrTzJsUkpLMlJKakpFcm5KRHQ3a2dhSjJtY19adUl6b2RsV29hYmF0aW1FX1Q1b2pPclN6SDF3VjFyOGFoZVdiTnJGVl9OOWYyN25Nbk1RdHR0TVBzN1B5WEM0RVJsOTVpWkNJMnVmbm9Ra0w4eXBZX2lXa0FhdDBFX0FMRVRMVEdsZXFaOA?oc=5",
-      "published": "Fri, 28 Aug 2026 13:22:49 GMT",
-      "source": "Unmanned airspace"
-    },
-    {
-      "title": "Vanea Defence opens civilian counter-UAS market with ATOMZA optical system for airports and critical infrastructure - Defence Industry Europe",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOcGZiWktheDl4dmtScjN0UkczTnlCVlJOUUk5SGdnRnROUElDVERnSG9sOWNjVzRUMnh5a0xjcXpaOG05QVZzV1FhYTNqOG5kRlF3OVhOaFhZaDJ4VV96UHU5TVNVc3lVU1ZISHVEM0dlUWo2SGNiYzZOTlB2cUwyWkEwSnNoQlNfQ2JEZWxFN0phdGl3SHJqX2UyYnMtQkZUMHpfMFB6amd3bUpyakR3ZVNkOXRfamhPYXRXZTJPSFlOYS1mdXBid3pNYnVXcDBxeEpPSS01RHEtWk5a?oc=5",
-      "published": "Fri, 28 Aug 2026 09:43:35 GMT",
-      "source": "Defence Industry Europe"
-    },
-    {
       "title": "The New Drone Threat Demands a New Defense - Lockheed Martin",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZ3AtbENpR1FGTk5ZTTlsRmlvU0pFcjJWcWoyTHA0c0F0WFo4MFdGdW9nMDJfSjZqazhYU1ZOSFJVQUZCbmdacG9zQnp3a01qVzBBeUlNc2JxODJ5TGttRUNnYnNiSFJ4TkYxbTlMWEJqOGlFdVExOGFnMkZ6SlIzYVNwS2QyWDBoNjdnTlVwdlY3V3NzU0lUUDNOaWRreEJtZWloczZR?oc=5",
       "published": "Tue, 11 Aug 2026 07:00:00 GMT",
       "source": "Lockheed Martin"
-    },
-    {
-      "title": "Pentagon counter-drone task force preps \u2018shoot-off\u2019 for directed energy prototypes - Breaking Defense",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOT29CVUVBMHZwZ20wRF91TDlPMU9ld2QyamhuVVRfbjNSU2laUkJ1VjJicHh2Zl9kME9HR1FwY3REWWhaUGtxSWxDbjBzUThiYm1sYlRNMFFjdUhRVk9EVUpKYWRmZm16LWU2bTRBZmVvUkszVGxEbzM1dUI2SVJHMU9ONU1vZmxKb0VwYW02eVlvVGt0YTNLRHUyWEhBbV9oWHpWblNoVG9xUnlSSjlmLXhQc2tMU19y?oc=5",
-      "published": "Mon, 24 Aug 2026 13:07:21 GMT",
-      "source": "Breaking Defense"
-    },
-    {
-      "title": "Media Advisory: Virginia Tech opens new Counter-UAS Testing and Research Center to develop drone defense capability for the U.S. Army and civilian infrastructure - Virginia Tech News",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaUFXRDdGdElYeTFsUFF6U1llODIxOUExWUFab3VuN0pDTjctUXJTNEVoN0ZRVzhfNDM4ZEtYQmJNaUlkTElFQVZHQUxmR3NxcUhQMVpETHlma29sZEdPdDQzYVRhMUtfbl9DcnNaY1B3aVJXYXIwNHg2R3Y1THNTWGJVcExpY2prUzExWEFNclBfbEVId1ZnNHVCR01MSkdGTjhSZFRFcGxZTGZqS1E?oc=5",
-      "published": "Wed, 19 Aug 2026 21:54:46 GMT",
-      "source": "Virginia Tech News"
     },
     {
       "title": "ParaZero wins first US government order for DefendAir counter-drone system - The Jerusalem Post",
@@ -62,10 +38,34 @@
       "source": "The Jerusalem Post"
     },
     {
+      "title": "VANEA Defence unveils non-kinetic optical effector to counter civil drone threats - Unmanned airspace",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNay1kMFZHTnM1ejAxVGV1ekJvQjBzY1lpSFF5eWZqekItY0FzQm1IbTFMVkdMM0FOcGpNQ0lfWFpaUHI2N2hUbFNDUTVFcVdNSEtUZ1o1Y3pkRzU4bkZrTzJsUkpLMlJKakpFcm5KRHQ3a2dhSjJtY19adUl6b2RsV29hYmF0aW1FX1Q1b2pPclN6SDF3VjFyOGFoZVdiTnJGVl9OOWYyN25Nbk1RdHR0TVBzN1B5WEM0RVJsOTVpWkNJMnVmbm9Ra0w4eXBZX2lXa0FhdDBFX0FMRVRMVEdsZXFaOA?oc=5",
+      "published": "Fri, 28 Aug 2026 13:22:49 GMT",
+      "source": "Unmanned airspace"
+    },
+    {
+      "title": "Media Advisory: Virginia Tech opens new Counter-UAS Testing and Research Center to develop drone defense capability for the U.S. Army and civilian infrastructure - Virginia Tech News",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaUFXRDdGdElYeTFsUFF6U1llODIxOUExWUFab3VuN0pDTjctUXJTNEVoN0ZRVzhfNDM4ZEtYQmJNaUlkTElFQVZHQUxmR3NxcUhQMVpETHlma29sZEdPdDQzYVRhMUtfbl9DcnNaY1B3aVJXYXIwNHg2R3Y1THNTWGJVcExpY2prUzExWEFNclBfbEVId1ZnNHVCR01MSkdGTjhSZFRFcGxZTGZqS1E?oc=5",
+      "published": "Wed, 19 Aug 2026 21:54:46 GMT",
+      "source": "Virginia Tech News"
+    },
+    {
+      "title": "Pentagon counter-drone task force preps \u2018shoot-off\u2019 for directed energy prototypes - Breaking Defense",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOT29CVUVBMHZwZ20wRF91TDlPMU9ld2QyamhuVVRfbjNSU2laUkJ1VjJicHh2Zl9kME9HR1FwY3REWWhaUGtxSWxDbjBzUThiYm1sYlRNMFFjdUhRVk9EVUpKYWRmZm16LWU2bTRBZmVvUkszVGxEbzM1dUI2SVJHMU9ONU1vZmxKb0VwYW02eVlvVGt0YTNLRHUyWEhBbV9oWHpWblNoVG9xUnlSSjlmLXhQc2tMU19y?oc=5",
+      "published": "Mon, 24 Aug 2026 13:07:21 GMT",
+      "source": "Breaking Defense"
+    },
+    {
       "title": "Dutch Navy to equip fleet with Destinus C-UAS interceptor drones - Defense News",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNV1Jydy1DZnVVQVNleWhoX1hyN19ZNUFLZEk0YUV3Q3ZibUxkclRoSVJZMHdTeWswR3dCZzFNdnRicWRJVVhhSUl0cVVEdDhlb25KYktITXV2eFJNWWFETUNRaDhZSDhwY3pma2tFR2hVQkdvUlR4VHJYT0c4RG4wc0Y1VjNWb290ejdQcHB2TG9zeXBibm1nRGxVMi1QQWNUcl96VkhWRTJhMlg4VFgxYVJ0UnZqOXdzUVE?oc=5",
       "published": "Tue, 25 Aug 2026 08:50:44 GMT",
       "source": "Defense News"
+    },
+    {
+      "title": "Vanea Defence opens civilian counter-UAS market with ATOMZA optical system for airports and critical infrastructure - Defence Industry Europe",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOcGZiWktheDl4dmtScjN0UkczTnlCVlJOUUk5SGdnRnROUElDVERnSG9sOWNjVzRUMnh5a0xjcXpaOG05QVZzV1FhYTNqOG5kRlF3OVhOaFhZaDJ4VV96UHU5TVNVc3lVU1ZISHVEM0dlUWo2SGNiYzZOTlB2cUwyWkEwSnNoQlNfQ2JEZWxFN0phdGl3SHJqX2UyYnMtQkZUMHpfMFB6amd3bUpyakR3ZVNkOXRfamhPYXRXZTJPSFlOYS1mdXBid3pNYnVXcDBxeEpPSS01RHEtWk5a?oc=5",
+      "published": "Fri, 28 Aug 2026 09:43:35 GMT",
+      "source": "Defence Industry Europe"
     },
     {
       "title": "Global Counter UAS Market to Reach US$ 18,289.23 Million by 2035 Amid Rising Demand for Advanced Drone Defense Solutions - EIN News",
