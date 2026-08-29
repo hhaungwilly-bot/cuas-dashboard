@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-29T03:53:36.872785",
+  "last_updated": "2026-08-29T10:45:24.294237",
   "articles": [
     {
       "title": "One year in, America\u2019s counter-drone task force still has \u2018a ton of work to do\u2019 - DefenseScoop",
@@ -32,6 +32,24 @@
       "source": "Lockheed Martin"
     },
     {
+      "title": "Media Advisory: Virginia Tech opens new Counter-UAS Testing and Research Center to develop drone defense capability for the U.S. Army and civilian infrastructure - Virginia Tech News",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaUFXRDdGdElYeTFsUFF6U1llODIxOUExWUFab3VuN0pDTjctUXJTNEVoN0ZRVzhfNDM4ZEtYQmJNaUlkTElFQVZHQUxmR3NxcUhQMVpETHlma29sZEdPdDQzYVRhMUtfbl9DcnNaY1B3aVJXYXIwNHg2R3Y1THNTWGJVcExpY2prUzExWEFNclBfbEVId1ZnNHVCR01MSkdGTjhSZFRFcGxZTGZqS1E?oc=5",
+      "published": "Wed, 19 Aug 2026 21:54:46 GMT",
+      "source": "Virginia Tech News"
+    },
+    {
+      "title": "Dutch Navy to equip fleet with Destinus C-UAS interceptor drones - Defense News",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNV1Jydy1DZnVVQVNleWhoX1hyN19ZNUFLZEk0YUV3Q3ZibUxkclRoSVJZMHdTeWswR3dCZzFNdnRicWRJVVhhSUl0cVVEdDhlb25KYktITXV2eFJNWWFETUNRaDhZSDhwY3pma2tFR2hVQkdvUlR4VHJYT0c4RG4wc0Y1VjNWb290ejdQcHB2TG9zeXBibm1nRGxVMi1QQWNUcl96VkhWRTJhMlg4VFgxYVJ0UnZqOXdzUVE?oc=5",
+      "published": "Tue, 25 Aug 2026 08:50:44 GMT",
+      "source": "Defense News"
+    },
+    {
+      "title": "Pentagon counter-drone task force preps \u2018shoot-off\u2019 for directed energy prototypes - Breaking Defense",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOT29CVUVBMHZwZ20wRF91TDlPMU9ld2QyamhuVVRfbjNSU2laUkJ1VjJicHh2Zl9kME9HR1FwY3REWWhaUGtxSWxDbjBzUThiYm1sYlRNMFFjdUhRVk9EVUpKYWRmZm16LWU2bTRBZmVvUkszVGxEbzM1dUI2SVJHMU9ONU1vZmxKb0VwYW02eVlvVGt0YTNLRHUyWEhBbV9oWHpWblNoVG9xUnlSSjlmLXhQc2tMU19y?oc=5",
+      "published": "Mon, 24 Aug 2026 13:07:21 GMT",
+      "source": "Breaking Defense"
+    },
+    {
       "title": "ParaZero wins first US government order for DefendAir counter-drone system - The Jerusalem Post",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9YQnEwdVVoMjJOTDBCaEJlUUNTUkNnN3hWVFEwUHRrdDlqNkFUTWtVQ0dYSVdscDhvUVhjME12dUlORHlwLTlrWjNPZHVOVU50ZUZHbUZHR1J4Y1VDUE95VkprSQ?oc=5",
       "published": "Wed, 26 Aug 2026 06:25:53 GMT",
@@ -44,30 +62,6 @@
       "source": "Unmanned airspace"
     },
     {
-      "title": "Media Advisory: Virginia Tech opens new Counter-UAS Testing and Research Center to develop drone defense capability for the U.S. Army and civilian infrastructure - Virginia Tech News",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaUFXRDdGdElYeTFsUFF6U1llODIxOUExWUFab3VuN0pDTjctUXJTNEVoN0ZRVzhfNDM4ZEtYQmJNaUlkTElFQVZHQUxmR3NxcUhQMVpETHlma29sZEdPdDQzYVRhMUtfbl9DcnNaY1B3aVJXYXIwNHg2R3Y1THNTWGJVcExpY2prUzExWEFNclBfbEVId1ZnNHVCR01MSkdGTjhSZFRFcGxZTGZqS1E?oc=5",
-      "published": "Wed, 19 Aug 2026 21:54:46 GMT",
-      "source": "Virginia Tech News"
-    },
-    {
-      "title": "Pentagon counter-drone task force preps \u2018shoot-off\u2019 for directed energy prototypes - Breaking Defense",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOT29CVUVBMHZwZ20wRF91TDlPMU9ld2QyamhuVVRfbjNSU2laUkJ1VjJicHh2Zl9kME9HR1FwY3REWWhaUGtxSWxDbjBzUThiYm1sYlRNMFFjdUhRVk9EVUpKYWRmZm16LWU2bTRBZmVvUkszVGxEbzM1dUI2SVJHMU9ONU1vZmxKb0VwYW02eVlvVGt0YTNLRHUyWEhBbV9oWHpWblNoVG9xUnlSSjlmLXhQc2tMU19y?oc=5",
-      "published": "Mon, 24 Aug 2026 13:07:21 GMT",
-      "source": "Breaking Defense"
-    },
-    {
-      "title": "Dutch Navy to equip fleet with Destinus C-UAS interceptor drones - Defense News",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNV1Jydy1DZnVVQVNleWhoX1hyN19ZNUFLZEk0YUV3Q3ZibUxkclRoSVJZMHdTeWswR3dCZzFNdnRicWRJVVhhSUl0cVVEdDhlb25KYktITXV2eFJNWWFETUNRaDhZSDhwY3pma2tFR2hVQkdvUlR4VHJYT0c4RG4wc0Y1VjNWb290ejdQcHB2TG9zeXBibm1nRGxVMi1QQWNUcl96VkhWRTJhMlg4VFgxYVJ0UnZqOXdzUVE?oc=5",
-      "published": "Tue, 25 Aug 2026 08:50:44 GMT",
-      "source": "Defense News"
-    },
-    {
-      "title": "Vanea Defence opens civilian counter-UAS market with ATOMZA optical system for airports and critical infrastructure - Defence Industry Europe",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOcGZiWktheDl4dmtScjN0UkczTnlCVlJOUUk5SGdnRnROUElDVERnSG9sOWNjVzRUMnh5a0xjcXpaOG05QVZzV1FhYTNqOG5kRlF3OVhOaFhZaDJ4VV96UHU5TVNVc3lVU1ZISHVEM0dlUWo2SGNiYzZOTlB2cUwyWkEwSnNoQlNfQ2JEZWxFN0phdGl3SHJqX2UyYnMtQkZUMHpfMFB6amd3bUpyakR3ZVNkOXRfamhPYXRXZTJPSFlOYS1mdXBid3pNYnVXcDBxeEpPSS01RHEtWk5a?oc=5",
-      "published": "Fri, 28 Aug 2026 09:43:35 GMT",
-      "source": "Defence Industry Europe"
-    },
-    {
       "title": "Global Counter UAS Market to Reach US$ 18,289.23 Million by 2035 Amid Rising Demand for Advanced Drone Defense Solutions - EIN News",
       "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNcEVabC04aXBEQkdKYzNwSlFuaXJNSGJybGFQeWdNVHZiVXNSWXhwcmhaWVVRcm1sVl9DUXYzS3lxVS0tTUd0TFhyLVZxbmJsODhDUE1ZeVBmNmZUb2V4OURDbW5WZmIxdnJwd2VxcWM5TzEweUFiN3ljS05MdmtmZmwxcDVObzYzbmhpWnRseGlITm1ESjZ2U2hzTHBaSkRaNFRlMjBhZkRvWDlUajltN2U1VVJSVnQ3bVlFLWRBdmYtTXNOWXdKdmNKeEhLT2xOMzdkVWtfVFBaSURIQ040eXJCNGc2dmdjVWM4S1M3M2xkOVE?oc=5",
       "published": "Mon, 24 Aug 2026 13:00:00 GMT",
@@ -78,6 +72,12 @@
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNeUt2Vk1RUEx0eVI3QVZUcmEyUC04YTRKY3ROcHhPMlBiQVdMYlpDSVIyaElJZHktSDNfZ2FTaEtxeVFxNE9LTGdEclRQVWxOSTRsa0ZZZFBkT1p6dzVYbElGVjM3NzA5THlJeHllZG9UZGktZFJBampUNTh4b0w0VmZrS3RZSkFzZVZBcHNuOFMtaV92Q1pyRC1WOWViZS16M21uM2VnNjBfd01UTlh3OFljTVNBNUExa1dkeG5uTS1JczZPVDV1djh5dEV2ZUNa?oc=5",
       "published": "Thu, 13 Aug 2026 07:00:00 GMT",
       "source": "National Defense Magazine"
+    },
+    {
+      "title": "Vanea Defence opens civilian counter-UAS market with ATOMZA optical system for airports and critical infrastructure - Defence Industry Europe",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOcGZiWktheDl4dmtScjN0UkczTnlCVlJOUUk5SGdnRnROUElDVERnSG9sOWNjVzRUMnh5a0xjcXpaOG05QVZzV1FhYTNqOG5kRlF3OVhOaFhZaDJ4VV96UHU5TVNVc3lVU1ZISHVEM0dlUWo2SGNiYzZOTlB2cUwyWkEwSnNoQlNfQ2JEZWxFN0phdGl3SHJqX2UyYnMtQkZUMHpfMFB6amd3bUpyakR3ZVNkOXRfamhPYXRXZTJPSFlOYS1mdXBid3pNYnVXcDBxeEpPSS01RHEtWk5a?oc=5",
+      "published": "Fri, 28 Aug 2026 09:43:35 GMT",
+      "source": "Defence Industry Europe"
     },
     {
       "title": "Pentagon\u2019s counter-drone group to add defenses to 46 U.S. sites, director says - Aerospace America",
@@ -104,16 +104,16 @@
       "source": "DefenseScoop"
     },
     {
-      "title": "Terra Drone\u2019s B1 Interceptor Drone Passes Japan ATLA Counter-UAS Demonstration Test - uasweekly.com",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPU1pVTjVfcnF3NktfYTItVkZYdVM1YWVQOXhHUzFXVHltUkdBcFVveklDZy1jWVBfR21mTld1eHQwWE45anAyLWtROTBickwtV3Uyd3l1cDREMFpSQnppMmRmYUU0c3Q2aG1lUkNHMGl3MXBlNTBNaXN2a0lWV0JGSF8zMHBPUUlFUl9MWlZaczhyTVJOSlVCZTdTT3dCZkYzNC1KUHQ1amNMRGtQV1RwS0kyQVdJTms?oc=5",
-      "published": "Thu, 27 Aug 2026 11:18:08 GMT",
-      "source": "uasweekly.com"
-    },
-    {
       "title": "Pentagon launches online marketplace for counter-UAS technology - Defense News",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSi0xTzZCaE15Ymd5YlJkME14LWpmbWJsT2FHZW1xbjl1M3ZnNTNXWmtDRUgySGJVSXo5cFN6a1NRRmZrSHBPbTltcWJnWF82a0VFbE5ua2UtUEstSlI3ZW52T3RZLWx2dktiM1g1RFQ2Zmd1SXpyMmJwVGJSSm9yYjBNMWZXUUVKeHJfLUk1VTYxaUpQZEF4MFdwbVdFUF9QdlBPWjEzQjFWWXFNb0FHb0ZMQnlFNXpfTEpISzYzUUV1bU1w?oc=5",
       "published": "Mon, 10 Aug 2026 07:00:00 GMT",
       "source": "Defense News"
+    },
+    {
+      "title": "Terra Drone\u2019s B1 Interceptor Drone Passes Japan ATLA Counter-UAS Demonstration Test - uasweekly.com",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPU1pVTjVfcnF3NktfYTItVkZYdVM1YWVQOXhHUzFXVHltUkdBcFVveklDZy1jWVBfR21mTld1eHQwWE45anAyLWtROTBickwtV3Uyd3l1cDREMFpSQnppMmRmYUU0c3Q2aG1lUkNHMGl3MXBlNTBNaXN2a0lWV0JGSF8zMHBPUUlFUl9MWlZaczhyTVJOSlVCZTdTT3dCZkYzNC1KUHQ1amNMRGtQV1RwS0kyQVdJTms?oc=5",
+      "published": "Thu, 27 Aug 2026 11:18:08 GMT",
+      "source": "uasweekly.com"
     },
     {
       "title": "Top Northcom general adds to drumbeat of warnings about weak drone defenses in the homeland - DefenseScoop",
