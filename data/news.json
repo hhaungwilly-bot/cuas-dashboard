@@ -1,17 +1,11 @@
 {
-  "last_updated": "2026-09-05T12:59:03.760376",
+  "last_updated": "2026-09-05T15:56:51.070521",
   "articles": [
     {
       "title": "Ondas wins $6.9M Australian defense contract for counter-drone systems - UAS Magazine",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORld5aEtJVmpMZHQ0cUVPa3QyZ2s0OWZ5QlZzR0lmUTg3WlB0M1pDNFFLeEI3QThoOWFOanBuY1BOVUszUlFUNlZIOE5rcklDcXBnUm1tZWlOR3VEM0JSTm1hbnpZQW5aOUotSWNGZS1oREIxRTdGNndHZ1BhNlNVTk1hVE1BOTBnOU1MZ2kwNkY5X2h6b3UzY1RUTkZpcnV4dzdv?oc=5",
       "published": "Sat, 05 Sep 2026 04:14:19 GMT",
       "source": "UAS Magazine"
-    },
-    {
-      "title": "Ukraine equips Magura MV11 unmanned vessel with vertical-launch Sting interceptors for mobile counter-drone defense over Black Sea - Defence Industry Europe",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPaGN4em9UOWZKb3N5dWsySnlaai1zci1hTE9JV0paSVh1b2N1OXJZY21melU3NEZmeVNYMlpEOTNrcnprZ3dMS290UG5VeWtoeTVQM2EyUGZvbDdVODl6VU1kNXVZcUZYWkt2V3c4SUxFUU9kX2NiMGVnRFl0ckU4UWI0ZFpuSGV3ZnJmbUFBQWpPZGNQbmlSdlc4eDJya0k5WExQTy1SRHlyV000QnpmM3ZJTkU1TWF5dGI5ODBOZXBGck9SX2ZxVXJ1NF82U2ZpQmo0NUoyUWZJNVRKc2hFNnNFRElwR3dqeS04WGJGU2o?oc=5",
-      "published": "Sat, 05 Sep 2026 09:10:29 GMT",
-      "source": "Defence Industry Europe"
     },
     {
       "title": "Nation\u2019s drone defenses bolstered by new center - Virginia Tech News",
@@ -24,6 +18,12 @@
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQLVVoNFpYVnlCQ3VONE9XcU1KY1NjcXZuNm15U0owZF93RkpPeDQ2OTU1TnBxSmxVYmlmY3lwcVJvc2dldnFMdVc1SzlKakQyYmIxa2pXbzlPSXBscEJZZUNPRWg0RkZxcGZTZ3pJSlZ2QnNnZ0ZjdTZUd0RtN2h0cmtYQ3l4Z2FTbnQ4c0hseGJJWnpLSkQweEs5bHJDNkNxdHFEeDVCM3NoRWlFa25XRw?oc=5",
       "published": "Wed, 02 Sep 2026 13:39:12 GMT",
       "source": "Defense Security Monitor"
+    },
+    {
+      "title": "Ukraine equips Magura MV11 unmanned vessel with vertical-launch Sting interceptors for mobile counter-drone defense over Black Sea - defence-industry.eu",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPaGN4em9UOWZKb3N5dWsySnlaai1zci1hTE9JV0paSVh1b2N1OXJZY21melU3NEZmeVNYMlpEOTNrcnprZ3dMS290UG5VeWtoeTVQM2EyUGZvbDdVODl6VU1kNXVZcUZYWkt2V3c4SUxFUU9kX2NiMGVnRFl0ckU4UWI0ZFpuSGV3ZnJmbUFBQWpPZGNQbmlSdlc4eDJya0k5WExQTy1SRHlyV000QnpmM3ZJTkU1TWF5dGI5ODBOZXBGck9SX2ZxVXJ1NF82U2ZpQmo0NUoyUWZJNVRKc2hFNnNFRElwR3dqeS04WGJGU2o?oc=5",
+      "published": "Sat, 05 Sep 2026 09:10:29 GMT",
+      "source": "defence-industry.eu"
     },
     {
       "title": "Protecting Infantry From Close-Range Drone Threats - Unmanned Systems Technology",
@@ -44,10 +44,10 @@
       "source": "MarketsandMarkets"
     },
     {
-      "title": "Terra Drone Signs DEFTECH for Malaysia Defense Hub and Begins C-UAS System for Critical Infrastructure - Dronelife",
+      "title": "Terra Drone Signs DEFTECH for Malaysia Defense Hub and Begins C-UAS System for Critical Infrastructure - dronelife.com",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPdDBwXzNMNDhTV0wybHctdVVMa2RzN1pTNVBhRDhQZG9VaDhRa09DUW8wYVBBdjU3U1lfQ1dYVUdvUkNxX1p4dnhqbWNpdUpxNC1Oa0FoX3k4cGszaEVUMXlYLTNnaHdkMXZKYUluTHJTRFRZc0g3QzBJWDBvNjNNZjhxSXZEaUFwbjB0MElxOTlIZHNGTzM0cFdDZkFTZ2FOdmJlbEpROFNxTV9VdUxJVjZmYWlqUl9GZDZkRmlDQmNxNnlFNzBoR0dnZmRaOGZwT2c?oc=5",
       "published": "Mon, 31 Aug 2026 14:36:32 GMT",
-      "source": "Dronelife"
+      "source": "dronelife.com"
     },
     {
       "title": "Military uses AV directed-energy system to \u2018defeat\u2019 drones at the border - Breaking Defense",
@@ -62,10 +62,10 @@
       "source": "DefenseScoop"
     },
     {
-      "title": "RAF boosts counter-drone defence with Saab\u2019s Giraffe 1X radars - airforce-technology.com",
+      "title": "RAF boosts counter-drone defence with Saab\u2019s Giraffe 1X radars - Airforce Technology",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9hTExhSGQzQzF1UHFLMXFqeHdCVWtaSDlVQjNJMmJuOFo1WUdCbWhlWWpyMDdudTlMN3F5SWs0Z2tyX2F6aHMwUlNNQ0pkSWJhTkY3cmI2aVNJM0hEU2VKVHZaMGZqT1hkMXVYSkNn?oc=5",
       "published": "Wed, 02 Sep 2026 14:18:24 GMT",
-      "source": "airforce-technology.com"
+      "source": "Airforce Technology"
     },
     {
       "title": "Pentagon\u2019s counter-drone group to add defenses to 46 U.S. sites, director says - Aerospace America",
@@ -74,10 +74,10 @@
       "source": "Aerospace America"
     },
     {
-      "title": "JUST IN: Northcom Lacks Sensors to Counter Drone Threat, Official Says - nationaldefensemagazine.org",
+      "title": "JUST IN: Northcom Lacks Sensors to Counter Drone Threat, Official Says - National Defense Magazine",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNeUt2Vk1RUEx0eVI3QVZUcmEyUC04YTRKY3ROcHhPMlBiQVdMYlpDSVIyaElJZHktSDNfZ2FTaEtxeVFxNE9LTGdEclRQVWxOSTRsa0ZZZFBkT1p6dzVYbElGVjM3NzA5THlJeHllZG9UZGktZFJBampUNTh4b0w0VmZrS3RZSkFzZVZBcHNuOFMtaV92Q1pyRC1WOWViZS16M21uM2VnNjBfd01UTlh3OFljTVNBNUExa1dkeG5uTS1JczZPVDV1djh5dEV2ZUNa?oc=5",
       "published": "Thu, 13 Aug 2026 07:00:00 GMT",
-      "source": "nationaldefensemagazine.org"
+      "source": "National Defense Magazine"
     },
     {
       "title": "Pentagon launches online marketplace for counter-UAS technology - Defense News",
@@ -92,10 +92,10 @@
       "source": "Lockheed Martin"
     },
     {
-      "title": "Indra brings AirDef, C-UAS and NEMUS radar to MSPO as Poland seeks advanced defense technology partnerships - Defence Industry Europe",
+      "title": "Indra brings AirDef, C-UAS and NEMUS radar to MSPO as Poland seeks advanced defense technology partnerships - defence-industry.eu",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQa1c0dWFTMkFSeHVhTWc5MWI1dXFVNUEwRld1amhialZ4WkY2ZDh2YWRLcUNKbmdEQzkxVUxHWTlHWUIxa3dncjRBR181d1FrX2dHUURaak5nQ0J4cGJaTnc5enRpY0N6VHUxOERSWTA3M1piOURJclhaaEpNa1Z5Ni1EUWI3VXcwekFoVHRYUC15eGx4UlJuSzFhWjJBa0NOZUZiUW9halZCRTltNlYyS1ZRYnNmNVN4RTJSXzltWnFmaFgyWDdkd1NybFF2NlFW?oc=5",
       "published": "Sat, 05 Sep 2026 07:33:38 GMT",
-      "source": "Defence Industry Europe"
+      "source": "defence-industry.eu"
     },
     {
       "title": "US FY2026 defense budget requested $3.187 billion for Counter-Unmanned Systems, compared with $2.247 billion enacted for FY2025. - MarketsandMarkets",
