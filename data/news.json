@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-10T09:49:07.223603",
+  "last_updated": "2026-09-10T13:53:30.887074",
   "articles": [
     {
       "title": "DOW Hosts 2nd Interagency Summit to Strengthen Counter-Drone Defense - U.S. Department of War (.gov)",
@@ -8,16 +8,16 @@
       "source": "U.S. Department of War (.gov)"
     },
     {
+      "title": "US defence department brings 75 agencies together for counter-UAS summit - Unmanned airspace",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxObDV2NW9mdG5zOXpQajdlSnlVSXRWbTFXTXZBTWhMbElUbmpHcUs3b1ZHSm9aQnhNeGJ5ZHZmNTZTU0hJUnlLQkN6YUFBS3ZWNjV0bFJTaEEtV3dOYmRBSS1MYkg5eDdYb0p3ZmhjQmhNSGlpNUVqeVM5UVA3aV9NSjdobWYtQ25qblpUVDFYSW1wSTI3UTBGTnNSRUszUnZuWWlBTGs3LXRLNmQtR0k5UVR4V1V4c1Z1RFN5UHcwUzZ0MjNsc0JubFRBN3d6cmFiWk4tM2xwUQ?oc=5",
+      "published": "Thu, 10 Sep 2026 11:26:00 GMT",
+      "source": "Unmanned airspace"
+    },
+    {
       "title": "Airbility raises $4.7 million Series A to expand high-speed counter-drone systems - UAS Magazine",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeVJWdFlVM0o0aHVSY1hTTGdrbDZ0bDFzX3A0by0tZ3hFemc4cFBzTEZ0bnpRV3I2VUJYNnotd05zdW5BVVQxT3FtYnVUU183LWFLNzdQYVprYXo2M0VZMlR3YklRMEVmSjRmTnR5NmFRa04zN2pWd1c4NzFHUXVJU3IyZG9OUDJla0FoRk5wUkpXV3pKbXpuTDdoOE1NaldEWXJRR1ppY3NVWXRPbk1IU3Bn?oc=5",
       "published": "Wed, 09 Sep 2026 18:35:10 GMT",
       "source": "UAS Magazine"
-    },
-    {
-      "title": "Nation\u2019s drone defenses bolstered by new center - Virginia Tech News",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMG5mREZZV09kRWhwcXktaHVUVlVZbFNmTVd3eDFCQzhSTThTWDZQRFM0U3MtaHJ2Y01zZXlFMm1jb01kMUZLbFhpYWJzbFptTi0xNmFSV014VHJNdVdyeEhCNVg0ZnNmT1JicXA5OEFWeGJ6VXNHZ2NreF9ZTDdqdFdpalNFR3d1c0FrNzlseVQtd0U?oc=5",
-      "published": "Fri, 28 Aug 2026 07:00:00 GMT",
-      "source": "Virginia Tech News"
     },
     {
       "title": "C-UAS Market: Latest Investments, Technology Trends & Future Opportunities - MarketsandMarkets",
@@ -32,6 +32,12 @@
       "source": "Dronelife"
     },
     {
+      "title": "Nation\u2019s drone defenses bolstered by new center - Virginia Tech News",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMG5mREZZV09kRWhwcXktaHVUVlVZbFNmTVd3eDFCQzhSTThTWDZQRFM0U3MtaHJ2Y01zZXlFMm1jb01kMUZLbFhpYWJzbFptTi0xNmFSV014VHJNdVdyeEhCNVg0ZnNmT1JicXA5OEFWeGJ6VXNHZ2NreF9ZTDdqdFdpalNFR3d1c0FrNzlseVQtd0U?oc=5",
+      "published": "Fri, 28 Aug 2026 07:00:00 GMT",
+      "source": "Virginia Tech News"
+    },
+    {
       "title": "Joint Interagency Task Force 401 Publishes Counter-UAS Reference Guide - U.S. Department of War (.gov)",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNa08yd2lRdjhkN3FxcFlHeUJNVnhfUU9Odk5GZlBsaUhCcUtmMW43NG9zdElMS0h2OWhCbkJQWFU0RUtOQ25QUHh6dTZnRmtjeVNiUUlMcmVYUjFScjNoSl9hbzBrQWVrV3JZeWpGWHNtYk11cmFmemlPTWI3T2pMWHhEUUxrQlAzRlBzTVlPcklhci1PN002R3EzZk5RYVZpbDlPQ3RRR2xSMlJWejVYVVRUT1pLSHpQTEtVTDdTdThmZEwtNjFyNTk1amd5Zw?oc=5",
       "published": "Tue, 08 Sep 2026 23:33:04 GMT",
@@ -44,12 +50,6 @@
       "source": "The Defense Watch"
     },
     {
-      "title": "Armored vehicles may get nets to stop attack drones - Stock Titan",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNb1BYc3NVbDI0akh5bGFDSGRSMEg4dU5CWWVUbUhyaVFPRHlsNGd2clR6Vmx3S1dESlhYdUNDd1luVGZBdjg4Z3NmUzRXYktRU0tIa0p6QTZFNmxuMDRKTmdZU1ZYbG9ONW9pSTM2LWFCRHF4OUtNWWR5V2lxQWsxcWs2dmFxa0RFSGVRSVlLWkEzcThOeVRiejd5ZlZCcmdfZGdBU3paUjRUel9iSjAxY0dwNlJ3WkhqRUw0?oc=5",
-      "published": "Wed, 09 Sep 2026 12:10:00 GMT",
-      "source": "Stock Titan"
-    },
-    {
       "title": "Airbility Debuts Integrated Counter-UAS Interceptor Lineup in Europe at MSPO 2026 - sUAS News",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZ2RwczJ0RTZHY3BRSTdPNEN0UTZMWkZQZDdoeE9qZHRTcm9JZF9oX1V6cXVhVzM3OC0wdkVVMUJZeUVsaTAxc1RKbTFLRVZjaDRjcUpmdmpNNHhib2Y5M2VtNHdiZUM5UlNKdTg4MnZER3ViQ2JjZHI5Ukg3dWlVUV92b1RINy1DbTB5OHFnUXNzT0laNWZJdjNVT2lxbXYtd1R6YzJLWjZ0Y21mMFNWUVV2ajRKdw?oc=5",
       "published": "Mon, 07 Sep 2026 20:01:51 GMT",
@@ -60,6 +60,12 @@
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWGlzY1RXVmpRR0UwTG1KNFQ4Tjh3eDVCY2FodEVSTm1JZGZYWFhIRGhHQ2tyUVE2MjByV3NCRGZEblM0ZWlwaGpmbVI0ZHFqeDBvQVpObFk1UktUOFB1bWd3YkxBVjJvZFhrWUpaZ25LUmtST2RDdl9HS3lMamxoelF5cllwT09ZbHgxenh4TklqQ280R3Y0?oc=5",
       "published": "Mon, 07 Sep 2026 10:14:06 GMT",
       "source": "Aero-News.net"
+    },
+    {
+      "title": "Armored vehicles may get nets to stop attack drones - Stock Titan",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNb1BYc3NVbDI0akh5bGFDSGRSMEg4dU5CWWVUbUhyaVFPRHlsNGd2clR6Vmx3S1dESlhYdUNDd1luVGZBdjg4Z3NmUzRXYktRU0tIa0p6QTZFNmxuMDRKTmdZU1ZYbG9ONW9pSTM2LWFCRHF4OUtNWWR5V2lxQWsxcWs2dmFxa0RFSGVRSVlLWkEzcThOeVRiejd5ZlZCcmdfZGdBU3paUjRUel9iSjAxY0dwNlJ3WkhqRUw0?oc=5",
+      "published": "Wed, 09 Sep 2026 12:10:00 GMT",
+      "source": "Stock Titan"
     },
     {
       "title": "Protecting Infantry From Close-Range Drone Threats - Unmanned Systems Technology",
@@ -80,28 +86,28 @@
       "source": "DefenseScoop"
     },
     {
-      "title": "Top Anti-Drone Stocks 2026: Counter-UAS Goes Mainstream - Exoswan Insights",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE41ekw3THo5UVFzUDJoUHpHT1prTXZJNzVRMkM0SGo4cUxYTGN5a1ZwN215bTQzenVNMWVrN1NDT3dzLW0tZ1JDWGd1ZVd6UQ?oc=5",
-      "published": "Fri, 04 Sep 2026 19:18:35 GMT",
-      "source": "Exoswan Insights"
+      "title": "What V2X (VVX)'s Marine Corps Drone Defense Contract Means For Shareholders - simplywall.st",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNREoyRW9odGNBeVNIWDdLMkh6TXV4VUN2Yno0cjJrQTV2QzJOWUxfeHpYOUJUR0FhRTZxZHFSN0V6RXZranBkOURsYlhHR0l0a3BneW5jMF9GRVoyVHhKRjBLbE1FRkNXOFpiYVBIT2tqVVpKckE0T3lSSGFHZUs1TEppSnNVN2NaVHdoYkxWdFZnMkpWYzMtNjYwUzVpcTVIS0pJWGh5ZDBmcFVUOUl3YkF2Y1lRa3QwandIdHpsWU8tMDZOdUHSAcYBQVVfeXFMTURKMkVvaHRjQXlTSFg3SzJIek11eFVDdmJ6NHIya0E1dkMyTllMX3h6WDlCVEdBYUU2cWRxUjdFekV2a2pwZDlEbGJYR0dJdGtwZ3luYzBfRkVaMlR4SkYwS2xNRUZDVzhaYmFQSE9ralVaSnJBNE95UkhhR2VLNUxKaUpzVTdjWlR3aGJMVnRWZzJKVmMzLTY2MFM1aXE1SEtKSVhoeWQwZnBVVDlJd2JBdmNZUWt0MGp3SHR6bFlPLTA2TnVB?oc=5",
+      "published": "Tue, 08 Sep 2026 18:51:55 GMT",
+      "source": "simplywall.st"
     },
     {
-      "title": "Military uses AV directed-energy system to \u2018defeat\u2019 drones at the border - Breaking Defense",
+      "title": "Military uses AV directed-energy system to \u2018defeat\u2019 drones at the border - breakingdefense.com",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdjMyUTdWS2RpQmEyNVFfTWJfcWFTSVFMVWRQbVpDOTVZMzlHTGJ2aEpESmtHLTRNMHFXUmZIVlBuZ09ONVhoRTBkcFhEQ2NIaGZIWlV5N0Q2SHJzZWdBejRzV3g5NE94ZGNhX1c2dGNiZ3llcXJKMjgxRGVhWEtMZGdRcFAtNTBYcGJsNFREY25UVmlMaURCQWtRZEJOUzcwQ3pWXzAwVE90cm8?oc=5",
       "published": "Fri, 28 Aug 2026 07:00:00 GMT",
-      "source": "Breaking Defense"
+      "source": "breakingdefense.com"
+    },
+    {
+      "title": "Top Anti-Drone Stocks 2026: Counter-UAS Goes Mainstream - exoswan.com",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE41ekw3THo5UVFzUDJoUHpHT1prTXZJNzVRMkM0SGo4cUxYTGN5a1ZwN215bTQzenVNMWVrN1NDT3dzLW0tZ1JDWGd1ZVd6UQ?oc=5",
+      "published": "Fri, 04 Sep 2026 19:18:35 GMT",
+      "source": "exoswan.com"
     },
     {
       "title": "DHS begins $1.5B spending spree on drone defense - FedScoop",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5PQzVfakozTmxSay11NkVLYk9BWklmOF9qd1pYcTNCVWZ2cmhVaktqc2JtQnJpbms1Yko1THhFRnkyOWN4c2VTVjJuTUgySEV3QTZLOFBnRERaYkxBVkpVZldma2xPVWFUTG5EVEFR?oc=5",
       "published": "Tue, 04 Aug 2026 07:00:00 GMT",
       "source": "FedScoop"
-    },
-    {
-      "title": "Ukraine equips Magura MV11 unmanned vessel with vertical-launch Sting interceptors for mobile counter-drone defense over Black Sea - Defence Industry Europe",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPaGN4em9UOWZKb3N5dWsySnlaai1zci1hTE9JV0paSVh1b2N1OXJZY21melU3NEZmeVNYMlpEOTNrcnprZ3dMS290UG5VeWtoeTVQM2EyUGZvbDdVODl6VU1kNXVZcUZYWkt2V3c4SUxFUU9kX2NiMGVnRFl0ckU4UWI0ZFpuSGV3ZnJmbUFBQWpPZGNQbmlSdlc4eDJya0k5WExQTy1SRHlyV000QnpmM3ZJTkU1TWF5dGI5ODBOZXBGck9SX2ZxVXJ1NF82U2ZpQmo0NUoyUWZJNVRKc2hFNnNFRElwR3dqeS04WGJGU2o?oc=5",
-      "published": "Sat, 05 Sep 2026 09:10:29 GMT",
-      "source": "Defence Industry Europe"
     },
     {
       "title": "Axon Vision to Supply Advanced Counter-UAS Systems to Israeli Defense Organization Under Order Valued at Up to NIS 15 Million - sUAS News",
@@ -113,12 +119,6 @@
       "title": "Why Counter-UAS Is Becoming a Core Defense Investment Priority in 2026 - MarketsandMarkets",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVVVsMEppU1hRUGN0MExrRUNnT21OVmFRcENSOHpucFZnbWRXSTlSaHNKMDd5ek1ISkdGZDJHNTlkVGx6ZVdpRGRPQmtqWXZfdWJUZDQwdUdzU0dVQXJCWWJZR3JkR2pzSU90a3FpeUNnM3ZjYm9QZmZpMl9jMFdsNTh1NkRBUFpyVW9wY04wQTZtS1g0VWwxUHRGUGNSWGVjeHFoQg?oc=5",
       "published": "Tue, 01 Sep 2026 19:20:10 GMT",
-      "source": "MarketsandMarkets"
-    },
-    {
-      "title": "US FY2026 defense budget requested $3.187 billion for Counter-Unmanned Systems, compared with $2.247 billion enacted for FY2025. - MarketsandMarkets",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPT19GSVRQTnEzRGlGQy11bnpVUTh0eXVWNmc3SGNPYnNZTzRKRkw2MDdkZVRsLS1yY3BDU0hqeE4tLUdjX042OHh3WjZDbzNqVmZyRVhzSDVxaThuQ3l2czFoWWRNWElYODNxdnpGWkg3aExMV1BsSlFkVGlJMFV0OWI1LUtud0N1WjJhbjhzbkIxeGtMajdLWWIyTkpNMjBrT1gwRnd3blJ4VGM?oc=5",
-      "published": "Thu, 03 Sep 2026 12:13:26 GMT",
       "source": "MarketsandMarkets"
     }
   ]
