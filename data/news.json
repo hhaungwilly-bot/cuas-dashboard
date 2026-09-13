@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-13T04:39:29.352188",
+  "last_updated": "2026-09-13T09:45:02.538577",
   "articles": [
     {
       "title": "DOW Hosts 2nd Interagency Summit to Strengthen Counter-Drone Defense - U.S. Department of War (.gov)",
@@ -14,10 +14,10 @@
       "source": "Virginia Tech News"
     },
     {
-      "title": "Powerus Signs $22.3M Counter-UAS Deal With Private Middle East Oil Firm - Dronelife",
+      "title": "Powerus Signs $22.3M Counter-UAS Deal With Private Middle East Oil Firm - dronelife.com",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1jQXluQUppUmJpUER5QkFmcG9YTDlfSnJjQU54R09FQlpNN3dTU3JTLVNkc0VGeEdYdGx1alZzQUQzN2lmaENuSnZmcFRnTGJwSnlKVDNYMlhjLVhtN3VMSnRwNEpZdnNxTDJZUEFnYUVOUEo2RkY2eVRQOHh1UQ?oc=5",
       "published": "Tue, 08 Sep 2026 15:41:37 GMT",
-      "source": "Dronelife"
+      "source": "dronelife.com"
     },
     {
       "title": "US Navy Selects L3Harris VAMPIRE for Littoral Counter-Drone Defense - navalnews.com",
@@ -74,12 +74,6 @@
       "source": "Breaking Defense"
     },
     {
-      "title": "Protecting Infantry From Close-Range Drone Threats - unmannedsystemstechnology.com",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcmhrSzRXOWFvbzh6R3Y2ZHR0OXJtWllUMmFaZ3c3RzN4cDJuRXh6c1VSRE5ONUN4VWhDbVNpWkJSYlQyR0V0RzBodjJXbTFYV21yVF9iZlVnNkM0RXFwbVJQSTdwOW9wcXI0ZHBLVFJKeUh1YlBGTFVjTlFZdEh2cWZOZEtxSWxiWlgtQzVzdjhSMGc2TVZXbHNqUVIxSXpkTGZB?oc=5",
-      "published": "Fri, 04 Sep 2026 05:36:17 GMT",
-      "source": "unmannedsystemstechnology.com"
-    },
-    {
       "title": "Why Counter-UAS Is Becoming a Core Defense Investment Priority in 2026 - MarketsandMarkets",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVVVsMEppU1hRUGN0MExrRUNnT21OVmFRcENSOHpucFZnbWRXSTlSaHNKMDd5ek1ISkdGZDJHNTlkVGx6ZVdpRGRPQmtqWXZfdWJUZDQwdUdzU0dVQXJCWWJZR3JkR2pzSU90a3FpeUNnM3ZjYm9QZmZpMl9jMFdsNTh1NkRBUFpyVW9wY04wQTZtS1g0VWwxUHRGUGNSWGVjeHFoQg?oc=5",
       "published": "Tue, 01 Sep 2026 19:20:10 GMT",
@@ -98,22 +92,28 @@
       "source": "uasweekly.com"
     },
     {
-      "title": "ParaZero wins first US government order for DefendAir counter-drone system - The Jerusalem Post",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9YQnEwdVVoMjJOTDBCaEJlUUNTUkNnN3hWVFEwUHRrdDlqNkFUTWtVQ0dYSVdscDhvUVhjME12dUlORHlwLTlrWjNPZHVOVU50ZUZHbUZHR1J4Y1VDUE95VkprSQ?oc=5",
-      "published": "Wed, 26 Aug 2026 07:00:00 GMT",
-      "source": "The Jerusalem Post"
-    },
-    {
       "title": "VANEA Defence unveils non-kinetic optical effector to counter civil drone threats - Unmanned airspace",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNay1kMFZHTnM1ejAxVGV1ekJvQjBzY1lpSFF5eWZqekItY0FzQm1IbTFMVkdMM0FOcGpNQ0lfWFpaUHI2N2hUbFNDUTVFcVdNSEtUZ1o1Y3pkRzU4bkZrTzJsUkpLMlJKakpFcm5KRHQ3a2dhSjJtY19adUl6b2RsV29hYmF0aW1FX1Q1b2pPclN6SDF3VjFyOGFoZVdiTnJGVl9OOWYyN25Nbk1RdHR0TVBzN1B5WEM0RVJsOTVpWkNJMnVmbm9Ra0w4eXBZX2lXa0FhdDBFX0FMRVRMVEdsZXFaOA?oc=5",
       "published": "Fri, 28 Aug 2026 13:22:49 GMT",
       "source": "Unmanned airspace"
     },
     {
-      "title": "Small Drones, Big Problems: Inside JIATF 401\u2019s New First-Principles Handbook for Countering Drones - insideunmannedsystems.com",
+      "title": "Small Drones, Big Problems: Inside JIATF 401\u2019s New First-Principles Handbook for Countering Drones - Inside Unmanned Systems",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQN2lNY0RYNmJqSFZsRHdaclZuMENaQTJhN1ZlWFlWZXlXTF9sRWdSMzZQQ3VldWFacTVnXzhycTJYYzhIVWJpZ0REd1Vic1psaUQtdl9XQTlyMFViZm44YTdjSGgyY2dpSWxtM083QW9IRnhaNnJKTFpzU05FTm5jX05kd2RXWnJYTmpnTFE0LUN4WmlMT183YWpLWjNWUU43b1VXb3RUWTZRRF9TLXA5cTJPRk9qNU1jUHlaYXpTYVlFN2hPb3Y0UXF3?oc=5",
       "published": "Fri, 28 Aug 2026 07:00:00 GMT",
-      "source": "insideunmannedsystems.com"
+      "source": "Inside Unmanned Systems"
+    },
+    {
+      "title": "ParaZero wins first US government order for DefendAir counter-drone system - The Jerusalem Post",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9YQnEwdVVoMjJOTDBCaEJlUUNTUkNnN3hWVFEwUHRrdDlqNkFUTWtVQ0dYSVdscDhvUVhjME12dUlORHlwLTlrWjNPZHVOVU50ZUZHbUZHR1J4Y1VDUE95VkprSQ?oc=5",
+      "published": "Wed, 26 Aug 2026 07:00:00 GMT",
+      "source": "The Jerusalem Post"
+    },
+    {
+      "title": "RAF boosts counter-drone defence with Saab\u2019s Giraffe 1X radars - Airforce Technology",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9hTExhSGQzQzF1UHFLMXFqeHdCVWtaSDlVQjNJMmJuOFo1WUdCbWhlWWpyMDdudTlMN3F5SWs0Z2tyX2F6aHMwUlNNQ0pkSWJhTkY3cmI2aVNJM0hEU2VKVHZaMGZqT1hkMXVYSkNn?oc=5",
+      "published": "Wed, 02 Sep 2026 14:18:24 GMT",
+      "source": "Airforce Technology"
     },
     {
       "title": "Pentagon counter-drone task force preps \u2018shoot-off\u2019 for directed energy prototypes - Breaking Defense",
