@@ -1,11 +1,17 @@
 {
-  "last_updated": "2026-09-14T01:36:01.871484",
+  "last_updated": "2026-09-14T07:03:57.059220",
   "articles": [
     {
-      "title": "DOW Hosts 2nd Interagency Summit to Strengthen Counter-Drone Defense - U.S. Department of War (.gov)",
+      "title": "Tier-1 Defense Partnership to Advance Armored Vehicle Counter-UAS Integration - Unmanned Systems Technology",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNDdMcF9hUThEMUdRdldDeTdiWmhFbkF3V2VzVFhITlFSWWRMQjJUSjdnOUFpTERfWHI5d2l4WngtSi1yUmVIWUc2cUx3eXB4MDJ5VF9nTU9WMGJnVEJrM2ZrVEFTRld0YzNSNXM2a0o5WnR5ZDkzUzkzU3prVTBGdC1zbGJicjMzZEtfYjhUeUhHc1U4WDAxcjN2cS16MHZIWlA4bk9jcllMcjRGNjZIdzllUkt6UXNUQjVfZ1hKTG5aVm1wNEpr?oc=5",
+      "published": "Mon, 14 Sep 2026 05:49:37 GMT",
+      "source": "Unmanned Systems Technology"
+    },
+    {
+      "title": "DOW Hosts 2nd Interagency Summit to Strengthen Counter-Drone Defense - war.gov",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUUJaOVV5NUpuWWRHWW1LN3g0SDJYeGlyclRTcUF0ek9pRW43OW4zdjBjVWJBV08yakRwNFFWREZQa3IxV0dBN1pyeGdldUFZMUxoWTd5Q2N6QTBBWEhUcVA3cXQ4TnQzZ0haQ21VT0ZqRWVXaDJCY0otSmctT2FEdzBQVXFUcXUxYmE2YWpqMjFXZFRRMjVLUjByd3lYVW95OWduWTFQWEhTN1ptcUFpSzRkbkVVOVQ0a05Za2wyUHRVNEgzR242QWtsQQ?oc=5",
       "published": "Thu, 10 Sep 2026 08:00:52 GMT",
-      "source": "U.S. Department of War (.gov)"
+      "source": "war.gov"
     },
     {
       "title": "Nation\u2019s drone defenses bolstered by new center - Virginia Tech News",
@@ -26,22 +32,16 @@
       "source": "Dronelife"
     },
     {
-      "title": "Joint Interagency Task Force 401 Publishes Counter-UAS Reference Guide - U.S. Department of War (.gov)",
+      "title": "Joint Interagency Task Force 401 Publishes Counter-UAS Reference Guide - war.gov",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNa08yd2lRdjhkN3FxcFlHeUJNVnhfUU9Odk5GZlBsaUhCcUtmMW43NG9zdElMS0h2OWhCbkJQWFU0RUtOQ25QUHh6dTZnRmtjeVNiUUlMcmVYUjFScjNoSl9hbzBrQWVrV3JZeWpGWHNtYk11cmFmemlPTWI3T2pMWHhEUUxrQlAzRlBzTVlPcklhci1PN002R3EzZk5RYVZpbDlPQ3RRR2xSMlJWejVYVVRUT1pLSHpQTEtVTDdTdThmZEwtNjFyNTk1amd5Zw?oc=5",
       "published": "Tue, 08 Sep 2026 23:33:04 GMT",
-      "source": "U.S. Department of War (.gov)"
+      "source": "war.gov"
     },
     {
-      "title": "JIATF 401 Unveils Counter-UAS Reference Guide To Standardize Drone Defense Across U.S. Forces - The Defense Watch",
+      "title": "JIATF 401 Unveils Counter-UAS Reference Guide To Standardize Drone Defense Across U.S. Forces - thedefensewatch.com",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeTFVTlN2eUpyTFY3ejZ0QVBNYUZiSmpLMW14QURXdTVNRGdiSW5iWkZSd0V6VU5rUWx3VGpmVkgxUVlPMjZaM1VoOHl6cjFBVnktbjhVM3NyTFg3RW04OTFnLTNZOTRrUUFyWFlla1htVEJsVWFwYUJ5M0xzWDd0OGZFUTlxUnc4dDVtYlRB?oc=5",
       "published": "Wed, 09 Sep 2026 04:52:30 GMT",
-      "source": "The Defense Watch"
-    },
-    {
-      "title": "US Marines order 10 Tempest counter-drone vehicles from V2X - interestingengineering.com",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZzdoWHdJdk8wWGd1Z2g5MTZEeGJ5M0RJbEEzekNrSm1VZW1iejZSdktKRnZ6cU1jTnphU09tejdJUmw3YTVJUDAyVDl6bVN5OXllLVlLVzRDd1VjUUxxS3lmcHV4U0RhX3dKYVcxYUphdzZ6N0txd2R5U0lveXl3em9sczRhZ0YwRUgtS25R?oc=5",
-      "published": "Tue, 08 Sep 2026 16:04:00 GMT",
-      "source": "interestingengineering.com"
+      "source": "thedefensewatch.com"
     },
     {
       "title": "Choosing All-of-the Above: New Trends in Layered C-UAS Defense - Defense Security Monitor",
@@ -50,16 +50,22 @@
       "source": "Defense Security Monitor"
     },
     {
+      "title": "US Marines order 10 Tempest counter-drone vehicles from V2X - Interesting Engineering",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZzdoWHdJdk8wWGd1Z2g5MTZEeGJ5M0RJbEEzekNrSm1VZW1iejZSdktKRnZ6cU1jTnphU09tejdJUmw3YTVJUDAyVDl6bVN5OXllLVlLVzRDd1VjUUxxS3lmcHV4U0RhX3dKYVcxYUphdzZ6N0txd2R5U0lveXl3em9sczRhZ0YwRUgtS25R?oc=5",
+      "published": "Tue, 08 Sep 2026 16:04:00 GMT",
+      "source": "Interesting Engineering"
+    },
+    {
       "title": "One year in, America\u2019s counter-drone task force still has \u2018a ton of work to do\u2019 - DefenseScoop",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORThPZklYSTRJS2hZZkF6UXNsRnhOMV9EVWIyLW1vQ29tTEhSVzBKX2ZScHVqbWxlVzRWR3Rhdmh2WkExaEVBTEN3Y0hKaXZhSDFTZjRTbHdicnNvYV9XbURwRGJvODEzMWEzWTFHMUFnemNienFLRHktYWVfRTlRU01PTjVFZmRMdUNuMDFNWl9GbzNob0JPU2M5eFpwS09kcUpLTjdTUEhFMmhURjFUeXpB?oc=5",
       "published": "Mon, 24 Aug 2026 07:00:00 GMT",
       "source": "DefenseScoop"
     },
     {
-      "title": "ParaZero Signs an MOU with a Tier-1 European Defense Company to Integrate Autonomous Counter-UAS System across its Armored Vehicle Arsenal - ASDNews",
+      "title": "ParaZero Signs an MOU with a Tier-1 European Defense Company to Integrate Autonomous Counter-UAS System across its Armored Vehicle Arsenal - asdnews.com",
       "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOZ19QeDgxYWstRDdwbTJPUGRpcmNNRjEyU3oySmZYeEgyOEdFLUt4bFZvdkJUXzRFSlMwXy1GTFFWUmE1RTIxWERUbVMtWElvRDByd2llYmNYb1ZSUko2RXEwZzBNOWxCdmo1OGl3WlJONzU1ekNoeEdma3VCQTh4X01kN01ZZ2NlaUMwSUhfUk5MVElfS1lHMVFkNG9la0dCMGhSeC1qUjNnS3R6Y1MxbDF0QVM0eXBrQU12MDZxX2VtZkhPaEpBWTJTcTM1MnBsQlRZUkU1RlczUDNfUVFEVUlIbVdrVXVYcWRwWmdCbEN6V2NMLWpjN2JmcEg3YjU1YU9rV25nNA?oc=5",
       "published": "Tue, 08 Sep 2026 22:00:00 GMT",
-      "source": "ASDNews"
+      "source": "asdnews.com"
     },
     {
       "title": "Military uses AV directed-energy system to \u2018defeat\u2019 drones at the border - Breaking Defense",
@@ -98,22 +104,16 @@
       "source": "Unmanned airspace"
     },
     {
-      "title": "Small Drones, Big Problems: Inside JIATF 401\u2019s New First-Principles Handbook for Countering Drones - insideunmannedsystems.com",
+      "title": "Small Drones, Big Problems: Inside JIATF 401\u2019s New First-Principles Handbook for Countering Drones - Inside Unmanned Systems",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQN2lNY0RYNmJqSFZsRHdaclZuMENaQTJhN1ZlWFlWZXlXTF9sRWdSMzZQQ3VldWFacTVnXzhycTJYYzhIVWJpZ0REd1Vic1psaUQtdl9XQTlyMFViZm44YTdjSGgyY2dpSWxtM083QW9IRnhaNnJKTFpzU05FTm5jX05kd2RXWnJYTmpnTFE0LUN4WmlMT183YWpLWjNWUU43b1VXb3RUWTZRRF9TLXA5cTJPRk9qNU1jUHlaYXpTYVlFN2hPb3Y0UXF3?oc=5",
       "published": "Fri, 28 Aug 2026 07:00:00 GMT",
-      "source": "insideunmannedsystems.com"
+      "source": "Inside Unmanned Systems"
     },
     {
-      "title": "ParaZero wins first US government order for DefendAir counter-drone system - jpost.com",
+      "title": "ParaZero wins first US government order for DefendAir counter-drone system - The Jerusalem Post",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9YQnEwdVVoMjJOTDBCaEJlUUNTUkNnN3hWVFEwUHRrdDlqNkFUTWtVQ0dYSVdscDhvUVhjME12dUlORHlwLTlrWjNPZHVOVU50ZUZHbUZHR1J4Y1VDUE95VkprSQ?oc=5",
       "published": "Wed, 26 Aug 2026 07:00:00 GMT",
-      "source": "jpost.com"
-    },
-    {
-      "title": "RAF boosts counter-drone defence with Saab\u2019s Giraffe 1X radars - Airforce Technology",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9hTExhSGQzQzF1UHFLMXFqeHdCVWtaSDlVQjNJMmJuOFo1WUdCbWhlWWpyMDdudTlMN3F5SWs0Z2tyX2F6aHMwUlNNQ0pkSWJhTkY3cmI2aVNJM0hEU2VKVHZaMGZqT1hkMXVYSkNn?oc=5",
-      "published": "Wed, 02 Sep 2026 14:18:24 GMT",
-      "source": "Airforce Technology"
+      "source": "The Jerusalem Post"
     },
     {
       "title": "Pentagon counter-drone task force preps \u2018shoot-off\u2019 for directed energy prototypes - Breaking Defense",
