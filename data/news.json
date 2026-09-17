@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-16T23:45:38.806178",
+  "last_updated": "2026-09-17T01:46:46.864652",
   "articles": [
     {
       "title": "One of the world\u2019s most versatile attack planes is taking on the counter-UAS mission - Breaking Defense",
@@ -14,12 +14,6 @@
       "source": "uasweekly.com"
     },
     {
-      "title": "AEye to Work with Swiftstrike AI to Integrate STRATOS\u2122 Lidar to Extend Counter-UAS Detection Against Smaller, Faster Drone Threats - Business Wire",
-      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQdWVUVUZnZUFQZzJDMXFXbGh5aGQwMnpEd2hTbWk5ZGhCdWdCbUZpWExQYnNCUENYb3hNVmxodVZfVnFfLTVJaDM5dlNFTXJodnZOcW1FMGV6Tnd3SHNtZzM1LTFuakhTUk9lU2ZWS3hKS0g5S01hQ3JrRUpEdUkzN2Rldk9qUXd6T252Zm5SZFBDRldrd1llYmlOT0RkUjZYWGhJU2hpRGFXVVhRY0VXNmJDYzRRR3hISTdYeE9BaDZJQkoxMWthTi16ZXRON3RmQ2tnbDdYbG8wODVUZGlUVkpOTTM1NHRwWnZqVXpvSEU1UHQ1cTFjUzVETTR0dEVHN0tBY1ZlWkpmWUtsREhtRnNWYw?oc=5",
-      "published": "Wed, 16 Sep 2026 11:00:00 GMT",
-      "source": "Business Wire"
-    },
-    {
       "title": "Arbe Expands into Defense and Homeland Security with the Alerion C-UAS Radar for Hard-to-Detect Drone Threats - PR Newswire",
       "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNcTY4WlpuVmlBWk8tcEU1S2NvaXRIU3hBUlp2cVppQlJZWTZfaVY1VmZRWVdMRUFOMmd3MXZDcDBWSHdqRk4yTzlqT1ZKTDYwLWJ6ZmZLem8xMGNadXhITTVUVFJfX3FCOGV4Ri14ZWlhQnZsd3R2M3dWLVNIcEt0bGJWUmltSXdkYVV6Qjk0THR6cFRKXzB2b0EwT09pOXplcHhpeWZDYlJYbl9tajJnaGlJWGYyS25FOFowcUxpS253Vlp1cTJDYW5RSjBrbWdRY05tVTFaQ0doWFVlQkp6TGtGOUt2NkNacnJLOEpHS2hMZjRyXzRiQg?oc=5",
       "published": "Mon, 14 Sep 2026 12:00:00 GMT",
@@ -30,6 +24,12 @@
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUUJaOVV5NUpuWWRHWW1LN3g0SDJYeGlyclRTcUF0ek9pRW43OW4zdjBjVWJBV08yakRwNFFWREZQa3IxV0dBN1pyeGdldUFZMUxoWTd5Q2N6QTBBWEhUcVA3cXQ4TnQzZ0haQ21VT0ZqRWVXaDJCY0otSmctT2FEdzBQVXFUcXUxYmE2YWpqMjFXZFRRMjVLUjByd3lYVW95OWduWTFQWEhTN1ptcUFpSzRkbkVVOVQ0a05Za2wyUHRVNEgzR242QWtsQQ?oc=5",
       "published": "Thu, 10 Sep 2026 08:00:52 GMT",
       "source": "U.S. Department of War (.gov)"
+    },
+    {
+      "title": "AEye to Work with Swiftstrike AI to Integrate STRATOS\u2122 Lidar to Extend Counter-UAS Detection Against Smaller, Faster Drone Threats - Business Wire",
+      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQdWVUVUZnZUFQZzJDMXFXbGh5aGQwMnpEd2hTbWk5ZGhCdWdCbUZpWExQYnNCUENYb3hNVmxodVZfVnFfLTVJaDM5dlNFTXJodnZOcW1FMGV6Tnd3SHNtZzM1LTFuakhTUk9lU2ZWS3hKS0g5S01hQ3JrRUpEdUkzN2Rldk9qUXd6T252Zm5SZFBDRldrd1llYmlOT0RkUjZYWGhJU2hpRGFXVVhRY0VXNmJDYzRRR3hISTdYeE9BaDZJQkoxMWthTi16ZXRON3RmQ2tnbDdYbG8wODVUZGlUVkpOTTM1NHRwWnZqVXpvSEU1UHQ1cTFjUzVETTR0dEVHN0tBY1ZlWkpmWUtsREhtRnNWYw?oc=5",
+      "published": "Wed, 16 Sep 2026 11:00:00 GMT",
+      "source": "Business Wire"
     },
     {
       "title": "India\u2019s IG Defence Demos Indigenous T-SHUL BEAM Counter-Drone System - Defensemirror.com",
@@ -56,10 +56,10 @@
       "source": "TradingView"
     },
     {
-      "title": "Choosing All-of-the Above: New Trends in Layered C-UAS Defense - dsm.forecastinternational.com",
+      "title": "Choosing All-of-the Above: New Trends in Layered C-UAS Defense - Defense Security Monitor",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQLVVoNFpYVnlCQ3VONE9XcU1KY1NjcXZuNm15U0owZF93RkpPeDQ2OTU1TnBxSmxVYmlmY3lwcVJvc2dldnFMdVc1SzlKakQyYmIxa2pXbzlPSXBscEJZZUNPRWg0RkZxcGZTZ3pJSlZ2QnNnZ0ZjdTZUd0RtN2h0cmtYQ3l4Z2FTbnQ4c0hseGJJWnpLSkQweEs5bHJDNkNxdHFEeDVCM3NoRWlFa25XRw?oc=5",
       "published": "Wed, 02 Sep 2026 07:00:00 GMT",
-      "source": "dsm.forecastinternational.com"
+      "source": "Defense Security Monitor"
     },
     {
       "title": "One year in, America\u2019s counter-drone task force still has \u2018a ton of work to do\u2019 - DefenseScoop",
@@ -68,10 +68,10 @@
       "source": "DefenseScoop"
     },
     {
-      "title": "Powerus Signs $22.3M Counter-UAS Deal With Private Middle East Oil Firm - dronelife.com",
+      "title": "Powerus Signs $22.3M Counter-UAS Deal With Private Middle East Oil Firm - Dronelife",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1jQXluQUppUmJpUER5QkFmcG9YTDlfSnJjQU54R09FQlpNN3dTU3JTLVNkc0VGeEdYdGx1alZzQUQzN2lmaENuSnZmcFRnTGJwSnlKVDNYMlhjLVhtN3VMSnRwNEpZdnNxTDJZUEFnYUVOUEo2RkY2eVRQOHh1UQ?oc=5",
       "published": "Tue, 08 Sep 2026 15:41:37 GMT",
-      "source": "dronelife.com"
+      "source": "Dronelife"
     },
     {
       "title": "AI Defense Stock VisionWave (Nasdaq: VWAV) Files U.S. Patent Application for ARGUS, a Proposed Space-Enabled AI Counter-Drone Architecture - Investorideas.com",
@@ -80,16 +80,16 @@
       "source": "Investorideas.com"
     },
     {
-      "title": "Joint Interagency Task Force 401 Publishes Counter-UAS Reference Guide - U.S. Department of War (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNa08yd2lRdjhkN3FxcFlHeUJNVnhfUU9Odk5GZlBsaUhCcUtmMW43NG9zdElMS0h2OWhCbkJQWFU0RUtOQ25QUHh6dTZnRmtjeVNiUUlMcmVYUjFScjNoSl9hbzBrQWVrV3JZeWpGWHNtYk11cmFmemlPTWI3T2pMWHhEUUxrQlAzRlBzTVlPcklhci1PN002R3EzZk5RYVZpbDlPQ3RRR2xSMlJWejVYVVRUT1pLSHpQTEtVTDdTdThmZEwtNjFyNTk1amd5Zw?oc=5",
-      "published": "Tue, 08 Sep 2026 07:00:00 GMT",
-      "source": "U.S. Department of War (.gov)"
-    },
-    {
       "title": "DHS begins $1.5B spending spree on drone defense - FedScoop",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5PQzVfakozTmxSay11NkVLYk9BWklmOF9qd1pYcTNCVWZ2cmhVaktqc2JtQnJpbms1Yko1THhFRnkyOWN4c2VTVjJuTUgySEV3QTZLOFBnRERaYkxBVkpVZldma2xPVWFUTG5EVEFR?oc=5",
       "published": "Tue, 04 Aug 2026 07:00:00 GMT",
       "source": "FedScoop"
+    },
+    {
+      "title": "Joint Interagency Task Force 401 Publishes Counter-UAS Reference Guide - U.S. Department of War (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNa08yd2lRdjhkN3FxcFlHeUJNVnhfUU9Odk5GZlBsaUhCcUtmMW43NG9zdElMS0h2OWhCbkJQWFU0RUtOQ25QUHh6dTZnRmtjeVNiUUlMcmVYUjFScjNoSl9hbzBrQWVrV3JZeWpGWHNtYk11cmFmemlPTWI3T2pMWHhEUUxrQlAzRlBzTVlPcklhci1PN002R3EzZk5RYVZpbDlPQ3RRR2xSMlJWejVYVVRUT1pLSHpQTEtVTDdTdThmZEwtNjFyNTk1amd5Zw?oc=5",
+      "published": "Tue, 08 Sep 2026 07:00:00 GMT",
+      "source": "U.S. Department of War (.gov)"
     },
     {
       "title": "US Navy Selects L3Harris VAMPIRE for Littoral Counter-Drone Defense - navalnews.com",
