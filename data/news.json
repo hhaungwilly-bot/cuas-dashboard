@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-20T06:13:36.507704",
+  "last_updated": "2026-09-20T11:31:53.809526",
   "articles": [
     {
       "title": "One of the world\u2019s most versatile attack planes is taking on the counter-UAS mission - Breaking Defense",
@@ -20,28 +20,28 @@
       "source": "uasweekly.com"
     },
     {
-      "title": "Arbe Expands into Defense and Homeland Security with the Alerion C-UAS Radar for Hard-to-Detect Drone Threats - PR Newswire",
+      "title": "Arbe Expands into Defense and Homeland Security with the Alerion C-UAS Radar for Hard-to-Detect Drone Threats - prnewswire.com",
       "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNcTY4WlpuVmlBWk8tcEU1S2NvaXRIU3hBUlp2cVppQlJZWTZfaVY1VmZRWVdMRUFOMmd3MXZDcDBWSHdqRk4yTzlqT1ZKTDYwLWJ6ZmZLem8xMGNadXhITTVUVFJfX3FCOGV4Ri14ZWlhQnZsd3R2M3dWLVNIcEt0bGJWUmltSXdkYVV6Qjk0THR6cFRKXzB2b0EwT09pOXplcHhpeWZDYlJYbl9tajJnaGlJWGYyS25FOFowcUxpS253Vlp1cTJDYW5RSjBrbWdRY05tVTFaQ0doWFVlQkp6TGtGOUt2NkNacnJLOEpHS2hMZjRyXzRiQg?oc=5",
       "published": "Mon, 14 Sep 2026 12:00:00 GMT",
-      "source": "PR Newswire"
+      "source": "prnewswire.com"
     },
     {
-      "title": "Embraer working with undisclosed Super Tucano operator to add counter-UAS capability - FlightGlobal",
+      "title": "Embraer working with undisclosed Super Tucano operator to add counter-UAS capability - flightglobal.com",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMXN5MnJQSXlndkNNRFBTZk5yd1Z2VXhGU2x0Y1RlUENHOExMdGstRmxHMDREcFdBZ1NhOFVBVWF5QjhtR1VGV2hhQW5Hc250TFo2Ql80RW5FdldsdHQ5MHE5bk1IMjJpaHVmU2FSTjhGTGVLa0RiMkhRYk5aQzhhS05kSFBqR1ZIVnBfT01jSW5saFBsZ0pPYldLMTZpbUN6blZ0WElrd0pBakpMQlQ1ZERTQUFaMTVWZy02Tk1sRnZMcHhycXp5STBB?oc=5",
       "published": "Thu, 17 Sep 2026 19:20:12 GMT",
-      "source": "FlightGlobal"
+      "source": "flightglobal.com"
+    },
+    {
+      "title": "AI-Driven Counter-UAS Platform Secures NIS 15 Million Order - Unmanned Systems Technology",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRDFLYlRCRktUdFRvZktGcWRHSXdUd1pKT3FOcDZtUHZ6amdwQ043aV9iZ1NzdVJPY0JYd05EQWZjcUlldzg1dnZMVERGVG9GZkNDRFJCa2dCcDU0cDJPSF9QM01tS1owV1ZCUFpKdmhNWUFPb19CMjBfWUllWEFVVmh4dHBWbDNxTEQzOUJHU1hzRHJpb1ZMN3pPN09ZRjNRLU91YTlqZlBjWXVXcG5n?oc=5",
+      "published": "Tue, 15 Sep 2026 05:18:04 GMT",
+      "source": "Unmanned Systems Technology"
     },
     {
       "title": "Nation\u2019s drone defenses bolstered by new center - Virginia Tech News",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMG5mREZZV09kRWhwcXktaHVUVlVZbFNmTVd3eDFCQzhSTThTWDZQRFM0U3MtaHJ2Y01zZXlFMm1jb01kMUZLbFhpYWJzbFptTi0xNmFSV014VHJNdVdyeEhCNVg0ZnNmT1JicXA5OEFWeGJ6VXNHZ2NreF9ZTDdqdFdpalNFR3d1c0FrNzlseVQtd0U?oc=5",
       "published": "Fri, 28 Aug 2026 07:00:00 GMT",
       "source": "Virginia Tech News"
-    },
-    {
-      "title": "Tier-1 Defense Partnership to Advance Armored Vehicle Counter-UAS Integration - Unmanned Systems Technology",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNDdMcF9hUThEMUdRdldDeTdiWmhFbkF3V2VzVFhITlFSWWRMQjJUSjdnOUFpTERfWHI5d2l4WngtSi1yUmVIWUc2cUx3eXB4MDJ5VF9nTU9WMGJnVEJrM2ZrVEFTRld0YzNSNXM2a0o5WnR5ZDkzUzkzU3prVTBGdC1zbGJicjMzZEtfYjhUeUhHc1U4WDAxcjN2cS16MHZIWlA4bk9jcllMcjRGNjZIdzllUkt6UXNUQjVfZ1hKTG5aVm1wNEpr?oc=5",
-      "published": "Mon, 14 Sep 2026 07:15:58 GMT",
-      "source": "Unmanned Systems Technology"
     },
     {
       "title": "India\u2019s IG Defence Demos Indigenous T-SHUL BEAM Counter-Drone System - defensemirror.com",
@@ -68,22 +68,16 @@
       "source": "FedScoop"
     },
     {
-      "title": "Choosing All-of-the Above: New Trends in Layered C-UAS Defense - Defense Security Monitor",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQLVVoNFpYVnlCQ3VONE9XcU1KY1NjcXZuNm15U0owZF93RkpPeDQ2OTU1TnBxSmxVYmlmY3lwcVJvc2dldnFMdVc1SzlKakQyYmIxa2pXbzlPSXBscEJZZUNPRWg0RkZxcGZTZ3pJSlZ2QnNnZ0ZjdTZUd0RtN2h0cmtYQ3l4Z2FTbnQ4c0hseGJJWnpLSkQweEs5bHJDNkNxdHFEeDVCM3NoRWlFa25XRw?oc=5",
-      "published": "Wed, 02 Sep 2026 07:00:00 GMT",
-      "source": "Defense Security Monitor"
-    },
-    {
       "title": "Powerus Signs $22.3M Counter-UAS Deal With Private Middle East Oil Firm - Dronelife",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1jQXluQUppUmJpUER5QkFmcG9YTDlfSnJjQU54R09FQlpNN3dTU3JTLVNkc0VGeEdYdGx1alZzQUQzN2lmaENuSnZmcFRnTGJwSnlKVDNYMlhjLVhtN3VMSnRwNEpZdnNxTDJZUEFnYUVOUEo2RkY2eVRQOHh1UQ?oc=5",
       "published": "Tue, 08 Sep 2026 15:41:37 GMT",
       "source": "Dronelife"
     },
     {
-      "title": "Axon Vision to Supply Advanced Counter-UAS Systems to Israeli Defense Organization Under Order Valued at Up to NIS 15 Million - sUAS News",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQTzgya25TTEJkUlFRVUV0Zy1lZl9GZXBfUWw3d1ZWQkpOU0RLOHN3V0FlMUdtc3ZfTTlNcGJGV2xpcmhzQktJSjlkWTQxT3pIVVM0M1Ria0FwNDZNdkxVZGpZbktsMS1KMkV1NHl3a1NjTTNmTC10YUQ0S3IyUXdIMWtPRDN6Z1NOUlY3STlkMzlDOVk3ZGJscTRrZmlreXlTTTRUT3RxRUFpOFV0ZlppUGVXa0Y1UnB5TTRFTkpEcGQ2MWUwZzdzR3IyLVQtUXZPM09jcUxfZ01kRWdyVDkwdkh5TXdXcG9kWnl5UDBLSzM?oc=5",
-      "published": "Mon, 07 Sep 2026 19:57:11 GMT",
-      "source": "sUAS News"
+      "title": "Choosing All-of-the Above: New Trends in Layered C-UAS Defense - Defense Security Monitor",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQLVVoNFpYVnlCQ3VONE9XcU1KY1NjcXZuNm15U0owZF93RkpPeDQ2OTU1TnBxSmxVYmlmY3lwcVJvc2dldnFMdVc1SzlKakQyYmIxa2pXbzlPSXBscEJZZUNPRWg0RkZxcGZTZ3pJSlZ2QnNnZ0ZjdTZUd0RtN2h0cmtYQ3l4Z2FTbnQ4c0hseGJJWnpLSkQweEs5bHJDNkNxdHFEeDVCM3NoRWlFa25XRw?oc=5",
+      "published": "Wed, 02 Sep 2026 07:00:00 GMT",
+      "source": "Defense Security Monitor"
     },
     {
       "title": "JIATF 401 Unveils Counter-UAS Reference Guide To Standardize Drone Defense Across U.S. Forces - The Defense Watch",
@@ -96,6 +90,12 @@
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQy1sSlFwaXl6Q2NXYmR1LTV1d0UwZVNMcC0tVVNzY2xEZVlBcC1oeGt5Yk0tTmNfWXNWRDNnY0c3RlFJejBzOHp1M1NvR1Y4NER5SWt0RnZsMF9GTjl1ekk0dDJKM2g0U3VZNU16UWx2NDJIN3RJbnZsekxaM0JyQ1lnNzFacnhHS0drRk11QUtLQQ?oc=5",
       "published": "Mon, 31 Aug 2026 07:00:00 GMT",
       "source": "Fortune Business Insights"
+    },
+    {
+      "title": "Tier-1 Defense Partnership to Advance Armored Vehicle Counter-UAS Integration - Unmanned Systems Technology",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNDdMcF9hUThEMUdRdldDeTdiWmhFbkF3V2VzVFhITlFSWWRMQjJUSjdnOUFpTERfWHI5d2l4WngtSi1yUmVIWUc2cUx3eXB4MDJ5VF9nTU9WMGJnVEJrM2ZrVEFTRld0YzNSNXM2a0o5WnR5ZDkzUzkzU3prVTBGdC1zbGJicjMzZEtfYjhUeUhHc1U4WDAxcjN2cS16MHZIWlA4bk9jcllMcjRGNjZIdzllUkt6UXNUQjVfZ1hKTG5aVm1wNEpr?oc=5",
+      "published": "Mon, 14 Sep 2026 07:15:58 GMT",
+      "source": "Unmanned Systems Technology"
     },
     {
       "title": "Military uses AV directed-energy system to \u2018defeat\u2019 drones at the border - Breaking Defense",
@@ -116,10 +116,10 @@
       "source": "Aerospace America"
     },
     {
-      "title": "VANEA Defence unveils non-kinetic optical effector to counter civil drone threats - Unmanned airspace",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNay1kMFZHTnM1ejAxVGV1ekJvQjBzY1lpSFF5eWZqekItY0FzQm1IbTFMVkdMM0FOcGpNQ0lfWFpaUHI2N2hUbFNDUTVFcVdNSEtUZ1o1Y3pkRzU4bkZrTzJsUkpLMlJKakpFcm5KRHQ3a2dhSjJtY19adUl6b2RsV29hYmF0aW1FX1Q1b2pPclN6SDF3VjFyOGFoZVdiTnJGVl9OOWYyN25Nbk1RdHR0TVBzN1B5WEM0RVJsOTVpWkNJMnVmbm9Ra0w4eXBZX2lXa0FhdDBFX0FMRVRMVEdsZXFaOA?oc=5",
-      "published": "Fri, 28 Aug 2026 07:00:00 GMT",
-      "source": "Unmanned airspace"
+      "title": "Axon Vision to Supply Advanced Counter-UAS Systems to Israeli Defense Organization Under Order Valued at Up to NIS 15 Million - sUAS News",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQTzgya25TTEJkUlFRVUV0Zy1lZl9GZXBfUWw3d1ZWQkpOU0RLOHN3V0FlMUdtc3ZfTTlNcGJGV2xpcmhzQktJSjlkWTQxT3pIVVM0M1Ria0FwNDZNdkxVZGpZbktsMS1KMkV1NHl3a1NjTTNmTC10YUQ0S3IyUXdIMWtPRDN6Z1NOUlY3STlkMzlDOVk3ZGJscTRrZmlreXlTTTRUT3RxRUFpOFV0ZlppUGVXa0Y1UnB5TTRFTkpEcGQ2MWUwZzdzR3IyLVQtUXZPM09jcUxfZ01kRWdyVDkwdkh5TXdXcG9kWnl5UDBLSzM?oc=5",
+      "published": "Mon, 07 Sep 2026 19:57:11 GMT",
+      "source": "sUAS News"
     }
   ]
 }
