@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-07T06:42:59.699111",
+  "last_updated": "2026-10-07T13:59:15.596514",
   "articles": [
     {
       "title": "Systems Selected for JIATF 401 Directed-Energy Counter-Drone Pilot Program - U.S. Department of War (.gov)",
@@ -8,16 +8,16 @@
       "source": "U.S. Department of War (.gov)"
     },
     {
-      "title": "Hegseth\u2019s Memo Targets Barriers to Counter-UAS Employment - ExecutiveGov",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZEhTZWxSQlpqZFdhamVULVBldEdCZU1wM3BwNWgxNl9LcXVSZnVLZXdkbENoY00tRnI3bDRzaUtfR2Zlb1lRbkhvcjlTYUpmc3ZfM280bGRlOVRMNW5HdXAyMTM2MnAybEdDR3dKbVladWQ4UEFUV1puOHdQN2JHZk1NVFlzcS1kNTY0?oc=5",
-      "published": "Tue, 06 Oct 2026 20:29:56 GMT",
-      "source": "ExecutiveGov"
-    },
-    {
       "title": "7th Air Force seeks new counter-drone capabilities for point defense modernization in South Korea - DefenseScoop",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQeURQQTFFNGVCTTFRVURIekp5S3R0dFQ4NVBzRzFDclpFbHlLd2owZFRwUDFFbDNDSGJTUkRKQ2laeEN4UnRhaUljaXBDY1ZDOGlFR09rWnBETTA4UGt5X2pCVm1DelVLdFY0ZHlfcDZIWUVoTFpQNkJQbDdMQXVSLWtwamdZbUQzYnQwV2pvSmJUZTJKTUM0OHBrSFBxanMwREE?oc=5",
       "published": "Mon, 05 Oct 2026 18:15:35 GMT",
       "source": "DefenseScoop"
+    },
+    {
+      "title": "Hegseth\u2019s Memo Targets Barriers to Counter-UAS Employment - ExecutiveGov",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZEhTZWxSQlpqZFdhamVULVBldEdCZU1wM3BwNWgxNl9LcXVSZnVLZXdkbENoY00tRnI3bDRzaUtfR2Zlb1lRbkhvcjlTYUpmc3ZfM280bGRlOVRMNW5HdXAyMTM2MnAybEdDR3dKbVladWQ4UEFUV1puOHdQN2JHZk1NVFlzcS1kNTY0?oc=5",
+      "published": "Tue, 06 Oct 2026 20:29:56 GMT",
+      "source": "ExecutiveGov"
     },
     {
       "title": "KnitMesh Showcases DroneStop Counter-UAS Technology for Drone Defense in Europe - uasweekly.com",
@@ -38,10 +38,10 @@
       "source": "Breaking Defense"
     },
     {
-      "title": "ZenaTech Advances ZenaDrone 2000 Heavy-Lift Interceptor - GlobeNewswire",
-      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQVkNMUTgyUkg3bkRZb3dTdW56RDBUT0YzSGpkLV82SlB0a1VGOXlURVo0N2ZyVl9mYXVWUzlwUllzQl93UHNZcm9fSW1VeFBMQ1YtYjNLSWF1U3FNck1FM3lrSGVEMFlYNkwxX2tuY0lMdW9KM0JtMUMzV0lhUVNTMHphRnBVSVNiU3RfOWRIUTJlR0lMRl9zSUs1Y1k0dHZYVWtteUREdjFQeFA2NTRrczRwamFELWRpRW9peTVtS2JFdmFFUzN2eWtaREptcjhKZW0xdjYyczA1S2FUYWo2bEpTaXVlemU3MUlXTGJKaTUxYzNEWWpGTUZVd2ltSjFrOXNneGJ0VG9sRzRMSEVUeVFoZU4?oc=5",
-      "published": "Tue, 06 Oct 2026 12:15:00 GMT",
-      "source": "GlobeNewswire"
+      "title": "Key European Airports Need Permanent Drone Defenses - Center for European Policy Analysis (CEPA)",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPazNmMmU1cVVFNVpzRG1mMmcwb2hpbkV1UEpXT3d0MVB1c3A5bk5vZVhkM0o0V0d5U21MbWR1RDFiY3B2T0YxczNoNVQ4cmhzdDJBSTVIblUycGRQYTNnLUxxeHo4QzE2TXNlNlFrRkwwSk5UZWw1bThab3BLUnRoUzhONA?oc=5",
+      "published": "Tue, 06 Oct 2026 14:50:55 GMT",
+      "source": "Center for European Policy Analysis (CEPA)"
     },
     {
       "title": "U.S. Army Tests Counter-Drone Systems Along Mexico Border - The Defense Watch",
@@ -68,6 +68,12 @@
       "source": "DefenseScoop"
     },
     {
+      "title": "ZenaTech Advances ZenaDrone 2000 Heavy-Lift Interceptor - GlobeNewswire",
+      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQVkNMUTgyUkg3bkRZb3dTdW56RDBUT0YzSGpkLV82SlB0a1VGOXlURVo0N2ZyVl9mYXVWUzlwUllzQl93UHNZcm9fSW1VeFBMQ1YtYjNLSWF1U3FNck1FM3lrSGVEMFlYNkwxX2tuY0lMdW9KM0JtMUMzV0lhUVNTMHphRnBVSVNiU3RfOWRIUTJlR0lMRl9zSUs1Y1k0dHZYVWtteUREdjFQeFA2NTRrczRwamFELWRpRW9peTVtS2JFdmFFUzN2eWtaREptcjhKZW0xdjYyczA1S2FUYWo2bEpTaXVlemU3MUlXTGJKaTUxYzNEWWpGTUZVd2ltSjFrOXNneGJ0VG9sRzRMSEVUeVFoZU4?oc=5",
+      "published": "Tue, 06 Oct 2026 12:15:00 GMT",
+      "source": "GlobeNewswire"
+    },
+    {
       "title": "Strike and interception drones remain in development, with none in production. - Stock Titan",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPV01WQWlPeFYxdjhWZG1jcjRpSWVMcU5PSm1TYnRoM0dzalZtcHlURzEtYlNlUzBOMzZYc09NWDlwMzV5Y19iejR2TWYxUU9yMUNNN2NPaEpfU1JrWmpEWDN4TnR1ZjhybFAyM2V5cjlndmhPZkYyNEVtTUNzUkdDZ0Qta052MjI4eENDcE5vRll4ZHpvdFZLaWFBUS1FbWZyNGtlRFhkQkVpUDl5Z1BvVnFDR3ZwSnlLUHlZ?oc=5",
       "published": "Mon, 05 Oct 2026 11:00:00 GMT",
@@ -92,12 +98,6 @@
       "source": "UASweekly.com"
     },
     {
-      "title": "Army awards up to $7B in sprawling counter-drone IDIQ - Breaking Defense",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPamI1N3J1SHVza2RJSW1mcWpNdjd3QW5qY281UGUxXzM1N1VobWRhUjMzSTJaeE5teE1sUXd6cFhjMG1Ybm5fRXRFRlVhSFptLURDX0VBbGR4VmMxMzJsdWY2OURvcFF1Tm9lRmRQbFpBbk5CR2p5T0dDbUNwMHpSc1lrSFNaeUY3cE1BZFE4U2JsRms?oc=5",
-      "published": "Tue, 29 Sep 2026 18:31:54 GMT",
-      "source": "Breaking Defense"
-    },
-    {
       "title": "ORIGIN, Anduril sign MoU on counter-UAS air defense for NATO's Eastern Flank - Defense and Munitions",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVWpLT1dwUGhZeENXejVkZ3pkdWl4V053SDAzN3JpaDM3YmFaT1FEYVBTV2lkQmVnT0FWNHNvcTA0c2YxT2xwb1RxUmZHNEpEOUVCZnVCV1c0MjlZcUJUb3UyRGZ2VWJkT0F3Ym5WSjAzZm1lLWlEZjJWRnc3RkFBRVRJcEI5TU4tWG1zT05YQU93aWg3bl9tNjROb3JwSGVMMU5EVmx2SEh0SlFONjRKenZaWmtsQQ?oc=5",
       "published": "Thu, 01 Oct 2026 12:27:35 GMT",
@@ -116,10 +116,10 @@
       "source": "DefenseScoop"
     },
     {
-      "title": "DroneShield wins Domestic Shield counter-UAS IDIQ with $500 million ceiling - Military Aerospace",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOb0ZaMlY3X2lJSWpTLS15U2wwNG56MVBqMUROMEpyMWZ5amdDNV9OT1ZVMlZqemdOdGVmX1lBTGFqY190QWVWNmZER3lVZU5BQ2xvZFI1VmtIa3JtYzZLWi1XVWx1VVRvalhWUDRfaHRPWm5sM3ZOdXhlQTdFSXVCSmE0VllOMjRHM3lFMlZjanp3UjNPLVVGZWZRdHNrWjkxZ0xoRVlFUVhiUmlfNkpWSnE2bHd6OFhTV1FtRWZ0d1hpSTFSWVA4WDZ3VQ?oc=5",
-      "published": "Thu, 01 Oct 2026 08:33:45 GMT",
-      "source": "Military Aerospace"
+      "title": "DroneStop provides passive drone defence - Knitting Industry",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0td1ZRRFpFU21GRWIyc0Z5RTFobGJKcG9wYlBfVmdWUkY3Ylh1TDJhTFNJbkVPSmlpcVJNQXIzTm9UcjQ4RGR2MFVrN1A0SW1lN09zRVgxbVd6RkJhd1M1TmhkTUh5VXhSSktQZzVIY3UzWDYtalMteDd3?oc=5",
+      "published": "Mon, 05 Oct 2026 12:56:05 GMT",
+      "source": "Knitting Industry"
     }
   ]
 }
