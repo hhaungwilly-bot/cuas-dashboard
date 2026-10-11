@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-11T13:08:24.386470",
+  "last_updated": "2026-10-11T18:03:53.076565",
   "articles": [
     {
       "title": "Systems Selected for JIATF 401 Directed-Energy Counter-Drone Pilot Program - U.S. Department of War (.gov)",
@@ -32,16 +32,16 @@
       "source": "Breaking Defense"
     },
     {
-      "title": "Hegseth\u2019s Memo Targets Barriers to Counter-UAS Employment - ExecutiveGov",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZEhTZWxSQlpqZFdhamVULVBldEdCZU1wM3BwNWgxNl9LcXVSZnVLZXdkbENoY00tRnI3bDRzaUtfR2Zlb1lRbkhvcjlTYUpmc3ZfM280bGRlOVRMNW5HdXAyMTM2MnAybEdDR3dKbVladWQ4UEFUV1puOHdQN2JHZk1NVFlzcS1kNTY0?oc=5",
-      "published": "Tue, 06 Oct 2026 20:29:56 GMT",
-      "source": "ExecutiveGov"
-    },
-    {
       "title": "ParaZero Technologies to Showcase DefendAir Autonomous Counter-UAS Technology at AUSA Annual Meeting - Quiver Quantitative",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNM0NmU1FjMzJCaU9oYXlNZmY5XzFEUnJUTnNlQnhJN2F6V2V2eFZkdnBpNmVhNWJ6VTNOYU5fZzZfeElSUUNiZ1hfSmFBU1FXdGJsd1RXR3ZleTRhRjdqU3VERkVLbGh4TENhVDVfajlUWkcyWFRZdkhRd1ZuM19CNUUzOGJwOGxaRkVCc0FzQkUtd1RKdzBmZmdiazAzVjh3c3VJRmtjRlB4UWRPMllJSlJKM3hRYjVJSm12bS1FMWczbV9yUzAwTEhHTldaZw?oc=5",
       "published": "Fri, 09 Oct 2026 12:50:00 GMT",
       "source": "Quiver Quantitative"
+    },
+    {
+      "title": "Hegseth\u2019s Memo Targets Barriers to Counter-UAS Employment - ExecutiveGov",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZEhTZWxSQlpqZFdhamVULVBldEdCZU1wM3BwNWgxNl9LcXVSZnVLZXdkbENoY00tRnI3bDRzaUtfR2Zlb1lRbkhvcjlTYUpmc3ZfM280bGRlOVRMNW5HdXAyMTM2MnAybEdDR3dKbVladWQ4UEFUV1puOHdQN2JHZk1NVFlzcS1kNTY0?oc=5",
+      "published": "Tue, 06 Oct 2026 20:29:56 GMT",
+      "source": "ExecutiveGov"
     },
     {
       "title": "A net-based system is designed to stop hostile drones without explosives. ParaZero plans to show it at an Army expo. - Stock Titan",
@@ -62,16 +62,22 @@
       "source": "Center for European Policy Analysis (CEPA)"
     },
     {
+      "title": "NNSA, counter-drone task force create framework for data sharing - FedScoop",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE95d2J2MzF5SGhickhfdG1jRVJxNHVMWDFndVE5T0dXZVdzLUF2dERGSWc1MFVvWjRLQ2EyWXdkTlBGXzFWV2syUGM2YzEtbWdHWDhQZTRxU1JuWFg4d2VSbXhoOTN6ZkJ6b0VtNFBR?oc=5",
+      "published": "Tue, 29 Sep 2026 07:00:00 GMT",
+      "source": "FedScoop"
+    },
+    {
       "title": "U.S. Army Tests Counter-Drone Systems Along Mexico Border - The Defense Watch",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVEw1V21FekYxNGVfRXd3M1lfWmdkY0l3NnduVENNSGxDZUdQdjJvaTJzQl9PckEzQlNxXzBXYU9OeVc4Z0RlWW4xeEpaYW43Rk13aFRiek1FRHd3eS1mTENaOWI3YnQ5R3lUdFBtclE0eEtkQUpxSDExVjI2N1QyZFF3MDBub0tUTll4aHpLeGNiNVpU?oc=5",
       "published": "Tue, 06 Oct 2026 02:55:54 GMT",
       "source": "The Defense Watch"
     },
     {
-      "title": "NNSA, counter-drone task force create framework for data sharing - FedScoop",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE95d2J2MzF5SGhickhfdG1jRVJxNHVMWDFndVE5T0dXZVdzLUF2dERGSWc1MFVvWjRLQ2EyWXdkTlBGXzFWV2syUGM2YzEtbWdHWDhQZTRxU1JuWFg4d2VSbXhoOTN6ZkJ6b0VtNFBR?oc=5",
-      "published": "Tue, 29 Sep 2026 07:00:00 GMT",
-      "source": "FedScoop"
+      "title": "Fortem Raises $50 Million to Scale Counter-Drone Systems - Dronelife",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFByLVpacndLSWF2ZlZyZFNLbmRiQ25EUlZSa0dHWUpyclZHTEtFLXBfd2hpS0JMdHNUbWVqcGRud0tyRHM0UDRPUzZGTVk0b19GZGcwMm56UUtDRjNzNVNkV29iLWpoTHpNazRWMndYUS1tckFBSmJtSVFBdlEyMmc?oc=5",
+      "published": "Wed, 30 Sep 2026 16:43:36 GMT",
+      "source": "Dronelife"
     },
     {
       "title": "ZenaTech Advances ZenaDrone 2000 Heavy-Lift Interceptor - GlobeNewswire",
@@ -80,10 +86,10 @@
       "source": "GlobeNewswire"
     },
     {
-      "title": "Fortem Raises $50 Million to Scale Counter-Drone Systems - Dronelife",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFByLVpacndLSWF2ZlZyZFNLbmRiQ25EUlZSa0dHWUpyclZHTEtFLXBfd2hpS0JMdHNUbWVqcGRud0tyRHM0UDRPUzZGTVk0b19GZGcwMm56UUtDRjNzNVNkV29iLWpoTHpNazRWMndYUS1tckFBSmJtSVFBdlEyMmc?oc=5",
-      "published": "Wed, 30 Sep 2026 16:43:36 GMT",
-      "source": "Dronelife"
+      "title": "Ondas Pushes Drone Defense 10 Km Out With New Non-Kinetic C-UAS - The Defense Post",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1zcG4yTUxjN3QxWDlucTlQTTA1UGlXSm9KdGZhdFFkRi1ORzVkOHd0aEduNXhpU2Zqb0NiR2d4VTFXU09tZUo4Tkl0cWlsUlBiN0RVZ3lfbjNzdktqN2xRNXFPX1ozYTdtd3FGWXRQMTlNQdIBd0FVX3lxTFBpZmtIVERYcU1SdG9mQ0JpcnVJSEZyWXI5bENOME5QVVZEU3hJRFhMN0RkakxnMWpQVll5dndHTGxRSmhKaTQzTTM2X3lsVmFta0s4cU9fN214cHRIWXNTcmlHekRUaFpkWXFJQkpPUUlTRm1JNWg0?oc=5",
+      "published": "Fri, 02 Oct 2026 11:47:06 GMT",
+      "source": "The Defense Post"
     },
     {
       "title": "Hegseth issues new directive to hasten U.S. military\u2019s counter-drone pursuits - DefenseScoop",
@@ -114,12 +120,6 @@
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbm1Wc3lhd0o4dlpucWJJc2tRSmFLbHBlRXE1alVtVDVjVy11cGpYMzR4T3A4QzM2VC1ReHUybS1TR1VLV2N5emhlcEpqTG5CN0FYelYyTzYxc0lhU0FBc0pkbzY0Nkc4eURyZ2xDMUt3ZF9NYjdzUWNJamNmc29XeENnRGZpZ21CT3JWZlJQcnVJa1Jkc3Br?oc=5",
       "published": "Fri, 25 Sep 2026 07:00:00 GMT",
       "source": "DefenseScoop"
-    },
-    {
-      "title": "Ondas Pushes Drone Defense 10 Km Out With New Non-Kinetic C-UAS - The Defense Post",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1zcG4yTUxjN3QxWDlucTlQTTA1UGlXSm9KdGZhdFFkRi1ORzVkOHd0aEduNXhpU2Zqb0NiR2d4VTFXU09tZUo4Tkl0cWlsUlBiN0RVZ3lfbjNzdktqN2xRNXFPX1ozYTdtd3FGWXRQMTlNQdIBd0FVX3lxTFBpZmtIVERYcU1SdG9mQ0JpcnVJSEZyWXI5bENOME5QVVZEU3hJRFhMN0RkakxnMWpQVll5dndHTGxRSmhKaTQzTTM2X3lsVmFta0s4cU9fN214cHRIWXNTcmlHekRUaFpkWXFJQkpPUUlTRm1JNWg0?oc=5",
-      "published": "Fri, 02 Oct 2026 11:47:06 GMT",
-      "source": "The Defense Post"
     }
   ]
 }
