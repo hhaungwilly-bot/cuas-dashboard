@@ -1,11 +1,17 @@
 {
-  "last_updated": "2026-10-14T23:31:22.065977",
+  "last_updated": "2026-10-15T01:45:45.940379",
   "articles": [
     {
       "title": "Leonardo DRS Secures $500 Million Contract to Support Counter-Drone Defense Capabilities - Homeland Security Today",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOckI1TDZYLTJhQTgyaVUwekpCazZXZERNYUFmeUkzUnFhNm8zZ0tTaGNIa09xdHhwS00ybG1YNXdzempTdjU0eC1ZSkJCQjRMNkkwY2JxMVlVR3pDVGRXNWFhSDRNNnRQVERsUTA2TWtMS3ZRTHEyUTBfS3o2dV9yUTFrbjYyY05qQnBEYWhqOVp5dHB4cU1OMlB2N0gwN2VKSjZ2Y3dGZkdmT3pndHJJLThOQkJENUpaTmdsOHI4ZjhrWlpDZGNxRlhaOFRtRVk?oc=5",
       "published": "Wed, 14 Oct 2026 13:08:50 GMT",
       "source": "Homeland Security Today"
+    },
+    {
+      "title": "Electro Optic Systems: Turning Counter-UAS Tailwinds Into Multi-Layer Defense Scale(EOPSF) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbDB4dU9Rd0w3X2NHc0Y3MVRCWERjTDBGOWZZSXZlaGlOVzRCTXFWQ0oxX3cyOEx0NzlBOFZrRjBadzBnakpzYVB0c0ZFOWFKckxBbnpTMmtuUWY3WndFU3lLb0pQalV2d0NJMmF2QXJHUFN4ZF9jdjhuZmM5a25aSGJUVDNLMHE1N3RJRlpSV20zT0ZNM3dSd3hrZnNNY2Nkd2Q2U1k1dUlUNnB5RVU3a3B0aDFRcWtwS3NmM05scF8?oc=5",
+      "published": "Thu, 15 Oct 2026 00:24:15 GMT",
+      "source": "Seeking Alpha"
     },
     {
       "title": "Teledyne FLIR Defense releases new compact counter-UAS radar - Breaking Defense",
@@ -26,16 +32,22 @@
       "source": "Grand Forks Herald"
     },
     {
+      "title": "Restructuring Tactical Drone Defense for the European Frontline - Army.mil",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQR2N0cjdtb1RXUFhkZGxpWjY3OWpDTUY4V2pkSmVNd1dTUkE2RWs2U05uMDNLbnFPeXRVUWNsNFdJLXlWM0ZOaWVkVnVhSHljTHJKVm85Y2NHLVJvcmlsNW9idUVtQzhIYUdGdEpzcjFCbGlSeEVLd3dlNTZtTkppUHVNcFM2WWVDOHpRWTR1SUFVVU9lVkNnUGZaLWNkc1V2bGJuSzZR0gGmAUFVX3lxTFBHY3RyN21vVFdQWGRkbGlaNjc5akNNRjhXamRKZU13V1NSQTZFazZTTm4wM0tucU95dFVRY2w0V0kteVYzRk5pZWRWdWFIeWNMckpWbzljY0ctUm9yaWw1b2J1RW1DOEhhR0Z0SnNyMUJsaVJ4RUt3d2U1Nm1OSmlQdU1wUzZZZUM4elFZNHVJQVVVT2VWQ2dQZlotY2RzVXZsYm5LNlE?oc=5",
+      "published": "Tue, 13 Oct 2026 16:19:37 GMT",
+      "source": "Army.mil"
+    },
+    {
       "title": "From Standalone Counter-Drone Systems to Integrated Air Defense - Dronelife",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNFFtTXYyWk1RSWZ2YzVVZkpQYWZRU25UdzFtZEE5S2o3M2x4MXdJVVNpZnJQNC1ucFZJU1VGSXQxb3FuLV9ENTliS2g3SWJ5bVZaRTRubEd2dmNaaTVuYldhaUV1VHE1QXlYTXNwX0E3X01vTENfc2ZYMHlXXzRFMkhuQmM?oc=5",
       "published": "Mon, 12 Oct 2026 13:11:28 GMT",
       "source": "Dronelife"
     },
     {
-      "title": "Restructuring Tactical Drone Defense for the European Frontline - Army.mil",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQR2N0cjdtb1RXUFhkZGxpWjY3OWpDTUY4V2pkSmVNd1dTUkE2RWs2U05uMDNLbnFPeXRVUWNsNFdJLXlWM0ZOaWVkVnVhSHljTHJKVm85Y2NHLVJvcmlsNW9idUVtQzhIYUdGdEpzcjFCbGlSeEVLd3dlNTZtTkppUHVNcFM2WWVDOHpRWTR1SUFVVU9lVkNnUGZaLWNkc1V2bGJuSzZR0gGmAUFVX3lxTFBHY3RyN21vVFdQWGRkbGlaNjc5akNNRjhXamRKZU13V1NSQTZFazZTTm4wM0tucU95dFVRY2w0V0kteVYzRk5pZWRWdWFIeWNMckpWbzljY0ctUm9yaWw1b2J1RW1DOEhhR0Z0SnNyMUJsaVJ4RUt3d2U1Nm1OSmlQdU1wUzZZZUM4elFZNHVJQVVVT2VWQ2dQZlotY2RzVXZsYm5LNlE?oc=5",
-      "published": "Tue, 13 Oct 2026 16:19:37 GMT",
-      "source": "Army.mil"
+      "title": "Systems Selected for JIATF 401 Directed-Energy Counter-Drone Pilot Program - U.S. Department of War (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPTG5FUEtRWFNTeXdNYl9hMEt2SER2SEZnSS1FZWk5Q0pSSGlxdnRlcng3eF84a2VQZ1pJM19MR1VCbk9SQVBOQW41V3NIYXRnS2Y1T2VUOGxTd0FrcThxYWNXOXNpaUR5dW5kaGlOZmg4RDZIWS1jekdZeTV0TnFBU0RlY1d2MGpNU1M3aG5salNsbllKSUJiRW5wUVJVelp3RnpWZjc1cHNQVldOaU9hSkxzYUNneldQa3V3bWNMRzRUWENfamp2TmptUTR6Zw?oc=5",
+      "published": "Mon, 05 Oct 2026 07:00:00 GMT",
+      "source": "U.S. Department of War (.gov)"
     },
     {
       "title": "7th Air Force seeks new counter-drone capabilities for point defense modernization in South Korea - DefenseScoop",
@@ -80,27 +92,15 @@
       "source": "MarketsandMarkets"
     },
     {
-      "title": "ORIGIN, Anduril sign MoU on counter-UAS air defense for NATO's Eastern Flank - Defense and Munitions",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVWpLT1dwUGhZeENXejVkZ3pkdWl4V053SDAzN3JpaDM3YmFaT1FEYVBTV2lkQmVnT0FWNHNvcTA0c2YxT2xwb1RxUmZHNEpEOUVCZnVCV1c0MjlZcUJUb3UyRGZ2VWJkT0F3Ym5WSjAzZm1lLWlEZjJWRnc3RkFBRVRJcEI5TU4tWG1zT05YQU93aWg3bl9tNjROb3JwSGVMMU5EVmx2SEh0SlFONjRKenZaWmtsQQ?oc=5",
-      "published": "Thu, 01 Oct 2026 12:27:35 GMT",
-      "source": "Defense and Munitions"
-    },
-    {
-      "title": "ZenaTech Advances ZenaDrone 2000 Heavy-Lift Interceptor Toward Flight Testing for Counter-UAS and Maritime Defense - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOblhQY0dKWVlrTXRiSnVoUDNkM1l2cF9ydUVPSWJCWk5sRnMzeU5iRmw1OXhTbzNHZFdUck82UE56MU1Ia3FibTlsMVJoM0lpaFpvVWpobnNYcy1MY1MyWkhOWk9nZ25Tc0tVVnp1bkdWQ0UtNVYydmdkU3E0Z0duRVMyNDJqUUVSRTl6SDZQTnJiVjJTUGQyUFNYUDNmdTdZMkhYRQ?oc=5",
-      "published": "Tue, 06 Oct 2026 12:15:00 GMT",
-      "source": "Yahoo Finance"
-    },
-    {
       "title": "KnitMesh Showcases DroneStop Counter-UAS Technology for Drone Defense in Europe - uasweekly.com",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVzIzU1l0NDVjNVJtenZnZkhXbklNaWFxNmF1RmEtZ2JQMTFPSVhsTkxuQ3o0U01aalNzTnExV21PUTEyTFFpLV9GWmhuNzRteTNwOXlXaTlpYkpDdGxfYmFvS2NuMDhWRkZiQnZSbW1aQXBMMHpQQmRpQjRXOE9xTDJkaXFMTnd4YXVaYVFnQVNTTFl6eUZuV092MVlqVWN4UjgzNlRtWENZQ3p0d2c5dmI1RQ?oc=5",
       "published": "Mon, 05 Oct 2026 19:26:13 GMT",
       "source": "uasweekly.com"
     },
     {
-      "title": "Northcom\u2019s next counter-drone demo will be its first in an urban area - DefenseScoop",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbm1Wc3lhd0o4dlpucWJJc2tRSmFLbHBlRXE1alVtVDVjVy11cGpYMzR4T3A4QzM2VC1ReHUybS1TR1VLV2N5emhlcEpqTG5CN0FYelYyTzYxc0lhU0FBc0pkbzY0Nkc4eURyZ2xDMUt3ZF9NYjdzUWNJamNmc29XeENnRGZpZ21CT3JWZlJQcnVJa1Jkc3Br?oc=5",
-      "published": "Fri, 25 Sep 2026 07:00:00 GMT",
+      "title": "What\u2019s unique about Northcom\u2019s Falcon Peak 26.2 counter-drone exercise - DefenseScoop",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMW9ydlVkLWI0U3JUN1BhNTZ1U2R6bzY0eFNnMXF1NWUxMjdhLUpFSUg3MVRGeHdpaGw0enExX1I5c3IzTXZBclMybkNtcWZiZVpYM2wyQmdnOTFDUEY5Q0Jrcld0Yl84RmVLYzRweVpyamFwOGFZNUtaYzdNVXh4STAxUFcyU3JVSWtnQTlueTRvOTcxQzFtdg?oc=5",
+      "published": "Wed, 23 Sep 2026 07:00:00 GMT",
       "source": "DefenseScoop"
     },
     {
@@ -110,16 +110,16 @@
       "source": "Breaking Defense"
     },
     {
+      "title": "Northcom\u2019s next counter-drone demo will be its first in an urban area - DefenseScoop",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbm1Wc3lhd0o4dlpucWJJc2tRSmFLbHBlRXE1alVtVDVjVy11cGpYMzR4T3A4QzM2VC1ReHUybS1TR1VLV2N5emhlcEpqTG5CN0FYelYyTzYxc0lhU0FBc0pkbzY0Nkc4eURyZ2xDMUt3ZF9NYjdzUWNJamNmc29XeENnRGZpZ21CT3JWZlJQcnVJa1Jkc3Br?oc=5",
+      "published": "Fri, 25 Sep 2026 07:00:00 GMT",
+      "source": "DefenseScoop"
+    },
+    {
       "title": "DroneShield Launches Mission Ready Services to Support Counter-UAS and Drone Defense Operations - UASweekly.com",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQX0pWVTNMbUJLQzk4bkRTemh2c3UtbTFuN3VyMjlKdkdXanVuQmpwc3dwa0NTWVc3VGJqUU5aSWtCUDdraUU4VzZieHotcjVzYVltWXl4Wko0cmlsSG9nLU5aVG5GRkxGZ0xDZGZoTUFkVThEM0JSN01xbl9FbmRCNy1HYkdfMWJXbDVDNlVoZTNzVmJjelRCSmhWbU0tRnpvdWxlUHVUeGgwUUdvWXF3VkVWWG9tQW1LWlZXZXJiY3NLOURmd01XdA?oc=5",
       "published": "Thu, 01 Oct 2026 07:00:00 GMT",
       "source": "UASweekly.com"
-    },
-    {
-      "title": "From directed energy to AI and hardening, JIATF-401 is widening counter-UAS options - Breaking Defense",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOXJYa1Rnamt3QUw0TFRQN1AwMDdMajhydVZJU3lSYTlCTTliM2FDSzh2a2ZqTVAyWHBMdFh0bV9zT2tZS2VBV2ZoRkpoMjM5NUxBZm94ZUpMYVVJR3ZoMlhtZW5TcVhtellSSHlpaFZ1aVI2eVJJc0tQaGNOdVBBUWRIdG55bkVlV2JrUlJIQWxIT0xrSVg1LVN1UzFnTWR3eFJCeVZSckJpaGZodFVWZVVpZGQ5aWJxQWdZ?oc=5",
-      "published": "Wed, 07 Oct 2026 16:41:18 GMT",
-      "source": "Breaking Defense"
     }
   ]
 }
