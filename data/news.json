@@ -1,6 +1,12 @@
 {
-  "last_updated": "2026-10-16T01:14:43.307918",
+  "last_updated": "2026-10-16T05:55:08.405026",
   "articles": [
+    {
+      "title": "ParaZero Secures U.S. Defense Order for Net Interception & Platform Integration - Unmanned Systems Technology",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUTlGUnFUeFU4UnB3NC1Kbk51OHk1ejc5aGswYW1DeDM1RVp2cG00ZmhKSXBRb2pIWWF0ZHg3ZlNPREN4ME9PSmpWX2k5aTVqX0VvMEdtOTBOQmFSZ1V4OU1pSnFIbDl3Nk5sbTM4X1VuZmNvaHlSRnBvV0NSQjNVSkJRTGhWR29JRVJDMHRRNktaZmdGNUdpRFlfZV9WR3FQLU1rSGxYVEZvUUtvVDI5QTE4RDhvNUVpS1l5Wmgtd0hKX05QUHc?oc=5",
+      "published": "Fri, 16 Oct 2026 05:35:56 GMT",
+      "source": "Unmanned Systems Technology"
+    },
     {
       "title": "UND, Joint Interagency Task Force 401 sign memorandum of understanding to assess counter-drone technology - Grand Forks Herald",
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNWlVtTGxLWUNWVDJvbG4yN0dKUHJCMU1aX2JkckxwZlAyQnNIUDRRTHAwdFBpbmsyczYyWU1IMWFCd29KWU0tNGg5cWhYazRVR1M3bTJya0hCOVBPWGxVSWNJNXJxeEU0ZWdYNk1BaWZ2a1JrT1FCelhrYm13dVRkOU1uVmMzUmI3SEQ3WEZiWmJuRjNRZnRWTUpTb2dhZl95dFdJX2tBanNwaUI5cVhMQjlRbUN1NnlXSjB1QjE3b1R4eUl3Q3NPRlpKdERDcUVoWHlUTDd3eWt4VEVZVndCTTVB?oc=5",
@@ -12,12 +18,6 @@
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZ3piRi1kcW1BMmEyZWcxdzFYbkhtZGtfQXNMTjc4Nzl4dVlhdms5NC1HSzA0ZVhGVFZJWmEwS3ZveGFRalNyX3pCNnQ4eld2OTNDV21GVHpFMk54YVhMOHpaTkNoYnFNdWUta29LOXhHX3dDaE1rLTFtdzhOalZGeEd1Z2ZnejVTUXNXLVZQaHBmVkdQeUxnYWZuZmVZTW1Ja2lTRnFPVkNZdDVTVkt4UGV5bTVjR2Y4TjJEZHhFcVFpU2Zhb0l2bFMzM1ZZYVVHaDRPNg?oc=5",
       "published": "Thu, 15 Oct 2026 17:43:29 GMT",
       "source": "Military Embedded Systems"
-    },
-    {
-      "title": "Skapion launches counter drone swarm C-UAS system designed to engage 100 targets - Unmanned airspace",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPNmZKQ1NqYXZ2Wnd5RGx6bUU2cUFjbW1aQTFNNHFCaU5GM2E1a1RMSG52S3ZscFd1QWNLelVFcmtpTjdVTzBCQ3ozemRnNHNFZDRNVl91VWw0X0RhWGZxV05CcGVnNzNoQktybS1SVDVzYUw5QUp4d1VDbUluc2ZjbDE5b2UtTWJrbXM4UUNhN09jLVZjaGt0aEQwUHhNdG1tRV9YRWNZdDViN1hpRGJTU1l4RUdramNLWUluOTBLcjhyQ3BsMFNrRUN4MVB4ZnFqbTNuVFF0RzA0T0tUczVzUFBB?oc=5",
-      "published": "Thu, 15 Oct 2026 09:27:45 GMT",
-      "source": "Unmanned airspace"
     },
     {
       "title": "Teledyne FLIR Defense releases new compact counter-UAS radar - Breaking Defense",
@@ -38,6 +38,12 @@
       "source": "Homeland Security Today"
     },
     {
+      "title": "Skapion launches counter drone swarm C-UAS system designed to engage 100 targets - Unmanned airspace",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPNmZKQ1NqYXZ2Wnd5RGx6bUU2cUFjbW1aQTFNNHFCaU5GM2E1a1RMSG52S3ZscFd1QWNLelVFcmtpTjdVTzBCQ3ozemRnNHNFZDRNVl91VWw0X0RhWGZxV05CcGVnNzNoQktybS1SVDVzYUw5QUp4d1VDbUluc2ZjbDE5b2UtTWJrbXM4UUNhN09jLVZjaGt0aEQwUHhNdG1tRV9YRWNZdDViN1hpRGJTU1l4RUdramNLWUluOTBLcjhyQ3BsMFNrRUN4MVB4ZnFqbTNuVFF0RzA0T0tUczVzUFBB?oc=5",
+      "published": "Thu, 15 Oct 2026 09:27:45 GMT",
+      "source": "Unmanned airspace"
+    },
+    {
       "title": "Restructuring Tactical Drone Defense for the European Frontline - Army.mil",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQR2N0cjdtb1RXUFhkZGxpWjY3OWpDTUY4V2pkSmVNd1dTUkE2RWs2U05uMDNLbnFPeXRVUWNsNFdJLXlWM0ZOaWVkVnVhSHljTHJKVm85Y2NHLVJvcmlsNW9idUVtQzhIYUdGdEpzcjFCbGlSeEVLd3dlNTZtTkppUHVNcFM2WWVDOHpRWTR1SUFVVU9lVkNnUGZaLWNkc1V2bGJuSzZR0gGmAUFVX3lxTFBHY3RyN21vVFdQWGRkbGlaNjc5akNNRjhXamRKZU13V1NSQTZFazZTTm4wM0tucU95dFVRY2w0V0kteVYzRk5pZWRWdWFIeWNMckpWbzljY0ctUm9yaWw1b2J1RW1DOEhhR0Z0SnNyMUJsaVJ4RUt3d2U1Nm1OSmlQdU1wUzZZZUM4elFZNHVJQVVVT2VWQ2dQZlotY2RzVXZsYm5LNlE?oc=5",
       "published": "Tue, 13 Oct 2026 16:19:37 GMT",
@@ -48,12 +54,6 @@
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNFFtTXYyWk1RSWZ2YzVVZkpQYWZRU25UdzFtZEE5S2o3M2x4MXdJVVNpZnJQNC1ucFZJU1VGSXQxb3FuLV9ENTliS2g3SWJ5bVZaRTRubEd2dmNaaTVuYldhaUV1VHE1QXlYTXNwX0E3X01vTENfc2ZYMHlXXzRFMkhuQmM?oc=5",
       "published": "Mon, 12 Oct 2026 13:11:28 GMT",
       "source": "Dronelife"
-    },
-    {
-      "title": "Oregon UAS Accelerator to Showcase 17 Autonomy, Counter-UAS & Defense-Tech Startups at Portland Investor Event on Nov 13 - EIN News",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQeFpWOVltLUtHNXNNUkNndDA2aTZqVzNZUlJ6STRkemhEajRCN1RwOVBjVlpLRmkxZmppYVBIanczVWl4NWFfVVo1VGtJZG84T1JCcm9KZnp6TkVMdGk0OG5CTkw0aXFDd3NhRk16Z2xhQlZKYUFxMWlFZksxalhEak9vLUZTN2ljRWdBTVQ0UkZWNk1sTjJlWU1wVzZ6dEtCeEhiZ01qQmNuYUk2a0ZXQ0lSVEhUYTFnN3VGM3J2eHgyaFluTEZaU1pmOUI3b2RhcEdfT0FWMFRjdGMwajgybWp2YTRPTzR1Nmxmb2tQZUo?oc=5",
-      "published": "Thu, 15 Oct 2026 18:50:00 GMT",
-      "source": "EIN News"
     },
     {
       "title": "Electro Optic Systems: Turning Counter-UAS Tailwinds Into Multi-Layer Defense Scale(EOPSF) - Seeking Alpha",
@@ -68,16 +68,22 @@
       "source": "DefenseScoop"
     },
     {
+      "title": "Oregon UAS Accelerator to Showcase 17 Autonomy, Counter-UAS & Defense-Tech Startups at Portland Investor Event on Nov 13 - EIN News",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQeFpWOVltLUtHNXNNUkNndDA2aTZqVzNZUlJ6STRkemhEajRCN1RwOVBjVlpLRmkxZmppYVBIanczVWl4NWFfVVo1VGtJZG84T1JCcm9KZnp6TkVMdGk0OG5CTkw0aXFDd3NhRk16Z2xhQlZKYUFxMWlFZksxalhEak9vLUZTN2ljRWdBTVQ0UkZWNk1sTjJlWU1wVzZ6dEtCeEhiZ01qQmNuYUk2a0ZXQ0lSVEhUYTFnN3VGM3J2eHgyaFluTEZaU1pmOUI3b2RhcEdfT0FWMFRjdGMwajgybWp2YTRPTzR1Nmxmb2tQZUo?oc=5",
+      "published": "Thu, 15 Oct 2026 18:50:00 GMT",
+      "source": "EIN News"
+    },
+    {
+      "title": "Fortem Technologies and MBDA Advance Autonomous Counter-UAS Defense Across Europe - UASweekly.com",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQk1oV2wzQWgxMmhXQUpTSWFKazRTN2ZoMkJfcVk3aWo2TmEzRnhkUjFTYjlOMW5DZGVxOGd1dEtZc2dLZnhyUW1ZSjlQc3NwT3ladS1xS2ZDOGk4RjJqLU01aHpKbmFXVEt5Qms0QVRKdUVpWjlOeTZwUDJzRG9jcmNUMUpubE15MGZDeGRyOWJQdmdwMHZ6RVlpS3BXRUFMX24xSllBYU8xNnFxYWJVX1FIdzFUdw?oc=5",
+      "published": "Mon, 12 Oct 2026 13:21:28 GMT",
+      "source": "UASweekly.com"
+    },
+    {
       "title": "MARSS Signs GBP370M Contract for Nationwide Counter-drone Defence of Kuwait - ASDNews",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbXpKQ2JaaGNHRmFQNGhWUXl0TWVIYTJJak9yRTFfQUFPZTdFV1BoRlJfRmFJdWgzc1pQb1BHaVBhQmN5S3RselphSzUxMjRHR0U0NlJpWnZZblVMeFlpeUZTN3dXcHhpZkNFWnRJWnhacVhZZUpiRGtNN3V1b01OdUNmREJ5aXNBeTBaNldYNWNIM01lZkdWX3hmdjdZS29sRHk5UGdHSERBVTJwWkJPbC1vNERrdw?oc=5",
       "published": "Mon, 12 Oct 2026 05:59:01 GMT",
       "source": "ASDNews"
-    },
-    {
-      "title": "KnitMesh Showcases DroneStop Counter-UAS Technology for Drone Defense in Europe - uasweekly.com",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVzIzU1l0NDVjNVJtenZnZkhXbklNaWFxNmF1RmEtZ2JQMTFPSVhsTkxuQ3o0U01aalNzTnExV21PUTEyTFFpLV9GWmhuNzRteTNwOXlXaTlpYkpDdGxfYmFvS2NuMDhWRkZiQnZSbW1aQXBMMHpQQmRpQjRXOE9xTDJkaXFMTnd4YXVaYVFnQVNTTFl6eUZuV092MVlqVWN4UjgzNlRtWENZQ3p0d2c5dmI1RQ?oc=5",
-      "published": "Mon, 05 Oct 2026 19:26:13 GMT",
-      "source": "uasweekly.com"
     },
     {
       "title": "Integrating sensors and weapons a key challenge in counter-drone defense, Honeywell official says - Military Embedded Systems",
@@ -86,34 +92,28 @@
       "source": "Military Embedded Systems"
     },
     {
-      "title": "ZenaTech Advances ZenaDrone 2000 Heavy-Lift Interceptor Toward Flight Testing for Counter-UAS and Maritime Defense - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOblhQY0dKWVlrTXRiSnVoUDNkM1l2cF9ydUVPSWJCWk5sRnMzeU5iRmw1OXhTbzNHZFdUck82UE56MU1Ia3FibTlsMVJoM0lpaFpvVWpobnNYcy1MY1MyWkhOWk9nZ25Tc0tVVnp1bkdWQ0UtNVYydmdkU3E0Z0duRVMyNDJqUUVSRTl6SDZQTnJiVjJTUGQyUFNYUDNmdTdZMkhYRQ?oc=5",
-      "published": "Tue, 06 Oct 2026 07:00:00 GMT",
-      "source": "Yahoo Finance"
-    },
-    {
       "title": "Hegseth issues new directive to hasten U.S. military\u2019s counter-drone pursuits - DefenseScoop",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOHlaZmpqTUZMVk85VnZpMHBBSU92REZjY0s3SFZLalQ1eDZ2U2Q5anViQ2tDR05sTXdEbTVpZV9yRUd6UkMzdnpERlo5VnJfRFAxUGp1eTdlQjRicHdBT3FfajNvWjYzYjhYYzVxYVhFWlZpQmhxdERrY3psREpWX2N4MzZJV2c3V3hib1B5V1RjeDAwUU4zdXhUX1N2anM?oc=5",
       "published": "Fri, 02 Oct 2026 07:00:00 GMT",
       "source": "DefenseScoop"
     },
     {
-      "title": "Col. Alfred Rosales says Point Defense Battle Lab is working on a number of challenges in counter-UAS - Grand Forks Herald",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNeElGUGM4Sm5SSXplLUI2OHlaWEpvdkFkR0RQVnlOUHE3bXpVeEJLRXpjLVpZUy1uV0dIRFEtcXFHaGVMeXY5LU1DQ3V2bGxEcUNGNzdoajJGVUdvSUVJTUxqbVBHWjlFaUh5RmpCRm9VVFVLRXo3cm9CX0NwSEpqczd3TXFoTkgyT1JfLWl5RllqQ1dsOHc0dE5oUzItTjV6dnpZcy1CVlhCVnRGMTVOVFpJTUV3VVNFa0Uxa2hSY2U2ZjdmYXhWdlNQOGZrZ05mSENxQzdidzNBSi1R?oc=5",
-      "published": "Wed, 14 Oct 2026 15:50:59 GMT",
-      "source": "Grand Forks Herald"
-    },
-    {
-      "title": "DroneShield Launches Mission Ready Services to Support Counter-UAS and Drone Defense Operations - UASweekly.com",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQX0pWVTNMbUJLQzk4bkRTemh2c3UtbTFuN3VyMjlKdkdXanVuQmpwc3dwa0NTWVc3VGJqUU5aSWtCUDdraUU4VzZieHotcjVzYVltWXl4Wko0cmlsSG9nLU5aVG5GRkxGZ0xDZGZoTUFkVThEM0JSN01xbl9FbmRCNy1HYkdfMWJXbDVDNlVoZTNzVmJjelRCSmhWbU0tRnpvdWxlUHVUeGgwUUdvWXF3VkVWWG9tQW1LWlZXZXJiY3NLOURmd01XdA?oc=5",
-      "published": "Thu, 01 Oct 2026 07:00:00 GMT",
-      "source": "UASweekly.com"
+      "title": "KnitMesh Showcases DroneStop Counter-UAS Technology for Drone Defense in Europe - uasweekly.com",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVzIzU1l0NDVjNVJtenZnZkhXbklNaWFxNmF1RmEtZ2JQMTFPSVhsTkxuQ3o0U01aalNzTnExV21PUTEyTFFpLV9GWmhuNzRteTNwOXlXaTlpYkpDdGxfYmFvS2NuMDhWRkZiQnZSbW1aQXBMMHpQQmRpQjRXOE9xTDJkaXFMTnd4YXVaYVFnQVNTTFl6eUZuV092MVlqVWN4UjgzNlRtWENZQ3p0d2c5dmI1RQ?oc=5",
+      "published": "Mon, 05 Oct 2026 19:26:13 GMT",
+      "source": "uasweekly.com"
     },
     {
       "title": "Northcom\u2019s next counter-drone demo will be its first in an urban area - DefenseScoop",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbm1Wc3lhd0o4dlpucWJJc2tRSmFLbHBlRXE1alVtVDVjVy11cGpYMzR4T3A4QzM2VC1ReHUybS1TR1VLV2N5emhlcEpqTG5CN0FYelYyTzYxc0lhU0FBc0pkbzY0Nkc4eURyZ2xDMUt3ZF9NYjdzUWNJamNmc29XeENnRGZpZ21CT3JWZlJQcnVJa1Jkc3Br?oc=5",
       "published": "Fri, 25 Sep 2026 07:00:00 GMT",
       "source": "DefenseScoop"
+    },
+    {
+      "title": "DroneShield Launches Mission Ready Services to Support Counter-UAS and Drone Defense Operations - UASweekly.com",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQX0pWVTNMbUJLQzk4bkRTemh2c3UtbTFuN3VyMjlKdkdXanVuQmpwc3dwa0NTWVc3VGJqUU5aSWtCUDdraUU4VzZieHotcjVzYVltWXl4Wko0cmlsSG9nLU5aVG5GRkxGZ0xDZGZoTUFkVThEM0JSN01xbl9FbmRCNy1HYkdfMWJXbDVDNlVoZTNzVmJjelRCSmhWbU0tRnpvdWxlUHVUeGgwUUdvWXF3VkVWWG9tQW1LWlZXZXJiY3NLOURmd01XdA?oc=5",
+      "published": "Thu, 01 Oct 2026 07:00:00 GMT",
+      "source": "UASweekly.com"
     },
     {
       "title": "What\u2019s unique about Northcom\u2019s Falcon Peak 26.2 counter-drone exercise - DefenseScoop",
