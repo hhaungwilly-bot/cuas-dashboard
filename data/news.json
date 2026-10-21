@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-21T01:55:08.824334",
+  "last_updated": "2026-10-21T07:12:02.199382",
   "articles": [
     {
       "title": "Integrating sensors and weapons a key challenge in counter-drone defense, Honeywell official says - Military Embedded Systems",
@@ -38,18 +38,6 @@
       "source": "Breaking Defense"
     },
     {
-      "title": "ParaZero Secures U.S. Defense Order for Net Interception & Platform Integration - Unmanned Systems Technology",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUTlGUnFUeFU4UnB3NC1Kbk51OHk1ejc5aGswYW1DeDM1RVp2cG00ZmhKSXBRb2pIWWF0ZHg3ZlNPREN4ME9PSmpWX2k5aTVqX0VvMEdtOTBOQmFSZ1V4OU1pSnFIbDl3Nk5sbTM4X1VuZmNvaHlSRnBvV0NSQjNVSkJRTGhWR29JRVJDMHRRNktaZmdGNUdpRFlfZV9WR3FQLU1rSGxYVEZvUUtvVDI5QTE4RDhvNUVpS1l5Wmgtd0hKX05QUHc?oc=5",
-      "published": "Fri, 16 Oct 2026 05:50:30 GMT",
-      "source": "Unmanned Systems Technology"
-    },
-    {
-      "title": "Leonardo DRS Secures $500 Million Contract to Support Counter-Drone Defense Capabilities - Homeland Security Today",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOckI1TDZYLTJhQTgyaVUwekpCazZXZERNYUFmeUkzUnFhNm8zZ0tTaGNIa09xdHhwS00ybG1YNXdzempTdjU0eC1ZSkJCQjRMNkkwY2JxMVlVR3pDVGRXNWFhSDRNNnRQVERsUTA2TWtMS3ZRTHEyUTBfS3o2dV9yUTFrbjYyY05qQnBEYWhqOVp5dHB4cU1OMlB2N0gwN2VKSjZ2Y3dGZkdmT3pndHJJLThOQkJENUpaTmdsOHI4ZjhrWlpDZGNxRlhaOFRtRVk?oc=5",
-      "published": "Wed, 14 Oct 2026 13:08:50 GMT",
-      "source": "Homeland Security Today"
-    },
-    {
       "title": "US Army targets 2028 for first high-energy laser counter-drone weapons - Defense News",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPOUppcDJLMEIwZVpLYVRMOGh4UDY5RFk4MHRJdVA1Njg1N2hEQmdEa3JfMnEydkhpWV8wMEx2RG93bjVyeGtFRzc0WkhkWE1zZUpiMFdLczUzOGEzZGFLQlU1cUFsZnVRbTVQcmZ0ek9HYlBYdGdSYzJ3TzBYZGZMeWJiUXpWZHk4TFBJQTJKWHF1dnI3Uno5d1dSQ0g0ZnVGbU5BekhsVDFOQmh1ak9PUW9Xb1cwUmlBempvQTB4d3h6dU1Ca3JFVg?oc=5",
       "published": "Tue, 13 Oct 2026 17:45:00 GMT",
@@ -62,22 +50,34 @@
       "source": "Army.mil"
     },
     {
+      "title": "ParaZero Secures U.S. Defense Order for Net Interception & Platform Integration - Unmanned Systems Technology",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUTlGUnFUeFU4UnB3NC1Kbk51OHk1ejc5aGswYW1DeDM1RVp2cG00ZmhKSXBRb2pIWWF0ZHg3ZlNPREN4ME9PSmpWX2k5aTVqX0VvMEdtOTBOQmFSZ1V4OU1pSnFIbDl3Nk5sbTM4X1VuZmNvaHlSRnBvV0NSQjNVSkJRTGhWR29JRVJDMHRRNktaZmdGNUdpRFlfZV9WR3FQLU1rSGxYVEZvUUtvVDI5QTE4RDhvNUVpS1l5Wmgtd0hKX05QUHc?oc=5",
+      "published": "Fri, 16 Oct 2026 05:50:30 GMT",
+      "source": "Unmanned Systems Technology"
+    },
+    {
+      "title": "Leonardo DRS Secures $500 Million Contract to Support Counter-Drone Defense Capabilities - Homeland Security Today",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOckI1TDZYLTJhQTgyaVUwekpCazZXZERNYUFmeUkzUnFhNm8zZ0tTaGNIa09xdHhwS00ybG1YNXdzempTdjU0eC1ZSkJCQjRMNkkwY2JxMVlVR3pDVGRXNWFhSDRNNnRQVERsUTA2TWtMS3ZRTHEyUTBfS3o2dV9yUTFrbjYyY05qQnBEYWhqOVp5dHB4cU1OMlB2N0gwN2VKSjZ2Y3dGZkdmT3pndHJJLThOQkJENUpaTmdsOHI4ZjhrWlpDZGNxRlhaOFRtRVk?oc=5",
+      "published": "Wed, 14 Oct 2026 13:08:50 GMT",
+      "source": "Homeland Security Today"
+    },
+    {
       "title": "KnitMesh Showcases DroneStop Counter-UAS Technology for Drone Defense in Europe - uasweekly.com",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVzIzU1l0NDVjNVJtenZnZkhXbklNaWFxNmF1RmEtZ2JQMTFPSVhsTkxuQ3o0U01aalNzTnExV21PUTEyTFFpLV9GWmhuNzRteTNwOXlXaTlpYkpDdGxfYmFvS2NuMDhWRkZiQnZSbW1aQXBMMHpQQmRpQjRXOE9xTDJkaXFMTnd4YXVaYVFnQVNTTFl6eUZuV092MVlqVWN4UjgzNlRtWENZQ3p0d2c5dmI1RQ?oc=5",
       "published": "Mon, 05 Oct 2026 19:26:13 GMT",
       "source": "uasweekly.com"
     },
     {
-      "title": "Electro Optic Systems: Turning Counter-UAS Tailwinds Into Multi-Layer Defense Scale(EOPSF) - Seeking Alpha",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbDB4dU9Rd0w3X2NHc0Y3MVRCWERjTDBGOWZZSXZlaGlOVzRCTXFWQ0oxX3cyOEx0NzlBOFZrRjBadzBnakpzYVB0c0ZFOWFKckxBbnpTMmtuUWY3WndFU3lLb0pQalV2d0NJMmF2QXJHUFN4ZF9jdjhuZmM5a25aSGJUVDNLMHE1N3RJRlpSV20zT0ZNM3dSd3hrZnNNY2Nkd2Q2U1k1dUlUNnB5RVU3a3B0aDFRcWtwS3NmM05scF8?oc=5",
-      "published": "Thu, 15 Oct 2026 00:24:15 GMT",
-      "source": "Seeking Alpha"
-    },
-    {
       "title": "From Standalone Counter-Drone Systems to Integrated Air Defense - Dronelife",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNFFtTXYyWk1RSWZ2YzVVZkpQYWZRU25UdzFtZEE5S2o3M2x4MXdJVVNpZnJQNC1ucFZJU1VGSXQxb3FuLV9ENTliS2g3SWJ5bVZaRTRubEd2dmNaaTVuYldhaUV1VHE1QXlYTXNwX0E3X01vTENfc2ZYMHlXXzRFMkhuQmM?oc=5",
       "published": "Mon, 12 Oct 2026 13:11:28 GMT",
       "source": "Dronelife"
+    },
+    {
+      "title": "Electro Optic Systems: Turning Counter-UAS Tailwinds Into Multi-Layer Defense Scale(EOPSF) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbDB4dU9Rd0w3X2NHc0Y3MVRCWERjTDBGOWZZSXZlaGlOVzRCTXFWQ0oxX3cyOEx0NzlBOFZrRjBadzBnakpzYVB0c0ZFOWFKckxBbnpTMmtuUWY3WndFU3lLb0pQalV2d0NJMmF2QXJHUFN4ZF9jdjhuZmM5a25aSGJUVDNLMHE1N3RJRlpSV20zT0ZNM3dSd3hrZnNNY2Nkd2Q2U1k1dUlUNnB5RVU3a3B0aDFRcWtwS3NmM05scF8?oc=5",
+      "published": "Thu, 15 Oct 2026 00:24:15 GMT",
+      "source": "Seeking Alpha"
     },
     {
       "title": "The New U.S. Army Pocket Guide - Spartanat",
@@ -110,16 +110,16 @@
       "source": "Military Embedded Systems"
     },
     {
-      "title": "Pentagon picks 4 vendors for counter-drone directed energy pilot program - Breaking Defense",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWlhCR29oWUF0U0Jpcl85QmE3RXB6dlZ5MmlXOWFtZGN2T3k0X2ZqWlNfMVlncHVGSm5wNVplWWxqZ1hKMzZYMHdWZ3NUaFJFUlV1Wnh4X0kzZ2FlZndibFd3VzdhRjFyTkdyd295M3hXRUlKOHlkM1Z4bEE0WDhZbjhIeHZNV3JkMUNzRnJpZEgzbFpIZTViSGNqM3lYOHNEYTNGVVM1Q0Zoa3VNQVE?oc=5",
-      "published": "Mon, 05 Oct 2026 07:00:00 GMT",
-      "source": "Breaking Defense"
-    },
-    {
       "title": "DroneShield Launches Mission Ready Services to Support Counter-UAS and Drone Defense Operations - UASweekly.com",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQX0pWVTNMbUJLQzk4bkRTemh2c3UtbTFuN3VyMjlKdkdXanVuQmpwc3dwa0NTWVc3VGJqUU5aSWtCUDdraUU4VzZieHotcjVzYVltWXl4Wko0cmlsSG9nLU5aVG5GRkxGZ0xDZGZoTUFkVThEM0JSN01xbl9FbmRCNy1HYkdfMWJXbDVDNlVoZTNzVmJjelRCSmhWbU0tRnpvdWxlUHVUeGgwUUdvWXF3VkVWWG9tQW1LWlZXZXJiY3NLOURmd01XdA?oc=5",
       "published": "Thu, 01 Oct 2026 07:00:00 GMT",
       "source": "UASweekly.com"
+    },
+    {
+      "title": "Fortem Raises $50 Million to Scale Counter-Drone Systems - Dronelife",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFByLVpacndLSWF2ZlZyZFNLbmRiQ25EUlZSa0dHWUpyclZHTEtFLXBfd2hpS0JMdHNUbWVqcGRud0tyRHM0UDRPUzZGTVk0b19GZGcwMm56UUtDRjNzNVNkV29iLWpoTHpNazRWMndYUS1tckFBSmJtSVFBdlEyMmc?oc=5",
+      "published": "Wed, 30 Sep 2026 07:00:00 GMT",
+      "source": "Dronelife"
     }
   ]
 }
