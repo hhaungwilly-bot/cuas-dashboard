@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-24T19:17:13.671819",
+  "last_updated": "2026-10-24T21:40:37.251877",
   "articles": [
     {
       "title": "A new sting in drone defense: Bumblebee V2 arrives at MacDill - MacDill Air Force Base (.mil)",
@@ -14,16 +14,16 @@
       "source": "Naval News"
     },
     {
-      "title": "US Army targets 2028 for first high-energy laser counter-drone weapons - Defense News",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPOUppcDJLMEIwZVpLYVRMOGh4UDY5RFk4MHRJdVA1Njg1N2hEQmdEa3JfMnEydkhpWV8wMEx2RG93bjVyeGtFRzc0WkhkWE1zZUpiMFdLczUzOGEzZGFLQlU1cUFsZnVRbTVQcmZ0ek9HYlBYdGdSYzJ3TzBYZGZMeWJiUXpWZHk4TFBJQTJKWHF1dnI3Uno5d1dSQ0g0ZnVGbU5BekhsVDFOQmh1ak9PUW9Xb1cwUmlBempvQTB4d3h6dU1Ca3JFVg?oc=5",
-      "published": "Tue, 13 Oct 2026 07:00:00 GMT",
-      "source": "Defense News"
-    },
-    {
       "title": "7th Air Force seeks new counter-drone capabilities for point defense modernization in South Korea - DefenseScoop",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQeURQQTFFNGVCTTFRVURIekp5S3R0dFQ4NVBzRzFDclpFbHlLd2owZFRwUDFFbDNDSGJTUkRKQ2laeEN4UnRhaUljaXBDY1ZDOGlFR09rWnBETTA4UGt5X2pCVm1DelVLdFY0ZHlfcDZIWUVoTFpQNkJQbDdMQXVSLWtwamdZbUQzYnQwV2pvSmJUZTJKTUM0OHBrSFBxanMwREE?oc=5",
       "published": "Mon, 05 Oct 2026 07:00:00 GMT",
       "source": "DefenseScoop"
+    },
+    {
+      "title": "US Army targets 2028 for first high-energy laser counter-drone weapons - Defense News",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPOUppcDJLMEIwZVpLYVRMOGh4UDY5RFk4MHRJdVA1Njg1N2hEQmdEa3JfMnEydkhpWV8wMEx2RG93bjVyeGtFRzc0WkhkWE1zZUpiMFdLczUzOGEzZGFLQlU1cUFsZnVRbTVQcmZ0ek9HYlBYdGdSYzJ3TzBYZGZMeWJiUXpWZHk4TFBJQTJKWHF1dnI3Uno5d1dSQ0g0ZnVGbU5BekhsVDFOQmh1ak9PUW9Xb1cwUmlBempvQTB4d3h6dU1Ca3JFVg?oc=5",
+      "published": "Tue, 13 Oct 2026 07:00:00 GMT",
+      "source": "Defense News"
     },
     {
       "title": "Teledyne FLIR Defense releases new compact counter-UAS radar - Breaking Defense",
@@ -50,12 +50,6 @@
       "source": "Army.mil"
     },
     {
-      "title": "Top Counter UAS Market Companies Driving Defense Innovation - MarketsandMarkets",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOc08wWDdNQWJzenBzdWtvcnR6bFRpUmk3X2hJbjZOU1IwOVBtR2s4dVc5U3puTU9VVXpNN2ZBc0RleGlVSGlOZ3loZ21nQm9SaVZlRWo2d3U4YzFVNFBENmF0blJ6a21ZQTZhLXNKRFFNOXh1QU9SZC1mV0g5YUswY3k1cjV6ZDZJcFU1OTB3Tkxqc0l6VVZsNHotb0JTXzZqc0Y4VjFPdUlkSjBnNWVxOFhCVQ?oc=5",
-      "published": "Fri, 23 Oct 2026 21:20:18 GMT",
-      "source": "MarketsandMarkets"
-    },
-    {
       "title": "Systems Selected for JIATF 401 Directed-Energy Counter-Drone Pilot Program - U.S. Department of War (.gov)",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPTG5FUEtRWFNTeXdNYl9hMEt2SER2SEZnSS1FZWk5Q0pSSGlxdnRlcng3eF84a2VQZ1pJM19MR1VCbk9SQVBOQW41V3NIYXRnS2Y1T2VUOGxTd0FrcThxYWNXOXNpaUR5dW5kaGlOZmg4RDZIWS1jekdZeTV0TnFBU0RlY1d2MGpNU1M3aG5salNsbllKSUJiRW5wUVJVelp3RnpWZjc1cHNQVldOaU9hSkxzYUNneldQa3V3bWNMRzRUWENfamp2TmptUTR6Zw?oc=5",
       "published": "Mon, 05 Oct 2026 07:00:00 GMT",
@@ -78,6 +72,12 @@
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOckI1TDZYLTJhQTgyaVUwekpCazZXZERNYUFmeUkzUnFhNm8zZ0tTaGNIa09xdHhwS00ybG1YNXdzempTdjU0eC1ZSkJCQjRMNkkwY2JxMVlVR3pDVGRXNWFhSDRNNnRQVERsUTA2TWtMS3ZRTHEyUTBfS3o2dV9yUTFrbjYyY05qQnBEYWhqOVp5dHB4cU1OMlB2N0gwN2VKSjZ2Y3dGZkdmT3pndHJJLThOQkJENUpaTmdsOHI4ZjhrWlpDZGNxRlhaOFRtRVk?oc=5",
       "published": "Wed, 14 Oct 2026 13:08:50 GMT",
       "source": "Homeland Security Today"
+    },
+    {
+      "title": "Top Counter UAS Market Companies Driving Defense Innovation - MarketsandMarkets",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOc08wWDdNQWJzenBzdWtvcnR6bFRpUmk3X2hJbjZOU1IwOVBtR2s4dVc5U3puTU9VVXpNN2ZBc0RleGlVSGlOZ3loZ21nQm9SaVZlRWo2d3U4YzFVNFBENmF0blJ6a21ZQTZhLXNKRFFNOXh1QU9SZC1mV0g5YUswY3k1cjV6ZDZJcFU1OTB3Tkxqc0l6VVZsNHotb0JTXzZqc0Y4VjFPdUlkSjBnNWVxOFhCVQ?oc=5",
+      "published": "Fri, 23 Oct 2026 21:20:18 GMT",
+      "source": "MarketsandMarkets"
     },
     {
       "title": "KnitMesh Showcases DroneStop Counter-UAS Technology for Drone Defense in Europe - uasweekly.com",
