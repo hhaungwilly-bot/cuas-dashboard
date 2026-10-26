@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-26T08:46:03.081693",
+  "last_updated": "2026-10-26T15:30:09.130170",
   "articles": [
     {
       "title": "A new sting in drone defense: Bumblebee V2 arrives at MacDill - MacDill Air Force Base (.mil)",
@@ -32,6 +32,12 @@
       "source": "Breaking Defense"
     },
     {
+      "title": "ParaZero Launches TillOnAIR Autonomous Counter-UAS Perimeter Defense System - Quiver Quantitative",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYzVpZXdTTmt6dDlJOWdjcGJ4RmpoTExqSHpKbnRqdHM0ZHZUbTBBTC1GdlRRTmhUY19EbHB6NmVadGZzaEJuOE1OQTZkZnFQOFhVNW5yWVVNNE82T3B2RUFqdDFZWWZ4a0VDa1VjNUN5VmFZaUtOeXZIeVN6bTM4Q2JnWXlHQVo4UEx5N0lRTER3OGRyUHBhNWxNMUcweDBPUWw0NjdRYnIwc3d4?oc=5",
+      "published": "Mon, 26 Oct 2026 12:51:00 GMT",
+      "source": "Quiver Quantitative"
+    },
+    {
       "title": "Integrating sensors and weapons a key challenge in counter-drone defense, Honeywell official says - Military Embedded Systems",
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNTTZtZ1BYbTNldVBFd3h0ZzZoMnN5alRmdFVSUjdWUWRodVd0UmNjNUpRbUpmWUQ4NGZOSWswZy1BWk1meU80WDlMbXFNSzltNmw0OFFFZklpZ0xYeFFBaVFVbWpWMkd4dlVDcVFZMHVLQkNwMWVCczZwdS1FYkNxODVjcW9Vd2xoekE5QlotXzN2czRzaXBtSzFJMG9ueF9ra2dPWF9VT3hjNVVteWkxU1RWeGd4TkVJbUhSdkpsbHB5QVRpZldoZ3F6UjBhLU54Skx4VGlLWkVXLWpPTndR?oc=5",
       "published": "Tue, 13 Oct 2026 20:09:32 GMT",
@@ -44,22 +50,10 @@
       "source": "Army.mil"
     },
     {
-      "title": "L3Harris Delivers VAMPIRE Counter-Drone Systems to U.S. Army - Overt Defense -",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNX3huaXNFSFh6X0RRelgyckdTdmRXanp5RTVtUExfTjVTMXdva3FUMFlXbzN2Ml9ILXA4WUx6MjJMMEVqWV9lSW96Y3lJODE4VmFfMEloSjNPOExQbGdzSmwxVW5pcnlsVWxyVmFBcTdTdXd0M0c5X0t0VlBkNUdJR242NGdxTTNmSVRtTWxnWFJBS0Nabi1NTTR5NjFjU2VId0E?oc=5",
-      "published": "Wed, 21 Oct 2026 14:00:07 GMT",
-      "source": "Overt Defense -"
-    },
-    {
       "title": "Systems Selected for JIATF 401 Directed-Energy Counter-Drone Pilot Program - U.S. Department of War (.gov)",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPTG5FUEtRWFNTeXdNYl9hMEt2SER2SEZnSS1FZWk5Q0pSSGlxdnRlcng3eF84a2VQZ1pJM19MR1VCbk9SQVBOQW41V3NIYXRnS2Y1T2VUOGxTd0FrcThxYWNXOXNpaUR5dW5kaGlOZmg4RDZIWS1jekdZeTV0TnFBU0RlY1d2MGpNU1M3aG5salNsbllKSUJiRW5wUVJVelp3RnpWZjc1cHNQVldOaU9hSkxzYUNneldQa3V3bWNMRzRUWENfamp2TmptUTR6Zw?oc=5",
       "published": "Mon, 05 Oct 2026 07:00:00 GMT",
       "source": "U.S. Department of War (.gov)"
-    },
-    {
-      "title": "NORTHCOM Expands Counter-UAS Operations Against Cartel Drones at the Southern Border - Small Wars Journal",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOaWlxQlNOQ1ZfY1NQdnhwc0x2V0xja0FoWGZoS3dkWU1ubk9remxWSE1GUmtEd1p4QVZOcE56M0pBcWtOMTdfX25iSlRPc0RUOXB6YmNUVm9pZHRBNEljQWN6Ync5a2t5SzRfUjNLZ1hGTl92WkE5UVBSM1NaQUFhNU1EbmhWeEtkUFRZajJnLTNzazRrX2lCTElLNVoyVGtaZDRnSXJtN0UteFFIMl90SUZQVGRhSUdKazN4aGw5U1BGWUU?oc=5",
-      "published": "Mon, 19 Oct 2026 04:06:46 GMT",
-      "source": "Small Wars Journal"
     },
     {
       "title": "DOT sets up no-drone zone along southern border - FedScoop",
@@ -68,10 +62,22 @@
       "source": "FedScoop"
     },
     {
+      "title": "NORTHCOM Expands Counter-UAS Operations Against Cartel Drones at the Southern Border - Small Wars Journal",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOaWlxQlNOQ1ZfY1NQdnhwc0x2V0xja0FoWGZoS3dkWU1ubk9remxWSE1GUmtEd1p4QVZOcE56M0pBcWtOMTdfX25iSlRPc0RUOXB6YmNUVm9pZHRBNEljQWN6Ync5a2t5SzRfUjNLZ1hGTl92WkE5UVBSM1NaQUFhNU1EbmhWeEtkUFRZajJnLTNzazRrX2lCTElLNVoyVGtaZDRnSXJtN0UteFFIMl90SUZQVGRhSUdKazN4aGw5U1BGWUU?oc=5",
+      "published": "Mon, 19 Oct 2026 04:06:46 GMT",
+      "source": "Small Wars Journal"
+    },
+    {
       "title": "Air Force Special Warfare Tests Kinetic Drone Interceptor in Counter-UAS Exercise - The SOFX Report",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNE91dG5SYkoyeDh3Z1c1aGN5S2xKMWZ4M0J2d09feEtud25DenEyenE2SkRFbFZDQV9SVkdJU0lZRzNhSkltSk00dk9UMThzNXBQWXQ1S01XNU5tYm5jRzg1a1lBVmdJT3N1dzdXSndmS2tzdmgxQ0ZGekt0clJGX3VJVmtEcWFLSENYSzZOQmZXUGdDVW1rWW96RnQ4UXZMN3NkYWtR?oc=5",
       "published": "Tue, 13 Oct 2026 07:00:00 GMT",
       "source": "The SOFX Report"
+    },
+    {
+      "title": "L3Harris Delivers VAMPIRE Counter-Drone Systems to U.S. Army - Overt Defense -",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNX3huaXNFSFh6X0RRelgyckdTdmRXanp5RTVtUExfTjVTMXdva3FUMFlXbzN2Ml9ILXA4WUx6MjJMMEVqWV9lSW96Y3lJODE4VmFfMEloSjNPOExQbGdzSmwxVW5pcnlsVWxyVmFBcTdTdXd0M0c5X0t0VlBkNUdJR242NGdxTTNmSVRtTWxnWFJBS0Nabi1NTTR5NjFjU2VId0E?oc=5",
+      "published": "Wed, 21 Oct 2026 14:00:07 GMT",
+      "source": "Overt Defense -"
     },
     {
       "title": "Leonardo DRS Secures $500 Million Contract to Support Counter-Drone Defense Capabilities - Homeland Security Today",
@@ -80,21 +86,21 @@
       "source": "Homeland Security Today"
     },
     {
-      "title": "Top Counter UAS Market Companies Driving Defense Innovation - MarketsandMarkets",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOc08wWDdNQWJzenBzdWtvcnR6bFRpUmk3X2hJbjZOU1IwOVBtR2s4dVc5U3puTU9VVXpNN2ZBc0RleGlVSGlOZ3loZ21nQm9SaVZlRWo2d3U4YzFVNFBENmF0blJ6a21ZQTZhLXNKRFFNOXh1QU9SZC1mV0g5YUswY3k1cjV6ZDZJcFU1OTB3Tkxqc0l6VVZsNHotb0JTXzZqc0Y4VjFPdUlkSjBnNWVxOFhCVQ?oc=5",
-      "published": "Fri, 23 Oct 2026 21:20:18 GMT",
-      "source": "MarketsandMarkets"
-    },
-    {
       "title": "KnitMesh Showcases DroneStop Counter-UAS Technology for Drone Defense in Europe - uasweekly.com",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVzIzU1l0NDVjNVJtenZnZkhXbklNaWFxNmF1RmEtZ2JQMTFPSVhsTkxuQ3o0U01aalNzTnExV21PUTEyTFFpLV9GWmhuNzRteTNwOXlXaTlpYkpDdGxfYmFvS2NuMDhWRkZiQnZSbW1aQXBMMHpQQmRpQjRXOE9xTDJkaXFMTnd4YXVaYVFnQVNTTFl6eUZuV092MVlqVWN4UjgzNlRtWENZQ3p0d2c5dmI1RQ?oc=5",
       "published": "Mon, 05 Oct 2026 07:00:00 GMT",
       "source": "uasweekly.com"
     },
     {
+      "title": "Top Counter UAS Market Companies Driving Defense Innovation - MarketsandMarkets",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOc08wWDdNQWJzenBzdWtvcnR6bFRpUmk3X2hJbjZOU1IwOVBtR2s4dVc5U3puTU9VVXpNN2ZBc0RleGlVSGlOZ3loZ21nQm9SaVZlRWo2d3U4YzFVNFBENmF0blJ6a21ZQTZhLXNKRFFNOXh1QU9SZC1mV0g5YUswY3k1cjV6ZDZJcFU1OTB3Tkxqc0l6VVZsNHotb0JTXzZqc0Y4VjFPdUlkSjBnNWVxOFhCVQ?oc=5",
+      "published": "Fri, 23 Oct 2026 21:20:18 GMT",
+      "source": "MarketsandMarkets"
+    },
+    {
       "title": "Electro Optic Systems: Turning Counter-UAS Tailwinds Into Multi-Layer Defense Scale(EOPSF) - Seeking Alpha",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbDB4dU9Rd0w3X2NHc0Y3MVRCWERjTDBGOWZZSXZlaGlOVzRCTXFWQ0oxX3cyOEx0NzlBOFZrRjBadzBnakpzYVB0c0ZFOWFKckxBbnpTMmtuUWY3WndFU3lLb0pQalV2d0NJMmF2QXJHUFN4ZF9jdjhuZmM5a25aSGJUVDNLMHE1N3RJRlpSV20zT0ZNM3dSd3hrZnNNY2Nkd2Q2U1k1dUlUNnB5RVU3a3B0aDFRcWtwS3NmM05scF8?oc=5",
-      "published": "Thu, 15 Oct 2026 00:24:15 GMT",
+      "published": "Wed, 14 Oct 2026 07:00:00 GMT",
       "source": "Seeking Alpha"
     },
     {
@@ -114,12 +120,6 @@
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQLTRvS3g3eTFobGluWXFncWNFSlhwdnZoMlYwSUNhR1EyX2c4T1NpWWVmVEE1OWpTUkJ1dFhISTJZNWRhaFBXd1FndE4xUnRSUVVNUDdSWGVrbjhSaWY1VkgteHlTSDVNUG5hbHRrb21YNDVCeEtpM2lnWlJURXJkV21naEVheXE1bkR4eVZqRGxzYmFLSXJma04xdjF5bFZ0bnd5ZnVnamxmQnpRNWc?oc=5",
       "published": "Thu, 08 Oct 2026 07:00:00 GMT",
       "source": "Breaking Defense"
-    },
-    {
-      "title": "Pentagon task force, Army announce billions in counter-drone tech awards - DefenseScoop",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPc1pJU21VRHpoT2I1YnAxa21ib2JKeHBmLUdxNGUxUlpVWlFVbTV3eW41TEdSbGRIVUFzNE4wczBtWlc2d3BLNjNlSGk5VklqU1NFQTVhQjBqcnNJMjkwQ2swNUdOX3Vwc0Q2MlpGRThhSHoxRzRFNjFQRFZ6U1dVUGY0MWFSOEg5UjZxMVd4YzJ0YzdtNjRoM3RCdk5ZLUI3MDVrdlpod205QUV4?oc=5",
-      "published": "Tue, 29 Sep 2026 07:00:00 GMT",
-      "source": "DefenseScoop"
     }
   ]
 }
