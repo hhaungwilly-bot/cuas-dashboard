@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-31T12:45:53.518583",
+  "last_updated": "2026-10-31T17:22:45.383669",
   "articles": [
     {
       "title": "US-Australian Partnership Brings Field-Printable Counter-UAS Drones to American Market - The Defense Post",
@@ -20,16 +20,16 @@
       "source": "Dronelife"
     },
     {
-      "title": "Anti-drone tech dominates Pitch Day at the 2026 UAS Summit & Expo - Technical.ly",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTE9GbmNEV2I0Z2J0bkZaRExZZ1MzdGtjYmFfMlFUMUt5LXg5RGJIUkQyUGE3NWFQLWwyZ3R2eFA2UXdmM19OWkpMcGVwSzlnVWM3YXZOSFVLb2hLMG9aOG5FMkVzMWZjYWFROFFLRDd2dEtkeDIyQU44d0htX3NRdUs1Nk1NcnM?oc=5",
-      "published": "Thu, 29 Oct 2026 10:34:06 GMT",
-      "source": "Technical.ly"
-    },
-    {
       "title": "Giving counter-UAS operators 75 km of advance warning throws the advantage to them - Breaking Defense",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaUNpNXhGbngwQWxxZDJteERWN3gxZWZKb0wzTnF1cjJBcUVCNVB6TWNRSG9VNjNIbGdRdVk5RUhtLWlLQXpDcDlmeHNQQ29nT3FpRWdtSENRMTFIWU1oTVZaSkdqRGJnNFpSbE9WbEhUekVvbDk5RTFhVVZVb0l5SzBEbnRhME8wdjhrX29EeUR0ZzJUeUwtOG1xRFYybHJsYWdxUHZwd0c0LTRzY242MzNyOU16NG9UVDQ4?oc=5",
       "published": "Thu, 29 Oct 2026 15:04:37 GMT",
       "source": "Breaking Defense"
+    },
+    {
+      "title": "Anti-drone tech dominates Pitch Day at the 2026 UAS Summit & Expo - Technical.ly",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTE9GbmNEV2I0Z2J0bkZaRExZZ1MzdGtjYmFfMlFUMUt5LXg5RGJIUkQyUGE3NWFQLWwyZ3R2eFA2UXdmM19OWkpMcGVwSzlnVWM3YXZOSFVLb2hLMG9aOG5FMkVzMWZjYWFROFFLRDd2dEtkeDIyQU44d0htX3NRdUs1Nk1NcnM?oc=5",
+      "published": "Thu, 29 Oct 2026 10:34:06 GMT",
+      "source": "Technical.ly"
     },
     {
       "title": "A new sting in drone defense: Bumblebee V2 arrives at MacDill - MacDill Air Force Base (.mil)",
@@ -62,16 +62,22 @@
       "source": "FedScoop"
     },
     {
+      "title": "7th Air Force seeks new counter-drone capabilities for point defense modernization in South Korea - DefenseScoop",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQeURQQTFFNGVCTTFRVURIekp5S3R0dFQ4NVBzRzFDclpFbHlLd2owZFRwUDFFbDNDSGJTUkRKQ2laeEN4UnRhaUljaXBDY1ZDOGlFR09rWnBETTA4UGt5X2pCVm1DelVLdFY0ZHlfcDZIWUVoTFpQNkJQbDdMQXVSLWtwamdZbUQzYnQwV2pvSmJUZTJKTUM0OHBrSFBxanMwREE?oc=5",
+      "published": "Mon, 05 Oct 2026 07:00:00 GMT",
+      "source": "DefenseScoop"
+    },
+    {
       "title": "Restructuring Tactical Drone Defense for the European Frontline - Army.mil",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcTE4aU9pYWpHS3NoWDk3ZlB6azFsX3o4ODlzMmtRSnkyRkctNDBadEs4Q09TdVdxQUhkcXdJRnBsd0VBMzg2MEN2cm5IblVnbk9FdGlNTi1KcFdrSUd3NWpQV1BOTjFzbEtpelZUNnhwRUFLdkozZkxwb200OE9vMEZoT3RDT2JzX0ZvZDBUSDAtUW1jX2RxeWdWZjUyUkJF0gGmAUFVX3lxTFBHY3RyN21vVFdQWGRkbGlaNjc5akNNRjhXamRKZU13V1NSQTZFazZTTm4wM0tucU95dFVRY2w0V0kteVYzRk5pZWRWdWFIeWNMckpWbzljY0ctUm9yaWw1b2J1RW1DOEhhR0Z0SnNyMUJsaVJ4RUt3d2U1Nm1OSmlQdU1wUzZZZUM4elFZNHVJQVVVT2VWQ2dQZlotY2RzVXZsYm5LNlE?oc=5",
       "published": "Tue, 13 Oct 2026 07:00:00 GMT",
       "source": "Army.mil"
     },
     {
-      "title": "7th Air Force seeks new counter-drone capabilities for point defense modernization in South Korea - DefenseScoop",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQeURQQTFFNGVCTTFRVURIekp5S3R0dFQ4NVBzRzFDclpFbHlLd2owZFRwUDFFbDNDSGJTUkRKQ2laeEN4UnRhaUljaXBDY1ZDOGlFR09rWnBETTA4UGt5X2pCVm1DelVLdFY0ZHlfcDZIWUVoTFpQNkJQbDdMQXVSLWtwamdZbUQzYnQwV2pvSmJUZTJKTUM0OHBrSFBxanMwREE?oc=5",
-      "published": "Mon, 05 Oct 2026 07:00:00 GMT",
-      "source": "DefenseScoop"
+      "title": "NORTHCOM Expands Counter-UAS Operations Against Cartel Drones at the Southern Border - Small Wars Journal",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOaWlxQlNOQ1ZfY1NQdnhwc0x2V0xja0FoWGZoS3dkWU1ubk9remxWSE1GUmtEd1p4QVZOcE56M0pBcWtOMTdfX25iSlRPc0RUOXB6YmNUVm9pZHRBNEljQWN6Ync5a2t5SzRfUjNLZ1hGTl92WkE5UVBSM1NaQUFhNU1EbmhWeEtkUFRZajJnLTNzazRrX2lCTElLNVoyVGtaZDRnSXJtN0UteFFIMl90SUZQVGRhSUdKazN4aGw5U1BGWUU?oc=5",
+      "published": "Mon, 19 Oct 2026 07:00:00 GMT",
+      "source": "Small Wars Journal"
     },
     {
       "title": "Air Force Special Warfare Tests Kinetic Drone Interceptor in Counter-UAS Exercise - The SOFX Report",
@@ -80,10 +86,16 @@
       "source": "The SOFX Report"
     },
     {
-      "title": "UND, Joint Interagency Task Force 401 sign memorandum of understanding to assess counter-drone technology - Grand Forks Herald",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNWlVtTGxLWUNWVDJvbG4yN0dKUHJCMU1aX2JkckxwZlAyQnNIUDRRTHAwdFBpbmsyczYyWU1IMWFCd29KWU0tNGg5cWhYazRVR1M3bTJya0hCOVBPWGxVSWNJNXJxeEU0ZWdYNk1BaWZ2a1JrT1FCelhrYm13dVRkOU1uVmMzUmI3SEQ3WEZiWmJuRjNRZnRWTUpTb2dhZl95dFdJX2tBanNwaUI5cVhMQjlRbUN1NnlXSjB1QjE3b1R4eUl3Q3NPRlpKdERDcUVoWHlUTDd3eWt4VEVZVndCTTVB?oc=5",
-      "published": "Thu, 15 Oct 2026 07:00:00 GMT",
-      "source": "Grand Forks Herald"
+      "title": "Innoviz Sees Strong Counter-UAS Demand at AUSA 2026, Reinforcing the Fit of Innoviz Perciz for U.S. Defense and Homeland Security Markets - PR Newswire",
+      "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQSXBTbm5BRTg2NW5mUVdfWXRQb3JxU19FVjZxQ3g0VTlWR3pVWWFrOFZfRjVEOXNzWF9nQ2R2Rms4MXI5WUk3eGUxT1dIUFFpQ292YzNTYjZ4ZlVVX1FnVHV4S1RqRzNtdkpjbGtqS3RfWTFzYlFQTHQ1d2dRZmJSekp6MzVCQnJ6YXlpSEFsUGZmVEtyT2pncmlGSThEcFQzTE5XMS02ZFFhbjFlTFduUjVxa0NrdHljWGJwYnpqRzE5Wlh4dmZVR1RWa2ZwTnZPNFNFMjZoZVI1bWdJb0NzcWhmMFpSaTRpdGxoNXRJYVdaN0V0Ujh4UjdBRXE0Nmt0aml1dzd0X2pUTlp1VXZmaml4SnNNQW9SN2c?oc=5",
+      "published": "Wed, 28 Oct 2026 13:00:00 GMT",
+      "source": "PR Newswire"
+    },
+    {
+      "title": "Leonardo DRS Secures $500 Million Contract to Support Counter-Drone Defense Capabilities - Homeland Security Today",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOckI1TDZYLTJhQTgyaVUwekpCazZXZERNYUFmeUkzUnFhNm8zZ0tTaGNIa09xdHhwS00ybG1YNXdzempTdjU0eC1ZSkJCQjRMNkkwY2JxMVlVR3pDVGRXNWFhSDRNNnRQVERsUTA2TWtMS3ZRTHEyUTBfS3o2dV9yUTFrbjYyY05qQnBEYWhqOVp5dHB4cU1OMlB2N0gwN2VKSjZ2Y3dGZkdmT3pndHJJLThOQkJENUpaTmdsOHI4ZjhrWlpDZGNxRlhaOFRtRVk?oc=5",
+      "published": "Wed, 14 Oct 2026 13:08:50 GMT",
+      "source": "Homeland Security Today"
     },
     {
       "title": "Counter-UAS solution finds and classifies targets at standoff distance with \u201cautonomous perception\u201d - Breaking Defense",
@@ -98,28 +110,16 @@
       "source": "U.S. Department of War (.gov)"
     },
     {
-      "title": "Hegseth issues new directive to hasten U.S. military\u2019s counter-drone pursuits - DefenseScoop",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOHlaZmpqTUZMVk85VnZpMHBBSU92REZjY0s3SFZLalQ1eDZ2U2Q5anViQ2tDR05sTXdEbTVpZV9yRUd6UkMzdnpERlo5VnJfRFAxUGp1eTdlQjRicHdBT3FfajNvWjYzYjhYYzVxYVhFWlZpQmhxdERrY3psREpWX2N4MzZJV2c3V3hib1B5V1RjeDAwUU4zdXhUX1N2anM?oc=5",
-      "published": "Fri, 02 Oct 2026 07:00:00 GMT",
-      "source": "DefenseScoop"
-    },
-    {
       "title": "Pentagon picks 4 vendors for counter-drone directed energy pilot program - Breaking Defense",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWlhCR29oWUF0U0Jpcl85QmE3RXB6dlZ5MmlXOWFtZGN2T3k0X2ZqWlNfMVlncHVGSm5wNVplWWxqZ1hKMzZYMHdWZ3NUaFJFUlV1Wnh4X0kzZ2FlZndibFd3VzdhRjFyTkdyd295M3hXRUlKOHlkM1Z4bEE0WDhZbjhIeHZNV3JkMUNzRnJpZEgzbFpIZTViSGNqM3lYOHNEYTNGVVM1Q0Zoa3VNQVE?oc=5",
       "published": "Mon, 05 Oct 2026 07:00:00 GMT",
       "source": "Breaking Defense"
     },
     {
-      "title": "Leonardo DRS Secures $500 Million Contract to Support Counter-Drone Defense Capabilities - Homeland Security Today",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOckI1TDZYLTJhQTgyaVUwekpCazZXZERNYUFmeUkzUnFhNm8zZ0tTaGNIa09xdHhwS00ybG1YNXdzempTdjU0eC1ZSkJCQjRMNkkwY2JxMVlVR3pDVGRXNWFhSDRNNnRQVERsUTA2TWtMS3ZRTHEyUTBfS3o2dV9yUTFrbjYyY05qQnBEYWhqOVp5dHB4cU1OMlB2N0gwN2VKSjZ2Y3dGZkdmT3pndHJJLThOQkJENUpaTmdsOHI4ZjhrWlpDZGNxRlhaOFRtRVk?oc=5",
-      "published": "Wed, 14 Oct 2026 13:08:50 GMT",
-      "source": "Homeland Security Today"
-    },
-    {
-      "title": "NORTHCOM Expands Counter-UAS Operations Against Cartel Drones at the Southern Border - Small Wars Journal",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOaWlxQlNOQ1ZfY1NQdnhwc0x2V0xja0FoWGZoS3dkWU1ubk9remxWSE1GUmtEd1p4QVZOcE56M0pBcWtOMTdfX25iSlRPc0RUOXB6YmNUVm9pZHRBNEljQWN6Ync5a2t5SzRfUjNLZ1hGTl92WkE5UVBSM1NaQUFhNU1EbmhWeEtkUFRZajJnLTNzazRrX2lCTElLNVoyVGtaZDRnSXJtN0UteFFIMl90SUZQVGRhSUdKazN4aGw5U1BGWUU?oc=5",
-      "published": "Mon, 19 Oct 2026 07:00:00 GMT",
-      "source": "Small Wars Journal"
+      "title": "Integrating sensors and weapons a key challenge in counter-drone defense, Honeywell official says - Military Embedded Systems",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNTTZtZ1BYbTNldVBFd3h0ZzZoMnN5alRmdFVSUjdWUWRodVd0UmNjNUpRbUpmWUQ4NGZOSWswZy1BWk1meU80WDlMbXFNSzltNmw0OFFFZklpZ0xYeFFBaVFVbWpWMkd4dlVDcVFZMHVLQkNwMWVCczZwdS1FYkNxODVjcW9Vd2xoekE5QlotXzN2czRzaXBtSzFJMG9ueF9ra2dPWF9VT3hjNVVteWkxU1RWeGd4TkVJbUhSdkpsbHB5QVRpZldoZ3F6UjBhLU54Skx4VGlLWkVXLWpPTndR?oc=5",
+      "published": "Tue, 13 Oct 2026 20:09:32 GMT",
+      "source": "Military Embedded Systems"
     }
   ]
 }
