@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-31T23:40:28.708407",
+  "last_updated": "2026-11-01T02:36:32.868079",
   "articles": [
     {
       "title": "US-Australian Partnership Brings Field-Printable Counter-UAS Drones to American Market - The Defense Post",
@@ -24,12 +24,6 @@
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNazNtblFRam5zMERELVQ3SFhwQ2J4RGRNZzIyZTc2LWpKdUdTWGpIeUFFX2cwc2pFVkwtYnJ3RnMtMmpWeWJLRURzbzFOVnZxek1ZWUhYN29TZ3VLN092UzdrQmxmMi1wVG5Mb2VPWUZ0VHdhbDlqc2tGVG5USHBqSm9nNzdwbVFMNHI5cw?oc=5",
       "published": "Tue, 27 Oct 2026 13:43:14 GMT",
       "source": "Dronelife"
-    },
-    {
-      "title": "Anti-drone tech dominates Pitch Day at the 2026 UAS Summit & Expo - Technical.ly",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTE9GbmNEV2I0Z2J0bkZaRExZZ1MzdGtjYmFfMlFUMUt5LXg5RGJIUkQyUGE3NWFQLWwyZ3R2eFA2UXdmM19OWkpMcGVwSzlnVWM3YXZOSFVLb2hLMG9aOG5FMkVzMWZjYWFROFFLRDd2dEtkeDIyQU44d0htX3NRdUs1Nk1NcnM?oc=5",
-      "published": "Thu, 29 Oct 2026 10:34:06 GMT",
-      "source": "Technical.ly"
     },
     {
       "title": "A new sting in drone defense: Bumblebee V2 arrives at MacDill - MacDill Air Force Base (.mil)",
@@ -98,6 +92,12 @@
       "source": "Homeland Security Today"
     },
     {
+      "title": "Integrating sensors and weapons a key challenge in counter-drone defense, Honeywell official says - Military Embedded Systems",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNTTZtZ1BYbTNldVBFd3h0ZzZoMnN5alRmdFVSUjdWUWRodVd0UmNjNUpRbUpmWUQ4NGZOSWswZy1BWk1meU80WDlMbXFNSzltNmw0OFFFZklpZ0xYeFFBaVFVbWpWMkd4dlVDcVFZMHVLQkNwMWVCczZwdS1FYkNxODVjcW9Vd2xoekE5QlotXzN2czRzaXBtSzFJMG9ueF9ra2dPWF9VT3hjNVVteWkxU1RWeGd4TkVJbUhSdkpsbHB5QVRpZldoZ3F6UjBhLU54Skx4VGlLWkVXLWpPTndR?oc=5",
+      "published": "Tue, 13 Oct 2026 20:09:32 GMT",
+      "source": "Military Embedded Systems"
+    },
+    {
       "title": "Counter-UAS solution finds and classifies targets at standoff distance with \u201cautonomous perception\u201d - Breaking Defense",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPal9hVVFNNXhUZ0sxa204ZUs3aW9CSS1MVGF1OEptcDA5cjVScHFYWEoxWU1QYkhhRXBTendCdkMzb09sRGp6RHFPUDhQdkRhcTJtUlFHMnNVZlZndFYxMTVrQ2o1S1lPcE5OVHJ4NExPOG9SMkYxS0xlS1dRQ2wzbVZxczEydE95Q0E5X0lqdWYxZWVOSk50NGRPUGRodkR1T1ZYeVk3LWF2NFNHLWhia3JmeUY2YjVoYlRLem1mVnJUbGI1TGRqYUJfNk5ac2M?oc=5",
       "published": "Wed, 28 Oct 2026 20:04:26 GMT",
@@ -116,10 +116,10 @@
       "source": "Breaking Defense"
     },
     {
-      "title": "Integrating sensors and weapons a key challenge in counter-drone defense, Honeywell official says - Military Embedded Systems",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNTTZtZ1BYbTNldVBFd3h0ZzZoMnN5alRmdFVSUjdWUWRodVd0UmNjNUpRbUpmWUQ4NGZOSWswZy1BWk1meU80WDlMbXFNSzltNmw0OFFFZklpZ0xYeFFBaVFVbWpWMkd4dlVDcVFZMHVLQkNwMWVCczZwdS1FYkNxODVjcW9Vd2xoekE5QlotXzN2czRzaXBtSzFJMG9ueF9ra2dPWF9VT3hjNVVteWkxU1RWeGd4TkVJbUhSdkpsbHB5QVRpZldoZ3F6UjBhLU54Skx4VGlLWkVXLWpPTndR?oc=5",
-      "published": "Tue, 13 Oct 2026 20:09:32 GMT",
-      "source": "Military Embedded Systems"
+      "title": "UND, Joint Interagency Task Force 401 sign memorandum of understanding to assess counter-drone technology - Grand Forks Herald",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNWlVtTGxLWUNWVDJvbG4yN0dKUHJCMU1aX2JkckxwZlAyQnNIUDRRTHAwdFBpbmsyczYyWU1IMWFCd29KWU0tNGg5cWhYazRVR1M3bTJya0hCOVBPWGxVSWNJNXJxeEU0ZWdYNk1BaWZ2a1JrT1FCelhrYm13dVRkOU1uVmMzUmI3SEQ3WEZiWmJuRjNRZnRWTUpTb2dhZl95dFdJX2tBanNwaUI5cVhMQjlRbUN1NnlXSjB1QjE3b1R4eUl3Q3NPRlpKdERDcUVoWHlUTDd3eWt4VEVZVndCTTVB?oc=5",
+      "published": "Thu, 15 Oct 2026 07:00:00 GMT",
+      "source": "Grand Forks Herald"
     }
   ]
 }
