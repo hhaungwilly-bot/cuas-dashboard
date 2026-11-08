@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-08T19:00:20.081460",
+  "last_updated": "2026-11-08T22:47:14.661076",
   "articles": [
     {
       "title": "University of North Dakota to Help Pentagon Evaluate Counter-Drone Technologies - Dronelife",
@@ -44,16 +44,16 @@
       "source": "Virginia Tech News"
     },
     {
-      "title": "MBDA and Terma develop containerised air defence system with counter-drone capability - Unmanned airspace",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQTWlMY1BwT0FsaDlvN2JOTWtDemVEcUZVa0NFNW5BZzRja090RXdfLXBsajMwQVhUWWhxZjEyVnVuZjg5TzV5TW9BSFN3ZXREMmVJOVlOWUhVN2N0YWhVZDdoZldaUUtnLXl1WGFTY1VpMVlIb3BHQlpvckllc21uTTdUY1hWMUdRSlhhRVloTUNXMTZmVDEwdHlDSUY3aGhNaGdRbFlxVmI1LVhHMW9OSlF4QmRtWHpsbldFODJObHpxVFo3UFB5MlFUOW4zeml2eHY1Ry1aOTg1YjRabjlsN0p6RkJMQ1o2?oc=5",
-      "published": "Thu, 05 Nov 2026 09:46:16 GMT",
-      "source": "Unmanned airspace"
-    },
-    {
       "title": "DOW Hosts 2nd Interagency Summit to Strengthen Counter-Drone Defense - U.S. Department of War (.gov)",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUUJaOVV5NUpuWWRHWW1LN3g0SDJYeGlyclRTcUF0ek9pRW43OW4zdjBjVWJBV08yakRwNFFWREZQa3IxV0dBN1pyeGdldUFZMUxoWTd5Q2N6QTBBWEhUcVA3cXQ4TnQzZ0haQ21VT0ZqRWVXaDJCY0otSmctT2FEdzBQVXFUcXUxYmE2YWpqMjFXZFRRMjVLUjByd3lYVW95OWduWTFQWEhTN1ptcUFpSzRkbkVVOVQ0a05Za2wyUHRVNEgzR242QWtsQQ?oc=5",
       "published": "Wed, 09 Sep 2026 07:00:00 GMT",
       "source": "U.S. Department of War (.gov)"
+    },
+    {
+      "title": "MBDA and Terma develop containerised air defence system with counter-drone capability - Unmanned airspace",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQTWlMY1BwT0FsaDlvN2JOTWtDemVEcUZVa0NFNW5BZzRja090RXdfLXBsajMwQVhUWWhxZjEyVnVuZjg5TzV5TW9BSFN3ZXREMmVJOVlOWUhVN2N0YWhVZDdoZldaUUtnLXl1WGFTY1VpMVlIb3BHQlpvckllc21uTTdUY1hWMUdRSlhhRVloTUNXMTZmVDEwdHlDSUY3aGhNaGdRbFlxVmI1LVhHMW9OSlF4QmRtWHpsbldFODJObHpxVFo3UFB5MlFUOW4zeml2eHY1Ry1aOTg1YjRabjlsN0p6RkJMQ1o2?oc=5",
+      "published": "Thu, 05 Nov 2026 09:46:16 GMT",
+      "source": "Unmanned airspace"
     },
     {
       "title": "Ondas Secures Multi-Million-Dollar Counter-UAS Contracts in Europe and Asia, Accelerating Global Expansion in Aerial Defense - Ondas inc.",
@@ -62,28 +62,22 @@
       "source": "Ondas inc."
     },
     {
-      "title": "NATO pushes faster counter-drone defenses and AI-enabled targeting as threats evolve - The Jerusalem Post",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1UMkhkbm1ucG9YMmpyNi1KMU9hUHBkcGg0T3JrU2hYUG1jT2FibkExWmJYaktCbGx3MU12c2hkMFpYTUxGa0FTREhZdnZPMmx0NHNueHc2b1N4VXdOZ2JIT3FBdw?oc=5",
-      "published": "Mon, 02 Nov 2026 07:38:27 GMT",
-      "source": "The Jerusalem Post"
-    },
-    {
       "title": "DHS begins $1.5B spending spree on drone defense - FedScoop",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5PQzVfakozTmxSay11NkVLYk9BWklmOF9qd1pYcTNCVWZ2cmhVaktqc2JtQnJpbms1Yko1THhFRnkyOWN4c2VTVjJuTUgySEV3QTZLOFBnRERaYkxBVkpVZldma2xPVWFUTG5EVEFR?oc=5",
       "published": "Tue, 04 Aug 2026 07:00:00 GMT",
       "source": "FedScoop"
     },
     {
+      "title": "NATO pushes faster counter-drone defenses and AI-enabled targeting as threats evolve - The Jerusalem Post",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1UMkhkbm1ucG9YMmpyNi1KMU9hUHBkcGg0T3JrU2hYUG1jT2FibkExWmJYaktCbGx3MU12c2hkMFpYTUxGa0FTREhZdnZPMmx0NHNueHc2b1N4VXdOZ2JIT3FBdw?oc=5",
+      "published": "Mon, 02 Nov 2026 07:38:27 GMT",
+      "source": "The Jerusalem Post"
+    },
+    {
       "title": "Pentagon approves long-range, autonomous counter-UAS system for use across the military after border testing - DefenseScoop",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQ2ZSVldfYnY3OWlpREdGRVVTaFNfNUFxX3h6TzJnREhOUzVfLU93bFllLXdnMGZkNFVaUWdHVUo4c1dyMkpXbEh4UzJBOFFSclhJdTlxMl9wOUVZTVFEUlFxQzNNZXU2c21QcW9FY1V4NGlHVkhQVzJjUF80dHh4ODZvc3ZCNlBiQ3NrQmd1Y2NEVDFtSFdXMDFKM3hDem9XM0tpb01xVmpSUHc?oc=5",
       "published": "Tue, 09 Jun 2026 07:00:00 GMT",
       "source": "DefenseScoop"
-    },
-    {
-      "title": "Radar Contract Boosts USCENTCOM Counter-Drone Defense - Mirage News",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeENJNXRaWDhuMjVkZWhCb3RwVm80XzNSWlBSUGtjVGV0MzdMUzZxQ2dBWjh0cHZJS0swVXJlXzNrU0VzX0ZHZmR4bTJTN09CNTRTN2NoeDJtcHkxNFBWYkJjNTJ2T3RYdXlwZS1RQkQyc2N1R2dadUtDSVNPaERNVlMwV2VMX1B3?oc=5",
-      "published": "Wed, 04 Nov 2026 17:16:00 GMT",
-      "source": "Mirage News"
     },
     {
       "title": "Ondas secures counter-UAS contracts in Europe and Asia - Defensehere",
@@ -119,6 +113,12 @@
       "title": "Systems Selected for JIATF 401 Directed-Energy Counter-Drone Pilot Program - U.S. Department of War (.gov)",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPTG5FUEtRWFNTeXdNYl9hMEt2SER2SEZnSS1FZWk5Q0pSSGlxdnRlcng3eF84a2VQZ1pJM19MR1VCbk9SQVBOQW41V3NIYXRnS2Y1T2VUOGxTd0FrcThxYWNXOXNpaUR5dW5kaGlOZmg4RDZIWS1jekdZeTV0TnFBU0RlY1d2MGpNU1M3aG5salNsbllKSUJiRW5wUVJVelp3RnpWZjc1cHNQVldOaU9hSkxzYUNneldQa3V3bWNMRzRUWENfamp2TmptUTR6Zw?oc=5",
       "published": "Mon, 05 Oct 2026 07:00:00 GMT",
+      "source": "U.S. Department of War (.gov)"
+    },
+    {
+      "title": "JIATF 401 Drone Defense Marketplace Broadens Allied Access to Counter-Drone Capabilities - U.S. Department of War (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOanAxUXdBNkI2dWwtZ3NuSFYxUVZYTWJfNkk1ZWwxQjBiYVk4U2EtZklUNS1ES1Ywc0tlenlTbldDay1UNFROcXhmdDBwUk1QcGUxOExaOGZaYVhuTVBXSDNQVnZ3TkVIYkZSVkJLZkpuMW14VGdZU18xMmVIUDJIZXliRVkxY0VYRjlRUC1IN25aOU1hUTlNczNjdnl4TTV2a0dzSzBmUV94WERLeHJrRXB2UGVKVUpSWnhfTzNCenYzRGsxSFQwYWZTUDI4UTg1VDBXcWdFRmV3dw?oc=5",
+      "published": "Wed, 20 May 2026 07:00:00 GMT",
       "source": "U.S. Department of War (.gov)"
     }
   ]
