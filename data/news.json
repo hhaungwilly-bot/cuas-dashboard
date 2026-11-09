@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-09T02:05:05.971155",
+  "last_updated": "2026-11-09T09:41:28.834999",
   "articles": [
     {
       "title": "University of North Dakota to Help Pentagon Evaluate Counter-Drone Technologies - Dronelife",
@@ -32,18 +32,6 @@
       "source": "MacDill Air Force Base (.mil)"
     },
     {
-      "title": "Shield AI to Acquire Radar Maker Echodyne for $5.3 Billion - Israel Defense",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE14aWxxS2lIZk1KNkptRVJNMjlBdWdyNmM5b25OczFJbW5qTjJCaUp1ZC0weWZVMnFTY0hyaEpLVk5Ed2dxa21MdThIRHpHTXJKTC0tNUdIcHU?oc=5",
-      "published": "Sun, 08 Nov 2026 10:12:00 GMT",
-      "source": "Israel Defense"
-    },
-    {
-      "title": "Ondas Secures Multi-Million-Dollar Counter-UAS Contracts in Europe and Asia, Accelerating Global Expansion in Aerial Defense - Ondas inc.",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOc1BoLUk5SDRaWUZNeGFyVVFyOUd3NTBrX3ltNHpDeUtDOFQtUVY1VVplckZMU1hxNHcxVkw0UHQ0REJZS1MwSGVFMzl0UXFIeV9XaUdsTklpN2NQdnExQlpBOElKRDhyMzhfVU1RODZOaWFCVG5aOGp3aGR4QTE2YUJSR1EwRXliOGV6cXREdDNvdExlaHp3WmE0YzFoV0tIOW9wcGh4OGlYdw?oc=5",
-      "published": "Wed, 04 Nov 2026 13:33:25 GMT",
-      "source": "Ondas inc."
-    },
-    {
       "title": "Nation\u2019s drone defenses bolstered by new center - Virginia Tech News",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMG5mREZZV09kRWhwcXktaHVUVlVZbFNmTVd3eDFCQzhSTThTWDZQRFM0U3MtaHJ2Y01zZXlFMm1jb01kMUZLbFhpYWJzbFptTi0xNmFSV014VHJNdVdyeEhCNVg0ZnNmT1JicXA5OEFWeGJ6VXNHZ2NreF9ZTDdqdFdpalNFR3d1c0FrNzlseVQtd0U?oc=5",
       "published": "Fri, 28 Aug 2026 07:00:00 GMT",
@@ -54,6 +42,12 @@
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUUJaOVV5NUpuWWRHWW1LN3g0SDJYeGlyclRTcUF0ek9pRW43OW4zdjBjVWJBV08yakRwNFFWREZQa3IxV0dBN1pyeGdldUFZMUxoWTd5Q2N6QTBBWEhUcVA3cXQ4TnQzZ0haQ21VT0ZqRWVXaDJCY0otSmctT2FEdzBQVXFUcXUxYmE2YWpqMjFXZFRRMjVLUjByd3lYVW95OWduWTFQWEhTN1ptcUFpSzRkbkVVOVQ0a05Za2wyUHRVNEgzR242QWtsQQ?oc=5",
       "published": "Wed, 09 Sep 2026 07:00:00 GMT",
       "source": "U.S. Department of War (.gov)"
+    },
+    {
+      "title": "Ondas Secures Multi-Million-Dollar Counter-UAS Contracts in Europe and Asia, Accelerating Global Expansion in Aerial Defense - Ondas inc.",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOc1BoLUk5SDRaWUZNeGFyVVFyOUd3NTBrX3ltNHpDeUtDOFQtUVY1VVplckZMU1hxNHcxVkw0UHQ0REJZS1MwSGVFMzl0UXFIeV9XaUdsTklpN2NQdnExQlpBOElKRDhyMzhfVU1RODZOaWFCVG5aOGp3aGR4QTE2YUJSR1EwRXliOGV6cXREdDNvdExlaHp3WmE0YzFoV0tIOW9wcGh4OGlYdw?oc=5",
+      "published": "Wed, 04 Nov 2026 13:33:25 GMT",
+      "source": "Ondas inc."
     },
     {
       "title": "MBDA and Terma develop containerised air defence system with counter-drone capability - Unmanned airspace",
@@ -74,15 +68,21 @@
       "source": "DefenseScoop"
     },
     {
+      "title": "Shield AI to Acquire Radar Maker Echodyne for $5.3 Billion - Israel Defense",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE14aWxxS2lIZk1KNkptRVJNMjlBdWdyNmM5b25OczFJbW5qTjJCaUp1ZC0weWZVMnFTY0hyaEpLVk5Ed2dxa21MdThIRHpHTXJKTC0tNUdIcHU?oc=5",
+      "published": "Sun, 08 Nov 2026 10:12:00 GMT",
+      "source": "Israel Defense"
+    },
+    {
       "title": "NATO pushes faster counter-drone defenses and AI-enabled targeting as threats evolve - The Jerusalem Post",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1UMkhkbm1ucG9YMmpyNi1KMU9hUHBkcGg0T3JrU2hYUG1jT2FibkExWmJYaktCbGx3MU12c2hkMFpYTUxGa0FTREhZdnZPMmx0NHNueHc2b1N4VXdOZ2JIT3FBdw?oc=5",
       "published": "Mon, 02 Nov 2026 07:38:27 GMT",
       "source": "The Jerusalem Post"
     },
     {
-      "title": "Ondas secures counter-UAS contracts in Europe and Asia - Defensehere",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE93V0oyOHRHdExScmZBWE9Zc3RVQ1Z0WGNZYXZzdlYtUTM4MWFBa05QY1hjRTVvb0g1U0FaZENNc3pQRFI0YS1VallhcXZQX2I0dzdLb05JWkliNTFYSVRqZ1FJeFBBNENONnZKWVdBUkx3Y0NJMGc?oc=5",
-      "published": "Wed, 04 Nov 2026 16:28:30 GMT",
+      "title": "NATO establishes new marketplace for counter-UAS technologies - Defensehere",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQTNsb3ZBSlBtSjBzVnZFd0ltWVhWdDBZLTRVaGQ2RDNRTk8xWTMwWlhrMzdySWVnUjIxbEdXQ2phVWppMTN5UGVYR0dwbmtwWGlremMwQzl0VnJORGZWWXI0X0trdDZKd3Q0WGdfbmwyZHpxT3k3Q29GTFIzZ1V0R2g3Y0ZNVzB1bmZXa09RXy02UFk?oc=5",
+      "published": "Fri, 06 Nov 2026 07:14:54 GMT",
       "source": "Defensehere"
     },
     {
@@ -104,9 +104,9 @@
       "source": "Virginia Tech News"
     },
     {
-      "title": "NATO establishes new marketplace for counter-UAS technologies - Defensehere",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQTNsb3ZBSlBtSjBzVnZFd0ltWVhWdDBZLTRVaGQ2RDNRTk8xWTMwWlhrMzdySWVnUjIxbEdXQ2phVWppMTN5UGVYR0dwbmtwWGlremMwQzl0VnJORGZWWXI0X0trdDZKd3Q0WGdfbmwyZHpxT3k3Q29GTFIzZ1V0R2g3Y0ZNVzB1bmZXa09RXy02UFk?oc=5",
-      "published": "Fri, 06 Nov 2026 07:14:54 GMT",
+      "title": "Ondas secures counter-UAS contracts in Europe and Asia - Defensehere",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE93V0oyOHRHdExScmZBWE9Zc3RVQ1Z0WGNZYXZzdlYtUTM4MWFBa05QY1hjRTVvb0g1U0FaZENNc3pQRFI0YS1VallhcXZQX2I0dzdLb05JWkliNTFYSVRqZ1FJeFBBNENONnZKWVdBUkx3Y0NJMGc?oc=5",
+      "published": "Wed, 04 Nov 2026 16:28:30 GMT",
       "source": "Defensehere"
     },
     {
