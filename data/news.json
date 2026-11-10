@@ -1,17 +1,17 @@
 {
-  "last_updated": "2026-11-10T18:09:08.049808",
+  "last_updated": "2026-11-10T23:20:19.706981",
   "articles": [
-    {
-      "title": "Midterm results won\u2019t impact counter-drone efforts, DHS secretary predicts - FedScoop",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBoY1Y1TDJUYWFkVDdEMFJZdEZNWFRJUjdwUkRPOWMzanZXUFVVSG9ZZkNKYW9TdnNSaVJDRVZNZEkzWl93OHJiOWY2WEJPeGJMSlNoY0NRN1QxbjNEMGwzTnBUZlZPckRYemFjdjcwX3RWUkwySXViMUpKRmw?oc=5",
-      "published": "Mon, 09 Nov 2026 22:09:50 GMT",
-      "source": "FedScoop"
-    },
     {
       "title": "Agencies agree to counter unauthorized drones without compromising civilian safety, under new MOU - DefenseScoop",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNYThybm40WERSZHFPLWFkZE82NGh0eVNFQ05lSFFEdFVWNHl3RnE5MlNUUXhndmYzdHdDanlQQWsyQXVzU2dibnJLdGZNR2djX0lXaW53YjBhcjhTelJPTS1lTjRHWkcwMkUzUnpLancxNnZsbWZmNTJWU1JGQ2FhNlpzR2xRRnU4V1hsemJfVW9mYWJWd3VCMlpvSFg2VFc3WE9nU0Z3NEU5TlJxTVhDZmxwb2oyRUdyRDdBcThBNkVXNmdROVpqRTduTHBSUQ?oc=5",
       "published": "Mon, 09 Nov 2026 21:20:05 GMT",
       "source": "DefenseScoop"
+    },
+    {
+      "title": "Midterm results won\u2019t impact counter-drone efforts, DHS secretary predicts - FedScoop",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBoY1Y1TDJUYWFkVDdEMFJZdEZNWFRJUjdwUkRPOWMzanZXUFVVSG9ZZkNKYW9TdnNSaVJDRVZNZEkzWl93OHJiOWY2WEJPeGJMSlNoY0NRN1QxbjNEMGwzTnBUZlZPckRYemFjdjcwX3RWUkwySXViMUpKRmw?oc=5",
+      "published": "Mon, 09 Nov 2026 22:09:50 GMT",
+      "source": "FedScoop"
     },
     {
       "title": "AI-Powered Counter-UAS: Scaling Affordable Drone Defense Technology and Manufacturing - Mobility Engineering Technology",
@@ -26,16 +26,16 @@
       "source": "Unmanned Systems Technology"
     },
     {
-      "title": "Shield AI acquires radar firm Echodyne in $5.3B deal - Breaking Defense",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNc0oyckdaOGFhZU5nc0lhQTJwaTgweC1PaWhYaTBfUkU1WmZXaEVqNUthRTZiVkFPR0FKLUx6ay03ZU1GSUVrRXRhQWtLbVJDREJla2t5YndjajJBdWNYbWN2M05lNkdNeGdfa0tBUVpfTTAxak9UMjNXLUZIbURUN3VlR09CS21UejlPTTAzT1JaUQ?oc=5",
-      "published": "Thu, 05 Nov 2026 16:32:36 GMT",
-      "source": "Breaking Defense"
-    },
-    {
       "title": "A new sting in drone defense: Bumblebee V2 arrives at MacDill - MacDill Air Force Base (.mil)",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVVFNai1kaDBEeGlnWWNVR2d4V2FITzJVdnlEdEMzeDlqVlk1aTNIY0kzYW50ZXlWZk1ZR0Utak1Ody1mM3k3b3R3V21LMXI5NjZEY2Z3a251WnBxVmhicXlNTHFZS3Vwd3hNdEY3dHNSZE9YVjZjZlkwVUtSU2hpNWF0Q21XQTBfTGJXNEJoZllQN1FJSnZ0b1hYV2Nfa1FHUlg0WXR1YWJfSjVJQXc?oc=5",
       "published": "Fri, 23 Oct 2026 07:00:00 GMT",
       "source": "MacDill Air Force Base (.mil)"
+    },
+    {
+      "title": "Shield AI acquires radar firm Echodyne in $5.3B deal - Breaking Defense",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNc0oyckdaOGFhZU5nc0lhQTJwaTgweC1PaWhYaTBfUkU1WmZXaEVqNUthRTZiVkFPR0FKLUx6ay03ZU1GSUVrRXRhQWtLbVJDREJla2t5YndjajJBdWNYbWN2M05lNkdNeGdfa0tBUVpfTTAxak9UMjNXLUZIbURUN3VlR09CS21UejlPTTAzT1JaUQ?oc=5",
+      "published": "Thu, 05 Nov 2026 16:32:36 GMT",
+      "source": "Breaking Defense"
     },
     {
       "title": "Ondas Secures Multi-Million-Dollar Counter-UAS Contracts in Europe and Asia, Accelerating Global Expansion in Aerial Defense - Ondas inc.",
