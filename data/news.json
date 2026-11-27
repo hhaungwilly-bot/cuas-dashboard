@@ -1,17 +1,11 @@
 {
-  "last_updated": "2026-11-27T09:45:20.648279",
+  "last_updated": "2026-11-27T19:12:03.537827",
   "articles": [
     {
-      "title": "This counter-UAS system senses deep inside neighboring borders to detect and defeat drones - Breaking Defense",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNXlkOFJkM0hVai1rMDdqcVlTUEhCMlBkOVpiMG1PaGloUFhtTUFCaGZySTlWU0hFYkdQcDZVN09DTkxQWWlDbmJRX0toRjJpSEdwMTJmX0JHVC03REhXbks3Y2J6and0UHhrMkFWTnUwU25qSWd5WGlBaDhHZl9BQWQ4aDk1dTJaNmRfRC1mVmVXODFiM2FkNEd0U0xseDZTSHhTQ0pzUlVEVkZ2b3M1LWVMMzNjdjBQVC1VVkRmSkVPN2dfLVE?oc=5",
-      "published": "Fri, 20 Nov 2026 20:54:24 GMT",
+      "title": "Colombia races for counter-drone tech as militant groups embrace drones as frontline weapons - Breaking Defense",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTHdPSXhsUjZWQ1NreU92VjY3cGpldXFNYUxQTU83Wkk1Sk5oVHJhdFdDSkl6WWFkVmFreC03MWFFcW5jTkswMzh6MkdsbHBLRU1lUV9LeDN2b2VtaUtEZl9rN2JHNS1hRUZONmxLZTFaRE1aMGp1LW5CaUlCdzNGVE1hMzdKVVYwanFkSzJzSHllNmZqaVdvZDZWdzRoMGlfR0ZZWUhjNjJqQnp4RUdlc2hsS2RGZG13OEtJN0hrVFRpUTloc2N3ag?oc=5",
+      "published": "Mon, 23 Nov 2026 19:52:31 GMT",
       "source": "Breaking Defense"
-    },
-    {
-      "title": "UK Defence Innovation Launches Project PANOPTES Competition for Autonomous Counter-UAS Force Protection - CASRAI",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZDA0bW5HT0JuMjhXd0Q0azdaeG95N3FUMGVSc2ZVRDN3Rk5jNnFRRFlWRnhvTWY1Y3JsaUJGeHMxVnVlOGpLc19OT1c5XzFoNU9YY0pBNzRiTTlYak1yRmo4NFVCWmVlRnRJTlZfN1IyOE9NbTRZUTJ3VEc5cmM4SUgtZE1oZ3V6QWRyRTdfcmhZM3g3dXRPaVFKZnlud0R1a3h2dDZNdTlNUQ?oc=5",
-      "published": "Thu, 26 Nov 2026 17:02:49 GMT",
-      "source": "CASRAI"
     },
     {
       "title": "Judge Blocks Trump's Arch, Calls Its Drone Defense Claim Not Credible - DroneXL",
@@ -20,28 +14,28 @@
       "source": "DroneXL"
     },
     {
-      "title": "DroneShield Achieves Initial Operational Capability for Layered Counter-UAS Solution Supporting JIATF-401 - sUAS News",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNYzVuVTg1SmlJRXVOZkJuYnUxekxWMktULUdCZXBwUTFFbHYzZ0dJbWRCMGVheWN4N0pDelhEdHB3ZmhTRjVXTUp2cFBJX3VGYWJSRGl2QjN0YTFiZ2NDQldGWDcyWjdUeVJuN2R3czBuSmZVOXRxcXFYdmI4cmR0Z2lnTFpteDZwVEJ1bzJJd21TWERicHN6WEZfd0s1SWRuTTlBdFdURHVMejVJRE4tWXM3Qmc3VHNYdDAtblZGdE1nbnhQRkJwMmU5NEpNM3dTUWdnRWx3?oc=5",
-      "published": "Tue, 24 Nov 2026 09:19:03 GMT",
-      "source": "sUAS News"
+      "title": "UK Defence Innovation Launches Project PANOPTES Competition for Autonomous Counter-UAS Force Protection - CASRAI",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZDA0bW5HT0JuMjhXd0Q0azdaeG95N3FUMGVSc2ZVRDN3Rk5jNnFRRFlWRnhvTWY1Y3JsaUJGeHMxVnVlOGpLc19OT1c5XzFoNU9YY0pBNzRiTTlYak1yRmo4NFVCWmVlRnRJTlZfN1IyOE9NbTRZUTJ3VEc5cmM4SUgtZE1oZ3V6QWRyRTdfcmhZM3g3dXRPaVFKZnlud0R1a3h2dDZNdTlNUQ?oc=5",
+      "published": "Thu, 26 Nov 2026 17:02:49 GMT",
+      "source": "CASRAI"
     },
     {
-      "title": "Arrive AI and Electric Jet Aircraft Demonstrate Drone Readiness and Counter-UAS Potential at Camp Atterbury - The Courier-Journal",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQUFI1NU5IN3pDQUlOcWRtMEZBRmZLeV8yUTRabjNMTGU5XzFSWkRSUWNKZHo1NVpWbnV3VXlueVhqLTZNTVZaUlVLQ19DV20yZFlfdjlFMzJuRktMNW56azlYS2NpeWVfcS1xUi12Y2RNY29GZVR3emVTQjducVh4MFBEZUVLeE85eDZ2UWdLd0MxUExpbkY4NE5nZW5GTmRlaHg0djJlNW1lbEdvYkthTHhicVhUblZ3a0JDVU1qaWlxREV4VWNhc1Z2TWVMcmRQRWoyZnozZm0xb241WkRZdDdmQ3pDWllwSDFqRFBELXh5Z0VvLTBfRjNENA?oc=5",
-      "published": "Tue, 24 Nov 2026 15:08:22 GMT",
-      "source": "The Courier-Journal"
-    },
-    {
-      "title": "DroneShield reaches initial operational capability with fixed-site counter-drone system for Pentagon task force - Defence Industry Europe",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPOURKTV9VTHlISTF2Y1pMaGhXWk0wLXJUZTNPVFZkVVlEVndJZHNJRDctbDcwZ0toaV81d09sM0V2a2ozSlVIbnBsTkNRM0xOWVAxa3Y2aGlOZk8xU2YtN0s0QWhTZU54aDhsX09TeW8wV2V3Y0JieFFfTW1xLUp5YXFQTkp1Q2Q2NE1oaV84V2MtWUUweWNYbldHcDFsemlMYkcwNDhsQU9kS2pHUmktZTF6ckhtWlhZQlQxVS1wNU5SRzRxOGZWM1FjMHNJZVJCMzdENnhkaw?oc=5",
-      "published": "Tue, 24 Nov 2026 11:17:45 GMT",
-      "source": "Defence Industry Europe"
+      "title": "Defense Companies Are Racing to Build Autonomous Drone Businesses (CHGA, ONDS, DPRO, PDYN) - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNT0Z6UVBBWm1nZmhqWHhDdXhRUER1elg1enQ4VEpNVFZLcTFidjhadmpLTDVrWUk5SlFNMGlYcF9wVXE1THdfODd3ZmlqNXhUSkJGOFFzNFpyZ2VHbWNqRU9maHZKbFJ6RF9MTFpHNnd0dGFQeDVkWTJZWHlPdEY0SmphNGFxS2dNVjBFdUxXWVc2LXRlMThoWXZhdDFrRm5fQ2pGdTBNcFFueDFVNzNLbENidEhhUzctTWxzcmF2M2dDYUlPZHNENlZEemlSUEc2Vi03ekJfdnNrTlZTdExuaw?oc=5",
+      "published": "Tue, 24 Nov 2026 12:00:11 GMT",
+      "source": "TradingView"
     },
     {
       "title": "Northrop Grumman Proves Short-Range Counter-UAS Dominance with Bushmaster\u00ae Chain Guns\u00ae and M-ACE System - Northrop Grumman",
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPTXYyUzhZMW5TTVkzeklhQ25OWTRkVUVyTWZTRWNYc01CZkRHWjdIajJYUmpBa2gzMkRmRzE5NTExaG5FU0t4S0lWaFBMVlNBVjdUVklxc1hucF84MERIajRMeU1aSU91aUc0bWVQMGVjdzVUdENJZmhzZW50RVdXTGJzRlZwSV9pdWVCV0xvQk0xaV9yaEhVX2xlSnRqQnlacWZDUHJWUk9PcnFMODktNFNGWF9CQkh5c3g5WEVLTXg5MFFScmpHUWRLYXV0U2tYMi1tUmlsVHVoUEhoNmc?oc=5",
       "published": "Tue, 17 Nov 2026 08:00:00 GMT",
       "source": "Northrop Grumman"
+    },
+    {
+      "title": "This counter-UAS system senses deep inside neighboring borders to detect and defeat drones - Breaking Defense",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNXlkOFJkM0hVai1rMDdqcVlTUEhCMlBkOVpiMG1PaGloUFhtTUFCaGZySTlWU0hFYkdQcDZVN09DTkxQWWlDbmJRX0toRjJpSEdwMTJmX0JHVC03REhXbks3Y2J6and0UHhrMkFWTnUwU25qSWd5WGlBaDhHZl9BQWQ4aDk1dTJaNmRfRC1mVmVXODFiM2FkNEd0U0xseDZTSHhTQ0pzUlVEVkZ2b3M1LWVMMzNjdjBQVC1VVkRmSkVPN2dfLVE?oc=5",
+      "published": "Fri, 20 Nov 2026 20:54:24 GMT",
+      "source": "Breaking Defense"
     },
     {
       "title": "DOW Hosts 2nd Interagency Summit to Strengthen Counter-Drone Defense - U.S. Department of War (.gov)",
@@ -54,6 +48,12 @@
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMG5mREZZV09kRWhwcXktaHVUVlVZbFNmTVd3eDFCQzhSTThTWDZQRFM0U3MtaHJ2Y01zZXlFMm1jb01kMUZLbFhpYWJzbFptTi0xNmFSV014VHJNdVdyeEhCNVg0ZnNmT1JicXA5OEFWeGJ6VXNHZ2NreF9ZTDdqdFdpalNFR3d1c0FrNzlseVQtd0U?oc=5",
       "published": "Fri, 28 Aug 2026 07:00:00 GMT",
       "source": "Virginia Tech News"
+    },
+    {
+      "title": "DroneShield achieves IOC for C-UAS solution - Australian Defence Magazine",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNXFFRnhmRVpuVHU3S216d01HVExEV05UNTFXODVwbDRzQl9pSTc0RnJMdzZMV01oNHZ3TTRPbWZuNmtoOUhJcEVPcG04SkxNYVE5cUJNUDhzOWgwcl9ZczhjSnRQRHgtbzZBRTJuYUtKa1V2SUpKY3o0cjlvaFU0U2lsZTR6eGR6cnpGZEhqb1NJQ0VI?oc=5",
+      "published": "Mon, 23 Nov 2026 23:29:26 GMT",
+      "source": "Australian Defence Magazine"
     },
     {
       "title": "DHS begins $1.5B spending spree on drone defense - FedScoop",
@@ -74,10 +74,10 @@
       "source": "MacDill Air Force Base (.mil)"
     },
     {
-      "title": "Beretta's New Counter-Drone System Packs Eight Benelli M4 Shotguns Onto A Remote Turret - TWZ",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdzI4NGhzMnBxTjliY21XMWdDa29TWHN4R2Q2MUVydEM0RENHNTFjSVQyMU1DLURwb1RjMkg2V1JKLVJ5M0dXSWhBT1FTZmVrSmxsZkk4RFp0VkVTcjZCOGFfeFBzSWtXTG9iVmxtcWZWQndKYWxha1cwWGFjekNDN2VpWGxRdlFVaFlKNlhyeFczd0pTX0tMWVBJN3gwUy1lYnI0SzR1R2syc2dyYjZpcA?oc=5",
-      "published": "Fri, 13 Nov 2026 08:00:00 GMT",
-      "source": "TWZ"
+      "title": "Arrive AI and Electric Jet Aircraft Demonstrate Drone Readiness and Counter-UAS Potential at Camp Atterbury - ACCESS Newswire",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQYURwRm56a19LNVJEUFNjOEhwX09CQlFFOE1qWW9pUW9NaWdEWmhzMVV1dEg3ZTZHMldkUGF5LXdPcngwVlQ5aGNxUm9OcW41SzdkSC03TlBCd3JRWUZFcHRDS19xUmdQTnNtUnFRRnBJTWgyaDVieUc2eDNUSm1PWEpKYkN4RGhudm9zMF8xRjRoQ0VDRDBaam1fWWlxSllTck9KQ29rMUVwTFVNNFdDRjNsakV0YU42aVN5eXcwaTAzR0lRamRNNVQ0cHBIOTdma2lpLXBKWldLTDJ1OU1vMUR5Z3k?oc=5",
+      "published": "Tue, 24 Nov 2026 14:00:00 GMT",
+      "source": "ACCESS Newswire"
     },
     {
       "title": "Joint Interagency Task Force 401 Publishes Counter-UAS Reference Guide - U.S. Department of War (.gov)",
@@ -92,16 +92,16 @@
       "source": "Small Wars Journal"
     },
     {
-      "title": "Pentagon approves long-range, autonomous counter-UAS system for use across the military after border testing - DefenseScoop",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQ2ZSVldfYnY3OWlpREdGRVVTaFNfNUFxX3h6TzJnREhOUzVfLU93bFllLXdnMGZkNFVaUWdHVUo4c1dyMkpXbEh4UzJBOFFSclhJdTlxMl9wOUVZTVFEUlFxQzNNZXU2c21QcW9FY1V4NGlHVkhQVzJjUF80dHh4ODZvc3ZCNlBiQ3NrQmd1Y2NEVDFtSFdXMDFKM3hDem9XM0tpb01xVmpSUHc?oc=5",
-      "published": "Tue, 09 Jun 2026 07:00:00 GMT",
-      "source": "DefenseScoop"
-    },
-    {
       "title": "Media Advisory: Virginia Tech opens new Counter-UAS Testing and Research Center to develop drone defense capability for the U.S. Army and civilian infrastructure - Virginia Tech News",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaUFXRDdGdElYeTFsUFF6U1llODIxOUExWUFab3VuN0pDTjctUXJTNEVoN0ZRVzhfNDM4ZEtYQmJNaUlkTElFQVZHQUxmR3NxcUhQMVpETHlma29sZEdPdDQzYVRhMUtfbl9DcnNaY1B3aVJXYXIwNHg2R3Y1THNTWGJVcExpY2prUzExWEFNclBfbEVId1ZnNHVCR01MSkdGTjhSZFRFcGxZTGZqS1E?oc=5",
       "published": "Wed, 19 Aug 2026 07:00:00 GMT",
       "source": "Virginia Tech News"
+    },
+    {
+      "title": "EU Drone Wall Due in December as Leak Puts Most Defenses Past 2030 - DroneXL",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNU0trMkVRazE2d2xqSlJmUEdvX01aX3JHRGZyN3FPVkpic3FTcWZPOFVnMWswSFhvakJQYkRteGRLZEplT1Bob2o3M0VIVUZrUE1fYU5jRVNWQUp5MTN3c18yaTd6Zy1zUWdmd2JPMXpFYTFvb2JWbnJfemRYYXBsVmhzQ3JFbkJ1V0t3eDY0NDRnZXB4UWc?oc=5",
+      "published": "Wed, 25 Nov 2026 15:03:00 GMT",
+      "source": "DroneXL"
     },
     {
       "title": "Systems Selected for JIATF 401 Directed-Energy Counter-Drone Pilot Program - U.S. Department of War (.gov)",
@@ -116,10 +116,10 @@
       "source": "U.S. Department of War (.gov)"
     },
     {
-      "title": "Coast Guard is providing key counter-drone defense for World Cup - Military Times",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQeFBIdzBHbmdnSmMzNmNNaE44WWdka003S1JXcnpEcmJqbHFBa3ZUUE9pYk1FQjA0alkwVEQwZ3FEU040MDFrRXctejRUb0RYR3M4M3RDMEZEWXNuZFVwbWtBTVhrb1l3RmRNakhGemlXS1VpSmpIZ18zbnNLVk9ud2FaNGxGTm5lejVjUHd1Qk1mLWhHaVdzUGVJQTNZMjhhTlpaSUtwcGhjZU42OFBVTmI5U3EwakhqTXpRQUs0R0pRcHc?oc=5",
-      "published": "Mon, 15 Jun 2026 07:00:00 GMT",
-      "source": "Military Times"
+      "title": "Pentagon approves long-range, autonomous counter-UAS system for use across the military after border testing - DefenseScoop",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQ2ZSVldfYnY3OWlpREdGRVVTaFNfNUFxX3h6TzJnREhOUzVfLU93bFllLXdnMGZkNFVaUWdHVUo4c1dyMkpXbEh4UzJBOFFSclhJdTlxMl9wOUVZTVFEUlFxQzNNZXU2c21QcW9FY1V4NGlHVkhQVzJjUF80dHh4ODZvc3ZCNlBiQ3NrQmd1Y2NEVDFtSFdXMDFKM3hDem9XM0tpb01xVmpSUHc?oc=5",
+      "published": "Tue, 09 Jun 2026 07:00:00 GMT",
+      "source": "DefenseScoop"
     }
   ]
 }
