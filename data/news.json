@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-28T10:12:38.596537",
+  "last_updated": "2026-11-28T18:16:14.103776",
   "articles": [
     {
       "title": "Colombia races for counter-drone tech as militant groups embrace drones as frontline weapons - Breaking Defense",
@@ -20,16 +20,16 @@
       "source": "DroneXL"
     },
     {
-      "title": "UK Defence Innovation Launches Project PANOPTES Competition for Autonomous Counter-UAS Force Protection - CASRAI",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZDA0bW5HT0JuMjhXd0Q0azdaeG95N3FUMGVSc2ZVRDN3Rk5jNnFRRFlWRnhvTWY1Y3JsaUJGeHMxVnVlOGpLc19OT1c5XzFoNU9YY0pBNzRiTTlYak1yRmo4NFVCWmVlRnRJTlZfN1IyOE9NbTRZUTJ3VEc5cmM4SUgtZE1oZ3V6QWRyRTdfcmhZM3g3dXRPaVFKZnlud0R1a3h2dDZNdTlNUQ?oc=5",
-      "published": "Thu, 26 Nov 2026 17:02:49 GMT",
-      "source": "CASRAI"
-    },
-    {
       "title": "Drone, meet bullet \u2014 companies develop new counter UAS capability | Business of Defense - Part 3 - Defense News",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNd3NBZDFCVjFGVUoyc2NDdWpuUHRYTGdLVGJXOXlGbDNmU0NzbHc0b2htYjlKV1lJZGhGc1U4SWtFWHI0RHdFWDZRRW9SZGVmSkpkdlFlR0tpOXd2OHlYanM0LUcxMmFhb1Vxc2l6U1Y0Vl9pMmFXOWpzN2JnWG5TOXRLc0xEaEo4ZkNkbC0yU1Q2dzJ4b3lFVDR5a2hFdkhpbEtlNnMxOFlRNmx1UklKcnNWVmpTT2I4cjBrNWRQSDU3R2pGQzJlVmliU2hiUHZn?oc=5",
       "published": "Mon, 16 Nov 2026 08:00:00 GMT",
       "source": "Defense News"
+    },
+    {
+      "title": "UK Defence Innovation Launches Project PANOPTES Competition for Autonomous Counter-UAS Force Protection - CASRAI",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZDA0bW5HT0JuMjhXd0Q0azdaeG95N3FUMGVSc2ZVRDN3Rk5jNnFRRFlWRnhvTWY1Y3JsaUJGeHMxVnVlOGpLc19OT1c5XzFoNU9YY0pBNzRiTTlYak1yRmo4NFVCWmVlRnRJTlZfN1IyOE9NbTRZUTJ3VEc5cmM4SUgtZE1oZ3V6QWRyRTdfcmhZM3g3dXRPaVFKZnlud0R1a3h2dDZNdTlNUQ?oc=5",
+      "published": "Thu, 26 Nov 2026 17:02:49 GMT",
+      "source": "CASRAI"
     },
     {
       "title": "Agencies agree to counter unauthorized drones without compromising civilian safety, under new MOU - DefenseScoop",
@@ -50,21 +50,21 @@
       "source": "Dronelife"
     },
     {
-      "title": "DroneShield Achieves Initial Operational Capability for Layered Counter-UAS Solution Supporting JIATF-401 - European Security & Defence",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5zdmVlQ2hHUjdkQ2JjWEpLS3JpeHJnUW1YNm9vUWVTZHNWVGhkRUhTVVBMblNFQVFPRTZqYWVqb092MTR3LVh4eWl5M0RRQzRqVlRmbWsyYTYxMUNSYjJ2QUZKSkJfdWFIUUJmLTkyQW41VWNMMlRIdkhnajVsejQ?oc=5",
-      "published": "Tue, 24 Nov 2026 07:32:54 GMT",
-      "source": "European Security & Defence"
-    },
-    {
       "title": "US vows to speed up deployment of counter-drone systems to address threats - Reuters",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOYlhuQjFFMzFiTkdfNTFPVmhTYzR0dnUxNVdadHhVVWRITjlPaEFnWm92QXBoR0tIVW1rQXNQODllLTNQUkVHMUVmSFI4emRCTVc3NVVONkRNci03UUlXa1VUcV9vSkx3dWxYUjdJNlEwcEVvZmRiUlZrWTRaN243dGcwZW96SkhCeVhVblNzd0NqODROVncyeEo3aGVRX3FqZ09iMEozSFVLQ2NITTh4N0d5U0RvNExIT3J0Z0FaLUZPanNfXzJB?oc=5",
       "published": "Mon, 09 Nov 2026 08:00:00 GMT",
       "source": "Reuters"
     },
     {
+      "title": "DroneShield Achieves Initial Operational Capability for Layered Counter-UAS Solution Supporting JIATF-401 - European Security & Defence",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5zdmVlQ2hHUjdkQ2JjWEpLS3JpeHJnUW1YNm9vUWVTZHNWVGhkRUhTVVBMblNFQVFPRTZqYWVqb092MTR3LVh4eWl5M0RRQzRqVlRmbWsyYTYxMUNSYjJ2QUZKSkJfdWFIUUJmLTkyQW41VWNMMlRIdkhnajVsejQ?oc=5",
+      "published": "Tue, 24 Nov 2026 07:32:54 GMT",
+      "source": "European Security & Defence"
+    },
+    {
       "title": "NATO\u2019s $40 Billion Counter-Drone Imperative - Defense Security Monitor",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOS3FDWGJnUXEzNGZ5emJLR0c1c2lUWnNGS0xLQkVTOWdMaFlzRnJ0dEVKUlZ2VDFqcDBqbDVwU1g5T3JVcHZBYXZBc0gtblV6NS1LRHJNUG1lR1cxMTc0Z19rNWQ1akZuTHNNeW1SdFV3cnlJcHRQX3ViT2N3dmdpZFJ0RUhrTHNveEtuQU5hMDN0aHdNeXc?oc=5",
-      "published": "Tue, 17 Nov 2026 14:00:23 GMT",
+      "published": "Tue, 17 Nov 2026 08:00:00 GMT",
       "source": "Defense Security Monitor"
     },
     {
@@ -80,16 +80,16 @@
       "source": "U.S. Department of War (.gov)"
     },
     {
-      "title": "Defense Companies Are Racing to Build Autonomous Drone Businesses (CHGA, ONDS, DPRO, PDYN) - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNT0Z6UVBBWm1nZmhqWHhDdXhRUER1elg1enQ4VEpNVFZLcTFidjhadmpLTDVrWUk5SlFNMGlYcF9wVXE1THdfODd3ZmlqNXhUSkJGOFFzNFpyZ2VHbWNqRU9maHZKbFJ6RF9MTFpHNnd0dGFQeDVkWTJZWHlPdEY0SmphNGFxS2dNVjBFdUxXWVc2LXRlMThoWXZhdDFrRm5fQ2pGdTBNcFFueDFVNzNLbENidEhhUzctTWxzcmF2M2dDYUlPZHNENlZEemlSUEc2Vi03ekJfdnNrTlZTdExuaw?oc=5",
-      "published": "Tue, 24 Nov 2026 12:00:11 GMT",
-      "source": "TradingView"
-    },
-    {
       "title": "Drone, meet bullet \u2014 companies develop new counter UAS capability | Business of Defense \u2013 Part 3 - Military Times",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOb2ZqeGhWRmJheUl1REZlX2ZoMDlUZ0tqRXl5OHp0d0dXSFpONXNFYW10OW94RmJDbkFOWjVKWG5hZVI1YWVjN2xLTHpfTUZYMEtRUzh1Tl9hLVh3Ql9hOFMtNzBKN25mUzFuZm41UVpIb0kwNzVjLURXSWltNXFSR3FqQzFMbzlETmpRdUwwcDR0aDQ3dDkzaVJUcGZlVF9sZmhkaEV6YTlYR2VzUU5TMWdNaDlFUS1FS2s0eldXcWxVUklhQWN4bDZpZFpXclJhMEJz?oc=5",
       "published": "Mon, 16 Nov 2026 08:00:00 GMT",
       "source": "Military Times"
+    },
+    {
+      "title": "Defense Companies Are Racing to Build Autonomous Drone Businesses (CHGA, ONDS, DPRO, PDYN) - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNT0Z6UVBBWm1nZmhqWHhDdXhRUER1elg1enQ4VEpNVFZLcTFidjhadmpLTDVrWUk5SlFNMGlYcF9wVXE1THdfODd3ZmlqNXhUSkJGOFFzNFpyZ2VHbWNqRU9maHZKbFJ6RF9MTFpHNnd0dGFQeDVkWTJZWHlPdEY0SmphNGFxS2dNVjBFdUxXWVc2LXRlMThoWXZhdDFrRm5fQ2pGdTBNcFFueDFVNzNLbENidEhhUzctTWxzcmF2M2dDYUlPZHNENlZEemlSUEc2Vi03ekJfdnNrTlZTdExuaw?oc=5",
+      "published": "Tue, 24 Nov 2026 12:00:11 GMT",
+      "source": "TradingView"
     },
     {
       "title": "Hegseth issues \u2018corrected copy\u2019 of recently unveiled counter-drone guidance - DefenseScoop",
